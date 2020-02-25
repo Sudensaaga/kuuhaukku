@@ -14,6 +14,6 @@ slide-3-title: Arktiset rekikoirat
 slide-3-caption: On tärkeää säilyttää oikeat arktisen rekikoiran käyttöominaisuudet ja ulkomuoto. Säännöllinen harjoittelu testaa käyttöominaisuuksia jalostuksessa.
 
 slide-4-img: img3.jpg
-slide-4-title: Luonne ja terveys ystävällinen ja lempeä
+slide-4-title: Luonne ja terveys <small>ystävällinen ja lempeä</small>
 slide-4-caption: Kasvatit ovat tunnettuja hyvästä luonteestaan. Oikeaan luonteeseen ja terveyteen kiinnitetään paljon huomiota. Jalostuskoiramme on mm. silmätarkastettu 90-luvulta lähtien.
 ---
