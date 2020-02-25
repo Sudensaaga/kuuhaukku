@@ -1,0 +1,51 @@
+<nav class="navbar navbar-expand-md navbar-dark bg-transparent">
+    <a class="navbar-brand my-auto" href="/">
+
+    </a>
+    <a href="index.html" class="site-logo">
+        <img src="{{ site.url }}/images/logo.png" alt="{{site.title}}">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav abs-center-x">
+            <li class="nav-item">
+                <a class="nav-link" href="{{ site.nav[lang].esittely.url | absolute_url }}" tabindex="-1">{{ site.nav[lang].esittely.name }}</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{{ site.nav[lang].rotuinfo.url | absolute_url }}" tabindex="-1" >{{ site.nav[lang].rotuinfo.name }}</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{{ site.nav[lang].kuvat.url | absolute_url }}" tabindex="-1">{{ site.nav[lang].kuvat.name }}</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{{ site.nav[lang].muuta.url | absolute_url }}" tabindex="-1" >{{ site.nav[lang].muuta.name }}</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+                   aria-haspopup="true" aria-expanded="false">
+                    Language
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+                    {% for post in posts %}
+                    {% if post.lang != blank and post.lang != lang %}
+                    <a class="dropdown-item" href="{{ post.url | relative_url}}">{{ site.nav[post.lang].language | post.lang | "English" }}</a>
+                    {% endif %}
+                    {% endfor %}
+
+                    {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+                    {% for page in pages %}
+                    {% if page.lang != blank and post.lang != lang %}
+                    <a class="dropdown-item" href="{{ page.url | relative_url}}">{{ site.nav[page.lang].language | page.lang | "English" }}</a>
+                    {% endif %}
+                    {% endfor %}
+                </div>
+
+            </li>
+        </ul>
+    </div>
+</nav>

@@ -1,0 +1,33 @@
+// This is the place to place Bootstrap-related CSS customizations.
+// As example you can start by importing the _bootswatch.scss file from one of the
+// theme provided by https://bootswatch.com .
+//@import url('https://fonts.googleapis.com/css?family=Muli:300,400,600,700');
+// These are serif text fonts
+//@import url('https://fonts.googleapis.com/css?family=PT+Serif:400,700');
+//@import url('https://fonts.googleapis.com/css?family=Noto+Serif:400,700');
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,700');
+
+body {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background: url($background-image) no-repeat center center fixed;
+  background-color: #191e24;
+  //font-family: 'PT Serif', serif;
+  //font-family: 'Noto Serif', serif;
+  font-family: 'Source Serif Pro', serif;
+  font-weight: 400;
+}
+
+.carousel {
+  background-color: white;
+}
+
+#slide-h2 {
+  color: #bf0f0a;
+  font-size: 50px;
+  text-transform: uppercase;
+  transition: .5s ease-in-out;
+}
+
