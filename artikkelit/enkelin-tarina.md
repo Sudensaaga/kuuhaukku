@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: artikkeli
 menu: muuta
 permalink: enkelin-tarina
 otsikko: Enkeli - legenda jo eläessään
 kolme-esiin-otsikko: Enkelin tarina
+kolme-esiin-teksti: "Jo aivan nuoresta koirasta lähtien se katsoi minua aina merkitsevästi tarhasta, ikään kuin sanoen, että meillä on tietty yhteys"
+kolme-esiin-kuva: page1_img2.jpg
 ---
 
 Enkeli syntyi kenneliini 12.7.1993. Se oli Hattaran ja Dakotan pentu, 

@@ -68,6 +68,7 @@ nav:
       kolme-esiin:
         1: "historia"
         2: "enkelin-tarina"
+        3: "tsukotkan-rekikoira"
     esittely:
       name: "Esittely"
       url: "esittely/"
@@ -80,6 +81,10 @@ nav:
     muuta:
       name: "Muuta"
       url: "muuta/"
+      kolme-esiin:
+        1: "historia"
+        2: "enkelin-tarina"
+        3: "tsukotkan-rekikoira"
 
 
 # Exclude from processing.

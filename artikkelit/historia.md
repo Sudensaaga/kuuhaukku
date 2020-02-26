@@ -1,8 +1,12 @@
 ---
-layout: default
-menu: esittely
+layout: artikkeli
+menu: muuta
 permalink: historia
--kolme-esiin-otsikko: Historia 40 v
+kolme-esiin-otsikko: Historia 40 v
+kolme-esiin-teksti: '40 vuotta Old Line ® siperianhuskyja, Kuuhaukun kennelin 
+    historiasta: "Elämäni siperianhuskyjen parissa alkoi vuonna 1978 kun hankin..."'
+kolme-esiin-kuva: oldlinehistoria.jpg
+
 otsikko: 40 vuotta Old Line® siperianhuskyja<br>
     Kuuhaukun® kennelin historiaa
 ---

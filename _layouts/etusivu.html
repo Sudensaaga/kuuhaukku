@@ -2,73 +2,77 @@
 layout: default
 ---
 {% assign lang=page.lang | default: site.lang | default: 'en' %}
+<div class="container">
+    <div id="carousel-example-generic" class="carousel slide mx-lg-5 py-3" data-ride="carousel">
+        <ol class="carousel-indicators">
+            <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+            <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner" role="listbox">
+            <div class="carousel-item active">
+                <div class="d-flex flex-row">
+                    <div class="my-auto px-3">
+                        <h2 class="text-center align-middle slide-h2">{{page.dia-1-otsikko}}</h2>
+                        <p class="text-center align-middle slide-p">
+                            {{page.dia-1-teksti}}
+                        </p>
 
-<div id="carousel-example-generic" class="carousel slide mx-lg-5 py-3" data-ride="carousel">
-    <ol class="carousel-indicators">
-        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-    </ol>
-    <div class="carousel-inner" role="listbox">
-        <div class="carousel-item active">
-            <div class="d-flex flex-row">
-                <div class="my-auto px-3">
-                    <h2 class="text-center align-middle slide-h2">{{page.dia-1-otsikko}}</h2>
-                    <p class="text-center align-middle slide-p">
-                        {{page.dia-1-teksti}}
-                    </p>
-
-                </div>
-                <div class="pr-3">
-                    <img class="float-right" src="{{ site.url }}/images/{{ page.dia-1-kuva }}" alt="">
+                    </div>
+                    <div class="pr-3">
+                        <img class="dia-img float-right"
+                             src="{{ site.url }}/images/{{ page.dia-1-kuva }}" alt="">
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="carousel-item">
-            <div class="d-flex flex-row">
-                <div class="my-auto px-3">
-                    <h2 class="text-center align-middle slide-h2">{{page.dia-2-otsikko}}</h2>
-                    <p class="text-center align-middle slide-p">
-                        {{page.dia-2-teksti}}
-                    </p>
+            <div class="carousel-item">
+                <div class="d-flex flex-row">
+                    <div class="my-auto px-3">
+                        <h2 class="text-center align-middle slide-h2">{{page.dia-2-otsikko}}</h2>
+                        <p class="text-center align-middle slide-p">
+                            {{page.dia-2-teksti}}
+                        </p>
 
-                </div>
-                <div class="pr-3">
-                    <img src="{{ site.url }}/images/{{ page.dia-2-kuva }}" alt="">
+                    </div>
+                    <div class="pr-3">
+                        <img src="{{ site.url }}/images/{{ page.dia-2-kuva }}" alt="">
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="carousel-item">
-            <div class="d-flex flex-row">
-                <div class="my-auto px-3">
-                    <h2 class="text-center align-middle slide-h2">{{page.dia-3-otsikko}}</h2>
-                    <p class="text-center align-middle slide-p">
-                        {{page.dia-3-teksti}}
-                    </p>
+            <div class="carousel-item">
+                <div class="d-flex flex-row">
+                    <div class="my-auto px-3">
+                        <h2 class="text-center align-middle slide-h2">{{page.dia-3-otsikko}}</h2>
+                        <p class="text-center align-middle slide-p">
+                            {{page.dia-3-teksti}}
+                        </p>
 
-                </div>
-                <div class="pr-3">
-                    <img src="{{ site.url }}/images/{{ page.dia-3-kuva }}" alt="">
+                    </div>
+                    <div class="pr-3">
+                        <img src="{{ site.url }}/images/{{ page.dia-3-kuva }}" alt="">
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="carousel-item">
-            <div class="d-flex flex-row">
-                <div class="my-auto px-3">
-                    <h2 class="text-center align-middle slide-h2">{{page.dia-4-otsikko}}</h2>
-                    <p class="text-center align-middle slide-p">
-                        {{page.dia-4-teksti}}
-                    </p>
+            <div class="carousel-item">
+                <div class="d-flex flex-row">
+                    <div class="my-auto px-3">
+                        <h2 class="text-center align-middle slide-h2">{{page.dia-4-otsikko}}</h2>
+                        <p class="text-center align-middle slide-p">
+                            {{page.dia-4-teksti}}
+                        </p>
 
-                </div>
-                <div class="pr-3">
-                    <img src="{{ site.url }}/images/{{ page.dia-4-kuva }}" alt="">
+                    </div>
+                    <div class="pr-3">
+                        <img src="{{ site.url }}/images/{{ page.dia-4-kuva }}" alt="">
+                    </div>
                 </div>
             </div>
+
         </div>
 
     </div>
 
+    <div class="mx-lg-5 my-5">
+    {%- include kolme-esiin.html -%}
+    </div>
 </div>
-
-{%- include kolme-esiin.html -%}

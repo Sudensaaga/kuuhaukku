@@ -28,8 +28,17 @@ nav {
   min-height: 8rem;
 }
 
-.navbar-dark .navbar-nav .nav-link {
+.navbar-dark .navbar-nav .nav-link, footer h3, footer a {
   color: #c8c6c4;
+}
+
+.post {
+  background-color: #f4f6f5;
+}
+
+.dia-img {
+  width: 620px;
+  height: 379px;
 }
 
 .nav-item {
@@ -49,6 +58,7 @@ nav {
   transition: .5s ease-in-out;
   letter-spacing: -0.02em;
 }
+
 
 .slide-p {
   line-height: 1.8em;
