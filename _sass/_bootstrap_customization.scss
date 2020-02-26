@@ -24,20 +24,25 @@ body {
   font-weight: 400;
 }
 
+nav {
+  min-height: 8rem;
+}
+
 .navbar-dark .navbar-nav .nav-link {
   color: #c8c6c4;
 }
 
 .nav-item {
   font-size: 1.2rem;
-
+  margin-left: 1em;
+  margin-right: 1em;
 }
 
 .carousel {
   background-color: white;
 }
 
-#slide-h2 {
+.slide-h2 {
   color: #bf0f0a;
   font-size: 2.8rem;
   text-transform: uppercase;
@@ -45,7 +50,12 @@ body {
   letter-spacing: -0.02em;
 }
 
-#slide-p {
+.slide-p {
   line-height: 1.8em;
+}
+
+.card, .card-text, .card a {
+  background-color: black;
+  color: #faf3ed;
 }
 

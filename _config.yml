@@ -32,7 +32,7 @@ github_username:  jekyll
 # Build settings
 theme: minima
 plugins:
-- jekyll-feed
+- jekyll-sitemap
 
 permalink: /:title
 
@@ -49,7 +49,7 @@ defaults:
 
 nav:
   en:
-    language:  "English"
+    language: "English"
     esittely:
       name: "Esittely"
       url: "/"
@@ -64,6 +64,9 @@ nav:
       url: "muuta/"
   fi:
     language: "Finnish"
+    etusivu:
+      kolme-esiin:
+        - "historia/"
     esittely:
       name: "Esittely"
       url: "esittely/"

@@ -1,4 +1,6 @@
 ---
-layout: home
+layout: etusivu
 lang: en
+id: etusivu
+
 ---

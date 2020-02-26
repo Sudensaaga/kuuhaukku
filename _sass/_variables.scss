@@ -11,4 +11,10 @@ $body-bg: #182c37;
 $body-color: white;
 
 $background-image: 'css-images/bg_top_img.jpg';
-$primary: hotpink;
+
+$container-max-widths: (
+        sm: 32em,
+        md: 33em,
+        lg: 34em,
+        xl: 35em
+);

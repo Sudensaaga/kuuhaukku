@@ -1,0 +1,26 @@
+<nav class="navbar navbar-expand-md navbar-dark bg-transparent mx-lg-5 pl-0 my-3">
+    <a class="navbar-brand my-auto mr-auto" href="/">
+        <img src="{{ site.url }}/images/logo.png" alt="{{site.title}}">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse mt-auto" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="{{ site.nav[lang].esittely.url | absolute_url }}" tabindex="-1">{{ site.nav[lang].esittely.name }}</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{{ site.nav[lang].rotuinfo.url | absolute_url }}" tabindex="-1" >{{ site.nav[lang].rotuinfo.name }}</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{{ site.nav[lang].kuvat.url | absolute_url }}" tabindex="-1">{{ site.nav[lang].kuvat.name }}</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="{{ site.nav[lang].muuta.url | absolute_url }}" tabindex="-1" >{{ site.nav[lang].muuta.name }}</a>
+            </li>
+        </ul>
+    </div>
+</nav>
