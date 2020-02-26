@@ -1,5 +1,5 @@
 ---
-title: Typografia ja sivun asetukset
+otsikko: Typografia ja sivun asetukset
 layout: post
 description: Typografiatestisivu
 categories: 

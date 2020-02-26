@@ -1,13 +1,30 @@
+{% assign menu=page.menu | default: 'muuta' %}
+{% assign artikkelit=site.nav[lang][menu].kolme-esiin %}
+
+{% assign art-1=artikkelit[1] %}
+{% assign art-2=artikkelit[2] %}
+{% assign art-3=artikkelit[3] %}
+{% for post in site.pages %}
+{% if post.permalink == art-1 %}
+{% assign post-1=post %}
+{% elsif post.permalink == art-2 %}
+{% assign post-2=post %}
+{% elsif post.permalink == art-2 %}
+{% assign post-3=post %}
+{% endif %}
+{% endfor %}
+
 <div class="row mx-lg-5 my-5">
     <div class="col-lg-4 col-sm-6 mb-4 pl-0">
         <div class="card h-100">
             <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
             <div class="card-body">
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur
-                    eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt, dolores in, nesciunt,
-                    illum tempora ex quae? Nihil, dolorem!</p>
+                <h4>{{ post-1.kolme-esiin-otsikko | default: post-1.otsikko}}</h4>
+                <p class="card-text">
+                    {{ post-1.excerpt }}
+                </p>
                 <h4 class="card-title">
-                    <a href="#">Lue lisää</a>
+                    <a href="{{post-1.url}}">Lue lisää</a>
                 </h4>
             </div>
         </div>
@@ -19,8 +36,10 @@
                 <h4 class="card-title">
                     <a href="#">Project One</a>
                 </h4>
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam
-                    aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt,
+                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet
+                    numquam
+                    aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque
+                    deserunt,
                     dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem!</p>
             </div>
         </div>
@@ -32,8 +51,10 @@
                 <h4 class="card-title">
                     <a href="#">Project One</a>
                 </h4>
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam
-                    aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque deserunt,
+                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet
+                    numquam
+                    aspernatur eum quasi sapiente nesciunt? Voluptatibus sit, repellat sequi itaque
+                    deserunt,
                     dolores in, nesciunt, illum tempora ex quae? Nihil, dolorem!</p>
             </div>
         </div>
