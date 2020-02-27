@@ -10,9 +10,8 @@ kolme-esiin-kuva: oldlinehistoria.jpg
 otsikko: 40 vuotta Old Line® siperianhuskyja -
     Kuuhaukun® kennelin historiaa
 ---
-
 					
-<p>Elämäni siperianhuskyjen parissa alkoi vuonna 1978 kun hankin ensimmäisen siperianhuskyni 
+Elämäni siperianhuskyjen parissa alkoi vuonna 1978 kun hankin ensimmäisen siperianhuskyni 
 Roady Ratiritirallan, Readyn. Kiinnostus siperianhuskeihin juontui lähinnä niiden 
 esteettisyydestä sekä valjakkoajon harrastusmahdollisuudesta, sillä olin puuhastellut 
 hevosten kanssa pienestä pitäen; valjakkoajo oli samantyyppistä harrastusta, liikkumista 
@@ -23,22 +22,22 @@ rekikilpailuissa menestyvän koiraharrastajan. Hänen vanhempansa omistivat Äij
 jossa myös asui Readyni isä, SF MVA Äijänsuon Tantintin. Kennelimme nimeksi tuli Kuuhaukun 
 kennel ajatuksena, että siperianhuskyt ulvovat kuutamolla.  Alkutaipaleella Ready yllätti 
 meidät vahinkopentueella FIN MVA Äijänsuon Tantintinin kanssa. Tuosta ensimmäisestä pentueesta 
-1980 syntyi 3 hienoa pentua, joista upea hiekanvärinen PMV-83 Kuuhaukun Major menestyi näyttelykehissä.</p>
+1980 syntyi 3 hienoa pentua, joista upea hiekanvärinen PMV-83 Kuuhaukun Major menestyi näyttelykehissä.
 
-<p>Äijänsuon kennelissä oli kasvatettu siperianhuskyja vuodesta 1970, siis vain 
+Äijänsuon kennelissä oli kasvatettu siperianhuskyja vuodesta 1970, siis vain 
 5 vuotta sen jälkeen kun ensimmäinen siperianhusky oli saapunut Suomeen. Kun 
 Äijänsuon kennel lopetteli siperianhuskyjen parissa 80-luvun alussa, koirat 
-siirtyivät Kuuhaukun kenneliin. </p>
+siirtyivät Kuuhaukun kenneliin.
 
-<p>Eri narttuja oli jalostuspohjana useita. Ensimmäinen pentue syntyi FIN MVA SE 
+Eri narttuja oli jalostuspohjana useita. Ensimmäinen pentue syntyi FIN MVA SE 
 MVA v-86 Roady Ratiritirallalle, josta muodostuikin Kuuhaukun kennelin kantanarttu. 
 Muita narttuja olivat Roady Wow, sisarukset Äijänsuon Tanturi ja Äijänsuon Tantatoke 
 sekä Anira. Roady Wown linja loppui kahden pentueen jälkeen. Samoin Maktan ja Tantatoken 
 linja loppui yhteen pentueeseen. 1982 syntynyt Anira vaikuttaa yhä Kuuhaukun sukutauluissa 
 Rascalin (Kuuhaukun Ikuinen Rakkaus) kautta ja Äijänsuon Tanturi vaikuttaa Rustyn 
-(V-97 V-98 Kuuhaukun Ikijään Punapeto) kautta Lumi-linjassa.</p>
+(V-97 V-98 Kuuhaukun Ikijään Punapeto) kautta Lumi-linjassa.
 
-<p>Pääosin jalostustyö pohjautuu siis kuitenkin varsinaiseen kantanarttuuni FIN & 
+Pääosin jalostustyö pohjautuu siis kuitenkin varsinaiseen kantanarttuuni FIN & 
 SE, PMV-86 MVA Roady Ratiritirallaan eli Readyyn. Sen parhaita ja vahvaa narttulinjaa 
 eteenpäin vieviä jälkeläisiä olivat narttulinjassa Kuuhaukun Poutapilvi- EUV-91 K. 
 Kesäyönunelma  K. Nokkela Noppa  V-97 V-98 K. Ikijään Punapeto  V-01 V-02 K. Luminan Uni  K. 
@@ -51,7 +50,7 @@ K. Hallava Hauva. K. Aamun Enkeli (Tojonin sisko) on jatkanut Enkeli-linjaa Säi
 Serafi - Pain in the Neck - Onnettaren Oodi (Tojonin pentu) linjassa. Enkeli-linja 
 on jatkunut myös Kuuhaukun Tina-Typykän (Teräs-Teddyn sisko) jälkeläisillä K. 
 Sydäntensärkijä  K. Leijonan Sydän  K. Kyllä Hippulat vinkuu ja Suuria Tunteita 
-(Sydäntensärkijän veljen) jälkeläisessä K. Viaton Valkyyria. </p>
+(Sydäntensärkijän veljen) jälkeläisessä K. Viaton Valkyyria.
 
 <p>Kantauroksia, jotka jatkuvat Kuuhaukun suvuissa yhä olivat Äijänsuon Natsehre, 
 C.I.B POHJ MVA Mekusaks Coppercornix, Snow-Igloo's Vilpine Red Vip ja Snow Igloo's 

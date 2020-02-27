@@ -20,7 +20,6 @@ tähän yhdistelmään oli edellytyksiä syntyä mitä parhaimpiluonteisia old l
 koiria, joskin uskon, että Enkelin tuloon maailmaan tarvittiin vielä erityinen, 
 jalostunut sielu.
 
-
 Pentuja syntyi yhteensä kuusi, neljä urosta ja kaksi narttua. Alusta asti oli 
 selvää, että kotiin jäisi juuri Enkeli. Sillä nimittäin oli tummat, kuin 
 tussilla vedetyt viivat kuonon päällä, kuten Readyllakin oli, vaikka hieman 
@@ -30,12 +29,11 @@ alussa ajattelin, että enhän voi mitenkään antaa koiralle nimeksi Enkeli. Ni
 kuitenkin oli ikään kuin valikoitunut itsestään jo silloin, kun Enkeli syntyi, 
 eikä sitä voinut muuttaa. Niin alkoi elämäni koiran tarina ja elämä.
 
-
 Enkeli oli vilkas pentu, se oli koko ajan valppaana ja menossa. Se ei pysynyt 
 puutarhan aitojen sisällä, vaan lähti aina kaupalle viilettämään, - sanoinkin 
 sille, että miksi tänne, kun ei sinulla ole rahaakaan. Sieltä kuitenkin haimme 
 sen autolla, jonka kyytiin se mielellään tuli retkensä jälkeen, jos se oli 
-onnistunut välttämään vahtivan silmän. <br>
+onnistunut välttämään vahtivan silmän.
 
 Jo aivan nuoresta koirasta lähtien se katsoi minua aina merkitsevästi tarhasta, 
 ikään kuin sanoen, että meillä on tietty yhteys. Se oli jo alun alkaen myös 
@@ -55,9 +53,8 @@ pojat pääsisivät tosi toimeen. Yhtäkaikki, ajaja lähti ohittamaan minun
 valjakkoani ja kehotin Enkeliä jatkamaan matkaa. Enkeli ponnisteli sivusta 
 syvemmässä lumessa ja teki kuten kehotin ja tilanne oli pelastettu. Oma 
 valjakkoni seurasi hanakkaasti tyttövaljakkoa. Enkeli oli pelastava Enkeli. Se 
-johti vielä valjakkoa 14,5 vuotiaana viime syksynä SPY:n syysharjoittelussa.
-<br>
-<br>
+johti vielä valjakkoa 14,5 vuotiaana viime syksynä SPY:n syysharjoittelussa.
+
 Enkelin oikeudentunto ja hyväntahtoisuus ylittivät sen koiran vaistot; siksi se 
 olikin enemmän kuin koira.. Yhden kerran Lumi oli koettanut mennä varastamaan 
 Enkelin kupista ruokaa. Enkeli ei koskaan halunnut tapella ja silloinkin se vain 
@@ -66,29 +63,25 @@ Normaalisti koira alistamistilanteen jälkeen kulkee korkein jaloin niskakarvat
 pystyssä vielä tehostaakseen itseään. Enkeli sen sijaan meni Lumin viereen ja 
 nuolaisi tätä kuin sanoakseen, että ei muistella pahalla. Sillä oli niin hyvä 
 itsetunto, en ole koskaan nähnyt mitään vastaavaa.
-<br>
-<br>
+
 Sanoin aina, että Enkeli on paitsi viisas opettaja myös hoitaja. Se nuoli 
 todella uutterasti ihmisiä, voimakkaasti painaen kielellään, kuin antaen voimaa 
 ja kuten emä nuolee pentuja auttaakseen niiden verenkiertoa. Se on periyttänyt 
 samaa myös pentuihinsa, kuten myös innostunutta, leikkisää tassujen teputusta, 
 kun jotain tapahtuu.
-<br>
-<br>
 
 Enkeli oli mitä antautunein ja rakastavin äiti. Se todella nautti pennuistaan, 
 ja ne saivat tehdä sille melkein mitä vain. Se leikki niiden kanssa ja rakasti 
 selvästi lapsiaan yli kaiken. Sen pennut saivatkin hyvän alun elämäänsä niin 
 antaumuksellisen äidin ansiosta ei ihme, että sen pennutkin omaavat hienon 
 luonteen paitsi perimänsä, myös Enkelin erinomaisten äidinvaistojen ansiosta.
-<br>
-<br>
+
 Enkeli menestyi myös näyttelyissä, vaikka minulle se asia ei juuri merkitsekään 
 mitään. Sillä oli kaikki sertit näyttelystä ja monet ihailivat sen erittäin 
 kaunista päätä ja tervettä rakennetta. Eräässä SPY:n nlyssä Korvolan Jaana 
 esitti Enkeliä. Siitä lähti hänen ihastuksensa siperianhuskyyn. Enkeli oli taas 
-tehnyt vaikutuksen.<br>
-<br>
+tehnyt vaikutuksen.
+
 Enkeli oli merkittävä siperianhusky, täydellisin koira mitä tiedän. Enkelin 
 aivan erityinen luonne näkyi siinä, että siinä ei ollut mitään negatiivista 
 energiaa. Uskon, että sen sielu oli jo pidemmälle jalostunut ja siten nimikin 
@@ -99,15 +92,15 @@ minne kannoimme sen, koska se ei halunnut tehdä sisälle) ja aivan
 käsittämättömästi se ymmärsi vaikka ei olisi mitään sanonutkaan. Sen 
 jälkeläisissä voi myös nähdä näitä samoja asioita, vaikkakaan ei kaikkia samassa 
 yksilössä. Enkelin hienon perimän ominaisuuksia elää kuitenkin sen upeissa 
-jälkeläisissä.<br>
-<br>
+jälkeläisissä.
+
 Kaikella on kuitenkin rajallinen aikansa ja rakkaimpani Enkeli lähti eteenpäin 
 taipaleellaan torstaina 20.6. 2008 aamulla klo 6. Se sai sydänoireita kolmisen 
 viikkoa ennen ja sen oli vaikea hengittää ja nukkua, lääkityksenä se sai 
 nesteenpoistoa ja sydänlääkettä, mutta ne eivät paljoakaan auttaneet. 
 Eläinlääkäri tuli kotiin päästämään sen viimein tuskistaan, ja se nukkui 
-rauhallisesti pois, tuskallinen läähätys loppui uneen.<br>
-<br>
+rauhallisesti pois, tuskallinen läähätys loppui uneen.
+
 Valvoin viimeisen yön sen vierellä keittiössä, missä se oli jo alussa valinnut 
 paikkansa penkin edessä. Se oli elämäni pisin yö, se miten sydämeni vuoti verta, 
 oli sanoin kuvaamatonta. En olisi halunnut millään antaa sen mennä, vaikka 
@@ -116,12 +109,11 @@ Rakkauteni sitä kohtaan ei voinut antaa sille nuorempaa kehoa jatkaa
 yhdessäoloamme tässä elämässä. Kiitin sitä siitä, että se oli tullut elämääni ja 
 että olin saanut olla sen oma ihminen viidentoista vuoden ajan, että se oli 
 valinnut juuri minut ja että se niin merkittävällä tavalla oli tehnyt 
-lähtemättömän vaikutuksen minun lisäkseni moniin muihin ihmisiin. <br>
-<br>
+lähtemättömän vaikutuksen minun lisäkseni moniin muihin ihmisiin.
+
 Enkeli oli kolme viikkoa vaille 15 vuotta eikä missään muualla ollut mitään 
 vikaa. Siitä oli otettu kaikki verikokeet ja vatsa röntgenkuvattu ja ultrattu. 
 Se veti viimeisen kerran valjakossa vielä kuukausi ennen.
-
 
 Enkeli oli legenda jo eläessään. Harva koira painui ihmisten mieliin niin 
 syvästi, kuin Enkeli. Ihmiset, jotka olivat vierailleet kotisivuillani ja 
@@ -134,7 +126,6 @@ Eläinkommunikaatiossa uskotaan jälleen syntymiseen ja siihen, että sielut
 jalostuvat elämä elämältä. En kuitenkaan usko, että Enkeli tulee enää takaisin, 
 se oli jo täydellinen. Meillä ihmisillä on pitkä taival taivallettavana siihen 
 pisteeseen. 
-
 
 Mikään ei voi enää olla kuten ennen. Niin tärkeä Enkeli oli minulle, että sen 
 mukana poistui pala minua. Nyt vain yritän jotenkin hyväksyä, että en enää voi 
