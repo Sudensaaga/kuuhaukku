@@ -11,7 +11,8 @@ Pentueita syntyy jalostusohjelman tarpeisiin n. 1-3 vuodessa.
 Kuuhaukun kennelissä noudatetaan Siperianpystykorvayhdistys-86 ry:n jalostusohjelmaa, mikä tarkoittaa sitä,
 että pentueet ovat SPY ry:n jalostustoimikunnan hyväksymiä. Jalostukseen ei käytetä
 alle 2,5-vuotiaita koiria ja siitoskoirat ovat ohjeen mukaan silmätarkastettuja. Nykyään siitoskoirat
-myös luustotutkitaan lähes poikkeuksetta. Kuuhaukun koirien terveys on tärkeää, lue lisää jalostusfilosofia-sivulta.
+myös luustotutkitaan lähes poikkeuksetta. Kuuhaukun koirien terveys on tärkeää, lue lisää 
+jalostusfilosofia-sivulta. TODO_ADD_LINK
 
 Kuuhaukulle on ensisijaisen tärkeää, että kasvatit pääsevät rakastaviin perheisiin,
 joissa ne saavat elää koko elämänsä (jopa 16 vuotta). Siperianhusky tarvitsee aktiivisen
