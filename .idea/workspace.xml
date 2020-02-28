@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b110f118-5fa3-4b3e-9f2d-74de97adf058" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artikkelit/enkelin-tarina.md" beforeDir="false" afterPath="$PROJECT_DIR$/artikkelit/enkelin-tarina.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artikkelit/historia.md" beforeDir="false" afterPath="$PROJECT_DIR$/artikkelit/historia.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artikkelit/tsukotkan-rekikoira.md" beforeDir="false" afterPath="$PROJECT_DIR$/artikkelit/tsukotkan-rekikoira.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,12 +14,13 @@
     <session id="676704689">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -31,7 +29,7 @@
           <entry key="HTML" value="44" />
           <entry key="Image" value="1" />
           <entry key="JavaScript" value="2" />
-          <entry key="Markdown" value="43" />
+          <entry key="Markdown" value="49" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Ruby" value="2" />
           <entry key="SCSS" value="14" />
@@ -42,7 +40,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="1350" />
-          <entry key="Markdown" value="1512" />
+          <entry key="Markdown" value="1752" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="Ruby" value="49" />
           <entry key="SCSS" value="540" />
@@ -69,8 +67,8 @@
         <entry file="file://$PROJECT_DIR$/artikkelit/tsukotkan-rekikoira.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="367">
-                <caret line="174" column="5" selection-start-line="174" selection-start-column="4" selection-end-line="174" selection-end-column="5" />
+              <first_editor relative-caret-position="448">
+                <caret line="163" column="5" selection-start-line="163" selection-start-column="4" selection-end-line="163" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -81,8 +79,56 @@
         <entry file="file://$PROJECT_DIR$/artikkelit/historia.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-34">
+              <first_editor relative-caret-position="780">
                 <caret line="52" column="60" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/artikkelit/kuuhaukun-kennelin-esittely.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1695">
+                <caret line="113" selection-start-line="113" selection-end-line="113" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/artikkelit/oldline-siperianhusky.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="598">
+                <caret line="46" column="61" selection-start-line="46" selection-start-column="61" selection-end-line="46" selection-end-column="61" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/artikkelit/koiravaljakon-vedatys.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="593">
+                <caret line="47" selection-start-line="47" selection-end-line="47" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/artikkelit/seerumiajo.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="180">
+                <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
               </first_editor>
               <second_editor />
             </state>
@@ -102,11 +148,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/artikkelit/oldline-siperianhusky.md">
+        <entry file="file://$PROJECT_DIR$/artikkelit/kuuhaukun-tuonnit-ja-viennit.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="293">
-                <caret line="48" column="61" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="61" />
+              <first_editor relative-caret-position="388">
+                <caret line="97" selection-start-line="97" selection-end-line="97" />
               </first_editor>
               <second_editor />
             </state>
@@ -114,59 +160,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/artikkelit/lumi-ja-rascal.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="523">
-                <caret line="54" selection-start-line="54" selection-end-line="54" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/artikkelit/jade.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="523">
-                <caret line="77" column="1" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/artikkelit/siperianhuskyn-pentu.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="135">
-                <caret line="9" selection-start-line="9" selection-end-line="9" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/artikkelit/yhteystiedot.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="285">
-                <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_drafts/_defaults.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="60">
-                <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+                <caret line="19" selection-start-line="19" selection-end-line="19" />
               </first_editor>
               <second_editor />
             </state>
@@ -257,6 +255,10 @@
         <option value="$PROJECT_DIR$/artikkelit/siperianhuskyn-pentu-meilta.md" />
         <option value="$PROJECT_DIR$/artikkelit/siperianhuskyn-pentu.md" />
         <option value="$PROJECT_DIR$/artikkelit/yhteystiedot.md" />
+        <option value="$PROJECT_DIR$/artikkelit/kuuhaukun-kennelin-esittely.md" />
+        <option value="$PROJECT_DIR$/artikkelit/kuuhaukun-tuonnit-ja-viennit.md" />
+        <option value="$PROJECT_DIR$/artikkelit/koiravaljakon-vedatys.md" />
+        <option value="$PROJECT_DIR$/artikkelit/seerumiajo.md" />
       </list>
     </option>
   </component>
@@ -377,18 +379,19 @@
       <workItem from="1582617072678" duration="3681000" />
       <workItem from="1582642986665" duration="12336000" />
       <workItem from="1582720297412" duration="13954000" />
-      <workItem from="1582821988000" duration="7043000" />
+      <workItem from="1582821988000" duration="7152000" />
+      <workItem from="1582879915868" duration="2620000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37493000" />
+    <option name="totallyTimeSpent" value="40222000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="25" width="1400" height="786" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26435935" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26804122" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -437,10 +440,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/gallerystyle.css" />
-    <entry file="file://$PROJECT_DIR$/css/layout.css" />
-    <entry file="file://$PROJECT_DIR$/css/reset.css" />
-    <entry file="file://$PROJECT_DIR$/css/style.css" />
     <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/monadnock.html" />
     <entry file="file://$PROJECT_DIR$/js/tms_presets.js" />
@@ -632,60 +631,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/artikkelit/historia.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-34">
-            <caret line="52" column="60" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_drafts/_defaults.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artikkelit/enkelin-tarina.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" selection-end-line="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artikkelit/tsukotkan-rekikoira.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="367">
-            <caret line="174" column="5" selection-start-line="174" selection-start-column="4" selection-end-line="174" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artikkelit/oldline-siperianhusky.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="293">
-            <caret line="48" column="61" selection-start-line="48" selection-start-column="61" selection-end-line="48" selection-end-column="61" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/artikkelit/lumi-ja-rascal.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="523">
+          <first_editor relative-caret-position="810">
             <caret line="54" selection-start-line="54" selection-end-line="54" />
           </first_editor>
           <second_editor />
@@ -695,7 +644,7 @@
     <entry file="file://$PROJECT_DIR$/artikkelit/jade.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="523">
+          <first_editor relative-caret-position="1155">
             <caret line="77" column="1" selection-start-line="77" selection-start-column="1" selection-end-line="77" selection-end-column="1" />
           </first_editor>
           <second_editor />
@@ -712,6 +661,96 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_drafts/_defaults.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artikkelit/yhteystiedot.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="19" selection-start-line="19" selection-end-line="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artikkelit/enkelin-tarina.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artikkelit/historia.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="780">
+            <caret line="52" column="60" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artikkelit/kuuhaukun-kennelin-esittely.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1695">
+            <caret line="113" selection-start-line="113" selection-end-line="113" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artikkelit/tsukotkan-rekikoira.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="448">
+            <caret line="163" column="5" selection-start-line="163" selection-start-column="4" selection-end-line="163" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artikkelit/kuuhaukun-tuonnit-ja-viennit.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="388">
+            <caret line="97" selection-start-line="97" selection-end-line="97" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artikkelit/oldline-siperianhusky.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="598">
+            <caret line="46" column="61" selection-start-line="46" selection-start-column="61" selection-end-line="46" selection-end-column="61" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artikkelit/koiravaljakon-vedatys.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="593">
+            <caret line="47" selection-start-line="47" selection-end-line="47" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/artikkelit/jalostusfilosofia.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -722,11 +761,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/artikkelit/yhteystiedot.md">
+    <entry file="file://$PROJECT_DIR$/artikkelit/seerumiajo.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
           </first_editor>
           <second_editor />
         </state>
