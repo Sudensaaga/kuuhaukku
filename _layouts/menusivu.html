@@ -1,0 +1,14 @@
+---
+layout: default
+---
+{% assign lang=page.lang | default: site.lang | default: 'en' %}
+<div class="container">
+
+    <div class="mx-lg-5 my-5">
+    {%- include kolme-esiin.html -%}
+    </div>
+
+    <div class="bg-light"><div class="mx-lg-5 my-5">
+        {%- include linkkiosio.html -%}
+    </div></div>
+</div>

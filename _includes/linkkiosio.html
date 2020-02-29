@@ -1,0 +1,11 @@
+{% assign menu=page.menu | default: 'muuta' %}
+
+<h3>Linkit</h3>
+{% for post in site.pages %}
+
+{% if post.menu == menu %}
+<div>
+<a href="{{post.url}}">{{post.otsikko}}</a>
+</div>
+{% endif %}
+{% endfor %}

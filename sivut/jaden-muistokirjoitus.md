@@ -1,7 +1,7 @@
 ---
 layout: artikkeli
 menu: muuta
-permalink: jade
+permalink: jaden-muistokirjoitus
 otsikko: Jade forever
 ---
 

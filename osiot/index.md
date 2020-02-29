@@ -1,6 +1,7 @@
 ---
 layout: etusivu
 menu: etusivu
+permalink: index
 
 dia-1-kuva: img4.jpg
 dia-1-otsikko: Dian Otsikko Tähän
