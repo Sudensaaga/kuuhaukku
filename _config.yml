@@ -66,15 +66,23 @@ nav:
     language: "Finnish"
     etusivu:
       kolme-esiin:
-        1: "historia"
+        1: "kuuhaukun-kennelin-historia"
         2: "enkelin-tarina"
         3: "tsukotkan-rekikoira"
     esittely:
       name: "Esittely"
       url: "esittely/"
+      kolme-esiin:
+        1: "kuuhaukun-kennelin-esittely"
+        2: "jalostusfilosofia"
+        3: "kuuhaukun-tuonnit-ja-viennit"
     rotuinfo:
       name: "Rotuinfo"
       url: "rotuinfo/"
+      kolme-esiin:
+        1: "oldline-siperianhusky"
+        2: "oldline-siperianhusky-rotumaaritelma"
+        3: "koiravaljakon-vedatys"
     kuvat:
       name: "Kuva-albumit"
       url: "kuvat/"
@@ -82,9 +90,9 @@ nav:
       name: "Muuta"
       url: "muuta/"
       kolme-esiin:
-        1: "historia"
-        2: "enkelin-tarina"
-        3: "tsukotkan-rekikoira"
+        1: "enkelin-tarina"
+        2: "iditarod"
+        3: "monadnock"
 
 
 # Exclude from processing.

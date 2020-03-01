@@ -3,6 +3,10 @@ layout: artikkeli
 menu: muuta
 permalink: jalostusfilosofia
 otsikko: Jalostusfilosofia; jalostuksen tavoitteet ja arvot
+
+kolme-esiin-otsikko: Jalostusfilosofia
+kolme-esiin-teksti: "Jalostuksen tavoitteet ja arvot koirankasvatuksessa. Tasapainossa luonne, terveys, käyttöominaisuudet ja oikea arktinen ulkomuoto."
+kolme-esiin-kuva: jalostusicon.jpg
 ---
 
 <p>Kuuhaukun kennelin kasvatustyön <b>päämääränä on säilyttää arktinen, hyväluonteinen, 

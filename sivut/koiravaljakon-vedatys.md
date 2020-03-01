@@ -3,6 +3,11 @@ layout: artikkeli
 menu: muuta
 permalink: koiravaljakon-vedatys
 otsikko: Rekiajelun 7 kultaista sääntöä
+
+kolme-esiin-otsikko: Veto-infoa
+kolme-esiin-teksti: "Kuuhaukun kennelin veto-info kasvatinomistajille. Rekiajelun 7 kultaista 
+ sääntöä."
+kolme-esiin-kuva: vetobanneri.jpg
 ---
 <p>
 <b>1. Ei liikaa liian nopeasti<br>

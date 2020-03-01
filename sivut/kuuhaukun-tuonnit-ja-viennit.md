@@ -3,6 +3,10 @@ layout: artikkeli
 menu: muuta
 permalink: kuuhaukun-tuonnit-ja-viennit
 otsikko: Kuuhaukun tuonnit ja viennit 
+
+kolme-esiin-otsikko: Tuonnit ja viennit
+kolme-esiin-teksti: "Laajan geenipoolin ylläpitäminen vaatii ulkomaantuonteja. Koiramme ovat kysyttyjä myös ulkomailla, tutustu tuonti- ja vientikoiriimme."
+kolme-esiin-kuva: tuonniticon.jpg
 ---
 <p>Kuuhaukun kennelissä vaikuttavia tuonteja ovat olleet <b>C.I.B & POHJ MVA Norrstar´s Baanchi</b>, 
 joka oli myös kilpavaljakon johtajakoira ja se näkyy yhä kasvattien taustalla. Baanchi on Suomen 

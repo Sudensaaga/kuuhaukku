@@ -3,6 +3,10 @@ layout: artikkeli
 menu: muuta
 permalink: monadnock
 otsikko: Muistoja Monadnock-kennelistä
+
+kolme-esiin-otsikko: Monadnock
+kolme-esiin-teksti: "Janis Church Stadlerin (Of the Midnight Sun) mielenkiintoisia muistiinpanoja Monadnock-kennelistä."
+kolme-esiin-kuva: monadnockbanneri.jpg
 ---
 
 Janis Church Stadler on kasvattanut jo 40 vuoden ajan siperianhuskyja Midnight Sun 

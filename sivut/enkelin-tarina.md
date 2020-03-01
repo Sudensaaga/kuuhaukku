@@ -7,7 +7,7 @@ otsikko: Enkeli - legenda jo eläessään
 kolme-esiin-otsikko: Enkelin tarina
 kolme-esiin-teksti: "Jo aivan nuoresta koirasta lähtien se katsoi minua aina 
     merkitsevästi tarhasta, ikään kuin sanoen, että meillä on tietty yhteys"
-kolme-esiin-kuva: page1_img2.jpg
+kolme-esiin-kuva: enkelibanneri.jpg
 ---
 
 Enkeli syntyi kenneliini 12.7.1993. Se oli 

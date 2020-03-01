@@ -3,6 +3,11 @@ layout: artikkeli
 menu: muuta
 permalink: oldline-siperianhusky
 otsikko: Lisätietoa ja historiaa old linesta
+
+kolme-esiin-otsikko: Old line
+kolme-esiin-teksti: "Lisätietoa vanhan linjan, old line siperianhuskyista. Old linen historiaa ja
+ jalostusperiaatteita."
+kolme-esiin-kuva: oldline.jpg
 ---
 <p>Old line tarkoittaa siperianhuskyjen vanhaa sukulinjaa, jonka koirat on jalostettu
 <b>tarkoituksena säilyttää alkuperäinen, arktinen työkoira-siperianhusky</b>. Old line

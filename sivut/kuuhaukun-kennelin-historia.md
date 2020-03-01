@@ -1,7 +1,7 @@
 ---
 layout: artikkeli
 menu: muuta
-permalink: historia
+permalink: kuuhaukun-kennelin-historia
 kolme-esiin-otsikko: Historia 40 v
 kolme-esiin-teksti: '40 vuotta Old Line ® siperianhuskyja, Kuuhaukun kennelin 
     historiasta: "Elämäni siperianhuskyjen parissa alkoi vuonna 1978 kun hankin..."'
@@ -39,17 +39,17 @@ Rascalin (Kuuhaukun Ikuinen Rakkaus) kautta ja Äijänsuon Tanturi vaikuttaa Rus
 
 Pääosin jalostustyö pohjautuu siis kuitenkin varsinaiseen kantanarttuuni FIN & 
 SE, PMV-86 MVA Roady Ratiritirallaan eli Readyyn. Sen parhaita ja vahvaa narttulinjaa 
-eteenpäin vieviä jälkeläisiä olivat narttulinjassa Kuuhaukun Poutapilvi- EUV-91 K. 
-Kesäyönunelma  K. Nokkela Noppa  V-97 V-98 K. Ikijään Punapeto  V-01 V-02 K. Luminan Uni  K. 
+eteenpäin vieviä jälkeläisiä olivat narttulinjassa Kuuhaukun Poutapilvi - EUV-91 K. 
+Kesäyönunelma - K. Nokkela Noppa - V-97 V-98 K. Ikijään Punapeto - V-01 V-02 K. Luminan Uni - K. 
 Jääprinsessa (Lumi-linja) sekä Kuuhaukun Reissumies, jonka jälkeläinen K. Ikuinen 
 Rakkaus vaikuttaa melko suurella osuudella Kuuhaukun sukutauluissa. Readysta lähti 
 myös Enkeli-linja eroten omaksi linjakseen ja siinä vaikuttivat Kuuhaukun Hattara 
 (Enkelin emä) ja K. Fakiiri. Kuuhaukun Mustaa Samettia oli Enkelin upea urospentu 
 ja sen yksi merkittävä jälkeläinen oli K. Teräs-Teddy Scillan yhdistelmissä sekä 
 K. Hallava Hauva. K. Aamun Enkeli (Tojonin sisko) on jatkanut Enkeli-linjaa Säihkyvä 
-Serafi - Pain in the Neck - Onnettaren Oodi (Tojonin pentu) linjassa. Enkeli-linja 
+Serafi - Pain in the Neck - Onnettaren Oodi (Tojonin pentu) -linjassa. Enkeli-linja 
 on jatkunut myös Kuuhaukun Tina-Typykän (Teräs-Teddyn sisko) jälkeläisillä K. 
-Sydäntensärkijä  K. Leijonan Sydän  K. Kyllä Hippulat vinkuu ja Suuria Tunteita 
+Sydäntensärkijä - K. Leijonan Sydän - K. Kyllä Hippulat vinkuu ja Suuria Tunteita 
 (Sydäntensärkijän veljen) jälkeläisessä K. Viaton Valkyyria.
 
 <p>Kantauroksia, jotka jatkuvat Kuuhaukun suvuissa yhä olivat Äijänsuon Natsehre, 
@@ -97,7 +97,7 @@ asettui aina varovasti maahan pentujen leikitettäväksi. Sen luonne oli 150 %! 
 
 *Rumba rakasti niin ihmis- kuin koiralapsiakin*
 
-<p>Hauva (amerikkalaisittain Howard) oli kennelimme julkkis. Se oli nimittäin 
+<p>Hauva (amerikkalaisittain Howard) oli kennelimme "julkkis". Se oli nimittäin 
 ainoa perheenjäsenistämme, joka oli käynyt Hollywoodissa! Se oli ehdolla päärooliin 
 Seikkailu etelänavalla elokuvaan, Carol Dixon myi sen ja Trumanin, joka näyttelee 
 elokuvassa, eläinkouluttajille. Hauva päätyi kuitenkin Kuuhaukkuun ja rooliin otettiin 
@@ -111,7 +111,7 @@ Lumihauvojen Demon. Ihmettelin pitkän aikaa, miksi Hauva kiskoo pääliinasta m
  
  <center><img src="images/hauva.jpg"/></center><p>
 
-  <center><img src="images/hauvahauta.jpg"/>&nbsp;&nbsp;<img src="images/iconhauta.jpg"/>&nbsp;&nbsp;<img src="images/scillahauta.jpg"/></center><p>
+ <center><img src="images/hauvahauta.jpg"/>&nbsp;&nbsp;<img src="images/iconhauta.jpg"/>&nbsp;&nbsp;<img src="images/scillahauta.jpg"/></center><p>
 
  
 <p>Icon, menestyksekäs niin näyttely- kuin kilpaurilla (siitä oma juttunsa sivuilla), 
@@ -220,12 +220,12 @@ Sohvanvaltaajat-ohjelmaan, kun, aika epätavallista ainakin siihen aikaan, koira
 ja Resu olivat ROP ja VSP samassa näyttelyssä.</p>
 
 <p>Aivan alussa, kun Mauri tuli kuvioihin, hänen kilpavaljakkoaan käytettiin Kalevalasta 
-kertovan Rauta-aika -elokuvan filmauksissa. Ne esittivät Pohjolan kylän rakkeja. 
+kertovan Rauta-aika -elokuvan filmauksissa. Ne esittivät Pohjolan kylän "rakkeja". 
 Tietenkin ne piti sutata kuralla, joka oli minun hommani. Oli kevät ja koirat oli 
 laitettu kiinnipitoketjuun viimeisten lumien päälle. Hinkkasin kuraa poskiin ja kylkiin, 
 kun olin päässyt viimeiseen eli seitsemänteen koiraan, vilkaisin ensimmäisiä; ne hohtivat 
 puhtauttaan pyyhittyään likaa hylkivän turkkinsa lumenrieppeisiin. Old linet ovat 
-todella silittämättä siistejä.</p>
+todella "silittämättä siistejä".</p>
 
 <p>Viimeisin TV-ohjelma tehtiin Venäjän ja Ukrainan televisioon kesällä 2014. TV-ryhmä 
 oli kuullut, että kennelini oli arvostettu ja vanha kennel. Kuvausryhmä vietti päivän 
@@ -233,19 +233,19 @@ luonani ja sen jäsenet kovasti ihastuivat old line ®koiriini. Päivän lopus
 mönkijällä 8 koiran valjakolla. Kuvausryhmä oli tyytyväinen otoksiinsa ja ohjelma 
 näytettiin syksyllä sekä Venäjällä että Ukrainassa.</p>
 
-<center><img src="images/kuvausryhma.jpg"/><br>
-<i><p>Kuvausryhmää sekä kasvatinomistajani (edessä) ja minä kesäkuussa 2014</i></p></center>
+<img src="images/kuvausryhma.jpg"/><br>
+<p>Kuvausryhmää sekä kasvatinomistajani (edessä) ja minä kesäkuussa 2014</p>
 
 <p>Lehtijuttuja on myös ollut kymmeniä tämän pitkän kasvatustyön aikana, ja useissa koirakirjoissa on 
 ollut kuvia Kuuhaukun koirista. Yksi kirja, suomessa tehty Siperianhusky, on tehty jopa melkein pelkästään 
 Kuuhaukun koirista kuvien puolesta, tuolloinkin kuvaaja vietti päivän Kuuhaukussa koiria kuvaten.</p>
 
-<center><img src="images/kirjoja.jpg"/></center><br>
-<i><p>Näissä kaikissa koirakirjoissa on Kuuhaukun koirien kuvia siperianhusky-rodun kohdalla, 
+<img src="images/kirjoja.jpg"/><br>
+<p>Näissä kaikissa koirakirjoissa on Kuuhaukun koirien kuvia siperianhusky-rodun kohdalla, 
 Siperianhusky-kirjan kuvat (etualalla) on kuvattu miltei kokonaan kotonani Kuuhaukun koirista</i></p>
 
-<p>Mainittakoon, että julkkis-Hauvan ja edellä mainittujen lisäksi uusin tuontini Tobi-Mac esiintyi 
-reality-ohjelmassa, joka kuvattiin Kanadassa, mutta esitti Siperian elämää (se siitä realitysta).</p>
+<p>Mainittakoon, että "julkkis-Hauvan" ja edellä mainittujen lisäksi uusin tuontini Tobi-Mac 
+esiintyi "reality-ohjelmassa", joka kuvattiin Kanadassa, mutta esitti Siperian elämää (se siitä "realitysta"...).</p>
 
 <h2>Nykyisyys ja tulevaisuus</h2><br>
 

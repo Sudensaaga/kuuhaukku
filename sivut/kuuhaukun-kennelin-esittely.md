@@ -3,6 +3,10 @@ layout: artikkeli
 menu: muuta
 permalink: kuuhaukun-kennelin-esittely
 otsikko: Kuuhaukun kennel 1979
+
+kolme-esiin-otsikko: Yleistä
+kolme-esiin-teksti: "Lyhyesti 1979 perustetun kennelin historiasta ja perustietoja kennelin toiminnasta. Kuuhaukun koirat käytössä, näytössä ja kotioloissa."
+kolme-esiin-kuva: esittelyicon.jpg
 ---
 <p>Kuuhaukun kennel on perustettu vuonna 1979. Kennelin kantanarttu on <b>SE & FIN MVA 
 V-86 Roady Ratiritiralla</b>, johon perustuu 9 sukupolvea Kuuhaukun kasvatustyötä. Sen isä <b>FIN MVA Äijänsuon Tantintin</b> 
