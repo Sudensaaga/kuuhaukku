@@ -151,3 +151,4 @@ tunnen sen nuolevan kättäni huolehtivaisesti...
 
 Enkelin rakasta muistoa syvästi kunnioittaen<br>
 jaana, Enkelin oma ihminen
+
