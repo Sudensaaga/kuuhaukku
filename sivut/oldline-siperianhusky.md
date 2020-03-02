@@ -4,7 +4,7 @@ menu: muuta
 permalink: oldline-siperianhusky
 otsikko: Lisätietoa ja historiaa old linesta
 
-kolme-esiin-otsikko: Old line
+kolme-esiin-otsikko: Old line ®
 kolme-esiin-teksti: "Lisätietoa vanhan linjan, old line siperianhuskyista. Old linen historiaa ja
  jalostusperiaatteita."
 kolme-esiin-kuva: oldline.jpg
