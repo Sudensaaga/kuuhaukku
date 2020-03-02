@@ -4,9 +4,10 @@ menu: etusivu
 permalink: index
 
 dia-1-kuva: img4.jpg
-dia-1-otsikko: Uusi otsikko
+dia-1-otsikko: Parempi otsikko
 dia-1-teksti: Tähän tulee se uusi pidempi teksti. Tässä on tärkeää
-    että sisennettään nää seuraavat rivit.
+    että sisennetään nää seuraavat rivit. On tärkeää, että
+    sisennykset on näin.
 
 dia-2-kuva: img1.jpg
 dia-2-otsikko: Old Line® siperialaiset
