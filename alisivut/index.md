@@ -16,7 +16,9 @@ dia-2-teksti: Kuuhaukun kennel on Euroopan vanhin ja nykyisin ainoa Old Line
 
 dia-3-kuva: img2.jpg
 dia-3-otsikko: Arktiset rekikoirat
-dia-3-teksti: Oikeat arktisen rekikoiran käyttöominaisuudet ja ulkomuoto ovat tärkeitä säilyttää jalostuksessa.Käyttöominaisuuksia                     testataan säännöllisellä harjoittelulla.
+dia-3-teksti: Oikeat arktisen rekikoiran käyttöominaisuudet ja ulkomuoto ovat 
+  tärkeitä säilyttää  jalostuksessa. Käyttöominaisuuksia testataan säännöllisellä harjoittelulla.
+  
 dia-4-kuva: img3.jpg
 dia-4-otsikko: Luonne ja terveys <small>ystävällinen ja lempeä</small>
 dia-4-teksti: Kasvatit ovat tunnettuja hyvästä luonteestaan. 
