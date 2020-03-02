@@ -34,8 +34,8 @@ jalostunut sielu.
 Pentuja syntyi yhteensä kuusi, neljä urosta ja kaksi narttua. Alusta asti oli 
 selvää, että kotiin jäisi juuri Enkeli. Sillä nimittäin oli tummat, kuin 
 tussilla vedetyt viivat kuonon päällä, kuten Readyllakin oli, vaikka hieman 
-vaaleampana. Lempinimen keksiminen oli alussa vaikeaa paperinimihän oli 
-Kuuhaukun Erämaan Enkeli-, koko ajan mieleeni tuli vain nimi Enkeli, josta 
+vaaleampana. Lempinimen keksiminen oli alussa vaikeaa - paperinimihän oli 
+Kuuhaukun Erämaan Enkeli-, koko ajan mieleeni tuli vain nimi "Enkeli", josta 
 alussa ajattelin, että enhän voi mitenkään antaa koiralle nimeksi Enkeli. Nimi 
 kuitenkin oli ikään kuin valikoitunut itsestään jo silloin, kun Enkeli syntyi, 
 eikä sitä voinut muuttaa. Niin alkoi elämäni koiran tarina ja elämä.
@@ -51,7 +51,7 @@ ikään kuin sanoen, että meillä on tietty yhteys. Se oli jo alun alkaen myös
 innokas vetokoira ja osoitti johtajakoiran kykyjä. Muistan, kuinka sen kerran 
 pelasti minut hankalasta tilanteesta. Pidin nimittäin kansalaisopistolle 
 valjakkoajon kurssia ja olin ottanut koirat mukaan, jotta osallistuja voisivat 
-ajaa ja olla reen kyydissä. Kolme narttua oli kiimassa ei siis mitenkään 
+ajaa ja olla reen kyydissä. Kolme narttua oli kiimassa - ei siis mitenkään 
 otollista ajonäytöksen kannalta. Ajattelin kuitenkin, että laitan juoksussa 
 olevat omaan valjakkoonsa osallistujien ajettavaksi ja ajan edellä urosten 
 kanssa. Ajoreitti oli kuitenkin puoliympyrän muotoinen ravirata ja tietenkin 
