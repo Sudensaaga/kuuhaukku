@@ -5,9 +5,8 @@ permalink: index
 
 dia-1-kuva: img4.jpg
 dia-1-otsikko: Parempi otsikko
-dia-1-teksti: Tähän tulee se uusi pidempi teksti. Tässä on tärkeää
-    että sisennetään nää seuraavat rivit. On tärkeää, että
-    sisennykset on näin.
+dia-1-teksti: Kuuhaukun kennel® on säilyttänyt old line® -linjan puhtaana 40 vuotta
+              eikä siinä ole kilpa-tai showlinjaa, mikä on varmaan ainutlaatuista minkään rodun  historiassa.
 
 dia-2-kuva: img1.jpg
 dia-2-otsikko: Old Line® siperialaiset
@@ -17,9 +16,7 @@ dia-2-teksti: Kuuhaukun kennel on Euroopan vanhin ja nykyisin ainoa Old Line
 
 dia-3-kuva: img2.jpg
 dia-3-otsikko: Arktiset rekikoirat
-dia-3-teksti: On tärkeää säilyttää oikeat arktisen rekikoiran käyttöominaisuudet
-    ja ulkomuoto. Säännöllinen harjoittelu testaa käyttöominaisuuksia jalostuksessa.
-
+dia-3-teksti: Oikeat arktisen rekikoiran käyttöominaisuudet ja ulkomuoto ovat tärkeitä säilyttää jalostuksessa.Käyttöominaisuuksia                     testataan säännöllisellä harjoittelulla.
 dia-4-kuva: img3.jpg
 dia-4-otsikko: Luonne ja terveys <small>ystävällinen ja lempeä</small>
 dia-4-teksti: Kasvatit ovat tunnettuja hyvästä luonteestaan. 
