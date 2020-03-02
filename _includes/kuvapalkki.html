@@ -1,0 +1,31 @@
+{% assign kuvat=page.sivukuvat %}
+
+{% for kuva in kuvat %}
+{% assign kuva-hash=kuva.first %}
+
+{% if kuva-hash %}
+
+{% assign kuvateksti=kuva-hash.last  %}
+{% assign alt=kuva-hash.last | truncate: 125  %}
+{% assign url=kuva-hash.first  %}
+
+{% else %}
+
+{% assign alt=kuva | split: '/' | last | split: '.' | first | truncate: 125  %}
+{% assign url=kuva %}
+{% assign kuvateksti=nil %}
+
+{% endif %}
+<div class="my-4">
+    <img src="{{ site.url }}/images/{{url}}" alt="{{alt}}">
+    {% if kuvateksti %}
+    <div class="sivukuvateksti">
+        {{kuvateksti}}
+    </div>
+    {% endif %}
+</div>
+
+{% endfor %}
+
+
+
