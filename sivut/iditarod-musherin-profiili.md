@@ -18,7 +18,6 @@ Donald Smidt<br>
 <b>Kansallisuus:</b> amerikkalainen <br>
 <br>
 <b>Kieli:</b> englanti<br>
-
 <br>
 <b>Asuinkumppani/puoliso:</b> Denise Cwiok<br>
 <br>
@@ -28,7 +27,6 @@ Donald Smidt<br>
 <br>
 <b>Mistä tuo nimi on saanut alkunsa?:</b> Siperianhuskyt rakastavat "laulamista" 
 ja naapurit sanovat, että he kuulevat ulvonnan tuulen kantamana<br>
-
 <br>
 <b>Kennelin sukulinjat:</b> Troika Kennel, Howl'n Wind, AKC Siperian Huskyt<br>
 <br>
@@ -38,7 +36,6 @@ ja naapurit sanovat, että he kuulevat ulvonnan tuulen kantamana<br>
 ja tämä oli hieno tapa harjoitella ja viettää mukavaa aikaa <br>
 <br>
 <b>Suoritetut kilpailut (isommat)?:</b> 2007 Iditarod (57s)<br>
-
 <br>
 <b>Miksi ajat valjakolla? Mistä pidät siinä eniten?:</b> Puhtaasti nauttien 
 työskentelevistä koirista ja nauttien, kun näen, miten valjakko muodostuu 
@@ -50,7 +47,6 @@ Trailblazers<br>
 <b>Miksi osallistuit Iditarodiin?:</b> Haasteen vuoksi<br>
 <br>
 <b>Mitä ajattelit aloittaessasi kilpailun?:</b> Päästä maaliin!<br>
-
 <br>
 <b>Muut harrastuksesi?:</b> Retkeily, kalastus, lenkkeily<br>
 <br>
@@ -79,10 +75,10 @@ kontrollin opinnoissa että meidän täytyy pitää tarpeeksi koiria pitääksem
 geenipoolin laajana ja silloin tällöin tehdä ulkosiitos koiraan, joka muistuttaa 
 fenotyypiltään koiriamme. Tämä tekee mahdolliseksi kasvattaa koiria jotka ovat 
 menestyksekkäitä sekä pitkän matkan kilpailuissa että näyttelyissä.<p><br>
-
+<br>
 <i><b>Icon ja Blizzard saivat hienosta suorituksestaan 
 Iditarodissa nimiinsä SHCA:n (Siberian Husky Club of America) arvostetun 
 SD-tunnuksen. Tunnus tulee vaativan rodunomaisen työskentelyn näytöstä, ja 
 toisena vaatimuksena valjkkotyöskentelyn ohella pitää koirasta lähettää kuva 
-edestä ja sivusta, sillä tunnusta ei myönnetä monirotuisen näköisille koirille</b></i></p>
+edestä ja sivusta, sillä tunnusta ei myönnetä monirotuisen näköisille koirille</b></i>
 

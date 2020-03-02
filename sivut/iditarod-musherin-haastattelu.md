@@ -11,62 +11,54 @@ kylmyyden ja tuiskun pakkasessa tahdonvoimallaan päästä kilpailu läpi. Hän 
 sen kaikilla 16 siperialaisellaan. Tämä on hänen tarinansa.
 
 <b>Miten maatalousoppilaitoksen ja lukion suorittaneena päätit osallistua 
-Iditarodiin?</b>
+Iditarodiin?</b><br>
 No, vaimoni Denise ja minä olimme esittäneet siperianhuskeja näyttelyissä. Sitten 
 vapaa-aikana talvikautena aloimme ajaa huvin vuoksi ja se johti Iditarodiin.<br>
-<br>
-<b>Miten valmistauduit kilpailuun?</b><br>
 
+<b>Miten valmistauduit kilpailuun?</b><br>
 Tarvitsin 300 mailin suorituksen päästäkseni kilpailuun, valitsin Seeneyn 
-Michiganissa 2006, ja 200 mailin suoritukseen valitsin Don Bowers muisto 
-kilpailun Alaskassa 2007. Lisäksi harjoittelin 2000 mailia.<br>
-<br>
+Michiganissa 2006, ja 200 mailin suoritukseen valitsin Don Bowers muistokilpailun 
+Alaskassa 2007. Lisäksi harjoittelin 2000 mailia.<br>
 
 <b>Miten valitsit koirat kilpailuun?</b><br>
 Suuri osa koirista oli jalostuskoiria Carol Dixonilta, Troika-kennelistä 
 Teksasista. Valitsin henkisesti ja fyysisesti kestäviä koiria, jotka 
 työskentelivät joukkueena.<br>
-<br>
 
 <b>Mitä fyysisiä ominaisuuksia etsit siperianhuskyssa, jotta se voi juosta 
 tällaisen kilpailun?</b><br>
 Hyvä turkki ja rakenne kuten oikea kuonon pituus, oikea silmien asento ja muoto, 
 hyvä rinnan syvyys, hyvät kulmaukset, hyvä jalkojen pituus, hyvin rakentunut 
 kauttaaltaan. Sitten katsoin henkistä pystyvyyttä.<br>
-<br>
 
 <b>Mikä on harjoittelu- ja kilpailu-filosofiasi?</b><br>
 Aloitin harjoittelun elokuussa. Menin Pohjois-Wisconsiniin harjoitellakseni 
-Bryan Millsin kanssa, joka on toinen Iditarod ajaja. Harjoitutin koiria 
+Bryan Millsin kanssa, joka on toinen Iditarod-ajaja. Harjoitutin koiria 
 työskentelemään joukkueena. Ainoa päämääräni oli varmistaa, että koirani olivat 
 tarpeeksi kestäviä suorittamaan kilpailun loppuun. En halunnut kenenkään 
 lopettavan kesken.<br>
 
-<br>
 <b>Miten paljon aikaa kului, kun lähdit Wisconsinista ja saavuit Alaskaan ja 
 aloitit kilpailun?</b><br>
 Lähdin tammikuun 10:ntenä 2007 mennäkseni ylös Alaskaan. Minulta vei noin 7 
-päivää päästä sinne, ajoin läpi Don Bowersin muisto ajon. Sitten koirilla oli 
+päivää päästä sinne, ajoin läpi Don Bowersin muistoajon. Sitten koirilla oli 
 muutama lepopäivä. Sitten lisää harjoittelua muutamana seuraavana viikkona 
 kunnes kilpailu alkoi.<br>
-<br>
 
 <b>Kuka oli johtajakoirasi?</b><br>
 Kanadan ja kansainvälinen muotovalio Troika´s Orion oli pääasiallinen 
 johtajakoirani. Lobo ja Dubley ovat vaihdettavissa johtajakoiriksi, mutta Orion 
 on aina vienyt minut minne on pitänyt.<br>
-<br>
 
 <b>Mitkä olivat mielireittisi kilpailussa?</b><br>
 Minulle kaikki siinä oli jännittävää yhdestä etapista toiseen. Elin unelmaani! 
 Kaikki siinä oli suurenmoista! Iditarod oli täydellinen haaste. Halusin päästä 
 kilpailun loppuun ja saada vyönsolkeni (Huom. annetaan kaikille maaliin 
 päässeille).<br>
-<br>
 
 <b>Kilpailu on pitkä, ankara matka Alaskasta Nomeen ja kerrottiin, että matkalla 
 oli hyytävän kylmää ja vaarallista. Kerro meille muutamia vaikeimpia kohtia 
-matkalla.</b>
+matkalla.</b><br>
 Eräs kaikkein haastavimmista kohdista oli Rainy Pass, tarvitsi todella olla 
 tarkkana kun jätti tuon tarkistuspisteen ja suuntasi yli vuorten. Kun tulin 
 Rainy Passiin, 6-8 ajajaa oli lähtenyt matkalle, kääntynyt ympäri ja palannut 
@@ -79,18 +71,15 @@ joutunut tulemaan poikki jään, minkä tuuli ja lumi oli pyyhkinyt liukkaaksi. 
 myös kulkemista uudelleen kovassa mutamyrskyssä (Huom! Myrsky oli niin kova, 
 että se oli pyyhkinyt maalta lunta pois ja lennätti maa-ainesta haitaten 
 valjakon kulkua).<br>
-<br>
 
-<b>Miten päätit viettää 24:n ja 8:n pakollisen lepoaikasi?</b><br>
+<b>Miten päätit viettää 24 ja 8 tunnin pakollisen lepoaikasi?</b><br>
 24 tunnin leponi vietin Takotnassa. Se on erittäin viehättävä kylä ja minulle 
 kerrottiin, että se olisi hyvä paikka levätä tuo 24 h, joten tein niin. 8 tunnin 
 lepo piti pitää joella, joten vietin sen Graylingissa. Juuri siellä ajattelin 
 koirien tarvitsevan lepoa.<br>
-<br>
 
 <b>Ajattelitko koskaan luovuttavasi?</b><br>
 Ei, se ei koskaan käynyt mielessäni.<br>
-<br>
 
 <b>Suuri osa osanottajista eivät aja Iditarodia loppuun asti.</b><br>
 Se ei vain ollut edes vaihtoehto.<br>
@@ -103,7 +92,6 @@ katsoin, miten nuo siperianhuskyt vain painoivat päänsä alas tuuleen ja meniv
 eteenpäin. Oli todella nautinto nähdä, miten koirista tuli yhteistyössä toimiva 
 valjakko. Oli ilo nähdä, miten koirat kääntyivät jyrkissä mutkissa ja miten ne 
 taas jatkoivat täydellisen oikeassa muodostelmassa.<br>
-<br>
 
 <b>Mitkä olivat joitakin asioita, jotka mainitaan rotumääritelmässä, joista ei 
 tulisi ajatelleeksi, että ne ovat tärkeitä koiria ajaessa?</b><br>
@@ -117,42 +105,38 @@ keskivahvan ylärajalla jotta koira olisi kestävä uralla. Hyvä kaksinkertaine
 turkki sekä pohjaturkki, missä pidemmät päällyskarvat. Siten ne pystyvät 
 nukkumaan missä vain, jopa lumessa ja jäällä. Rotumääritelmä on kirjoitettu 
 oikein, jos vain sitä todella noudatetaan.<br>
-<br>
 
 <b>Tämä on kilpailu ja side miehen ja koiran välillä. Se on hyvin henkilökohtainen. 
 Oliko kilpailu sitä mitä etukäteen kuvittelit?</b><br>
 Harjoittelun aikana koirat oppivat luottamusta ja uskollisuutta. Ja kilpailussa 
 ne osoittivat sen.<br>
-<br>
-<b>Miltä tuntui ylittää maaliviiva?</b><br>
 
+<b>Miltä tuntui ylittää maaliviiva?</b><br>
 Sen ylittäminen ja nähdä päämääräni toteutuneen on tunne ylitse kaiken muun. 
 Etenkin kun toin kaikki 16 koiraa maaliin.<br>
-<br>
+
 <b>Oliko se yhtä rankkaa kuin kuvittelit?</b><br>
 Siinä vain otti asian kerrallaan miten ne tulivat eteen. En todellakaan ollut 
 huolissani. Otin vain asian kerrallaan. Tähtäsin vain seuraavaan 
 tarkistuspisteeseen. En ollut huolissani siitä, mitä oli edessäpäin. Siten 
 selvisin siitä.<br>
-<br>
+
 <b>Oliko kilpailussa mitään takapakkeja, mitä et tullut ajatelleeksi ennen kuin 
 olit jo kilpailemassa?</b><br>
 No, 16 koiraa voi tulla jo haasteeksi. Kun tulee tarkistuspisteeseen, on enemmän 
 koiria huolehdittavana. On enemmän tassutossuja laitettavana, enemmän suita 
 ruokittavana ja enemmän ruokaa kannettavana. Siis enemmän tekemistä. Kaikki vie 
 enemmän aikaa.<br>
-<br>
+
 <b>Ensikertalais-ajajana minkä neuvon antaisit henkilölle, joka haluaisi osallistua 
 tähän kilpailuun?</b><br>
 Pitää löytää heikkoutensa ja rehellisesti yrittää parantaa niitä. Jos unen tarve 
-on sepitää tarkastella asiaa, keskittyä ja tehdä asia paremmin.<br>
+on se... pitää tarkastella asiaa, keskittyä ja tehdä asia paremmin.<br>
 
-<br>
 <b>Miten koirat voivat nyt? Aiotko ajaa koiriesi kanssa kilpailun uudelleen?</b><br>
 Koirat voivat mainiosti ja nauttivat tästä lepoajasta. Yritämme vielä kerätä 
 rahavaroja, haluaisin todella ajaa Iditarodin uudestaan, mutta se 
 on taloudellisesti iso haaste, en ole varma, onko meillä varaa tähän kilpailuun enää.<br>
-<br>
 
 <b>Lupaa sitten kertoa meille, jos teet niin. Kiitos että annoit aikaasi tähän 
 haastatteluun.</b>

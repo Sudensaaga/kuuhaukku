@@ -6,7 +6,7 @@ otsikko: Enkeli - legenda jo eläessään
 
 kolme-esiin-otsikko: Enkelin tarina
 kolme-esiin-teksti: "Jo aivan nuoresta koirasta lähtien se katsoi minua aina 
-    merkitsevästi tarhasta, ikään kuin sanoen, että meillä on tietty yhteys"
+    merkitsevästi tarhasta, ikään kuin sanoen, että meillä on tietty yhteys."
 kolme-esiin-kuva: enkelibanneri.jpg
 
 sivukuvat: 
@@ -34,8 +34,8 @@ jalostunut sielu.
 Pentuja syntyi yhteensä kuusi, neljä urosta ja kaksi narttua. Alusta asti oli 
 selvää, että kotiin jäisi juuri Enkeli. Sillä nimittäin oli tummat, kuin 
 tussilla vedetyt viivat kuonon päällä, kuten Readyllakin oli, vaikka hieman 
-vaaleampana. Lempinimen keksiminen oli alussa vaikeaa paperinimihän oli 
-Kuuhaukun Erämaan Enkeli-, koko ajan mieleeni tuli vain nimi Enkeli, josta 
+vaaleampana. Lempinimen keksiminen oli alussa vaikeaa - paperinimihän oli 
+Kuuhaukun Erämaan Enkeli. Koko ajan mieleeni tuli vain nimi "Enkeli", josta 
 alussa ajattelin, että enhän voi mitenkään antaa koiralle nimeksi Enkeli. Nimi 
 kuitenkin oli ikään kuin valikoitunut itsestään jo silloin, kun Enkeli syntyi, 
 eikä sitä voinut muuttaa. Niin alkoi elämäni koiran tarina ja elämä.
@@ -51,7 +51,7 @@ ikään kuin sanoen, että meillä on tietty yhteys. Se oli jo alun alkaen myös
 innokas vetokoira ja osoitti johtajakoiran kykyjä. Muistan, kuinka sen kerran 
 pelasti minut hankalasta tilanteesta. Pidin nimittäin kansalaisopistolle 
 valjakkoajon kurssia ja olin ottanut koirat mukaan, jotta osallistuja voisivat 
-ajaa ja olla reen kyydissä. Kolme narttua oli kiimassa ei siis mitenkään 
+ajaa ja olla reen kyydissä. Kolme narttua oli kiimassa - ei siis mitenkään 
 otollista ajonäytöksen kannalta. Ajattelin kuitenkin, että laitan juoksussa 
 olevat omaan valjakkoonsa osallistujien ajettavaksi ja ajan edellä urosten 
 kanssa. Ajoreitti oli kuitenkin puoliympyrän muotoinen ravirata ja tietenkin 
@@ -84,12 +84,12 @@ kun jotain tapahtuu.
 Enkeli oli mitä antautunein ja rakastavin äiti. Se todella nautti pennuistaan, 
 ja ne saivat tehdä sille melkein mitä vain. Se leikki niiden kanssa ja rakasti 
 selvästi lapsiaan yli kaiken. Sen pennut saivatkin hyvän alun elämäänsä niin 
-antaumuksellisen äidin ansiosta ei ihme, että sen pennutkin omaavat hienon 
+antaumuksellisen äidin ansiosta - ei ihme, että sen pennutkin omaavat hienon 
 luonteen paitsi perimänsä, myös Enkelin erinomaisten äidinvaistojen ansiosta.
 
 Enkeli menestyi myös näyttelyissä, vaikka minulle se asia ei juuri merkitsekään 
 mitään. Sillä oli kaikki sertit näyttelystä ja monet ihailivat sen erittäin 
-kaunista päätä ja tervettä rakennetta. Eräässä SPY:n nlyssä Korvolan Jaana 
+kaunista päätä ja tervettä rakennetta. Eräässä SPY:n näyttelyssä Korvolan Jaana 
 esitti Enkeliä. Siitä lähti hänen ihastuksensa siperianhuskyyn. Enkeli oli taas 
 tehnyt vaikutuksen.
 
@@ -106,7 +106,7 @@ yksilössä. Enkelin hienon perimän ominaisuuksia elää kuitenkin sen upeissa
 jälkeläisissä.
 
 Kaikella on kuitenkin rajallinen aikansa ja rakkaimpani Enkeli lähti eteenpäin 
-taipaleellaan torstaina 20.6. 2008 aamulla klo 6. Se sai sydänoireita kolmisen 
+taipaleellaan torstaina 20.6.2008 aamulla klo 6. Se sai sydänoireita kolmisen 
 viikkoa ennen ja sen oli vaikea hengittää ja nukkua, lääkityksenä se sai 
 nesteenpoistoa ja sydänlääkettä, mutta ne eivät paljoakaan auttaneet. 
 Eläinlääkäri tuli kotiin päästämään sen viimein tuskistaan, ja se nukkui 
@@ -147,7 +147,7 @@ ohjaamaan minua oikeaan suuntaan. Kun suljen silmäni, näen Enkelin vielä
 juoksemassa puutarhassa tai hyppien intoa täynnä valjakossa reen edessä. Näen, 
 kuinka se nuolee pentujaan ja leikkii niiden kanssa. Ja kuinka se makaa 
 keittiössä korvat pystyssä tarkkaillen, saisiko makupalaa. Kun oikein keskityn, 
-tunnen sen nuolevan kättäni huolehtivaisesti
+tunnen sen nuolevan kättäni huolehtivaisesti...
 
-Enkelin rakasta muistoa syvästi kunnioittaen 
+Enkelin rakasta muistoa syvästi kunnioittaen<br>
 jaana, Enkelin oma ihminen

@@ -1,5 +1,5 @@
 ---
-layout: artikkeli
+layout: artikkeli-kuvapalkilla
 menu: muuta
 permalink: iditarod
 otsikko: Kuuhaukun jälkikasvua Iditarodissa
@@ -7,10 +7,20 @@ otsikko: Kuuhaukun jälkikasvua Iditarodissa
 kolme-esiin-otsikko: Iditarod 2007
 kolme-esiin-teksti: "Kuuhaukun Ikuisen Rakkauden, Rascal-poikamme, jälkikasvua juoksi Iditarodissa Howln´n Wind kennelin A-valjakossa."
 kolme-esiin-kuva: page1_img1.jpg
+
+sivukuvat:
+    - iditarod/BlizzardNome-17.jpg : Blizzard Nomessa
+    - iditarod/IconNome-18.jpg : Icon Nomessa
+    - iditarod/IconjaBlizzard2.jpg
+    - iditarod/IDDonjakoirat-1.jpg : Don ja koirat
+    - iditarod/Idetappilahto-11.jpg
+    - iditarod/Idkokovaljakko-12.jpg
+    - iditarod/Idtaukopaikka-15.jpg
+    - iditarod/Idvaljakkoedestapunkoira-16.jpg
 ---
-<img src="iditarodkuvat/anchoragetonome.jpg"/><br><br>
-							
-Kuuhaukun Ikuisen Rakkauden, Rascal-poikamme, jälkikasvua juoksi vuoden 2007 
+<img src="images/iditarod/anchoragetonome.jpg"/><br>
+
+Kuuhaukun Ikuisen Rakkauden, "Rascal"-poikamme, jälkikasvua juoksi vuoden 2007 
 Iditarodissa <b>Howln´n Wind</b> kennelin A-valjakossa.<br>
 <br>
 <b>Troika´s Nordic Blizzard ja Troika´s Nordic Icon ovat myös kansainvälisiä 
@@ -21,13 +31,13 @@ Windin kanssa. <br>
 <b>84 starttaavasta valjakosta vain kaksi koostuu rekisteröidyistä koirista</b> (loput 
 ovat alaskanhusky- eli monirotuis-valjakoita), toisessa valjakossa on kilpa- ja 
 show-linjaisia koiria.<br>
-<br>
 
 <center>
-<img src="iditarodkuvat/icon.jpg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="iditarodkuvat/blizzard.jpg"/><br><br>
+<img src="images/iditarod/icon.jpg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img 
+src="images/iditarod/blizzard.jpg"/><br><br>
 </center>
 
-Howln´n Windin valjakossa toteutuu <b>dual purpose</b> jalostusperiaate, missä 
+Howln´n Windin valjakossa toteutuu <b>dual purpose</b>-jalostusperiaate, missä 
 päämääränä on sekä käyttö että ulkomuoto. Ja sehän onkin käyttökoiran 
 jalostuksessa ihanne, että näyttelymenestyjä on myös hyvä työkoira. Iditarod on 
 korkealle arvostettu ja hyvin vaativa kilpailu, jonka pituus on peräti <b>1800 km</b>. 
@@ -39,7 +49,6 @@ perusteella. Monille ajajille tärkein päämäärä on vain ajaa reitti läpi m
 saakka toivoen, että mahdollisimman moni koira valjakossa tulee maaliin. Reitti 
 ajetaan legendaarista seerumireittiä Anchoragesta Nomen kaupunkiin, ja se on 
 reitin varrella oleville kylille vuoden suurin tapahtuma.<br>
-<br>
 
 Valjakoita starttasi yhteensä 84, ja niistä <b>25 joutui keskeyttämään</b>. Ensimmäisen 
 viikon aikana keskeyttäneitä oli jo 18. Kilpailun alkumatkalla oli vaikea 
@@ -63,17 +72,16 @@ Iditarodissa sekä se, että ainoastaan kahden valjakon kaikki koirat (näistä
 toinen Donin) 84 valjakosta pääsivät maaliin. Leo Rasmussen, joka on 
 osallistunut tähän kilpailuun 35 vuoden ajan, sekä Martin Buser molemmat ovat 
 todenneet, että <b>vuoden 2007 kilpailu oli historian rankin</b> johtuen äärimmäisistä 
-sää- ja keliolosuhteista, joten Don todella teki koirineen miehen työn kun 
+sää- ja keliolosuhteista, joten Don todella teki koirineen "miehen työn" kun 
 selvisi ensikertalais-ajajana maaliin.<br>
-<br>
 
-Oikea Siperianhusky juoksee järki päässä, ajatuksella ja voimiaan säästäen (Huom. 
+Oikea siperianhusky juoksee "järki päässä", ajatuksella ja voimiaan säästäen (Huom. 
 kohtalainen nopeus). Hyvät rekikoirat <b>osaavat jakaa voimavaransa</b>, mikä oli 
 tärkeätä tsuktsien vetokoiralle, sillä arktisissa olosuhteissa tärkeintä oli 
 luotettavuus perille pääsemisessä ja energiaa säästävä työskentely. Usein 
 näyttelykehässä nähtävä lentävä ravi tuhlaa energiaa ja eikä ole 
 tarkoituksenmukainen ajateltaessa siperianhuskyn työtehtävää.<br>
-<br>
+
 Maaliskuussa Alaskassa ei ole niin kylmä kuin Siperiassa, pakkasta oli 
 Iditarodin aikaan alle -10 astetta, lukuun ottamatta alkutaipaleen lumimyrskyjä. 
 Koska old line koirilla on kunnollinen, arktinen turkki, Don ajoi koiriaan 
@@ -84,9 +92,9 @@ turkkia. Kerran kilpailussa Donin ajaessa paljaalla jäällä hän tunsi itsens�
 väsyneeksi ja näki, että koiratkin tarvitsevat lepoa. Hän vain pysäytti jäälle 
 ja koirat kiertyivät jäälle kerälle nukkumaan hänen itsensä asettuessa rekeen. 
 Ohiajavat ajajat hymyilivät ja totesivat, että niin, sinä tosiaan voit noiden 
-koirien kanssa pysähtyä lepäämään mihin <b>vain niiden paksun turkin ansiosta</b>.<br>
-<br>
-<b>Kaikenlaista voi sattua</b> matkan varrella tässä kovassa kisassa. Eräs ajaja mursi 
+koirien kanssa pysähtyä lepäämään mihin vain <b>niiden paksun turkin ansiosta</b>
+
+Kaikenlaista voi sattua matkan varrella tässä kovassa kisassa. Eräs ajaja mursi 
 jalkansa, ja toinen oli pudonnut reestä koirien jatkaessa matkaansa. Ajaja sai 
 kyydin toiselta kilpailijalta toivoen löytävänsä koiransa seuraavalta 
 tarkistuspisteeltä. Nämä olivat kuitenkin kääntyneet uralta, ja useiden 
@@ -94,7 +102,7 @@ moottorikelkkojen avulla valjakko ja ajaja taas palautettiin yhteen. Omaiset
 taas voivat vain istua ja odottaa, kun ajajat ovat reitillä. He voivat lukea 
 kilpailun kulusta netistä ja näkevät taukopaikalta otetuissa kuvissa kilpailevan 
 perheenjäsenensä.<br>
-<br>
+
 Don ajoi <b>keskimäärin 113 km vuorokaudessa</b> yli kahden viikon ajan, joten suoritus 
 on erinomainen ja vastaa hyvin alkuperäistä käyttöä. Ajasta voi laskea, että 
 voittovaljakon koiria on ajettu n. 200 km vuorokaudessa. Liekö koirat saaneet 
@@ -104,8 +112,7 @@ Nomea alkoi hakata kaikkia koiriaan, kun kaksi niistä oli uupumuksesta kaatunut
 jäälle. Ajaja diskattiin, ja seuraavana päivänä toinen uupuneista koirista 
 menehtyi. Tämä on esimerkki, miten kilpailussa voi unohtua koirien hyvinvointi 
 ja moraaliset asiat. Ihminenhän etiikasta on vastuussa, koska eläimet ovat 
-meidän armoillamme. <b>Kilpaileminen on hyväksyttävää vain eläinten ehdoilla.</b><br>
-<br>
+meidän armoillamme. <b>Kilpaileminen on hyväksyttävää vain eläinten ehdoilla.</b>
 
 Valjakon nopeus on mitattu kokonaisajasta lepotaukoineen reitillä yhteensä eli 
 se ei kerro varsinaista keskinopeutta liikkeessä. Sitä ei myöskään voi verrata 
@@ -118,7 +125,7 @@ hänen arvelee, että juuri näissä kovissa olosuhteissa old line siperianhusky
 ovat parhaimmillaan. Don on huomannut, että old linet ovat erinomaisia 
 käyttökoiria, ja hänellä on vaimonsa Denisen kanssa toivomuksena saada 
 jalostuskanta kokonaan old lineksi.<br>
-<br>
+
 Donin valjakko on kiinnittänyt huomiota siperianhusky-kasvattajien keskuudessa. 
 <b>ShowSibesin</b> sivuilla hehkutettiin 16. maaliskuuta , kun kilpailu vielä oli 
 käynnissä:<br><br>
@@ -135,7 +142,7 @@ sijaitsee Norton Soundin reunalla. Sitten hän kääntyy ja ajaa pitkin rannikol
 kulkevaa uraa jonkin matkaa päämääränä ylittää jää, osa Norton Bayta (Huom! 
 Seerumiajon reitti). Unalakleetin jälkeen valjakon täytyy vielä jaksaa neljän 
 muun tarkistuspisteen ohi, mistä kertyy matkaa n. 300 km, saavuttaakseen White 
-Mountainin. Tämän jälkeen hänellä on vain 123 km:n matka NOMEEN.<br>
+Mountainin. Tämän jälkeen hänellä on vain 123 km:n matka Nomeen.<br>
 <br>
 Donaldin pitäisi saavuttaa Nome myöhäisinä tunteina 15:ntenä päivänä tai ei 
 ainakaan myöhemmin kuin keskipäivällä 16. kilpailupäivänä. Ja ei ehkä Red 
@@ -157,5 +164,5 @@ kasvattajalle:
 että tässä kilpailussa on paljon enemmän niin historiallisesti kuin 
 sosiologisesti, kuin vain voitto. Se on kunnianosoitus koirille ja tuolle 
 (historialliselle) paikalle ja todellisille ihmisille, jotka asuvat siellä, 
-kunnianosoitus kestävälle ja arvonsa tuntevalle elämälle."</i></b></p>
+kunnianosoitus kestävälle ja arvonsa tuntevalle elämälle."</b></i>
 
