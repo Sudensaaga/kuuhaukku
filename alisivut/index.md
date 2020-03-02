@@ -4,8 +4,9 @@ menu: etusivu
 permalink: index
 
 dia-1-kuva: img4.jpg
-dia-1-otsikko: Dian Otsikko Tähän
-dia-1-teksti: Uusi teksti
+dia-1-otsikko: Uusi otsikko
+dia-1-teksti: Tähän tulee se uusi pidempi teksti. Tässä on tärkeää
+    että sisennettään nää seuraavat rivit.
 
 dia-2-kuva: img1.jpg
 dia-2-otsikko: Old Line® siperialaiset
