@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b110f118-5fa3-4b3e-9f2d-74de97adf058" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/artikkelit/kuuhaukun-kennelin-historia.md" beforeDir="false" afterPath="$PROJECT_DIR$/artikkelit/kuuhaukun-kennelin-historia.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alisivut/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/alisivut/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +44,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="2288" />
-          <entry key="Markdown" value="3715" />
+          <entry key="Markdown" value="3742" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="Ruby" value="49" />
           <entry key="SCSS" value="661" />
@@ -92,7 +91,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/artikkelit/kuuhaukun-kennelin-historia.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
@@ -104,12 +103,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/alisivut/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
               </first_editor>
               <second_editor />
             </state>
@@ -163,7 +162,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>slide-2-img</find>
       <find>slide-2-title</find>
       <find>slide-2-caption</find>
       <find>slide-3-img</find>
@@ -193,6 +191,7 @@
       <find>&lt;/b&gt;</find>
       <find>&lt;i&gt;</find>
       <find>&lt;/i&gt;</find>
+      <find>images/</find>
     </findStrings>
     <replaceStrings>
       <replace>dia-1-kuva</replace>
@@ -212,6 +211,7 @@
       <replace />
       <replace>**</replace>
       <replace>*</replace>
+      <replace>images/historia/</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/sivut</dir>
@@ -226,7 +226,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/artikkelit/tsukotkan-rekikoira.md" />
         <option value="$PROJECT_DIR$/artikkelit/oldline-siperianhusky.md" />
         <option value="$PROJECT_DIR$/artikkelit/lumi-ja-rascal.md" />
         <option value="$PROJECT_DIR$/artikkelit/siperianhuskyn-pentu-meilta.md" />
@@ -277,6 +276,7 @@
         <option value="$PROJECT_DIR$/artikkelit/koiravaljakon-vedatys.md" />
         <option value="$PROJECT_DIR$/artikkelit/kuuhaukun-tuonnit-ja-viennit.md" />
         <option value="$PROJECT_DIR$/artikkelit/kuuhaukun-kennelin-historia.md" />
+        <option value="$PROJECT_DIR$/alisivut/index.md" />
       </list>
     </option>
   </component>
@@ -307,6 +307,11 @@
             <path>
               <item name="kuuhaukku" type="b2602c69:ProjectViewProjectNode" />
               <item name="kuuhaukku" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kuuhaukku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kuuhaukku" type="462c0819:PsiDirectoryNode" />
+              <item name="alisivut" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kuuhaukku" type="b2602c69:ProjectViewProjectNode" />
@@ -378,12 +383,12 @@
       <workItem from="1583145448826" duration="291000" />
       <workItem from="1583149198595" duration="15286000" />
       <workItem from="1583218564651" duration="350000" />
-      <workItem from="1583225490795" duration="2566000" />
+      <workItem from="1583225490795" duration="3098000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72752000" />
+    <option name="totallyTimeSpent" value="73284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="25" width="1400" height="786" extended-state="0" />
@@ -755,16 +760,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alisivut/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" selection-start-line="9" selection-end-line="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/alisivut/muuta.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -835,6 +830,16 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="613">
             <caret line="254" column="8" lean-forward="true" selection-start-line="254" selection-start-column="8" selection-end-line="254" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alisivut/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
           </first_editor>
           <second_editor />
         </state>
