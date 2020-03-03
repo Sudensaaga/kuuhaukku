@@ -9,13 +9,13 @@ vaikka parhaansa yrittäisi. Tämän sain kokea karvaasti, kun eräs ensimmäise
 koiransa minulta hankkinut harrastelija päätti muuttaa pohjoiseen ja 
 perustaa majoitus- ja aktiviteettipalveluja antavan yrityksen. Hälytyskellot 
 soivat jo siinä vaiheessa, kun koiramäärää alettiin lisätä huimaa vauhtia- 
-sekarotuisilla ja kevyen linjan koirilla.<p>
+sekarotuisilla ja kevyen linjan koirilla.
 
 Minulta kyseinen henkilö oli ottanut viisi, siis ensimmäistä koiraa, joiden
 joukossa mm. Rascal, jonka olin jättänyt kotiin, mutta jonka annoin 
 ilmaiseksi hänelle ajatellen, että paikka on todella hyvä (Rascal oli toisen uroksen
 kanssa samassa tarhassa, ei tapellut, mutta hierarkiassa alempana, eikä
-tuntunut oikein viihtyvän).<p>
+tuntunut oikein viihtyvän).
 
 Ensimmäinen merkki siitä, että asiat eivät olleet niin kuin piti, oli kun
 sain tammikuussa Saksasta eräältä old line kasvattajalta tietää, että 
@@ -26,7 +26,7 @@ kauttani eivät merkinneet siinä vaiheessa mitään). Koira oli ollut lihakseto
 huonossa kunnossa huonon ravinnon vuoksi. Soitin välittömästi kasvatinomistajalleni, 
 joka ei ollut tietävinäänkään, ettei minulle olisi pitänyt kertoa ja joka väitti 
 asiaa kysyessäni, että muut neljä koiraa ovat vielä hänellä. Mainittakoon,että 
-hänen yrityksensä oli mennyt nurin n. vuosi sitten.<p>
+hänen yrityksensä oli mennyt nurin n. vuosi sitten.
 
 Kului kuukausi, kun ystäväni soitti minulle ja kertoi, että kahta 
 kasvattiani kaupataan SHS:n markkinasivulla. Koirat oli myyty samaiselle 
@@ -41,7 +41,7 @@ sopimuksen, vaikka kauppahinta tietenkin meni hänelle. Hän oli myös
 halunnut, että koira pääsee "kaltaistensa" joukkoon, soittoja oli nimittäin tullut 
 valtavasti (niin haluttuja ovat old line koirat!) ja hän oli luvannut koiran 
 paikkaan, jossa oli toinenkin kasvattini. Sain vielä yhteystiedot toisesta koirasta, 
-Aslakista, ja soitin sen uuteen kotiin varmistaakseni, että paikka tuntui asialliselta.<p>
+Aslakista, ja soitin sen uuteen kotiin varmistaakseni, että paikka tuntui asialliselta.
 
 
 Olin tietenkin tyrmistynyt tällaisesta valehtelusta ja soitin uudestaan
@@ -58,7 +58,7 @@ jalostusoikeutta käyttääkseni, saamatta vastausta. Olin todella huolissani si
 missä koirat ovat ja missä kunnossa ja sain erään tuttavani käymään vierailulla 
 toukokuussa safarikennelissä. Hän totesi siperianhuskyjen olevan hoikkia, mutta, 
 että Rascal ja Pipsa (jotka siis vielä olivat yrittäjällä) olivat suhteellisen 
-hyvässä kunnossa (niiden paksu turkkikin saattoi hämätä).<p>
+hyvässä kunnossa (niiden paksu turkkikin saattoi hämätä).
 
 
 Mietin, että olisi paikallaan saada eläinsuojeluvalvoja käydä paikalla.
@@ -67,12 +67,12 @@ viikolla järjestellyt asiaa, kun juhannuspäivänä sain tyrmistyttävän viest
 kahdeltakin henkilöltä, jotka asuivat samoilla seuduilla (toinen 
 ystävälliseltä safariyrittäjältä, jolle Eliksiiri ja Aslak myytiin): Katso 
 tektitv:n uutisia. Olin äitini mökillä, missä ei ollut sähköä, mutta siskoni mökillä 
-oli aurinkopaneelisähköllä toimiva TV, josta luin: <b>Kolmekymmentä koiraa 
-lopetettu eläinrääkkäyksen vuoksi, seitsemän jätetty henkiin</b>. Ja sama paikkakunta. 
+oli aurinkopaneelisähköllä toimiva TV, josta luin: **Kolmekymmentä koiraa 
+lopetettu eläinrääkkäyksen vuoksi, seitsemän jätetty henkiin**. Ja sama paikkakunta. 
 Alkoi välitön  puhelinsoittorumba paikkakunnan poliiseille, eläinlääkäreille jne. 
 Minulle sanottiin ensin, että elossa olevat koirat olivat kaikki pentuja. Muut 
 olivat olleet surkeassa kunnossa oltuaan viikkoja ilman ruokaa ja vettä ketjunpätkissä 
-kiinni, monilla ei ollut edes koppia ja aurinko paahtoi kuumasti koko touko- ja kesäkuun.<p>
+kiinni, monilla ei ollut edes koppia ja aurinko paahtoi kuumasti koko touko- ja kesäkuun.
 
 Matka mökiltä kotiin oli raskas: surin mielessäni kuolleita Rascalia ja
 Pipsaa ja ajattelin voisivatko he koskaan antaa anteeksi, voisinko minä
@@ -83,7 +83,7 @@ sen niin raskaasti ja kuvittelin mielessäni sen ja muiden koirien
 kärsimyksiä. Olin katkera ja vihainen enkä voinut mitenkään käsittää taas kerran 
 sellaisen ihmisen mieltä, joka voi toimia näin. Käsittämättömintä oli, että hän 
 mieluummin jätti koirat kuolemaan kuin palautti ne minulle (minulla ei koskaan ollut
- ollut mitään eripuraa kyseisen henkilön kanssa).<p>
+ ollut mitään eripuraa kyseisen henkilön kanssa).
 
 
 
@@ -98,7 +98,7 @@ Ruokamäärä ei olisi riittänyt kuin elintoimintojen ylläpitämiseen, ei
 koirien
 kuntoon saamiseen. Ihmetellä täytyy, miksi naapuri ei sitten ilmoittanut
 poliisille, että koirat ovat nälkiintyineitä kun ruoat loppuivat (tosin
-en tiedä kuka ilmoituksen teki).<p>
+en tiedä kuka ilmoituksen teki).
 
 
 
@@ -136,7 +136,7 @@ vielä hoitomaksut, jotka mahdollisesti lankeaisivat maksettavakseni.
 Pelkäsin,
 etteivät varani riitä koirien lunastukseen ja niiden pitkään matkaan 
 pohjoisesta
-etelään. Lisäksi pitäisi rakentaa niille uusi tarhakin.<p>
+etelään. Lisäksi pitäisi rakentaa niille uusi tarhakin.
 
 
 Kävin poliisikuulusteluissa selvittääkseni suhteeni koiriin (missä myös
@@ -153,7 +153,7 @@ vuoden
 hermopaine ja tuska koirien kohtalosta oli ohi, näkisin jälleen Ikuisen
 Rakkauteni ja päätin myös, ettei Pipsankaan enää tarvitse viettää 
 vanhuudenpäiviään
-missään muualla kuin syntymäkodissaan.<p>
+missään muualla kuin syntymäkodissaan.
 
 Jutellessani lisää hoitopaikan omistajan kanssa, sain tietää, että koirani
 olivat olleet niin nälkiintyneitä, uupuneita, täriseviä ja lihaksettomia,
@@ -169,7 +169,7 @@ totesi vain, että poliiseilta on lupa, hän aikoo antaa koirat. Muutenkin
 entinen omistaja vielä kehtasi tehdä kiusaa, hän ei esimerkiksi suostunut
 kertomaan huostaan otettujen koirien nimiä, jotta hoitajalla olisi 
 vaikeampaa
-niiden kanssa (loput henkiin jääneet saivatkin kodin hänen luotaan).<p>
+niiden kanssa (loput henkiin jääneet saivatkin kodin hänen luotaan).
 
 
 Sitten piti alkaa järjestellä Rascalin ja Pipsan kotimatkaa. Laskin 
@@ -185,7 +185,7 @@ puoli tuntia, koirien piti olla valmiina kentällä, eikä mikään saisi mennä
 vikaan. Rohkenin jälleen turvautua kasvatinomistajaani. Puhelinsoitto 
 Petrille
 (joka asui lähellä paikkakunnan lentokenttää) sai hänet lähtemään lomaltaan
-aikaisemmin ja liittymään pelastuspartioomme.<p>
+aikaisemmin ja liittymään pelastuspartioomme.
 
 
 Vein lentoboksit Outille edellisenä päivänä ja kun seuraava päivä tuli,
@@ -200,7 +200,7 @@ Rascal ja Pipsa vihdoin pääsivät kotiin, kun rakas Rustymme jouduttiin
 lopettamaan
 vanhuuttaan. Omituisesti tuntui siltä, kuin ne olisivat antaneet tilaa 
 uusille
-asukkaille, vaikka uusi tarha odottikin kotiin saapuvia.<p>
+asukkaille, vaikka uusi tarha odottikin kotiin saapuvia.
 
 
 Kännykät tekivät mahdolliseksi elokuvamaisen tilanteen seuraamisen. 
@@ -229,7 +229,7 @@ ympärilläni
 ja Pipsa oli myös riehaantuneen iloinen. Tuntui, että ne osoittivat 
 kiitollisuuttaan
 mitä suuremmassa määrin ja silloin minusta tuntui, ettei vaivannäköni ollut
-todellakaan turhaa. Parempaa kiitosta en olisi voinut saada!<p>
+todellakaan turhaa. Parempaa kiitosta en olisi voinut saada!
 
 Kotona laitoin koirat tarhaan ja Rascal meni muitta mutkitta entiseen 
 tarhaansa kuin ei olisi poissa ollutkaan. Pipsakin makoili tyytyväisenä 
@@ -242,7 +242,7 @@ muuta kuin luut ja jänteet. Sen jalat olivat takaa taipuneet, koska sillä
 ei ollut mitään lihaksia. Vielä enemmän olin huolissani turvotuksesta 
 etujaloissa, pelkäsin, että sille oli tullut pysyviä vammoja etujalkojen niveliin. Se ontuikin alkuaikoina silloin tällöin, mutta onneksi myöhemmin turvotus ja ontuminen loppuivat. Olen varma, että Pipsa ja Rascal säästyivät 
 lopetukselta pelkästään paksun, arktisen turkkinsa ansiosta; ne olivat olleet sen ansiosta edes vähän pyöreämmän näköisiä. Niillä oli parempi onni kuin 
-kolmellakymmenellä kilpalinjan ja alaskalaiskavereillaan.<p>
+kolmellakymmenellä kilpalinjan ja alaskalaiskavereillaan.
 
 Aloitin tehoruokinnan. Molemmat koirat saivat kaksi kertaa päivässä ruokaa,
 Nutro's Choicea ja lihaa, yhteensä n. 4 litraa/vrk. Muutaman päivän päästä
@@ -264,7 +264,7 @@ häipymään.
 Ilmeisesti kyseessä oli ollut kapi, sillä meillä hoidossa olleet kasvatitkin
 olivat saaneet tartunnan, mutta mitään ei näkynyt iholla. Kapi eli 
 syyhypunkki
-kulkee ihon pinnan alla aiheuttaen kiusallista kutinaa.<p>
+kulkee ihon pinnan alla aiheuttaen kiusallista kutinaa.
 
 Alussa pelkäsin laittaa Rascalia ja Pipsaa valjakkoon, etteivät ne vain
 rasittuisi liikaa oltuaan niin huonossa kunnossa. Halu vetää oli kuitenkin
@@ -279,7 +279,7 @@ ja luottavaisia siperialaisia, ja Rascalin sydämellisyydellä ei ole rajoja
 tilanteesta
 enemmän kuin luulisi). Aina kun katson niitä, kiitän liikuttuneena jotain
 ylempää: joskus oikeus ja hyvä kuitenkin voittavat tässä maailmassa. Nuo
-kaksi rakasta sinisilmää ovat tämän vuoden paras joululahjani.<p>
+kaksi rakasta sinisilmää ovat tämän vuoden paras joululahjani.
 
 
 - Jaana. S

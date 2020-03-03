@@ -21,14 +21,14 @@ sivukuvat:
 <img src="images/iditarod/anchoragetonome.jpg"/><br>
 
 Kuuhaukun Ikuisen Rakkauden, "Rascal"-poikamme, jälkikasvua juoksi vuoden 2007 
-Iditarodissa <b>Howln´n Wind</b> kennelin A-valjakossa.<br>
+Iditarodissa **Howln´n Wind** kennelin A-valjakossa.<br>
 <br>
-<b>Troika´s Nordic Blizzard ja Troika´s Nordic Icon ovat myös kansainvälisiä 
-muotovalioita</b>, kuten moni muukin koira Don Smidtin valjakossa. Valjakko koostui 
+**Troika´s Nordic Blizzard ja Troika´s Nordic Icon ovat myös kansainvälisiä 
+muotovalioita**, kuten moni muukin koira Don Smidtin valjakossa. Valjakko koostui 
 old line ja show line koirista (80 % old linea), ja A-valjakon johtajakoira on 
 Kanadan muotovalio Troika´s Orion. Troika kennel onkin yhteistyössä Howln´n 
 Windin kanssa. <br>
-<b>84 starttaavasta valjakosta vain kaksi koostuu rekisteröidyistä koirista</b> (loput 
+**84 starttaavasta valjakosta vain kaksi koostuu rekisteröidyistä koirista** (loput 
 ovat alaskanhusky- eli monirotuis-valjakoita), toisessa valjakossa on kilpa- ja 
 show-linjaisia koiria.<br>
 
@@ -37,26 +37,26 @@ show-linjaisia koiria.<br>
 src="images/iditarod/blizzard.jpg"/><br><br>
 </center>
 
-Howln´n Windin valjakossa toteutuu <b>dual purpose</b>-jalostusperiaate, missä 
+Howln´n Windin valjakossa toteutuu **dual purpose**-jalostusperiaate, missä 
 päämääränä on sekä käyttö että ulkomuoto. Ja sehän onkin käyttökoiran 
 jalostuksessa ihanne, että näyttelymenestyjä on myös hyvä työkoira. Iditarod on 
-korkealle arvostettu ja hyvin vaativa kilpailu, jonka pituus on peräti <b>1800 km</b>. 
+korkealle arvostettu ja hyvin vaativa kilpailu, jonka pituus on peräti **1800 km**. 
 Useampi ihminen on kiivennyt Mount Everestille, kuin päässyt maaliin 
 Iditarodissa! Kilpailu lähtee Anchoragesta, Alaskan länsi- keskustasta, ja 
-päättyy Nomeen, läntisen Beringin salmen rannikolle. Se kestää <b>10-17 päivää</b>. 
+päättyy Nomeen, läntisen Beringin salmen rannikolle. Se kestää **10-17 päivää**. 
 Kilpailuun osallistuminen on jo saavutus, sillä kilpailijat valitaan karsinnan 
 perusteella. Monille ajajille tärkein päämäärä on vain ajaa reitti läpi maaliin 
 saakka toivoen, että mahdollisimman moni koira valjakossa tulee maaliin. Reitti 
 ajetaan legendaarista seerumireittiä Anchoragesta Nomen kaupunkiin, ja se on 
 reitin varrella oleville kylille vuoden suurin tapahtuma.<br>
 
-Valjakoita starttasi yhteensä 84, ja niistä <b>25 joutui keskeyttämään</b>. Ensimmäisen 
+Valjakoita starttasi yhteensä 84, ja niistä **25 joutui keskeyttämään**. Ensimmäisen 
 viikon aikana keskeyttäneitä oli jo 18. Kilpailun alkumatkalla oli vaikea 
 reittiosuus, jossa oli jäätäviä lumimyrskyjä, jotka tuuli voimisti vastaamaan 
-<b>yli 40 asteen pakkasta</b>. Reitillä oli myös tuulen kasaamia kinoksia ja 
+**yli 40 asteen pakkasta**. Reitillä oli myös tuulen kasaamia kinoksia ja 
 myrskytuuli lennätti maa-ainesta vaikeuttaen kulkua, ja moni keskeyttikin jo 
 alkutaipaleella ylivoimaisten olosuhteitten vuoksi. Kaikista lähteneistä 
-valjakoista vain kahdessa oli <b>kaikki 16 koiraa jäljellä</b> maaliin tultaessa, ja 
+valjakoista vain kahdessa oli **kaikki 16 koiraa jäljellä** maaliin tultaessa, ja 
 toinen näistä valjakoista oli Howln`n Windin. Se kertonee jotain old line 
 koirien kestävyydestä. Donin päämääränä oli tuoda kaikki koirat maaliin hyvässä 
 kunnossa ja voittaa toinen rekisteröity valjakko; nämä päämääränsä hän 
@@ -71,12 +71,12 @@ mahdollisimman pitkään. Tämän osoittaa suuri keskeyttäneiden valjakoiden m�
 Iditarodissa sekä se, että ainoastaan kahden valjakon kaikki koirat (näistä 
 toinen Donin) 84 valjakosta pääsivät maaliin. Leo Rasmussen, joka on 
 osallistunut tähän kilpailuun 35 vuoden ajan, sekä Martin Buser molemmat ovat 
-todenneet, että <b>vuoden 2007 kilpailu oli historian rankin</b> johtuen äärimmäisistä 
+todenneet, että **vuoden 2007 kilpailu oli historian rankin** johtuen äärimmäisistä 
 sää- ja keliolosuhteista, joten Don todella teki koirineen "miehen työn" kun 
 selvisi ensikertalais-ajajana maaliin.<br>
 
 Oikea siperianhusky juoksee "järki päässä", ajatuksella ja voimiaan säästäen (Huom. 
-kohtalainen nopeus). Hyvät rekikoirat <b>osaavat jakaa voimavaransa</b>, mikä oli 
+kohtalainen nopeus). Hyvät rekikoirat **osaavat jakaa voimavaransa**, mikä oli 
 tärkeätä tsuktsien vetokoiralle, sillä arktisissa olosuhteissa tärkeintä oli 
 luotettavuus perille pääsemisessä ja energiaa säästävä työskentely. Usein 
 näyttelykehässä nähtävä lentävä ravi tuhlaa energiaa ja eikä ole 
@@ -92,7 +92,7 @@ turkkia. Kerran kilpailussa Donin ajaessa paljaalla jäällä hän tunsi itsens�
 väsyneeksi ja näki, että koiratkin tarvitsevat lepoa. Hän vain pysäytti jäälle 
 ja koirat kiertyivät jäälle kerälle nukkumaan hänen itsensä asettuessa rekeen. 
 Ohiajavat ajajat hymyilivät ja totesivat, että niin, sinä tosiaan voit noiden 
-koirien kanssa pysähtyä lepäämään mihin vain <b>niiden paksun turkin ansiosta</b>
+koirien kanssa pysähtyä lepäämään mihin vain **niiden paksun turkin ansiosta**
 
 Kaikenlaista voi sattua matkan varrella tässä kovassa kisassa. Eräs ajaja mursi 
 jalkansa, ja toinen oli pudonnut reestä koirien jatkaessa matkaansa. Ajaja sai 
@@ -103,7 +103,7 @@ taas voivat vain istua ja odottaa, kun ajajat ovat reitillä. He voivat lukea
 kilpailun kulusta netistä ja näkevät taukopaikalta otetuissa kuvissa kilpailevan 
 perheenjäsenensä.<br>
 
-Don ajoi <b>keskimäärin 113 km vuorokaudessa</b> yli kahden viikon ajan, joten suoritus 
+Don ajoi **keskimäärin 113 km vuorokaudessa** yli kahden viikon ajan, joten suoritus 
 on erinomainen ja vastaa hyvin alkuperäistä käyttöä. Ajasta voi laskea, että 
 voittovaljakon koiria on ajettu n. 200 km vuorokaudessa. Liekö koirat saaneet 
 riittävästi lepoa vai meneekö ajajan voitontahto koirien hyvinvoinnin edelle. 
@@ -112,7 +112,7 @@ Nomea alkoi hakata kaikkia koiriaan, kun kaksi niistä oli uupumuksesta kaatunut
 jäälle. Ajaja diskattiin, ja seuraavana päivänä toinen uupuneista koirista 
 menehtyi. Tämä on esimerkki, miten kilpailussa voi unohtua koirien hyvinvointi 
 ja moraaliset asiat. Ihminenhän etiikasta on vastuussa, koska eläimet ovat 
-meidän armoillamme. <b>Kilpaileminen on hyväksyttävää vain eläinten ehdoilla.</b>
+meidän armoillamme. **Kilpaileminen on hyväksyttävää vain eläinten ehdoilla.**
 
 Valjakon nopeus on mitattu kokonaisajasta lepotaukoineen reitillä yhteensä eli 
 se ei kerro varsinaista keskinopeutta liikkeessä. Sitä ei myöskään voi verrata 
@@ -127,10 +127,10 @@ käyttökoiria, ja hänellä on vaimonsa Denisen kanssa toivomuksena saada
 jalostuskanta kokonaan old lineksi.<br>
 
 Donin valjakko on kiinnittänyt huomiota siperianhusky-kasvattajien keskuudessa. 
-<b>ShowSibesin</b> sivuilla hehkutettiin 16. maaliskuuta , kun kilpailu vielä oli 
+**ShowSibesin** sivuilla hehkutettiin 16. maaliskuuta , kun kilpailu vielä oli 
 käynnissä:<br><br>
 
-<i>"Viimeinen ja ainoa puhdasrotuinen siperianhusky-valjakko, joka vielä juoksee 
+*"Viimeinen ja ainoa puhdasrotuinen siperianhusky-valjakko, joka vielä juoksee 
 Iditarodissa musherinaan Don Smidt, saapui Kaltagiin (väliasema) 1.10 tänä 
 aamuna KAIKKI 16 siperialaista valjakossa. Niille, jotka eivät tiedä, 
 kerrottakoon, että Kaltag on piste, missä Pohjoinen reitti (ajetaan parillisina 
@@ -149,20 +149,20 @@ ainakaan myöhemmin kuin keskipäivällä 16. kilpailupäivänä. Ja ei ehkä Re
 Lanternin sijoituksella, sillä tällä hetkellä hänen jäljessään on yksi valjakko. 
 Mutta 15-16 päivää ei ole huono aika ensikertalaiselle, joka ajaa 
 siperialaisilla ottaen huomioon kokonaismatka, josta valjakon täytyy selviytyä. 
-Go Siberians!"<br></i>
+Go Siberians!"<br>*
 <br>
 Donin suorituksesta on syytä olla hyvinkin ylpeä vielä senkin vuoksi, että tämä 
 oli ensimmäinen kerta kun ensikertalaisajaja tuo maaliin koko valjakon 
 AKC-rekisteröityjä siperianhuskyja Iditarodissa.<br>
 <br>
 
-<b>Michael Jennings</b>, The New Complete Siberian Husky -kirjan kirjoittaja ja pitkän 
+**Michael Jennings**, The New Complete Siberian Husky -kirjan kirjoittaja ja pitkän 
 linjan siperianhusky-harrastaja, kirjoitti Carol Dixonille, Troika-kennelin 
 kasvattajalle:
 
-<i><b>"Kyllä, jo pääseminen maaliin Iditarodissa ON tietynlainen voitto. On ilmeistä, 
+***"Kyllä, jo pääseminen maaliin Iditarodissa ON tietynlainen voitto. On ilmeistä, 
 että tässä kilpailussa on paljon enemmän niin historiallisesti kuin 
 sosiologisesti, kuin vain voitto. Se on kunnianosoitus koirille ja tuolle 
 (historialliselle) paikalle ja todellisille ihmisille, jotka asuvat siellä, 
-kunnianosoitus kestävälle ja arvonsa tuntevalle elämälle."</b></i>
+kunnianosoitus kestävälle ja arvonsa tuntevalle elämälle."***
 

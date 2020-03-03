@@ -87,7 +87,7 @@ kertoi minulle, ettei koskaan ole kertonut tätä kenellekään noihin aikoihin,
 koska hän ei halunnut kaikkien suuttuvan hänelle -- mutta kun Seppala vieraili 
 NE:ssa 1960, hän kierteli monia siperianhusky kenneleitä, ja hän kertoi Lornalle, 
 että koirat Lornan kennelissä olivat melkein tarkalleen saman tyyppisiä kuin 
-hänellä olleet alkuperäiset tuonnit  (raskaampi luustoisia, lyhyempi jalkaisia).<p>
+hänellä olleet alkuperäiset tuonnit  (raskaampi luustoisia, lyhyempi jalkaisia).
 
 Takaisin -- miksi Tantaa ei astutettu enää? Sillä ei varmaankaan ollut mitään 
 tekemistä Tantan laadun kanssa -- muistakaa, tuohon aikaan oli hyvin vähän 

@@ -4,57 +4,57 @@ menu: muuta
 permalink: iditarod-musherin-profiili
 otsikko: Don Smidtin kisaprofiili / Iditarod 2007
 ---
-<b>Ajajan nimi:</b> 
+**Ajajan nimi:** 
 Donald Smidt<br>
 <br>
-<b>Ensikertalainen/veteraani:</b> Ensikertalainen <br>
+**Ensikertalainen/veteraani:** Ensikertalainen <br>
 <br>
-<b>Ikä:</b> 40<br>
+**Ikä:** 40<br>
 <br>
-<b>Syntymäpaikka:</b> Iowa<br>
+**Syntymäpaikka:** Iowa<br>
 <br>
-<b>Asuinpaikka:</b> Van Dyne, Wisconsin<br>
+**Asuinpaikka:** Van Dyne, Wisconsin<br>
 <br>
-<b>Kansallisuus:</b> amerikkalainen <br>
+**Kansallisuus:** amerikkalainen <br>
 <br>
-<b>Kieli:</b> englanti<br>
+**Kieli:** englanti<br>
 <br>
-<b>Asuinkumppani/puoliso:</b> Denise Cwiok<br>
+**Asuinkumppani/puoliso:** Denise Cwiok<br>
 <br>
-<b>Perheenjäsenet: </b>Christopher Brown (6)<br>
+**Perheenjäsenet: **Christopher Brown (6)<br>
 <br>
-<b>Kennel Nimi:</b> Howl'n Wind Siberian Huskies<br>
+**Kennel Nimi:** Howl'n Wind Siberian Huskies<br>
 <br>
-<b>Mistä tuo nimi on saanut alkunsa?:</b> Siperianhuskyt rakastavat "laulamista" 
+**Mistä tuo nimi on saanut alkunsa?:** Siperianhuskyt rakastavat "laulamista" 
 ja naapurit sanovat, että he kuulevat ulvonnan tuulen kantamana<br>
 <br>
-<b>Kennelin sukulinjat:</b> Troika Kennel, Howl'n Wind, AKC Siperian Huskyt<br>
+**Kennelin sukulinjat:** Troika Kennel, Howl'n Wind, AKC Siperian Huskyt<br>
 <br>
-<b>Kuinka kauan olet ajanut koiria?:</b> 10 vuotta<br>
+**Kuinka kauan olet ajanut koiria?:** 10 vuotta<br>
 <br>
-<b>Kuinka aloit ajaa koiria?:</b> Minulla on AKC-rekisteröityjä siperianhuskeja, 
+**Kuinka aloit ajaa koiria?:** Minulla on AKC-rekisteröityjä siperianhuskeja, 
 ja tämä oli hieno tapa harjoitella ja viettää mukavaa aikaa <br>
 <br>
-<b>Suoritetut kilpailut (isommat)?:</b> 2007 Iditarod (57s)<br>
+**Suoritetut kilpailut (isommat)?:** 2007 Iditarod (57s)<br>
 <br>
-<b>Miksi ajat valjakolla? Mistä pidät siinä eniten?:</b> Puhtaasti nauttien 
+**Miksi ajat valjakolla? Mistä pidät siinä eniten?:** Puhtaasti nauttien 
 työskentelevistä koirista ja nauttien, kun näen, miten valjakko muodostuu 
 yhteistyössä; nautin myös katsoa hyvän koiran työskentelyä. <br>
 <br>
-<b>Muita koira-järjestöjä, joihin kuulut?:</b> Mush with PRIDE, Wisconsin 
+**Muita koira-järjestöjä, joihin kuulut?:** Mush with PRIDE, Wisconsin 
 Trailblazers<br>
 <br>
-<b>Miksi osallistuit Iditarodiin?:</b> Haasteen vuoksi<br>
+**Miksi osallistuit Iditarodiin?:** Haasteen vuoksi<br>
 <br>
-<b>Mitä ajattelit aloittaessasi kilpailun?:</b> Päästä maaliin!<br>
+**Mitä ajattelit aloittaessasi kilpailun?:** Päästä maaliin!<br>
 <br>
-<b>Muut harrastuksesi?:</b> Retkeily, kalastus, lenkkeily<br>
+**Muut harrastuksesi?:** Retkeily, kalastus, lenkkeily<br>
 <br>
-<b>Ketkä sponsoroivat sinua?:</b> Howl'n Wind Siberian Huskies, Denise Cwiok, 
+**Ketkä sponsoroivat sinua?:** Howl'n Wind Siberian Huskies, Denise Cwiok, 
 Van Dyne, WI; Troika Kennels, Carol Dixon, Gainesville, TX; GENUS Biosystems, 
 Northbrook, IL.<br>
 <br>
-<b>Lisää:</b><br>
+**Lisää:**<br>
 Hankimme ensimmäisen koiran Carol Dixonilta, Troika kennelistä, Gainsvillestä 
 Teksasista vuonna 2000. Hankittuamme useita koiria Carolilta huomasimme, että 
 niillä oli todellinen "valjakkopää"-mentaliteetti ja ne rakastivat 
@@ -74,11 +74,11 @@ ylläpitämään suurta kenneliä. Olemme huomanneet genetiikan ja populaatio
 kontrollin opinnoissa että meidän täytyy pitää tarpeeksi koiria pitääksemme 
 geenipoolin laajana ja silloin tällöin tehdä ulkosiitos koiraan, joka muistuttaa 
 fenotyypiltään koiriamme. Tämä tekee mahdolliseksi kasvattaa koiria jotka ovat 
-menestyksekkäitä sekä pitkän matkan kilpailuissa että näyttelyissä.<p><br>
+menestyksekkäitä sekä pitkän matkan kilpailuissa että näyttelyissä.<br>
 <br>
-<i><b>Icon ja Blizzard saivat hienosta suorituksestaan 
+***Icon ja Blizzard saivat hienosta suorituksestaan 
 Iditarodissa nimiinsä SHCA:n (Siberian Husky Club of America) arvostetun 
 SD-tunnuksen. Tunnus tulee vaativan rodunomaisen työskentelyn näytöstä, ja 
 toisena vaatimuksena valjkkotyöskentelyn ohella pitää koirasta lähettää kuva 
-edestä ja sivusta, sillä tunnusta ei myönnetä monirotuisen näköisille koirille</b></i>
+edestä ja sivusta, sillä tunnusta ei myönnetä monirotuisen näköisille koirille***
 
