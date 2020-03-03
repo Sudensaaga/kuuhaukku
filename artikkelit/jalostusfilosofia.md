@@ -1,5 +1,5 @@
 ---
-layout: artikkeli
+layout: artikkeli-kuvapalkilla
 menu: muuta
 permalink: jalostusfilosofia
 otsikko: Jalostusfilosofia; jalostuksen tavoitteet ja arvot
@@ -7,6 +7,13 @@ otsikko: Jalostusfilosofia; jalostuksen tavoitteet ja arvot
 kolme-esiin-otsikko: Jalostusfilosofia
 kolme-esiin-teksti: "Jalostuksen tavoitteet ja arvot koirankasvatuksessa. Tasapainossa luonne, terveys, käyttöominaisuudet ja oikea arktinen ulkomuoto."
 kolme-esiin-kuva: jalostusicon.jpg
+
+sivukuvat:
+    - jalostusfilosofia/siperianhusky-valjakko.jpg : Kuuhaukun valjakko
+    - jalostusfilosofia/siperianhusky-pennut-sylissa.jpg : Kasvatteja 9 pennun pentueesta
+    - jalostusfilosofia/siperianhusky-isoisa-ja-lapsenlapsi.jpg : Isoisä ja lapsenlapsi, 10 vuoden ikäero
+    - jalostusfilosofia/siperianhusky-viima.jpg : Kuuhaukun Kruunaa Kaiken, Viima
+    - jalostusfilosofia/siperianhusky-pennut-sylissa.jpg : Pennut Aurora Nocturne & Canis Majoris
 ---
 
 Kuuhaukun kennelin kasvatustyön **päämääränä on säilyttää arktinen, hyväluonteinen, 
@@ -17,7 +24,7 @@ ja se on jo 40 vuoden ajan toiminut yhtäjaksoisesti ollen vanhin ja pitkään a
 kennel Pohjoismaissa. **Kuuhaukun kennel on ollut hyvin tiukka jalostustyössään** eikä ole 
 sekoittanut kevyen linjan kilpakoiria eikä "modern show line" - eli näyttelylinjoja 
 kantaansa. Näin old line koirien alkuperäinen ja tyypillinen ulkomuoto ja ominaisuudet 
-ovat säilyneet. **Tarkoituksena onkin vanhan säilyttäminen** eikä tyypin muuttaminen eri 
+ovat säilyneet. **Tarkoituksena onkin "vanhan säilyttäminen"** eikä tyypin muuttaminen eri 
 ihanteiden ja päämäärien mukaan. Jalostukseen on käytetty vain silmätarkastettuja, nyttemmin myös lonkkakuvattuja 
 ja kliinisesti terveitä koiria. Kennelin koirat 
 työskentelevät valjakossa joka viikko, ja niiden työskentelyominaisuudet huomioidaan 
@@ -81,3 +88,7 @@ elää rakastettuna perheenjäsenenä. Koiramäärästä riippumatta jokaisen ka
 yksilökohtaista hoitoa ja huomiota. Koiria ei tavallisesti anneta vanhempana eteenpäin, 
 vaan myös steriloidut ja vanhat koirat saavat elää luonamme vanhuuteen asti, ja niiden 
 hoidosta huolehditaan samalla tavalla kuin nuorempien jalostuskoirien.
+
+<center>
+<img src="images/jalostusfilosofia/siperianhusky-toko.jpg"/>
+</center><br>

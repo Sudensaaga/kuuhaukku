@@ -18,7 +18,9 @@ sivukuvat:
     - iditarod/Idtaukopaikka-15.jpg
     - iditarod/Idvaljakkoedestapunkoira-16.jpg
 ---
-<img src="images/iditarod/anchoragetonome.jpg"/><br>
+<center>
+<img src="images/iditarod/anchoragetonome.jpg"/>
+</center><br>
 
 Kuuhaukun Ikuisen Rakkauden, "Rascal"-poikamme, jälkikasvua juoksi vuoden 2007 
 Iditarodissa **Howln´n Wind** kennelin A-valjakossa.<br>

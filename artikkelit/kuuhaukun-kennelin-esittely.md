@@ -1,5 +1,5 @@
 ---
-layout: artikkeli
+layout: artikkeli-kuvapalkilla
 menu: muuta
 permalink: kuuhaukun-kennelin-esittely
 otsikko: Kuuhaukun kennel 1979
@@ -7,6 +7,18 @@ otsikko: Kuuhaukun kennel 1979
 kolme-esiin-otsikko: Yleistä
 kolme-esiin-teksti: "Lyhyesti 1979 perustetun kennelin historiasta ja perustietoja kennelin toiminnasta. Kuuhaukun koirat käytössä, näytössä ja kotioloissa."
 kolme-esiin-kuva: esittelyicon.jpg
+
+sivukuvat :
+    - kennelin-esittely/kuuhaukun-kennelin-nartut.jpg : Merkittävät nartut Lumi, Rusty ja Enkeli
+    - kennelin-esittely/esittely2.JPG : Kuuhaukun ensimmäisiä pentuja
+    - kennelin-esittely/esittely3.jpg : V-85-88, PMV-89 Kuuhaukun Reissumies
+    - kennelin-esittely/enkelisoik.jpg : Kuuhaukun Erämaan Enkeli
+    - kennelin-esittely/esittely4.JPG : Kuuhaukun Teräs-Teddy ja Suden Saaga
+    - kennelin-esittely/valjakkoretkeilya-tunturissa.jpg : Valjakkoretkeilyä tunturissa
+    - kennelin-esittely/esittely7.JPG : Jaana ja Jade (Troika's Pow Wow)
+    - kennelin-esittely/peppiesittely.jpg : Kuuhaukun Dominoa Lumella, Peppi
+    - kennelin-esittely/siperianhusky-oentu-verona.jpg : Kuuhaukun Aurora Nocturne, Verona
+    - kennelin-esittely/jedipentu.jpg : Hetken paikoillaan, suloinen Jedi-pentu
 ---
 Kuuhaukun kennel on perustettu vuonna 1979. Kennelin kantanarttu on **SE & FIN MVA 
 V-86 Roady Ratiritiralla**, johon perustuu 9 sukupolvea Kuuhaukun kasvatustyötä. Sen isä **FIN MVA Äijänsuon Tantintin** 
@@ -23,24 +35,30 @@ Alaskasta, Äijänsuon kenneliin. Se vietti loppuelämänsä Kuuhaukun kenneliss
 sukutauluja. Se oli johtajakoira kuten monet sen jälkeläiset.
 
 <center>
-<img src="images/ready.jpg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/vilkenvits.jpg"><br><br>
-*Kantanarttu SE & FIN MVA V-86 Roady Ratiritiralla ja tyypillinen Kuuhaukun pentu*</center><br>
+<img src="images/kennelin-esittely/kuuhaukun-kennelin-kantanarttu.jpg">&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;<img src="images/kennelin-esittely/siperianhuskyn-pentu-vilkenvits.jpg"><br>
+Kantanarttu SE & FIN MVA V-86 Roady Ratiritiralla ja tyypillinen Kuuhaukun pentu</center><br>
+
+Katso Kuuhaukun kantanartun [SE & FIN MVA V-86 Roady Ratiritirallan sukutaulu](https://pawvillage
+.com/pedigree/pedigree.asp?ID=74N2KEGN11)
+, jossa on edustettuna ihanteellisia vanhoja linjoja. Tämä on Kuuhaukun kennelin perusta.
 					
 Kuuhaukun kennelin koirat työskentelevät valjakossa joka viikko (ei kilpailuitarkoituksessa), ja 
 niiden työskentelyä valjakossa huomioidaan jalostustyössä. Periaatteena on, että 
 valjakkoretkeily kuvastaa nopeuskilpailuita paremmin siperianhuskyn alkuperäistä käyttöä. 
 Koiria harjoitetaan tavoitteellisesti loppukauden pidempiä valjakkoretkiä varten.
 **Kuuhaukun Ikuisen Rakkauden**, Rascalin (3 x SERT), jälkeläisiä on juossut 1770 km 
-pituisen <a href="iditarod.html"/>Iditarod</a>-kilpailun Alaskassa. Rascalin jälkeläisiä on kilpaillut USA:ssa, 
+pituisen [Iditarod](iditarod)-kilpailun Alaskassa. Rascalin jälkeläisiä on kilpaillut USA:ssa, 
 Kanadassa ja Itävallassa, yleensä pitkän matkan kisoissa, sekä Jaden, tuonti Troika-kennelistä, 
 jälkeläisiä Itävallassa, Ranskassa ja Saksassa. Itävallassa asuva Rascalin poika 
 **AUT CH Troika´s Nordic Legend** on Itävallan muotovalio ja johtajakoira. Se on myös 
 isänä Kuuhaukun Dominoa Lumella, Pepin, pentueelle.
 
 <center>
-<img src="images/dad.jpg"><br>
-*Mauri Sirén ajamassa Äijänsuon kennelin valjakolla 1970-luvulla*
+<img src="images/kennelin-esittely/koiravaljakko.jpg"><br>
+Mauri Sirén ajamassa Äijänsuon kennelin valjakolla 1970-luvulla
 </center>
+<br>
 
 
 <h4>MENESTYSTÄ NÄYTTELYISSÄ</h4>
@@ -52,9 +70,12 @@ Myös **V-01 -02 Kuuhaukun Luminan Uni** on seurannut äitinsä Ikijään Punape
 3 sertiä voittanutta kasvattia (2016). 
 
 <center>
-<img src="images/resu.jpg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/dakota2.jpg"><br><br>
-*V-85-88, PMV-89 Kuuhaukun Reissumies (5 sertiä) ja tuonti Fjiorlund's Northern-Tok (8 sertiä).*
+<img src="images/kennelin-esittely/resu.jpg">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/kennelin-esittely/dakota2.jpg"><br>
+V-85-88, PMV-89 Kuuhaukun Reissumies (5 sertiä) ja tuonti Fjiorlund's Northern-Tok (8 sertiä).
 </center>
+<br>
 
 Menestystä näyttelyssä ovat tuoneet mm. **V-85-88, PMV-89 Kuuhaukun Reissumies**, **V-97-98 Kuuhaukun Ikijään Punapeto** (7 SERT & 9 CACIB),  
 (5 SERT & 3 CACIB), **Kuuhaukun Hepsakka** (4 SERT & CACIB), **V-01 -02 Kuuhaukun Luminan Uni** (3 SERT & CACIB) ja Euroopan Voittajat-91, 
@@ -70,9 +91,12 @@ viettämään valiot **INT & USA CH Troika's Bright Coinin** sekä Iditarodin ju
 Nordic Iconin SD** (Kuuhaukun Ikuisen Rakkauden jälkeläinen).
 
 <center>
-<img src="images/lumivoittaja.jpg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/rustyvoittaja.jpg"><br><br>
+<img src="images/kennelin-esittely/lumivoittaja.jpg">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="images/kennelin-esittely/rustyvoittaja.jpg"><br>
 *V-01 -02 Kuuhaukun Luminan Uni ja sen emä V-97-98 Kuuhaukun Ikijään Punapeto*
 </center>
+<br>
 
 Näyttelymenestys tai -menestymättömyys ei kuitenkaan ole koskaan vaikuttanut Kuuhaukun kennelin jalostusvalintoihin.
 ***Päämääränä on aina ollut oikeantyyppinen, samanlaisena, alkuperäisenä vaalittu old line -siperianhusky-rekikoira, ei näyttelymuodin
@@ -109,10 +133,6 @@ Kuuhaukun Teräs-Teddy  (isä Kuuhaukun Sudensaagalle, Odessalle, joka taas on e
 jätti meidät vuoden 2016 lopussa 15 ja puolen vuoden ikäisenä. Laura jätti itselleen myös Nunatakin, koiraneidon
 toisesta pentueestaan. Koirat asuvat pääosin ulkotarhassa, vanhinta Odessa-rouvaa lukuunottamatta ja 
 pennuille on oma rauhallinen pentuhuone ja ulkoaitaus. Koirat viettävät päivittäin aikaa myös isossa juoksutarhassa. 
-Laura harrastaa aktiivisesti koiriensa kanssa valjakkoajoa, vaellusta jne. Hänen <a href="http://sudensaaga.blogspot.fi/" target="_blank"/>blogistaan</a> voi seurata 
+Laura harrastaa aktiivisesti koiriensa kanssa valjakkoajoa, vaellusta jne. Hänen
+[blogistaan](http://sudensaaga.blogspot.fi) voi seurata 
 hänen koiriensa kuulumisia.
-
-<center>
-*<a href="https://pawvillage.com/pedigree/pedigree.asp?ID=74N2KEGN11" target="_blank">Avaa tästä linkistä</a> Kuuhaukun kantanartun FI & SE MVA V-86 Roady Ratiritirallan sukutaulu, joka
-edustaa ihanteellisia vanhoja linjoja. Tämä on Kuuhaukun kennelin perusta.*
-

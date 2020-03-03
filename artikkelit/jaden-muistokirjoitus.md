@@ -1,8 +1,13 @@
 ---
-layout: artikkeli
+layout: artikkeli-kuvapalkilla
 menu: muuta
 permalink: jaden-muistokirjoitus
 otsikko: Jade forever
+
+sivukuvat:
+    - jade/jade3.jpg
+    - jade/jade1.jpg
+    - jade/jade2.jpg
 ---
 
 Kirjoitin tämän kirjoituksen heti Jaden lähdön jälkeen, mutta se 
@@ -75,5 +80,6 @@ Tunnen Jaden lähelläni, ja kuten rakas Enkelinikin pysyi vierelläni vuoden aj
 päältä lähtönsä jälkeen, niin uskon, että myös Jade pysyy luonani, kunnes olen valmis 
 päästämään irti. Enkä tietenkään kokonaan milloinkaan, Jaden muisto tulee aina olemaan 
 yksi kirkkaimpia.
- 
- *Jaana, Jaden(kin) oma ihminen*
+
+<br> 
+Jaana, Jaden(kin) oma ihminen
