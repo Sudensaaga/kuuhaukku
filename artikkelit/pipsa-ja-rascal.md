@@ -1,8 +1,11 @@
 ---
-layout: artikkeli
+layout: artikkeli-kuvapalkilla
 menu: muuta
 permalink: pipsan-ja-rascalin-tarina
 otsikko: Pipsan ja Rascalin tarina
+
+sivukuvat:
+    - pipsarascal.jpg
 ---
 Koirankasvattaja ei voi koskaan tietää, mikä kohtalo kasvatteja kohtaa,
 vaikka parhaansa yrittäisi. Tämän sain kokea karvaasti, kun eräs ensimmäiset
@@ -233,7 +236,8 @@ todellakaan turhaa. Parempaa kiitosta en olisi voinut saada!
 
 Kotona laitoin koirat tarhaan ja Rascal meni muitta mutkitta entiseen 
 tarhaansa kuin ei olisi poissa ollutkaan. Pipsakin makoili tyytyväisenä 
-narttutarhassa, ettekä varmaan hämmästy kun kerron, ettei kumpikaan ikävöinyt millään lailla!<br>
+narttutarhassa, ettekä varmaan hämmästy kun kerron, ettei kumpikaan ikävöinyt millään lailla!
+
 Vaikka ne olivat olleet hoidossa kolme viikkoa (kunnon ruokintaahan ei voi
 aloittaa heti niin rankan "laihtumiskuurin" jälkeen), molemmat koirat olivat
 vielä tosi laihassa kunnossa. Rascalin kaula tuntui ohuena jänteenä ja kun
@@ -282,4 +286,4 @@ ylempää: joskus oikeus ja hyvä kuitenkin voittavat tässä maailmassa. Nuo
 kaksi rakasta sinisilmää ovat tämän vuoden paras joululahjani.
 
 
-- Jaana. S
+Jaana. S

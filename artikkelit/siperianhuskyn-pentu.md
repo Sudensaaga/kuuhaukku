@@ -1,8 +1,11 @@
 ---
-layout: artikkeli
+layout: artikkeli-kuvapalkilla
 menu: muuta
 permalink: siperianhuskyn-pentu
 otsikko: Pentu Kuuhaukun kennelistä
+
+sivukuvat:
+    - pepin1.jpg : Pepin ja Doughalin pentu 2011
 ---
 Jokainen Kuuhaukun pentue on tarkoin suunniteltu ja jokaisesta pentueesta 
 jätetään pentu/pentuja Kuuhaukkuun jatkojalostukseen, joko omaan valjakkoon tai yhteisomistukseen.
@@ -12,7 +15,7 @@ Kuuhaukun kennelissä noudatetaan Siperianpystykorvayhdistys-86 ry:n jalostusohj
 että pentueet ovat SPY ry:n jalostustoimikunnan hyväksymiä. Jalostukseen ei käytetä
 alle 2,5-vuotiaita koiria ja siitoskoirat ovat ohjeen mukaan silmätarkastettuja. Nykyään siitoskoirat
 myös luustotutkitaan lähes poikkeuksetta. Kuuhaukun koirien terveys on tärkeää, lue lisää 
-jalostusfilosofia-sivulta. TODO_ADD_LINK
+[jalostusfilosofiasta](jalostusfilosofia).
 
 Kuuhaukulle on ensisijaisen tärkeää, että kasvatit pääsevät rakastaviin perheisiin,
 joissa ne saavat elää koko elämänsä (jopa 16 vuotta). Siperianhusky tarvitsee aktiivisen
@@ -23,4 +26,4 @@ Pentuja myydään vain ehdoin ja varauksesta rakastaviin koteihin. Kuuhaukun pen
 hyvinkin pitkä ja pentua voi joutua odottamaan. Jos olet kiinnostunut pennusta,
 otathan yhteyttä hyvissä ajoin.
 
-ADD_LINK yhteystietoihin
+[Kuuhaukun kennelin yhteystiedot](yhteystiedot)

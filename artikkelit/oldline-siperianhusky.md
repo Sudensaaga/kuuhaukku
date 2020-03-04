@@ -1,5 +1,5 @@
 ---
-layout: artikkeli
+layout: artikkeli-kuvapalkilla
 menu: muuta
 permalink: oldline-siperianhusky
 otsikko: Lisätietoa ja historiaa old linesta
@@ -8,6 +8,14 @@ kolme-esiin-otsikko: Old line ®
 kolme-esiin-teksti: "Lisätietoa vanhan linjan, old line siperianhuskyista. Old linen historiaa ja
  jalostusperiaatteita."
 kolme-esiin-kuva: oldline.jpg
+
+sivukuvat:
+    - old-line-siperianhusky/scilla1.jpg : Kuuhaukun Jääprinsessa
+    - old-line-siperianhusky/seppaladogs.jpg : Seppalan vahvaluustoisia ja -rintaisia koiria
+    - old-line-siperianhusky/balto.jpg : Seppalan omistama siperianhusky Balto
+    - old-line-siperianhusky/chinook.jpg : Chinook kennelin narttupentuja 30-luvulla
+    - old-line-siperianhusky/bowlake.jpg : Kuvassa Bow Lake kennelin koiria vuosilta 1949 ja 1953
+    
 ---
 Old line tarkoittaa siperianhuskyjen vanhaa sukulinjaa, jonka koirat on jalostettu
 **tarkoituksena säilyttää alkuperäinen, arktinen työkoira-siperianhusky**. Old line
