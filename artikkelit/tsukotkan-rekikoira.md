@@ -91,7 +91,8 @@ line-tšuktsikoiraristeytyksistä  kotikoirina. Uskon, että yhdistelmillä saad
 
 <center>
 <img src="images/tsukotkan-rekikoira/tsukotkan-rekikoira-silva.jpg"><br>
-*Silva, Polar Star Tšukotkan Hopea vuoden ikäisenä*</center>
+Silva, Polar Star Tšukotkan Hopea vuoden ikäisenä
+</center>
 <br>
 
 Kesällä 2017 sain pitkän odotuksen jälkeen myös aivan siperianhuskylta näyttävän sinisilmäisen Silva-tytön, 
