@@ -14,37 +14,37 @@ sivukuvat:
 Siperianhusky on Siperian arktisista oloista kotoisin oleva rekikoira, josta on suhteellisen 
 nopeasti tullut laajalle levinnyt ja erittäin suosittu rotu. Alkuperästään huolimatta 
 siperianhuskyja kasvatetaan kaikilla mantereilla Etelämannerta lukuunottamatta, ja 
-sopeutuvan luonteen, terveyden ja pitkän iän ansiosta sitä pidetään nykyään pääosin seurakoirana.
+sopeutuvaisen luonteen, terveyden ja pitkän iän ansiosta sitä pidetään nykyään pääosin seurakoirana.
 
 <h4>Rodun alkuperä</h4>
 
-Siperianhuskyn alkuperä Siperiassa on vaikuttanut valtavasti siihen, mitä rotu on nykyään. 
+Siperianhuskyn alkuperä Siperiassa on vaikuttanut valtavasti siihen, millainen rotu on nykyään. 
 Rotu kehittyi vuosisatojen ajan siperialaisten alkuperäiskansojen rekikoirana, ja pääosin sitä 
 pidetään tšuktsi-nimisen kansan luomana rotuna. Tšuktsit elivät Koillis-Siperiassa Beringinsalmen 
-rannalla, eli Siperian ja koko Aasian itäisimmällä alueella. Elinolosuhteet olivat maailman 
-rankimpia ja siperianhuskysta kehittyi kestävä ja sopeutuva rekikoira. Tšuktsit olivat 
-kansana jakautuneet kahteen eri ryhmään; kalastavat ja mm. merinisäkkäitä metsästävät
+rannalla eli Siperian ja koko Aasian itäisimmällä alueella. Elinolosuhteet olivat maailman 
+rankimpi, ja siperianhuskysta kehittyi kestävä ja sopeutuva rekikoira. Tšuktsit olivat 
+kansana jakautuneet kahteen eri ryhmään. Kalastavat ja mm. merinisäkkäitä metsästävät
  meritšuktsit eli "anqallyt" ("meri-ihmiset") käyttivät rekikoiria kulkuvälineenä porojen sijaan.
 Siperianhuskyjen esi-isien tehtävänä oli toimia vetokoirina kuljettaen reessä metsästäjien 
 saalista tai vaikkapa kokonaista perhettä ja sen omaisuutta. 1700-luvulla venäläiset 
 valtasivat uusia alueita Siperiasta ja monet kansat jäivät Venäjän keisarin vallan alle. 
-Tšuktseilla oli voimakas kulttuuri-identiteetti, ja ainoastaan he pystyivät mainittavaan 
+Tšuktseilla oli voimakas kulttuuri-identiteetti, ja he olivat ainoita, jotka pystyivät mainittavaan 
 vastarintaan venäläisiä joukkoja vastaan. Rekikoiriensa ansiosta he saattoivat pakata koko 
 omaisuutensa koirarekeen ja kadota lumimyrskyyn venäläisten joukkojen koskaan löytämättä heitä. 
 Siperianhuskyn esi-isillä saattoikin olla suuri vaikutus siihen, miksi tuktit olivat ainoa 
 kansa, jolle lopulta myönnettiin keisarin päätöksestä täydellinen itsenäisyys.
-Rekikoirat olivat todella arvokkaita ja ne olivat ihmisten varallisuuden mitta. Varakkaalla 
+Rekikoirat olivat todella arvokkaita ja ne olivat ihmisten varallisuuden mitta. Varakkaalla perheellä  
 oli iso valjakko koiria, kun taas varattoman perheen valjakon tuli kulkea 1-2 koiran voimin. 
 Tšuktsinaiset hoitivat koirat ja harjoittivat koiranjalostusta valitsemalla jo pienistä 
 pennuista lupaavimmat nartut, jotka saivat jäädä eloon. Voikin ajatella, että juuri 
 tšuktsinaisten valintojen takia siperianhuskyissa nykyään esiintyy niin kauniin värisiä 
 koiria erikoisilla värikuvioilla. Urosten kohdalla valikoiva jalostus toimi niin, että 
-vain parhaat urokset (johtajakoirat) jäivät kastroimatta ja ne saivat vapaasti astua narttuja. 
-Tšuktsikoirat olivat kestäviä ja väsymättömiä koiria työssä, mutta niillä oli myös erinomaiset 
-luonteet. 
+vain parhaat urokset (johtajakoirat) jäivät kastroimatta, ja ne saivat vapaasti astua narttuja. 
+Tšuktsikoira oli kestävä ja väsymätön koira työssään, mutta sillä oli myös erinomainen 
+luonne. 
 Tšuktsit elivät jarangoissa ja koiria pidettiin myös sisätiloissa. Toisin kuin esim. 
 grönlanninkoirat,
- siperianhuskyn esi-isät toimivat lempeän luonteensa takia myös lastenvahteina ja kylminä öinä ne 
+ siperianhuskyn esi-isät toimivat lempeän luonteensa takia myös lastenvahteina, ja kylminä öinä ne 
  nukkuivat sisällä ihmisten kanssa, jolloin niiden paksut turkit ja ruumiinlämpö pitivät myös ihmiset lämpimänä.
 
 <h4>Myyttien eläin</h4>
@@ -72,19 +72,19 @@ ulkonäköä ja sitä ihmettä, etteivät koirat hauku ollenkaan, vaan ulvovat s
 Beringinsalmen kohdalla matkaa Siperiasta Alaskaan on vain 85 km, ja alaskanmalamuutti 
 ja siperianhusky ovatkin hyvin läheisiä sukulaisrotuja. Tiettävästi ensimmäiset 
 siperialaiset rekikoirat vietiin Alaskaan vasta vuonna 1908. Venäläinen turkiskauppias 
-nimeltä William Goosak toi ensimmäiset siperialaiset tuontikoirat Alaskaan jotka ensimmäiset 
+nimeltä William Goosak toi ensimmäiset siperialaiset tuontikoirat Alaskaan, nämä ensimmäiset 
 10 koiraa olivat tšuktsikoiria. Jo seuraavana vuonna siperialaiset koirat kilpailivat uudessa, 
 vaativassa koiravaljakkokilpailussa All Alaska Sweepstakesissa. Paikalliset valjakkoajajat 
 pilkkasivat pieniä tšuktsikoiria ja kutsuivat niitä "siperialaisiksi rotiksi". Ne 
 olivatkin pieniä verrattuna paikallisiin todella raskaisiin rekikoiriin, jotka olivat 
-erilaisia työkoiraristeytyksiä ja niissä saattoi olla bernhardinkoiraa ja newfoundlandinkoiraa. 
+erilaisia työkoiraristeytyksiä, ja niissä saattoi olla bernhardinkoiraa ja newfoundlandinkoiraa. 
 Kaikkien suureksi ihmetykseksi "siperialaiset rotat" sijoittuivatkin kilpailussa kolmannelle 
-sijalle ja siitä alkoi siperiankoirien suosio Alaskassa.
+sijalle, ja niin alkoi siperiankoirien suosio Alaskassa.
 Kenelläkään ei ollut varaa pitää rekikoiria pelkästään kilpakoirina, ja niin siperianhuskytkin 
 olivat pääosin yhä työkoirina kaivoksilla tai kuljetusvaljakoissa tutkimusmatkoilla tai esim. 
 kuljetettaessa postia. Siperiasta tuotiin pääosin tšuktsikoiria, mutta tuontien joukossa saattoi 
 olla myös naapurikansojen rekikoiria. Vuonna 1914 tuotiin koiria myös Petropavlovskista 
-Kamtšatkalta: nämä erosivat aiemmista tuonneista lähinnä koollaan ja sillä, että kamtatkalaisilla 
+Kamtšatkalta: nämä erosivat aiemmista tuonneista lähinnä kooltaan ja siinä, että kamtatkalaisilla 
 koirilla oli usein typistetyt hännät. Näitä Kamtšatkan tuonteja ei koskaan käytetty jalostukseen, 
 koska suurin osa oli kastroituja, eikä niitä pidetty täysin oikeantyyppisinä.
 
@@ -93,21 +93,21 @@ koska suurin osa oli kastroituja, eikä niitä pidetty täysin oikeantyyppisinä
 Alaskassa oli pian useita ihmisiä, jotka ajoivat ja kasvattivat siperianhuskyja. Viimeiset 
 tuonnit Siperiasta tuotiin vuonna 1931, jolloin rotukirjat suljettiin. Siperianhusky hyväksyttiin 
 Amerikan Kennelklubin viralliseksi roduksi vasta vuonna 1930, ja rotu sai ensimmäisen rotumääritelmänsä 
-vuonna 1932. Alaskanmalamuutti ja siperianhusky olivat hyvin samanlaisia rotuja ja rotumääritelmiin 
-yritettiin saada eroavuuksia, jotka erottaisivat rodut selkeästi toisistaan.
+vuonna 1932. Alaskanmalamuutti ja siperianhusky olivat hyvin samanlaisia rotuja, ja rotumääritelmiin 
+yritettiin saada eroavuuksia, jotta rodut erottuisivat selkeästi toisistaan.
 Tätä ennen siperianhuskyt olivat jo ehtineet olla mukana monissa historiallisissa tapahtumissa, 
 ja niiden arktinen taika kestävinä ja uskollisina koirina oli huomattu myös Amerikassa. Vuonna 
 1925 rekikoirat pelastivat Nomen kylän lapset kurkkumätäepidemialta toimittaen valjakoilla 
 vastalääkettä kylään. Suurimman urotyön tekivät Leonhard Seppalan siperianhuskyt, mutta Nomeen 
 saapuneen valjakon ajajasta Gunnar Kaasenista ja johtajakoirasta (siperianhusky) Baltosta tuli
  julkisuudessa laajasti tunnettuja. Balto esiintyi Madison Square Gardenissa 20 000 ihmisen 
- edessä, ja se esiintyy seerumivaljakon kunniaksi pystytetyssä patsaassa New Yorkin keskuspuistossa.
-  Baltosta on tehty mm. animaatioelokuva, joka pohjautuu todellisen seerumiajon tapahtumiin. 
+ edessä, ja siitä on tehty myös seerumivaljakon kunniaksi patsas New Yorkin keskuspuistossa.
+  Baltosta on niinikään kuvattu mm. animaatioelokuva, joka pohjautuu todellisen seerumiajon tapahtumiin. 
 	Leonhard Seppala joskus vaatimattomasti harmitteli, että kunnia seerumijuoksusta meni 
-	Baltolle, vaikka Togo, hänen johtajakoiransa, ja muut koirat olivat tehneet rankimman 
+	Baltolle, vaikka Togo, hänen johtajakoiransa, ja muut koirat hänen valjakossaan olivat tehneet rankimman 
 	matkan ja työn.
 	
-Siperianhuskyja treenattiin myös armeijan käyttöön ensimmäisen, ja toisen maailmansodan aikana. 
+Siperianhuskyja treenattiin myös armeijan käyttöön ensimmäisen ja toisen maailmansodan aikana. 
 Rekikoiria koulutettiin jopa hyppäämään laskuvarjoilla. Ensimmäisen maailmansodan aikana 300 
 rekikoiraa matkusti turvallisesti saksalaisten sukellusveneitä kuhisevan Atlantin yli Eurooppaan, 
 sillä koirat oli koulutettu olemaan hiljaa koko matkan ajan. Toisessa maailmansodassa siperianhuskyja 
@@ -119,7 +119,7 @@ palveli toisessa maailmansodassa myös tavallisten palveluskoirarotujen rinnalla
 Historian saatossa siperianhuskysta on kehittynyt erittäin hyväluonteinen koira. Siperian ankarissa 
 oloissa tarvittiin ystävällistä ja helposti käsiteltävää työkoiraa, ja ne ominaisuudet ovat säilyneet 
 tähän päivään asti. Siperianhusky on ystävällinen ja lempeä myös vieraita ihmisiä ja koiria kohtaan. 
-Siitä ei ole vahtikoiraksi, sillä se ei tunne epäluuloa vieraita kohtaan, eikä esim. haukulla ilmoita, 
+Siitä ei ole vahtikoiraksi, sillä se ei tunne epäluuloa vieraita kohtaan eikä esim. haukulla ilmoita, 
 oli vieras sitten kutsuttu tai ei. Siperianhusky tulee toimeen vieraidenkin koirien kanssa ja laumassa 
 voi yleensä pitää myös samaa sukupuolta olevia koiria. Nuori siperianhusky on erityisen innokkaana mukana 
 puuhastelemassa perheensä kanssa ja nauttii saamastaan huomiosta. Vanhemmiten siperianhusky voi olla 
@@ -136,15 +136,15 @@ rally-tokon mestaruusluokassa sekä ollut virallisena pelastuskoiranakin.
 Vaikka siperianhusky on sopeutuvan ja ihmisrakkaan luonteensa takia hyvin suosittu rotu, 
 se ei ole sopiva koira jokaiselle. Siperianhusky on aktiivinen käyttökoira ja vaatii siksi 
 liikuntaa ja aktivointia. Älykkäinä koirina ne keksivät kyllä myös itse tekemistä ja voivat 
-tekemisen puutteessa keksiä luvatonta puuha.! Siperianhusky voi esim. viihdyttää itseään 
+tekemisen puutteessa keksiä luvatonta puuhaa. Siperianhusky voi esim. viihdyttää itseään 
 pureskelemalla asunnosta kaiken irtaimiston, repiä tapetit seiniltä ja purra parkettiin 
 reikiä. Siperianhuskyjen urotyöt asuntojen tuhoamisessa ovat usein vertaansa vailla. Toinen 
 usein ongelmiin johtava ja rotuun vahvasti kuuluva luonteenpiirre on siperianhuskyn laumakeskeisyys. 
 Siperianhusky kiintyy voimakkaasti laumaansa ja tarvitsee seuraa. Ellei perheessä ole muita koiria, 
 muodostavat ihmiset siperianhuskyn lauman, ja se haluaa olla mukana kaikissa perheen puuhissa. 
-Laumansa perään huutava siperianhusky voi olla ikävä naapuri ja siperianhuskyt ovat myös mestareita 
+Laumansa perään huutava siperianhusky voi olla ikävä naapuri, ja siperianhuskyt ovat myös mestareita 
 karkaamaan tarhoista, joten ongelmia voi olla tulossa, jos koiralla ei ole tarpeeksi oman laumansa 
-seuraa. Eri linjoista old linet ovat kuitenkin yleensä sopeutuvimpia ja tasapainoisimpia 
+seuraa. Eri linjoista old linet ovat kuitenkin yleensä sopeutuvaisimpia ja tasapainoisimpia 
 hermorakenteeltaan, ne osaavat olla myös rauhallisia, mutta ovat heti valppaita ja lähtövalmiita, 
 kun saavat merkin.
 
@@ -154,7 +154,7 @@ ja potkukelkalla talvisin. Yhdenkin siperianhuskyn kanssa voi harrastaa, ja se o
 pidemmillekin retkille. Lihava ja lihakseton koira, joka pääsee viikottain vain kävelylle korttelin 
 ympäri, on sydäntäsärkevä näky. Yhtä surullista on nähdä koiratarhaan unohdettu ulkokoira, jonka 
 ainoana ihmiskontaktina on nopea ruokintahetki. Old line Siperianhusky sopii vain aktiiviseen ja 
-liikunnalliseen kotiin, missä se saa paljon huomiota ja missä se saa elää samassa kodissa elämänsä loppuun asti.
+liikunnalliseen kotiin, missä se saa huomiota ja huolenpitoa ja missä se saa elää elämänsä loppuun asti.
 
 <h4>Perusterve rotu</h4>
 
@@ -164,40 +164,35 @@ Rotua pidetään perusterveenä rotuna, eikä perinnöllisten sairauksien lista 
 yleisesti rodulla tiedettyjä perinnöllisiä sairauksia lienevät erilaiset silmäsairaudet kuten HC 
 (perinnöllinen harmaakaihi), CCD (kiteinen sarveiskalvon surkastuma), PRA (verkkokalvon asteittainen 
 surkastuma; ei todettu ainakaan vielä yhdelläkään suomalaisella old line -huskylla) ja glaukooma 
-(ei myöskään ainakaan vielä suomalaisilla old lineilla). Jokainen näistä sairauksista voi aiheuttaa 
+(ei myöskään ainakaan vielä suomalaisilla old lineilla, vaikka tutkittu yli 10 vuoden ajan). Jokainen näistä sairauksista voi aiheuttaa 
 näkökyvyn heikkenemistä tai kokonaan sokeutumista, ja niiden ehkäisemiseen tulisi erityisen tarkasti 
-puuttua jalostusvalinnoilla. Jokaisen pennun vanhemmat tulisi olla silmätarkastettuja ko. sairauksien 
-varalta, eli vanhemmilla tulee olla tulokset laajasta silmätutkimuksesta sekä gonioskopiasta, jolla 
-tutkitaan silmän virtauskulmia (glaukooma). Muita perinnöllisiä sairauksia ovat HD (lonkkanivelen kasvuhäiriö) 
-ja myös epilepsiaa esiintyy jonkin verran.
+puuttua jalostusvalinnoilla. Old line koirien jalostusohjelmassa vanhempien silmät tarkastetaan. Muita perinnöllisiä sairauksia ovat HD (lonkkanivelen kasvuhäiriö, old lineilla kuitenkin ainakin toistaiseksi hyvä tilanne) ja myös epilepsiaa esiintyy jonkin verran.
 
 Rotu on viime vuosina ollut suositumpi kuin koskaan, ja se on houkutellut rodun pariin myös pentutehtailijoita. 
 Pennunostajan tulee olla varma, että pentujen vanhemmat ovat terveitä (vähintään silmätarkastettuja terveiksi) 
 ja suosia kasvattajia, jotka todella työskentelevät rodun terveyden eteen. Todellisuus on se, että siperianhuskyja 
-tutkitaan Suomessa hyvin vähän eikä rodun terveyden todellista tilaa tiedetä. Siperianhusky on hitaasti kehittyvä 
-rotu ja siksi on tärkeää, ettei narttua ole astutettu alle 2-vuotiaana.
+tutkitaan Suomessa hyvin vähän eikä terveyden todellista tilaa tiedetä. Siperianhusky on hitaasti kehittyvä 
+rotu ja siksi on tärkeää, ettei narttua ole astutettu alle 2-2,5-vuotiaana.
 
 <h4>Arktinen eläin hännänpäätä myöten</h4>
 
 Siperianhuskyn ulkomuodosta tulee heti nähdä, että kyseessä on arktinen eläin. Jokainen yksityiskohta tuuheaa 
 "ketunhäntää" ja tiheäkarvaisia pystykorvia myöten ovat arktisen rekikoiran käyttöominaisuuksia. Siperianhuskysta 
-on muodostunut ympäristönsä ja käyttötarkoituksensa kuva. Se on keskikokoinen, hieman korkeuttaan pidempirunkoinen 
+on muodostunut ympäristönsä ja käyttötarkoituksensa ilmentymä. Se on keskikokoinen, hieman korkeuttaan pidempirunkoinen 
 ja pystykorvainen rekikoira, jolla on keskivahva luusto. Siperianhuskylla kuuluu olla kaksinkertainen, paksu ja 
-keskipitkä turkki, jolla se pärjää arktisissa olosuhteissa. Tiiviin rakenteensa takia sillä ei ole yhtään 
-ylimääräistä ruumiinpinta-alaa, mikä auttaa sitä pitämään lämmön paremmin ja selviytymään arktisella seudulla. 
+keskipitkä turkki, jolla se pärjää arktisissa olosuhteissa. Sillä on tiivis rakenne ja enemmän massaa kehon pinta-alaan nähden (old line), mikä auttaa sitä pitämään lämmön paremmin ja selviytymään arktisella seudulla. 
 Tunnusomaiset kolmion muotoiset ja hieman kärjistä pyöristyneet pystykorvat ovat korkealle kiinnittyneet ja 
 erityisen tiheäkarvaiset. Ne on kuin suunniteltu arktiselle koiralle, siperianhusky ei menetä niiden kautta 
 lämpöä ja saa käännettyä ne taaksepäin lumimyrskyssä suojaamaan korvan sisäosia tuulelta ja lumelta. Yksi 
 siperianhuskyn erityispiirre on sen silmät. Siperianhuskylla voi olla siniset tai ruskeat silmät, keskenään 
-eriväriset "eripari"-silmät tai yhdessä silmässä voi olla sekaisin kahta väriä. Kaikki nämä eri muunnokset 
-ovat sallittuja, eivätkä ne ole toisiaan alttiimpia silmäsairauksille. Siperianhuskylla kaikki värit sallitaan, 
-ja niillä voi olla erikoisia värikuvioita. Yleisimpiä ovat erilaiset musta-harmaa-valkoisen värit.
+eriväriset "eripari"-silmät tai samassa silmässä voi olla sekaisin kahta väriä. Kaikki nämä eri muunnokset 
+ovat sallittuja, eivätkä ne ole toisiaan alttiimpia silmäsairauksille, kuten joskus on voitu luulla. Siperianhuskylla kaikki värit sallitaan, ja niillä voi olla erikoisia värikuvioita. Yleisimpiä ovat erilaiset musta-harmaa-valkoisen värit.
 
 <h4>Tietoa jalostuslinjoista</h4>
 
 Nykyään siperianhuskyissa on ulkomuodoltaan ja luonteeltaan paljon toisistaan poikkeavia koiria. 
 Siperianhusky-rodussa on eri jalostuslinjoja kasvattajien erilaisten painotusten mukaan. Kilpalinjan 
-(racing line) koiria jalostetaan nopeuskilpailuita varten, ja siksi niissä ei ole kiinnitetty huomiota 
+(racing line) koiria jalostetaan nopeuskilpailuita varten, ja siksi niissä ei ole kiinnitetty huomiota alkuperäisen 
 arktisen ulkomuodon säilyttämiseen. Kilpalinjan koirat ovat muita kevyempiluustoisia, korkearaajaisempia 
 ja lyhytturkkisempia, vinttikoiramaisia. Kilpalinjan sisällä on paljon toisistaan poikkeavia koiria, ja 
 monia voi olla vaikeuksia tunnistaa niitä rotunsa edustajiksi. Kilpalinjan koirat ovat usein väriltään mm. 
@@ -207,7 +202,7 @@ Kilpalinjan koirat ovat toistaiseksi enemmistönä Suomessa.
 Näyttelylinjan (show line) koirien pääpainona on ulkomuodon jalostus koiranäyttelyissä menestyväksi. Näyttelylinjan 
 koirien ulkomuoto vaihtelee aikansa näyttelyihanteen mukaan. Niiltä haetaan showkoirille tyypillistä rakennetta, 
 ja senaikaisen muodin mukaista ulkomuotoa ja ylöspäin nousevia "show liikkeitä", jotka valitettavasti ovat 
-virheelliset siperianhusky-rekikoiralle. Näyttelylinjan koirat ovat maailmalla yleisimpiä ja niitä tuodaan 
+virheelliset siperianhusky-rekikoiralle. Näyttelylinjan koirat ovat maailmalla yleisimpiä, ja niitä tuodaan 
 Suomeen vuosi vuodelta enemmän. Näyttelylinjan koiria on eniten maailmassa ja eri maissa, vaikka niiden geenipooli 
 onkin melkoisen suppea.
 
@@ -221,4 +216,4 @@ periaatteessa rodussa pitäisikin olla jalostuksen tavoitteena vain yksi, alkupe
 ominaisuuksien "ihannelinja".
 
  
-Alkuperäinen teksti julkaistu Koirafanitus-lehdessä 2011
+Alkuperäinen teksti julkaistu Koirafanitus-lehdessä 2011, osittain mukailtu ja muutettu
