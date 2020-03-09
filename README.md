@@ -13,6 +13,12 @@ Hakemistossa /sivut
 
 Hakemistossa /osiot
 
+## Kolme-esiin kuvat
+
+Kuvasuhde 12:5
+
+Koko mielellään 240/100, mutta ei niin tarkkaa
+
 ## Testaa omalla koneella
 
 ~~~bash

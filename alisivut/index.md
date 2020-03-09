@@ -4,7 +4,7 @@ menu: etusivu
 permalink: index
 
 dia-1-kuva: img4.jpg
-dia-1-otsikko: Parempi otsikko
+dia-1-otsikko: Parempi otsikko <small>ystävällinen ja lempeä</small>
 dia-1-teksti: Kuuhaukun kennel® on säilyttänyt old line® -linjan puhtaana 40 vuotta
               eikä siinä ole kilpa-tai showlinjaa, mikä on varmaan ainutlaatuista minkään rodun  historiassa.
 

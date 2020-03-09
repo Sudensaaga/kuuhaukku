@@ -30,6 +30,12 @@ nav {
 
 .navbar-dark .navbar-nav .nav-link, footer h3, footer a {
   color: #c8c6c4;
+
+}
+
+
+footer h3, footer a {
+  font-size: 1.2rem;
 }
 
 .post {
@@ -40,6 +46,7 @@ nav {
   width: 620px;
   height: 379px;
 }
+
 
 .nav-item {
   font-size: 1.2rem;
@@ -59,14 +66,27 @@ nav {
   letter-spacing: -0.02em;
 }
 
+.slide-h2 small {
+  color: #433b39;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  transition: .5s ease-in-out;
+  letter-spacing: -0.02em;
+}
+
 
 .slide-p {
   line-height: 1.8em;
 }
 
+.kolme-esiin-card, .kolme-esiin-card a, .kolme-esiin-card p {
+    background-color: black;
+    color: #faf3ed;
+}
+
 .card, .card-text, .card a {
-  background-color: black;
-  color: #faf3ed;
+  //background-color: black;
+  //color: #faf3ed;
 }
 
 .artikkeli {
