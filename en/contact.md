@@ -14,12 +14,14 @@ iso-kuva: yhteyssivu.jpg
 iso-kuva-sokeille: Happy huskies
 
 tekstipalkki: <h1>Contact</h1><br><br>
-    <b>Jaana Sudensaaga</b>
+    <b>Kennel founder, main breeder:</b><br>
+    Jaana Sudensaaga
     <br>
     <span>Puhelin&#58; </span> +358 44 313 0028<br>
     <span>E-mail&#58; </span><a href="mailto#58;">jaanas@kolumbus.fi</a><br>
     <span>Osoite&#58; </span> Häntälä, Somero
     <br><br>
+    <b>Sidekick breeder:</b><br>
     Laura Kinnunen<br>
     <span>Puhelin&#58; </span> +358 50 4326549<br>
     <span>E-mail&#58; </span><a href="mailto#58;">laurakinnunen@hotmail.fi</a><br>

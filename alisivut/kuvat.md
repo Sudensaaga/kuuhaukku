@@ -1,13 +1,8 @@
 ---
-layout: menusivu
-menu: kuvat
-lang: en
+layout: menusivu-vain-linkit
 permalink: kuvat
 
+menu: kuvat
 menu-otsikko: Kuva-albumit
 
-kolme-esiin:
-    - "missing"
-    - "missing"
-    - "missing"
 ---

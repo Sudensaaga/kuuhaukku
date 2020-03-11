@@ -115,6 +115,16 @@ footer h3, footer a {
   }
 }
 
+.kuvagalleria {
+  img {
+    width: 100%;
+  }
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  padding: 0.25rem;
+  background-color: #fff;
+}
+
 .artikkelin-iso-kuva {
   margin-top: calc(-5rem);
   width: 100%;

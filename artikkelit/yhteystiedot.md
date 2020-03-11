@@ -11,12 +11,15 @@ iso-kuva: yhteyssivu.jpg
 iso-kuva-sokeille: Iloisia siperianhuskyja
 
 tekstipalkki: <h1>Yhteystiedot</h1><br><br>
-    <b>Jaana Sudensaaga</b>
+
+    <b>Perustaja ja pääkasvattaja:</b><br>
+    Jaana Sudensaaga
     <br>
     <span>Puhelin&#58; </span> +358 44 313 0028<br>
     <span>E-mail&#58; </span><a href="mailto#58;">jaanas@kolumbus.fi</a><br>
     <span>Osoite&#58; </span> Häntälä, Somero
     <br><br>
+    <b>Apukasvattaja:</b><br>
     Laura Kinnunen<br>
     <span>Puhelin&#58; </span> +358 50 4326549<br>
     <span>E-mail&#58; </span><a href="mailto#58;">laurakinnunen@hotmail.fi</a><br>
