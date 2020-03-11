@@ -8,13 +8,6 @@ _config.yml
 
 Menujen otsikko ja id asetetaan alisivut-hakemiston tiedostoissa.
 
-## Artikkelisivut
-
-Hakemistossa /sivut
-
-## Menuissa näkyvien osioiden sivut
-
-Hakemistossa /osiot
 
 ## Kuvien lisääminen
 
