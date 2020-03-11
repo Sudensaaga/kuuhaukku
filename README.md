@@ -1,5 +1,6 @@
 # Kuuhaukun kennelin kotisivut
-Artikkeleiden copyright Jaana Sudensaaga, riippumatta repositoryn muista lisensseistä.
+Artikkeleiden ja kuvien copyright Jaana Sudensaaga.
+
 
 ## Yläpalkin menut, perustiedot
 
@@ -13,11 +14,19 @@ Hakemistossa /sivut
 
 Hakemistossa /osiot
 
-## Kolme-esiin kuvat
+## Kuvien lisääminen
 
-Kuvasuhde 12:5
+* .jpg muotoisina
+* nimi kirjoitettuna pienillä kirjaimilla, ei ääkkösiä, ei välilyöntejä
 
-Koko mielellään 240/100, mutta ei niin tarkkaa
+Tarkista kuvan koko, saisi olla alle 400 KB
+
+### Kuvasuhteet
+
+* **Artikkelin iso kuva:** Vapaa kuvasuhde, leveys 800-1000 pikseliä
+* **Linkkikuvat:** 1:1, 102/102 px tai 125/125px
+* **Kolme-esiin kuvat:** 12:5, 240/100 px tai hieman isompi
+
 
 ## Testaa omalla koneella
 
