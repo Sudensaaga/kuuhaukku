@@ -8,12 +8,16 @@
 
 p {
   font-family: 'Lora', serif;
-  font-size: 0.85rem;
+  font-size: 1rem;
   color: #6c5f5b;
 }
 
-a, a:hover{
-    color: #bf0f0a;
+a, a:hover {
+  color: #bf0f0a;
+}
+
+h1.post-title {
+  margin-bottom: 0.8em;
 }
 
 body {
@@ -37,7 +41,6 @@ nav {
 
 }
 
-
 footer h3, footer a {
   font-size: 1.2rem;
 }
@@ -50,7 +53,6 @@ footer h3, footer a {
   width: 620px;
   height: 379px;
 }
-
 
 .nav-item {
   font-size: 1.2rem;
@@ -78,14 +80,18 @@ footer h3, footer a {
   letter-spacing: -0.02em;
 }
 
-
 .slide-p {
   line-height: 1.8em;
+  font-size: 0.85rem;
 }
 
 .kolme-esiin-card, .kolme-esiin-card a, .kolme-esiin-card p {
-    background-color: black;
-    color: #faf3ed;
+  background-color: black;
+  color: #faf3ed;
+}
+
+.kolme-esiin-card p {
+  font-size: 0.85rem;
 }
 
 .linkkiosio {
@@ -104,6 +110,15 @@ footer h3, footer a {
   }
 }
 
+.artikkelin-iso-kuva {
+  margin-top: calc(-5rem);
+  width: 100%;
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  padding: 0.25rem;
+  background-color: #fff;
+}
+
 .artikkeli {
 }
 
@@ -119,7 +134,7 @@ footer h3, footer a {
   color: #6c5f5b;
 }
 
-.vasen-kuvapalkki img{
+.vasen-kuvapalkki img {
   width: 100%;
 }
 
