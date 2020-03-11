@@ -9,11 +9,9 @@ kolme-esiin-kuva: oldlinehistoria.jpg
 
 otsikko: 40 vuotta Old Line® siperianhuskyja -
     Kuuhaukun® kennelin historiaa
+iso-kuva: images/historia/historiaotsikko2.jpg
+iso-kuva-sokeille: Jaana ja valjakko
 ---
-<center
-><img src="images/historia/historiaotsikko2.jpg"/>
-</center>
-<br>
 				
 Elämäni siperianhuskyjen parissa alkoi vuonna 1978 kun hankin ensimmäisen siperianhuskyni 
 Roady Ratiritirallan, Readyn. Kiinnostus siperianhuskeihin juontui lähinnä niiden 

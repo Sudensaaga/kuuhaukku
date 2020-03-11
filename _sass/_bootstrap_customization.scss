@@ -12,6 +12,10 @@ p {
   color: #6c5f5b;
 }
 
+a, a:hover{
+    color: #bf0f0a;
+}
+
 body {
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -84,9 +88,20 @@ footer h3, footer a {
     color: #faf3ed;
 }
 
-.card, .card-text, .card a {
-  //background-color: black;
-  //color: #faf3ed;
+.linkkiosio {
+  h5 {
+    font-size: 1rem;
+  }
+  a.kuvalinkki {
+    width: 100px !important;
+    height: 100px !important;
+    img {
+      border: 1px solid #dee2e6;
+      border-radius: 0.25rem;
+      padding: 0.25rem;
+      background-color: #fff;
+    }
+  }
 }
 
 .artikkeli {
@@ -99,8 +114,6 @@ footer h3, footer a {
 }
 
 .vasen-kuvapalkki {
-
-
   font-family: 'Lora', serif;
   font-size: 0.85rem;
   color: #6c5f5b;

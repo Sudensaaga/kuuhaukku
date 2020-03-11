@@ -22,6 +22,6 @@ Koko mielellään 240/100, mutta ei niin tarkkaa
 ## Testaa omalla koneella
 
 ~~~bash
-jekyll serve --livereload --drafts --incremental
+jekyll serve --livereload --incremental
 ~~~
 

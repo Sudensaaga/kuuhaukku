@@ -16,7 +16,7 @@ nopeasti tullut laajalle levinnyt ja erittäin suosittu rotu. Alkuperästään h
 siperianhuskyja kasvatetaan kaikilla mantereilla Etelämannerta lukuunottamatta, ja 
 sopeutuvaisen luonteen, terveyden ja pitkän iän ansiosta sitä pidetään nykyään pääosin seurakoirana.
 
-<h4>Rodun alkuperä</h4>
+#### Rodun alkuperä
 
 Siperianhuskyn alkuperä Siperiassa on vaikuttanut valtavasti siihen, millainen rotu on nykyään. 
 Rotu kehittyi vuosisatojen ajan siperialaisten alkuperäiskansojen rekikoirana, ja pääosin sitä 
@@ -31,7 +31,7 @@ valtasivat uusia alueita Siperiasta ja monet kansat jäivät Venäjän keisarin 
 Tšuktseilla oli voimakas kulttuuri-identiteetti, ja he olivat ainoita, jotka pystyivät mainittavaan 
 vastarintaan venäläisiä joukkoja vastaan. Rekikoiriensa ansiosta he saattoivat pakata koko 
 omaisuutensa koirarekeen ja kadota lumimyrskyyn venäläisten joukkojen koskaan löytämättä heitä. 
-Siperianhuskyn esi-isillä saattoikin olla suuri vaikutus siihen, miksi tuktit olivat ainoa 
+Siperianhuskyn esi-isillä saattoikin olla suuri vaikutus siihen, miksi tšuktsit olivat ainoa 
 kansa, jolle lopulta myönnettiin keisarin päätöksestä täydellinen itsenäisyys.
 Rekikoirat olivat todella arvokkaita ja ne olivat ihmisten varallisuuden mitta. Varakkaalla perheellä  
 oli iso valjakko koiria, kun taas varattoman perheen valjakon tuli kulkea 1-2 koiran voimin. 

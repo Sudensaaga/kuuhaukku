@@ -7,18 +7,28 @@
 
 
 <div class="bg-light">
-    <div class="container">
+    <div class="container linkkiosio">
         <div class="mx-lg-5 py-5">
-            <h3>Linkit</h3>
             <div class="row">
                 {% for post in site.pages %}
                 {% if post.permalink contains art-2 or post.permalink contains art-2 and
                 post.permalink contains
                 art-3 %}
                 {% elsif post.menu == menu %}
-                <div class="col-lg-4 col-sm-6 mb-4">
-                    <div class="card h-100 py-2 px-2">
-                        <a href="{{post.url}}">{{post.otsikko}}</a>
+                <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+                    <div class="d-flex flex-row">
+                        {% if post.linkin-pikkukuva %}
+                        <div>
+                            <a href="{{post.url}}" class="kuvalinkki">
+                                <img src="{{ site.url }}/images/{{post.linkin-pikkukuva}}" alt="">
+                            </a>
+                        </div>
+                        {% endif %}
+                        <div class="pl-3">
+                            <h5><a href="{{post.url}}">{{post.otsikko}}</a></h5>
+                            <p>{{post.linkin-teksti}}</p>
+
+                        </div>
                     </div>
                 </div>
                 {% endif %}
@@ -27,3 +37,4 @@
             </div>
         </div>
     </div>
+</div>
