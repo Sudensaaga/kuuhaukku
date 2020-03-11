@@ -1,32 +1,43 @@
 ---
-layout: artikkeli
+layout: artikkeli-tekstipalkilla
 permalink: en/contact
+lang: en
 menu: misc
+
 otsikko: Puppies and contact information
+
+kolme-esiin-otsikko: Puppies & Contact
+kolme-esiin-teksti: ""
+kolme-esiin-kuva: page1_img2.jpg
+
+iso-kuva: yhteyssivu.jpg
+iso-kuva-sokeille: Happy huskies
+
+tekstipalkki: <h1>Contact</h1><br><br>
+    <b>Jaana Sudensaaga</b>
+    <br>
+    <span>Puhelin&#58; </span> +358 44 313 0028<br>
+    <span>E-mail&#58; </span><a href="mailto#58;">jaanas@kolumbus.fi</a><br>
+    <span>Osoite&#58; </span> Häntälä, Somero
+    <br><br>
+    Laura Kinnunen<br>
+    <span>Puhelin&#58; </span> +358 50 4326549<br>
+    <span>E-mail&#58; </span><a href="mailto#58;">laurakinnunen@hotmail.fi</a><br>
+    <span>Osoite&#58; </span> Kiihtelysvaara, Joensuu
+    <br><br>
+
 ---
 
-Pentueitamme ei mainosteta 
-nettisivuilla ja etusijalla ovat aina pennunottajat, 
-jotka ovat ottaneet meihin hyvissä ajoin yhteyttä ja osoittaneet 
-siten todellista kiinnostusta koiriimme. Jokainen pentu myydään 
-ehdoin, joista kerrotaan pennunostajalle ensikontaktissa. 
-									
-Pentuja myydään vain varauksesta pentulistalla oleville. Kasvattajaa
-ja ostajaa sitova varaus on vasta kun varausmaksu on maksettu.
+To obtain a puppy from our litters, you need to contact the kennel well in advance and show genuine 
+interest in the conservation work of the old breed. The puppies are sold with specific terms that
+ you will be introduced to when you contact us.
 
-Kerromme mielellämme lisäinfoa old linesta ja Kuuhaukun siperianhuskyista kiinnostuneille!
-Tervetuloa luoksemme tutustumaan koiriimme.
+Puppies are sold only by reservation and there is a queue. The reservation becomes final when the
+ reservation payment has been made. 
+
+We are happy to give you further information of the breed and the dogs!
+You are welcome to visit and see the dogs yourself.
+
 								
-*Kuuhaukun kennel - yli 39 vuoden kasvattajakokemus old line siperianhuskyista.*
+**Kuuhaukun Kennel - 40 years of experience on growing old line siberian huskies.**
 
-<h1>Yhteystiedot</h1>
-
-Jaana Sudensaaga<br>
-<span>Puhelin: </span> +358 44 313 0028<br>
-<span>E-mail: </span><a href="mailto:">jaanas@kolumbus.fi</a><br>
-<span>Osoite: </span> Häntälä, Somero
-
-Laura Kinnunen<br>
-<span>Puhelin: </span> +358 50 4326549<br>
-<span>E-mail: </span><a href="mailto:">laurakinnunen@hotmail.fi</a><br>
-<span>Osoite: </span> Kiihtelysvaara, Joensuu

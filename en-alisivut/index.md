@@ -13,13 +13,12 @@ dia-1-teksti: Kuuhaukun Kennel® has retained Old Line® breed for 40 years
 dia-2-kuva: siperianhusky-koiravaljakko.jpg
 dia-2-otsikko: Old Line® Siberian Huskies
 dia-2-teksti: Kuuhaukun Kennel is Europe's oldest and the last Old Line® kennel. Kennel's purpose
- is 
-    to retain the original traditional siberian husky.
+    is to retain the original traditional siberian husky.
 
 dia-3-kuva: img2.jpg
 dia-3-otsikko: Arctic Sleddogs
-dia-3-teksti: Oikeat arktisen rekikoiran käyttöominaisuudet ja ulkomuoto ovat 
-  tärkeitä säilyttää  jalostuksessa. Käyttöominaisuuksia testataan säännöllisellä harjoittelulla.
+dia-3-teksti: Breeding goal is to conserve the original arctic sleddog abilities and look. Dogs 
+    are tested regularly in front of the sled.
   
 dia-4-kuva: img3.jpg
 dia-4-otsikko: Character and Health <small>friendly and kind</small>

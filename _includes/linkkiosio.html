@@ -1,19 +1,23 @@
 {% assign menu=page.menu | default: 'muuta' %}
-{% assign artikkelit=site.nav[lang][menu].kolme-esiin %}
 
-{% assign art-1=artikkelit[1] %}
-{% assign art-2=artikkelit[2] %}
-{% assign art-3=artikkelit[3] %}
+{% assign artikkelijono='' %}
+{% assign artikkelit=page.kolme-esiin %}
 
+{% for artikkeli in artikkelit %}
+{% if artikkeli != "" %}
+{% assign avain= artikkeli | slugify %}
+{% assign artikkelijono = avain | append: "," | append: artikkelijono %}
+{% endif %}
+{% endfor %}
+{% assign kolme-esiin = artikkelijono | split: "," %}
 
 <div class="bg-light">
     <div class="container linkkiosio">
         <div class="mx-lg-5 py-5">
             <div class="row">
                 {% for post in site.pages %}
-                {% if post.permalink contains art-2 or post.permalink contains art-2 and
-                post.permalink contains
-                art-3 %}
+                {% assign post-slug = post.permalink | slugify %}
+                {% if kolme-esiin contains post-slug %}
                 {% elsif post.menu == menu %}
                 <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
                     <div class="d-flex flex-row">
