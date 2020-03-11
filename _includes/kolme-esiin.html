@@ -1,66 +1,27 @@
 {% assign menu=page.menu | default: 'muuta' %}
-{% assign artikkelit=site.nav[lang][menu].kolme-esiin %}
-
-{% assign art-1=artikkelit[1] %}
-{% assign art-2=artikkelit[2] %}
-{% assign art-3=artikkelit[3] %}
-
-{% for post in site.pages %}
-{% if post.permalink == art-1 %}
-{% assign post-1=post %}
-{% elsif post.permalink == art-2 %}
-{% assign post-2=post %}
-{% elsif post.permalink == art-3 %}
-{% assign post-3=post %}
-{% endif %}
-{% endfor %}
+{% assign artikkelit=page.kolme-esiin %}
 
 <div class="row">
+    {% for artikkeli in artikkelit %}
+    {% for post in site.pages %}
+    {% if post.permalink == artikkeli %}
     <div class="col-lg-4 col-sm-6 mb-4">
         <div class="card h-100 kolme-esiin-card">
-            <a href="{{post-1.url}}">
+            <a href="{{post.url}}">
                 <img class="card-img-top"
-                             src="{{ site.url }}/images/{{post-1.kolme-esiin-kuva}}" alt="">
+                     src="{{ site.url }}/images/{{post.kolme-esiin-kuva}}" alt="">
             </a>
             <div class="card-body">
-                <h3 class="card-title"><a href="{{post-1.url}}">{{ post-1.kolme-esiin-otsikko }}</a></h3>
+                <h3 class="card-title"><a href="{{post.url}}">{{ post.kolme-esiin-otsikko }}</a>
+                </h3>
 
                 <p class="card-text">
-                    {{ post-1.kolme-esiin-teksti }}
+                    {{ post.kolme-esiin-teksti }}
                 </p>
             </div>
         </div>
     </div>
-    <div class="col-lg-4 col-sm-6 mb-4">
-        <div class="card h-100 kolme-esiin-card">
-            <a href="{{post-2.url}}">
-                <img class="card-img-top"
-                     src="{{ site.url }}/images/{{post-2.kolme-esiin-kuva}}" alt="">
-            </a>
-            <div class="card-body">
-                <h3 class="card-title"><a href="{{post-2.url}}">{{ post-2.kolme-esiin-otsikko
-                    }}</a></h3>
-
-                <p class="card-text">
-                    {{ post-2.kolme-esiin-teksti }}
-                </p>
-            </div>
-        </div>
-    </div>
-    <div class="col-lg-4 col-sm-6 mb-4">
-        <div class="card h-100 kolme-esiin-card">
-            <a href="{{post-3.url}}">
-                <img class="card-img-top"
-                     src="{{ site.url }}/images/{{post-3.kolme-esiin-kuva}}" alt="">
-            </a>
-            <div class="card-body">
-                <h3 class="card-title"><a href="{{post-3.url}}">{{ post-3.kolme-esiin-otsikko
-                    }}</a></h3>
-
-                <p class="card-text">
-                    {{ post-3.kolme-esiin-teksti }}
-                </p>
-            </div>
-        </div>
-    </div>
+    {% endif %}
+    {% endfor %}
+    {% endfor %}
 </div>

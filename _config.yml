@@ -50,50 +50,18 @@ defaults:
 nav:
   en:
     language: "English"
-    esittely:
-      name: "Esittely"
-      url: "/"
-    rotuinfo:
-      name: "Rotuinfo"
-      url: "rotuinfo/"
-    kuvat:
-      name: "Kuva-albumit"
-      url: "kuvat/"
-    muuta:
-      name: "Muuta"
-      url: "muuta/"
+    menus:
+      - "en/introduction"
+      - "en/breed-info"
+      - "en/photos"
+      - "en/misc"
   fi:
     language: "Finnish"
-    etusivu:
-      kolme-esiin:
-        1: "kuuhaukun-kennelin-historia"
-        2: "enkelin-tarina"
-        3: "tsukotkan-rekikoira"
-    esittely:
-      name: "Esittely"
-      url: "esittely/"
-      kolme-esiin:
-        1: "kuuhaukun-kennelin-esittely"
-        2: "jalostusfilosofia"
-        3: "kuuhaukun-tuonnit-ja-viennit"
-    rotuinfo:
-      name: "Rotuinfo"
-      url: "rotuinfo/"
-      kolme-esiin:
-        1: "oldline-siperianhusky"
-        2: "oldline-siperianhusky-rotumaaritelma"
-        3: "koiravaljakon-vedatys"
-    kuvat:
-      name: "Kuva-albumit"
-      url: "kuvat/"
-    muuta:
-      name: "Muuta"
-      url: "muuta/"
-      kolme-esiin:
-        1: "enkelin-tarina"
-        2: "iditarod"
-        3: "monadnock"
-
+    menus:
+      - "esittely"
+      - "rotuinfo"
+      - "kuvat"
+      - "muuta"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

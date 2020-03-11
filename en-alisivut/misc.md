@@ -1,9 +1,10 @@
 ---
 layout: menusivu
-permalink: muuta
+lang: en
+permalink: en/misc
 
-menu: muuta
-menu-otsikko: Muuta
+menu: misc
+menu-otsikko: Miscellaneous
 
 kolme-esiin:
         - "enkelin-tarina"

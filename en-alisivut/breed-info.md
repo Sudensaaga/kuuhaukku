@@ -1,9 +1,10 @@
 ---
 layout: menusivu
-permalink: rotuinfo
+lang: en
+permalink: en/breed-info
 
-menu: rotuinfo
-menu-otsikko: Rotuinfo
+menu: breed
+menu-otsikko: Breed Info
 
 kolme-esiin:
         - "oldline-siperianhusky"

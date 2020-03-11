@@ -6,6 +6,8 @@ Artikkeleiden ja kuvien copyright Jaana Sudensaaga.
 
 _config.yml
 
+Menujen otsikko ja id asetetaan alisivut-hakemiston tiedostoissa.
+
 ## Artikkelisivut
 
 Hakemistossa /sivut

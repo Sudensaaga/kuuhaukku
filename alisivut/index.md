@@ -1,10 +1,11 @@
 ---
 layout: etusivu
-menu: etusivu
 permalink: index
 
+menu: etusivu
+
 dia-1-kuva: img4.jpg
-dia-1-otsikko: Parempi otsikko <small>ystävällinen ja lempeä</small>
+dia-1-otsikko: Kuuhaukun kennel
 dia-1-teksti: Kuuhaukun kennel® on säilyttänyt old line® -linjan puhtaana 40 vuotta
               eikä siinä ole kilpa-tai showlinjaa, mikä on varmaan ainutlaatuista minkään rodun  historiassa.
 
@@ -24,4 +25,9 @@ dia-4-otsikko: Luonne ja terveys <small>ystävällinen ja lempeä</small>
 dia-4-teksti: Kasvatit ovat tunnettuja hyvästä luonteestaan. 
     Oikeaan luonteeseen ja terveyteen kiinnitetään paljon huomiota. 
     Jalostuskoiramme on mm. silmätarkastettu 90-luvulta lähtien.
+    
+kolme-esiin:
+    - "kuuhaukun-kennelin-historia"
+    - "enkelin-tarina"
+    - "tsukotkan-rekikoira"
 ---

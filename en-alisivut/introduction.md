@@ -1,9 +1,11 @@
 ---
 layout: menusivu
-permalink: esittely
+lang: en
 
-menu: esittely
-menu-otsikko: Esittely
+menu: intro
+menu-otsikko: Introduction
+
+permalink: en/introduction
 
 kolme-esiin:
         - "kuuhaukun-kennelin-esittely"

@@ -5,7 +5,13 @@
                 <h3>© 2020 Kuuhaukun® kennel</h3>
             </div>
             <div class="my-auto">
-                <a href="english.html">In English</a>
+
+                {% if lang == "en" %}
+                <a href="/">Suomeksi</a>
+                {% elsif lang == "fi" %}
+                <a href="/en">In English</a>
+                {% endif %}
+
             </div>
         </div>
     </div>

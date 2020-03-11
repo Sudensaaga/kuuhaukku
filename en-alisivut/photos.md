@@ -1,10 +1,10 @@
 ---
 layout: menusivu
-menu: kuvat
 lang: en
-permalink: kuvat
+permalink: en/photos
 
-menu-otsikko: Kuva-albumit
+menu: photos
+menu-otsikko: Photo Album
 
 kolme-esiin:
     - "missing"
