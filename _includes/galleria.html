@@ -1,31 +1,33 @@
 {% assign kuvat=page.kuvat %}
 <div class="row">
-{% for kuva in kuvat %}
-{% assign kuva-hash=kuva.first %}
+    {% for kuva in kuvat %}
+    {% assign kuva-hash=kuva.first %}
 
-{% if kuva-hash %}
+    {% if kuva-hash %}
 
-{% assign kuvateksti=kuva-hash.last  %}
-{% assign alt=kuva-hash.last | truncate: 125  %}
-{% assign url=kuva-hash.first  %}
+    {% assign kuvateksti=kuva-hash.last %}
+    {% assign alt=kuva-hash.last | truncate: 125 %}
+    {% assign url=kuva-hash.first %}
 
-{% else %}
+    {% else %}
 
-{% assign alt=kuva | split: '/' | last | split: '.' | first | truncate: 125  %}
-{% assign url=kuva %}
-{% assign kuvateksti=nil %}
+    {% assign alt=kuva | split: '/' | last | split: '.' | first | truncate: 125 %}
+    {% assign url=kuva %}
+    {% assign kuvateksti=nil %}
 
-{% endif %}
+    {% endif %}
 
     <div class="col-lg-4 col-md-6 mb-4 kuvagalleria">
-        <img src="{{ site.url }}/images/{{url}}" alt="{{alt}}">
+        <a href="{{ site.url }}/images/{{url}}">
+            <img src="{{ site.url }}/images/{{url}}" alt="{{alt}}">
+        </a>
         {% if kuvateksti %}
         <div class="sivukuvateksti">
             {{kuvateksti}}
         </div>
         {% endif %}
     </div>
-{% endfor %}
+    {% endfor %}
 </div>
 
 

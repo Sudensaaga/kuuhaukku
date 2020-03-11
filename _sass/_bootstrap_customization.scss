@@ -64,6 +64,17 @@ footer h3, footer a {
   background-color: white;
 }
 
+.carousel-indicators {
+  margin-left: 15%;
+
+}
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  background-color: grey;
+}
+
 .slide-h2 {
   color: #bf0f0a;
   font-size: 2.8rem;
@@ -115,14 +126,12 @@ footer h3, footer a {
   }
 }
 
-.kuvagalleria {
-  img {
+.kuvagalleria img {
     width: 100%;
-  }
-  border: 1px solid #dee2e6;
-  border-radius: 0.25rem;
-  padding: 0.25rem;
-  background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    padding: 0.25rem;
+    background-color: #fff;
 }
 
 .artikkelin-iso-kuva {
