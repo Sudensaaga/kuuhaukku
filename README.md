@@ -4,6 +4,7 @@ Artikkeleiden ja kuvien copyright Jaana Sudensaaga.
 ## Artikkelien muuttaminen 
 
 Suomeksi hakemistossa [artikkelit](https://github.com/kulmala/kuuhaukku/tree/master/artikkelit). 
+
 Englanniksi hakemistossa [en](https://github.com/kulmala/kuuhaukku/tree/master/en)
 
 Voit tehdä alihakemistoja tarpeen mukaan.
@@ -13,7 +14,8 @@ Voit tehdä alihakemistoja tarpeen mukaan.
 Muuta tiedostosta [_config.yml](https://github.com/kulmala/kuuhaukku/blob/master/_config.yml)
 
 Menujen otsikko ja tunniste asetetaan 
-hakemiston [alisivut](https://github.com/kulmala/kuuhaukku/tree/master/alisivut) tiedostoissa. 
+hakemiston [alisivut](https://github.com/kulmala/kuuhaukku/tree/master/alisivut) tiedostoissa.
+
 Englanninkieliset menut asetetaan hakemiston
 [en-alisivut](https://github.com/kulmala/kuuhaukku/tree/master/en-alisivut) tiedostoissa.
 
