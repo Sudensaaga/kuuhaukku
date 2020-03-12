@@ -4,9 +4,12 @@ Artikkeleiden ja kuvien copyright Jaana Sudensaaga.
 
 ## Yläpalkin menut, perustiedot
 
-_config.yml
+Muuta tiedostosta [_config.yml](https://github.com/kulmala/kuuhaukku/blob/master/_config.yml)
 
-Menujen otsikko ja id asetetaan alisivut-hakemiston tiedostoissa.
+Menujen otsikko ja tunniste asetetaan 
+[alisivut](https://github.com/kulmala/kuuhaukku/tree/master/alisivut)-hakemiston tiedostoissa. 
+Englanninkieliset menut asetetaan 
+[en-alisivut](https://github.com/kulmala/kuuhaukku/tree/master/en-alisivut)-hakemistossa.
 
 
 ## Kuvien lisääminen
