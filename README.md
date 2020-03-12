@@ -29,6 +29,8 @@ Tarkista kuvan koko, saisi olla alle 400 KB
 
 ## Testaa omalla koneella
 
+Toimii vain jos Gemfile-tiedostossa mainittu Ruby ja modulit on asennettu omalle koneelle.
+
 ~~~bash
 jekyll serve --livereload --incremental
 ~~~
