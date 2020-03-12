@@ -22,6 +22,10 @@ Tarkista kuvan koko, saisi olla alle 400 KB
 * **Linkkikuvat:** 1:1, 102/102 px tai 125/125px
 * **Kolme-esiin kuvat:** 12:5, 240/100 px tai hieman isompi
 
+## Tekstien muuttaminen
+
+.md-tiedostot käyttävät Markdown-kieltä. Ohjeet komentoihin täällä:
+[Markdown-ohje](https://github.com/akx/markdown-cheatsheet-fi/blob/master/Markdown-Ohje.md)
 
 ## Testaa omalla koneella
 
