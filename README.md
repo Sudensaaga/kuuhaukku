@@ -3,7 +3,7 @@ Artikkeleiden ja kuvien copyright Jaana Sudensaaga.
 
 ## Artikkelien muuttaminen 
 
-Suomeksi hakemistossa [artikkelit](https://github.com/kulmala/kuuhaukku/tree/master/artikkelit)
+Suomeksi hakemistossa [artikkelit](https://github.com/kulmala/kuuhaukku/tree/master/artikkelit). 
 Englanniksi hakemistossa [en](https://github.com/kulmala/kuuhaukku/tree/master/en)
 
 Voit tehdä alihakemistoja tarpeen mukaan.
@@ -27,8 +27,7 @@ yläpalkin "Upload files"-nappia.
 * .jpg muotoisina
 * nimi kirjoitettuna pienillä kirjaimilla, ei ääkkösiä, ei välilyöntejä
 
-Kuvan koko saisi mielellään olla alle 400KB, koska ilmaisessa 
-Github-repossa on tilaa yhteensä 500GB. 
+Kuvan koko saisi mielellään olla alle 400KB.
 
 Voit tehdä alihakemistoja tarpeen mukaan.
 
