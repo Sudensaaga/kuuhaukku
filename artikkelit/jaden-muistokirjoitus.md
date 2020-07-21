@@ -68,8 +68,8 @@ haluama. Ei ihme, että se studiokuvattiin erääseen koirakirjaankin. Se vain p
 vanhetessaan ja oli mielestäni kauneimmillaan juuri nyt, ennen pois lähtöään. Käydessäni 
 sen kanssa tottelevaisuuskoulutuksessa ohjaajat sanoivat, että siitä saisi vaivatta 
 parin viikon treenillä kisakoiran, se oli niin lahjakas. Muistan, kuinka se pienenä 
-pentuna Troikasissa oli ainoa mustavalkoinen pentu, ihan minun näköinen koira olemukseltaan. 
-Siitä tuli jopa niin näköiseni, että sille tuli silmiin minun katse. Vaikea selittää, 
+pentuna Troikasissa oli ainoa mustavalkoinen pentu, ihan minun näköinen koira olemukseltaan. 
+Siitä tuli jopa niin näköiseni, että sille tuli silmiin minun katse. Vaikea selittää, 
 mutta se on vain joillakin eläimilläni, ei kaikilla. Kai kyse on jostain sielujen yhdentymisestä. 
 Nyt tuntuu, että osa itsestä on katkaistu ja poissa.
  
