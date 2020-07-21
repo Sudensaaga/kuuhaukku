@@ -51,6 +51,13 @@ Jos haluat kuvan yhteyteen tekstin, se tehdään näin:
 ![sokeainteksti](images/hakemistonnimi/kuvannimi.jpg)*kuvateksti tähän*
 ~~~
 
+Esimerkki:
+
+~~~bash
+![vanha siperianhuskyvaljakko](images/vanha-siperianhuskyvaljakko.jpg.jpg)*Old line valjakointia 70-luvulla*
+~~~
+
+
 ## Tekstien muuttaminen
 
 .md-tiedostot käyttävät Markdown-kieltä. Ohjeet komentoihin täällä:
