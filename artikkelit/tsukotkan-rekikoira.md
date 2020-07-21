@@ -245,4 +245,4 @@ koirien karvan samankaltaisuus paljastivat näiden koirien historiallisen yhteyd
 rekikoiran tunnistaminen omaksi 
 puhtaaksi itsenäiseksi rodukseen on luultavimmin perusteltua, vaikka vielä onkin tulevaisuudessa tehtävä geneettisiä 
 testejä hypoteesin tueksi. 
-![Kuuhaukun Zero below eli Utu, 3/4 Tsukotkan rekikoira, 1/4 SH](images/Tsukotkan-rekikoira/utu pää.jpg)
+![Kuuhaukun Zero below eli Utu, 3/4 Tsukotkan rekikoira, 1/4 SH](images/tsukotkan-rekikoira/utu pää.jpg)
