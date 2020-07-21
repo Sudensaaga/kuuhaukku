@@ -28,7 +28,7 @@ kennel Pohjoismaissa. **Kuuhaukun kennel on ollut hyvin tiukka jalostustyössä�
 sekoittanut kevyen linjan kilpakoiria eikä "modern show line" - eli näyttelylinjoja 
 kantaansa. Näin old line koirien alkuperäinen ja tyypillinen ulkomuoto ja ominaisuudet 
 ovat säilyneet. **Tarkoituksena onkin "vanhan säilyttäminen"** eikä tyypin muuttaminen eri 
-ihanteiden ja päämäärien mukaan. Jalostukseen on käytetty vain silmätarkastettuja, nyttemmin myös lonkkakuvattuja 
+ihanteiden ja päämäärien mukaan. Old line -koirissa sukupolvenvaihdos on ollut hidasta. Jalostukseen on käytetty vain silmätarkastettuja, nyttemmin myös lonkkakuvattuja 
 ja kliinisesti terveitä koiria. Kennelin koirat 
 työskentelevät valjakossa joka viikko, ja niiden työskentelyominaisuudet huomioidaan 
 jalostustyössä.
