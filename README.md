@@ -45,7 +45,11 @@ Voit tehdä alihakemistoja tarpeen mukaan.
 ![sokeille näkyvä teksti](images/kuvannimi.jpg)
 ~~~
 
-Jos olet laittanut kuvat uuteen hakemistoon
+Jos haluat kuvan yhteyteen tekstin, se tehdään näin:
+
+~~~bash
+![sokeainteksti](images/hakemistonnimi/kuvannimi.jpg)*kuvateksti tähän*
+~~~
 
 ## Tekstien muuttaminen
 
