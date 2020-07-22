@@ -64,16 +64,16 @@ pojat pääsisivät tosi toimeen. Yhtäkaikki, ajaja lähti ohittamaan minun
 valjakkoani ja kehotin Enkeliä jatkamaan matkaa. Enkeli ponnisteli sivusta 
 syvemmässä lumessa ja teki kuten kehotin ja tilanne oli pelastettu. Oma 
 valjakkoni seurasi hanakkaasti tyttövaljakkoa. Enkeli oli pelastava Enkeli. Se 
-johti vielä valjakkoa 14,5 vuotiaana viime syksynä SPY:n syysharjoittelussa.
+johti vielä valjakkoa 14,5 vuotiaana SPY:n syysharjoittelussa.
 
 Enkelin oikeudentunto ja hyväntahtoisuus ylittivät sen koiran vaistot; siksi se 
-olikin enemmän kuin koira.. Yhden kerran Lumi oli koettanut mennä varastamaan 
+olikin enemmän kuin koira. Yhden kerran Lumi oli koettanut mennä varastamaan 
 Enkelin kupista ruokaa. Enkeli ei koskaan halunnut tapella ja silloinkin se vain 
 painoi Lumin maahan ja piteli siellä etujaloillaan ja tilanne oli ohi. 
 Normaalisti koira alistamistilanteen jälkeen kulkee korkein jaloin niskakarvat 
 pystyssä vielä tehostaakseen itseään. Enkeli sen sijaan meni Lumin viereen ja 
 nuolaisi tätä kuin sanoakseen, että ei muistella pahalla. Sillä oli niin hyvä 
-itsetunto, en ole koskaan nähnyt mitään vastaavaa.
+itsetunto, etten ole koskaan nähnyt mitään vastaavaa.
 
 Sanoin aina, että Enkeli on paitsi viisas opettaja myös hoitaja. Se nuoli 
 todella uutterasti ihmisiä, voimakkaasti painaen kielellään, kuin antaen voimaa 
@@ -89,8 +89,8 @@ luonteen paitsi perimänsä, myös Enkelin erinomaisten äidinvaistojen ansiosta
 
 Enkeli menestyi myös näyttelyissä, vaikka minulle se asia ei juuri merkitsekään 
 mitään. Sillä oli kaikki sertit näyttelystä ja monet ihailivat sen erittäin 
-kaunista päätä ja tervettä rakennetta. Eräässä SPY:n näyttelyssä Korvolan Jaana 
-esitti Enkeliä. Siitä lähti hänen ihastuksensa siperianhuskyyn. Enkeli oli taas 
+kaunista päätä ja tervettä rakennetta. Eräässä SPY:n näyttelyssä eräs tuttuni   
+esitti Enkeliä kehässä. Siitä lähti hänen ihastuksensa siperianhuskyyn. Enkeli oli taas 
 tehnyt vaikutuksen.
 
 Enkeli oli merkittävä siperianhusky, täydellisin koira mitä tiedän. Enkelin 
@@ -98,19 +98,19 @@ aivan erityinen luonne näkyi siinä, että siinä ei ollut mitään negatiivist
 energiaa. Uskon, että sen sielu oli jo pidemmälle jalostunut ja siten nimikin 
 oli enne. Kun se tuli sisäkoiraksi yhdeksän vuotiaana, se ei ottanut mitään 
 ruokaa pöydiltä tai ulottuvilla olevasta namisangosta, se oli täysin sisäsiisti 
-(vaikka sen voimat olivat viimein lopussa, se osoitti minulle, että halusi ulos, 
+(vaikka sen voimat olivat viimeisinä aikoina lopussa, se osoitti minulle, että halusi ulos, 
 minne kannoimme sen, koska se ei halunnut tehdä sisälle) ja aivan 
-käsittämättömästi se ymmärsi vaikka ei olisi mitään sanonutkaan. Sen 
+käsittämättömästi se ymmärsi asioita, vaikka ei olisi mitään sanonutkaan. Sen 
 jälkeläisissä voi myös nähdä näitä samoja asioita, vaikkakaan ei kaikkia samassa 
 yksilössä. Enkelin hienon perimän ominaisuuksia elää kuitenkin sen upeissa 
 jälkeläisissä.
 
-Kaikella on kuitenkin rajallinen aikansa ja rakkaimpani Enkeli lähti eteenpäin 
+Kaikella on kuitenkin rajallinen aikansa, ja rakkaimpani Enkeli lähti eteenpäin 
 taipaleellaan torstaina 20.6.2008 aamulla klo 6. Se sai sydänoireita kolmisen 
-viikkoa ennen ja sen oli vaikea hengittää ja nukkua, lääkityksenä se sai 
+viikkoa ennen, ja sen oli vaikea hengittää ja nukkua, lääkityksenä se sai 
 nesteenpoistoa ja sydänlääkettä, mutta ne eivät paljoakaan auttaneet. 
 Eläinlääkäri tuli kotiin päästämään sen viimein tuskistaan, ja se nukkui 
-rauhallisesti pois, tuskallinen läähätys loppui uneen.
+rauhallisesti pois, tuskallinen läähätys loppui ikiuneen.
 
 Valvoin viimeisen yön sen vierellä keittiössä, missä se oli jo alussa valinnut 
 paikkansa penkin edessä. Se oli elämäni pisin yö, se miten sydämeni vuoti verta, 
@@ -124,10 +124,10 @@ lähtemättömän vaikutuksen minun lisäkseni moniin muihin ihmisiin.
 
 Enkeli oli kolme viikkoa vaille 15 vuotta eikä missään muualla ollut mitään 
 vikaa. Siitä oli otettu kaikki verikokeet ja vatsa röntgenkuvattu ja ultrattu. 
-Se veti viimeisen kerran valjakossa vielä kuukausi ennen.
+Se veti viimeisen kerran valjakossa vielä kuukausi ennen poislähtöään.
 
 Enkeli oli legenda jo eläessään. Harva koira painui ihmisten mieliin niin 
-syvästi, kuin Enkeli. Ihmiset, jotka olivat vierailleet kotisivuillani ja 
+syvästi kuin Enkeli. Ihmiset, jotka olivat vierailleet kotisivuillani ja 
 tulivat kylään, halusivat nimenomaan nähdä juuri Enkelin, ja henkilöt, jotka 
 eivät vierailleet koira-asioissa, kiinnittivät huomiota sen loistaviin ja 
 erikoisiin kasvoihin. Sen sielun puhtaus ja jalostuneisuus heijastuivat sen 
