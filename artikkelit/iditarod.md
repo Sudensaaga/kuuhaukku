@@ -22,7 +22,7 @@ sivukuvat:
 <img src="images/iditarod/anchoragetonome.jpg"/>
 </center><br>
 
-Kuuhaukun Ikuisen Rakkauden, "Rascal"-poikamme, jälkikasvua juoksi vuoden 2007 
+Kuuhaukun Ikuisen Rakkauden, "Rascal"-poikani, jälkikasvua juoksi vuoden 2007 
 Iditarodissa **Howln´n Wind** kennelin A-valjakossa.<br>
 <br>
 **Troika´s Nordic Blizzard ja Troika´s Nordic Icon ovat myös kansainvälisiä 
