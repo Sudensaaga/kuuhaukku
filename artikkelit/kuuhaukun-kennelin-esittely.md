@@ -83,9 +83,9 @@ sisarukset **EUV-91 Kuuhaukun Don Carlos** ja **EUV-91 Kuuhaukun Kesäyönunelma
 **VV-13 Kuuhaukun Teräs-Teddy** (2 SERT), sekä **JV-02 Kuuhaukun Onnettaren Oodi** (2 SERT), 
 joka oli myös virassa toimiva pelastuskoirakokeen suorittanut pelastuskoira. Mainittakoon, 
 että old lineista on hyvin erilaisiin toimintamuotoihin. Esim. Hile, **Kuuhaukun Hallava Hauva**, 
-on rallytokossa mestaruusluokassa ja saa yleisesti miltei aina täydet pisteet suorituksestaan.
+on rallytoko valio ja saa yleisesti miltei aina täydet pisteet suorituksestaan (valioituessaan 99/100 p., 1. sija).
 
-Sijoituskoirasta **FIN MVA Kuuhaukun Legenda Lumesta** en valitettavasti saanut sijoituspentuetta 
+Sijoituskoirasta **FIN MVA Kuuhaukun Legenda Lumesta** ei valitettavasti saatu sijoituspentuetta 
 Kuuhaukkuun omistajan väärinkäytöksestä johtuen. Jaana on myös tuonut Kuuhaukun kenneliin eläkepäiviä 
 viettämään valiot **INT & USA CH Troika's Bright Coinin** sekä Iditarodin juosseen **INT & USA CH Troika's 
 Nordic Iconin SD** (Kuuhaukun Ikuisen Rakkauden jälkeläinen).
@@ -114,7 +114,7 @@ old linen parissa siitä asti kasvatustyön painottuessa kuitenkin toistaiseksi 
 Lauralla on ollut kaksi pentuetta, hän ei ole pitänyt 
 kiirettä pentujen teettämisen kanssa vaan on rauhassa halunnut oppia asioita mikä onkin järkevämpää 
 ja kunnioitettavampaa kuin monien aloittelijoiden kova tarve tuottaa useita pentueita lyhyen ajan sisällä. Vuodesta 2013 
-lähtien Kuuhaukun kennelillä on virallisesti kaksi haltijaa Jaana Sudensaaga ja Laura Kinnunen.
+lähtien Kuuhaukun kennelillä on nimellisesti kaksi haltijaa, Jaana Sudensaaga ja Laura Kinnunen.
 
 <h4>KOIRAT KOTIOLOISSA</h4>
 
