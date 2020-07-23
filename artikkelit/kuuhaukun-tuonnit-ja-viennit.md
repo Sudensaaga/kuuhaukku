@@ -50,11 +50,11 @@ USAssa Troika-kennelissä. Tämän jalostustyön yhtenä tuloksena Jaana toi tam
 Suomeen **Troika´s Nordic Northwindin** ja **Troika´s Nordic Sno-Toriouksen** (Joiku), 
 joka jäi Kuuhaukkuun. Tammikuussa 2006 **C.I.B & USA CH Troika´s Bright Coin**, Henna, 
 saapui Kuuhaukkuun vanhemmilla päivillään. Henna osoitti old line -perimänsä mukaisia 
-vetokoiraominaisuuksiaan vetämällä valjakossa ensi kertaa elämässään kuin vanha tekijä!
+vetokoiraominaisuuksiaan vetämällä valjakossa 9-vuotiaana ensi kertaa elämässään kuin vanha tekijä!
 
 Kuuhaukun joukkoon liittyi jouluna 2006 **Troika´s Carbon Copy**, Howard, 
 joka oli ehdolla päärooliin Disneyn Eight Below -elokuvassa. Onneksi Howard ei välittänyt 
-Hollywood elämästä, ja tämä ihastuttava koira saapui Suomeen Kuuhaukun kenneliin ja 
+Hollywood-elämästä, ja tämä ihastuttava koira saapui Suomeen Kuuhaukun kenneliin ja 
 eli täällä 14 vuoden ikäiseksi. Samaisessa elokuvassa näyttelikin Truman, joka on 
 myös kotoisin Troika kennelistä. Jaana tuotti Suomeen myös **Troika's Elf Pawn** 
 vuonna 2007. Roman Bobits Celtic Wolves kennelistä on myös hankkinut koiria Carol 
@@ -120,15 +120,15 @@ Jaanan luo Kuuhaukkuun. Lauran luona on samalta kasvattajalta tuotettu tšukotka
 rekikoira **Polar Star Snezhinka** (Vega). Nämä koirat on jalostettu pelkästään käytön perusteella ja 
 niiden sukutaulussa on jo parin sukupolven päässä Tšukotkalla syntyneitä työkoiria. 
 Ne ovatkin oivallinen vertailukohde nykyisille siperianhuskyille ja rodussa tapahtuneille 
-muutoksille ja ovat apuna old linen jatkojalostuksessa pitäen yllä elinvoimaa ja alkuperäisyyttä, 
+muutoksille, ne ovat myös apuna old linen jatkojalostuksessa pitäen yllä elinvoimaa ja alkuperäisyyttä, 
 kun rekisteröityjä ulkopuolista linjaa olevia old lineja ei enää ole.
 
 <h4>Kuuhaukun viennit</h4><br>
 
-Kuuhaukun kennelin koiria tunnetaan myös maailmalla ja Kuuhaukulla on yhteensä 10 
+Kuuhaukun kennelin koiria tunnetaan myös maailmalla ja Kuuhaukulla on yhteensä 11 
 vientiä Eurooppaan. Jaana on vienyt kolme siperianhuskya Italiaan ja yksi niistä, 
 **Kuuhaukun Finn-Aslak**, on **Italian muotovalio ja nuorten maailmanvoittaja -83**. 
-Neljä Kuuhaukun kasvattia on viety Saksaan, 2 Hollantiin, 1 Viroon ja 1 Ranskaan.
+Neljä Kuuhaukun kasvattia on viety Saksaan, 2 Hollantiin, 1 Viroon ja 2 Ranskaan.
 Lisäksi **Kuuhaukun Ikuinen Rakkaus** oli jalostuslainassa rodun kotimaassa USA:ssa 
 Troika kennelissä, missä se vaikutti osaltaan Troikasin jalostustyöhön ollen puhdas old 
 line ulkosiitos Troika kennelin vanhoihin linjoihin. Rascalin pennuissa on USAn ja 
