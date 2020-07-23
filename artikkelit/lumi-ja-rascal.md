@@ -34,7 +34,7 @@ laukkasi puutarhaan juoksemaan vapaana ja pääsi koppiin nukkumaan. Rascal sai 
 sain sen takaisin kotikenneliin rankkojen kokemustensa jälkeen safarikennelistä. Se oli USAssa jatkamassa old 
 line kantaa siellä, ja sen kuuluisat pojat, Icon ja Blizzard, juoksivat Iditarodin läpi sekä saivat kansainvälisen 
 muotovalion arvon. Olen onnellinen ja kiitollinen Carol Dixonille, että sain Iconinkin kenneliini ainutlaatuisena
-koirana saavutustensa puolesta koko Suomessa viime jouluna, sillä sen nauravat kasvot ja olemus muistuttavat minua 
+koirana saavutustensa puolesta koko Suomessa, sillä sen nauravat kasvot ja olemus muistuttavat minua 
 rakkaasta Rascalista. 
  
 <center>
@@ -51,7 +51,7 @@ Ikuinen Rakkaus, kertoo kaiken; olen onnellinen kun sain elää Rascalin kanssa 
 vuotta sen rankkojen kokemusten jälkeen.
  
 Lumi ja Rascal olivat samassa tarhassa viimeiset vuodet, sillä nuorten koirien seura olisi ollut liian riehakasta niille. Nyt tuntuu niin tyhjälle, kun niiden tutut ja rakkaat kasvot eivät enää tervehdi keskitarhasta. Kun hyvästelen nämä rakkaat koirani, hyvästelen myös pitkän ajan elämästäni ja kasvatustyöstäni, erään aikakauden lopun. Ainoa lohtu on, että näen niiden rakkaat piirteet niiden jälkikasvussa, ne elävät aina kaikkialla.
-Kun myös safarikennelistä pelastettu Pipsa lähti eteenpäin matkallaan, tein runon, joka nytkin kuvastaa tunteitani ja toisaalta lohduttaa.
+Kun myös safarikennelistä pelastettu Pipsa lähti eteenpäin matkallaan, tein runon, joka kuvastaa tunteitani ja toisaalta lohduttaa.
 
 <center>
 <i>
