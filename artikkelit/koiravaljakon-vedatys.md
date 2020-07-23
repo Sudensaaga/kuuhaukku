@@ -1,11 +1,11 @@
 ---
 layout: artikkeli-kuvapalkilla
 menu: muuta
-permalink: koiravaljakon-vedatys
+permalink: koiravaljakon-vetoharjoittelu
 otsikko: Rekiajelun 7 kultaista sääntöä
 
-kolme-esiin-otsikko: Veto-infoa
-kolme-esiin-teksti: "Kuuhaukun kennelin veto-info kasvatinomistajille. Rekiajelun 7 kultaista 
+kolme-esiin-otsikko: Vetoharjoittelu-infoa
+kolme-esiin-teksti: "Kuuhaukun kennelin vetoharjoittelu-info kasvatinomistajille. Rekiajelun 7 kultaista 
  sääntöä."
 kolme-esiin-kuva: vetobanneri.jpg
 
@@ -22,7 +22,7 @@ vaativalla harjoittelulla liian nuorena. Koiran innokkuus ei ole vielä merkki s
 että sen pää kestää ja se vetää vielä 10-vuotiaanakin. Maltti on valttia.
 
 **2. Vetäminen on koiralle ilo**  
-Puhu sille iloisesti ja kehu aina kun se yrittää parastaan. 
+Puhu koirallesi iloisesti ja kehu aina kun se yrittää parastaan. 
 Mieluummin kiitä kuin "möykkää". Muista vuorovaikutus; koirasi kuuntelee sinua 
 vetäessäänkin ja haluaa miellyttää.
 
@@ -35,12 +35,11 @@ tällöin voi nuorelle koiralle tulla elinikäisiäkin traumoja.
 
 **4. Ajettava matka on suhteessa treeniin**  
 Tämä lause kuulostaa itsestäänselvyydeltä, 
-mutta liian usein kuulee, miten treenaamattomilta koirilta on vaadittu "ylisuorituksia" 
-esim. kilpailuissa.
+mutta liian usein kuulee, miten treenaamattomilta koirilta on vaadittu "ylisuorituksia". Samoin pitää ymmärtää koiran ikä sekä ymmärtää, että eritasoisesti harjoitetun valjakon koirilta voi vaatia vain niin paljon kuin vähiten treenattu jaksaa vetää.
 
 **5. Suunta on aina eteenpäin liinat tiukalla**  
 On ehdottomasti kiellettyä, että koira 
-kääntyilee taaksepäin valjakossa valjastettaessa tai ajattaessa. Johtajakoiraa pidetään 
+kääntyilee taaksepäin valjakossa valjastettaessa tai ajattaessa. Jos johtajakoira ei pysy paikoillaan, niin siitä pidetään 
 kiinni tai se sidotaan edestä kiinni valjakkoa kootessa, jotta liinat ovat tiukalla, 
 samaten ajaessa pitää osata jarruttaa ajoissa, jos koirat pysähtyvät, ettei valjakko mene sotkuun.
 
