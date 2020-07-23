@@ -22,7 +22,7 @@ Vuosina 1963-64 työskentelin New Hampshiressa noin tunnin päässä Lornan kodi
 Vietin oikeastaan joka viikonlopun hänen kanssaan (olen varma, että hän oli 
 hyvin, hyvin iloinen, kun muutin ja jätin hänet vihdoin yksin). Me menimme 
 näyttelyihin, kilpailuihin, ajoimme koiria (hän ei kilpaillut enää silloin 
-aktiivisesti, mutta ajoi silti kaikkia koiraan eikä pitänyt mitään, mikä ei 
+aktiivisesti, mutta ajoi silti kaikkia koiraan eikä pitänyt mitään koiraa, joka ei 
 juoksisi, Pando oli johtaja siihen aikaan). Vietin tunteja käyden läpi monia 
 valokuva- ja leikelaatikoita, joita hänellä oli (lajittelemattomia), ja 
 lajittelin monia hänelle.
@@ -32,7 +32,7 @@ harjoitteli riisutulla Crosley- tai Austin-autonrungolla, mikä oli tarpeeksi
 painava pitämään isoa valjakkoa, niissä ei ollut moottoria. Monet pikkukaupungit 
 pitivät kilpailuja 30- ja 40-luvulla. Lorna sanoi, että hän usein ajoi 
 valjakolla 5-15 mailin päähän, missä kilpailu pidettiin, ajoi kisan läpi ja ajoi 
-sitten valjakon kotiin. Ei koirien kuljetusperävaunuja silloin! Radat eivät 
+sitten valjakon kotiin. Ei koirien kuljetusperävaunuja ollut silloin! Radat eivät 
 tietenkään olleet aurattu tuohon aikaan, mutta ne kulkivat usein metsäteillä 
 lähialueella. Ensimmäinen kilpailu, mihin menin, oli Chocorua-järven rannalla. 
 Ura oli tehty lumitelavaunulla (mutta ei todellakaan niin aurattu kuin mitä voi 
