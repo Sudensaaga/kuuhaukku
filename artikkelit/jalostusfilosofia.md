@@ -71,8 +71,8 @@ hänen pitää ottaa aivan eri rotuinen koira koska on väärin muuttaa käyttö
 omistajan mukavuudenhalun vuoksi.
 
 Kuuhaukun kasvatit ovat myös mainioita kotikoiria. Ideaalisin paikka old linelle onkin liikunnallinen 
-perhe, joka tarjoaa koiralle toimintaa (ei kilpa-, safari- tai näyttelykennelit, joissa koira 
-yleensä on vain väline).
+perhe, joka tarjoaa koiralle toimintaa, -ei kilpa-, safari- tai näyttelykennelit, joissa koira 
+yleensä on vain väline.
 
 **Arktinen ulkomuoto tekee siperianhuskyn/old line -rekikoiran**. Ihanteellinen siperianhusky vastaa 
 tyypiltään alkuperäisiä tšuktsikoiria, joita tuotiin Alaskaan 1900-luvun alussa ja joihin 
@@ -85,11 +85,11 @@ yksilöt ovat aina rotumääritelmän sisällä ja tunnistettavissa nimenomaan a
 ne poikkeavat tyypiltään merkittävästi esim. kilpalinjan koirista ja alaskanhuskysta.
 
 **Näiden seikkojen lisäksi hyvä koiranpito** on sijoitettaessa kasvatteja uusiin koteihin 
-erityisen tärkeää. Old line -koirat eivät ole meille harrastusvälineitä vaan rakkaita perheenjäseniä. 
+erityisen tärkeää. Old line -koirat eivät ole kasvattajalle harrastusvälineitä vaan rakkaita perheenjäseniä. 
 Pentujen tulevat kodit valitaan tarkasti eikä pentuja myydä kaikille; koiran tulee saada 
-elää rakastettuna perheenjäsenenä. Koiramäärästä riippumatta jokaisen kasvatin on saatava 
+elää rakastettuna omassa perheessään. Koiramäärästä riippumatta jokaisen kasvatin on saatava 
 yksilökohtaista hoitoa ja huomiota. Koiria ei tavallisesti anneta vanhempana eteenpäin, 
-vaan myös steriloidut ja vanhat koirat saavat elää luonamme vanhuuteen asti, ja niiden 
+vaan myös steriloidut ja vanhat koirat saavat elää Kuuhaukussa vanhuuteen asti, ja niiden 
 hoidosta huolehditaan samalla tavalla kuin nuorempien jalostuskoirien.
 
 <center>
