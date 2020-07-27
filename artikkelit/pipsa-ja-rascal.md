@@ -14,7 +14,7 @@ perustaa majoitus- ja aktiviteettipalveluja antavan yrityksen. Hälytyskellot
 soivat jo siinä vaiheessa, kun koiramäärää alettiin lisätä huimaa vauhtia- 
 sekarotuisilla ja kevyen linjan koirilla.
 
-Minulta kyseinen henkilö oli ottanut viisi, siis ensimmäistä koiraa, joiden
+Minulta kyseinen henkilö oli ottanut viisi ensimmäistä koiraansa, joiden
 joukossa mm. Rascal, jonka olin jättänyt kotiin, mutta jonka annoin 
 ilmaiseksi hänelle ajatellen, että paikka on todella hyvä (Rascal oli toisen uroksen
 kanssa samassa tarhassa, ei tapellut, mutta hierarkiassa alempana, eikä
@@ -22,12 +22,12 @@ tuntunut oikein viihtyvän).
 
 Ensimmäinen merkki siitä, että asiat eivät olleet niin kuin piti, oli kun
 sain tammikuussa Saksasta eräältä old line kasvattajalta tietää, että 
-kasvattini, ensimmäinen henkilön minulta ottama on Ranskassa (sen oli vienyt 
-toinen kasvatinomistaja kertomatta minulle; safariyrittäjä oli sanonut ettei 
-minulle saa sanoa; Luoja tietää miksi ja sopimukset koiran uudelleen sijoittamisesta 
+kasvattini, ensimmäinen henkilön minulta ottama uroshusky oli Ranskassa (sen oli vienyt 
+toinen kasvatinomistajani kotiinsa Ranskaan kertomatta minulle; safariyrittäjä oli sanonut ettei 
+minulle saa sanoa, Luoja tietää miksi, ja sopimukset koiran uudelleen sijoittamisesta 
 kauttani eivät merkinneet siinä vaiheessa mitään). Koira oli ollut lihakseton ja 
-huonossa kunnossa huonon ravinnon vuoksi. Soitin välittömästi kasvatinomistajalleni, 
-joka ei ollut tietävinäänkään, ettei minulle olisi pitänyt kertoa ja joka väitti 
+huonossa kunnossa huonon ravinnon vuoksi. Soitin välittömästi safariyritys-miehelle, 
+joka ei ollut tietävinäänkään, että hän oli kieltänyt kertomasta minulle ja joka väitti 
 asiaa kysyessäni, että muut neljä koiraa ovat vielä hänellä. Mainittakoon,että 
 hänen yrityksensä oli mennyt nurin n. vuosi sitten.
 
@@ -38,7 +38,7 @@ josta vastasi toinen safariyrittäjä, joka oli ostanut ne jo neljä kuukautta s
 (eli koirat oli myyty puhelinsoitosta kasvatinomistajalleni jo kolme, neljä kuukautta 
 sitten marraskuussa). Ne oli ostettu parinkymmenen koiran kimppakaupassa, pidetty 
 sesonkikausi ja nyt ne olivat kaupan.
-Toinen oli jo myyty etelään, mutta toinen oli vielä jäljellä ja myyjä 
+Toinen oli jo myyty etelään (hoikkana ja jalkahaavaisena), mutta toinen oli vielä jäljellä ja myyjä 
 ymmärsi hyvin tilanteeni ja hätäni kasvattini puolesta ja lupasi, että saan tehdä 
 sopimuksen, vaikka kauppahinta tietenkin meni hänelle. Hän oli myös 
 halunnut, että koira pääsee "kaltaistensa" joukkoon, soittoja oli nimittäin tullut 
@@ -49,19 +49,19 @@ Aslakista, ja soitin sen uuteen kotiin varmistaakseni, että paikka tuntui asial
 
 Olin tietenkin tyrmistynyt tällaisesta valehtelusta ja soitin uudestaan
 kasvatinomistaja-safariyrittäjälle, joka ensin väitti, että koirat on vain
-sijoitettu. Totesin kylmähkösti, että niitä myydään jo eteenpäin eli ne
-oli myyty häneltä, jolloin hän menettei hermonsa ja alkoi huutaa minulle,
+sijoitettu. Totesin kylmähkösti, että niitä myydään jo eteenpäin eli hän 
+oli ne myynyt, jolloin hän menetti hermonsa ja alkoi huutaa minulle,
 että tämä on hänelle työtä, hänellä ei ole aikaa leikkiä näiden koirien
 kanssa, kuten minä teen (??!!). Tämän jälkeen en häntä enää koskaan 
 tavoittanut puhelimella enkä tiennyt mitään kahden jäljellä olevan koiran Pipsan 
 ja Rascalin kohtalosta. Lisäksi minulla oli Rascalista jalostusoikeus, mikä olikin 
-ainoa oljenkorteni, jonka avulla koitin selvittää tilannetta. 
+ainoa oljenkorteni, jonka avulla koetin selvittää tilannetta. 
 Lähetin tekstiviestejä, kirjeitä tavallisena ja kirjattuna, vaatiakseni Rascalia 
 jalostusoikeutta käyttääkseni, saamatta vastausta. Olin todella huolissani siitä, 
-missä koirat ovat ja missä kunnossa ja sain erään tuttavani käymään vierailulla 
-toukokuussa safarikennelissä. Hän totesi siperianhuskyjen olevan hoikkia, mutta, 
+missä koirat ovat ja missä kunnossa, ja sain erään tuttavani käymään vierailulla 
+toukokuussa ko. safarikennelissä. Hän totesi siperianhuskyjen olevan hoikkia, mutta, 
 että Rascal ja Pipsa (jotka siis vielä olivat yrittäjällä) olivat suhteellisen 
-hyvässä kunnossa (niiden paksu turkkikin saattoi hämätä).
+hyvässä kunnossa (niiden paksu turkki varmaan hämäsi).
 
 
 Mietin, että olisi paikallaan saada eläinsuojeluvalvoja käydä paikalla.
@@ -78,7 +78,7 @@ olivat olleet surkeassa kunnossa oltuaan viikkoja ilman ruokaa ja vettä ketjunp
 kiinni, monilla ei ollut edes koppia ja aurinko paahtoi kuumasti koko touko- ja kesäkuun.
 
 Matka mökiltä kotiin oli raskas: surin mielessäni kuolleita Rascalia ja
-Pipsaa ja ajattelin voisivatko he koskaan antaa anteeksi, voisinko minä
+Pipsaa ja ajattelin, että voisivatko ne koskaan antaa anteeksi, voisinko minä
 koskaan antaa anteeksi itselleni. Rascal (Kuuhaukun Ikuinen Rakkaus) etenkin
 väijyi mielessäni, olinhan jättänyt sen ensin kotiin ja on epätavallista,
 että antaisin aikuisen itselleni jätetyn koiran eteenpäin. Tunsin pettäneeni
@@ -123,7 +123,7 @@ kirjoitti sinne hätähuudon: tietääkö kukaan koirat huostaan ottaneen
 hoitopaikan
 numeroa. Vastaus tulikin sähköisesti, sain puhelinnumeron ja soitin 
 hoitopaikkaan.
-Mutta en vieläkään saanut varmuutta asiasta: yrittäjä kuvaili koiria 
+Mutta vieläkään en saanut varmuutta asiasta: yrittäjä kuvaili koiria 
 takkuisiksi,
 ruskehtavanharmaiksi, ei edes selkeä musta-valkoisen värin kuvaus tuottanut
 tulosta. Nimiä koirat eivät tunnistaneet. Olin epätoivoinen, mutta en 
@@ -200,14 +200,14 @@ pelastuspartiomme.
 Surullinen ja kummallinen asia oli myös se, että ihana Rumba lopetti maiset
 rekiretkensä kesäkuun alussa ja suuren surun koin samalla viikolla, kun
 Rascal ja Pipsa vihdoin pääsivät kotiin, kun rakas Rustymme jouduttiin 
-lopettamaan
+lopettamaan 14-vuotiaana 
 vanhuuttaan. Omituisesti tuntui siltä, kuin ne olisivat antaneet tilaa 
 uusille
 asukkaille, vaikka uusi tarha odottikin kotiin saapuvia.
 
 
 Kännykät tekivät mahdolliseksi elokuvamaisen tilanteen seuraamisen. 
-Välitiedotuksia
+Välitiedotuksena 
 kuulin ensin, että Petri oli matkalla hoitopaikkaan (vielä siinä vaiheessa
 jännitin olivatko koirat Rascal ja Pipsa), sitten helpotuksekseni, että
 koirat ovat kyydissä ja ovat oikeat ja sen jälkeen, että ne ovat koneessa
@@ -227,7 +227,7 @@ välittämättä muista paikalla olevista antaessani koirien nuolla käsiäni
 ristikon takaa. Jos mikään elämässä on onnea, niin tuo tunne oli. Se säilyy
 mielessäni yhtenä elämäni onnellisimmista hekistä. Ulkona avasimme boksit,
 että koirat pääsivät tarpeilleen. Voi sitä riemua! Rascal tiesi, ne molemmat
-tiesivät tarkkaan mistä oli kyse! Rascal tanssi ja ulvahteli onnesta 
+tiesivät tarkkaan, mistä oli kyse! Rascal tanssi ja ulvahteli onnesta 
 ympärilläni
 ja Pipsa oli myös riehaantuneen iloinen. Tuntui, että ne osoittivat 
 kiitollisuuttaan
@@ -272,18 +272,16 @@ kulkee ihon pinnan alla aiheuttaen kiusallista kutinaa.
 
 Alussa pelkäsin laittaa Rascalia ja Pipsaa valjakkoon, etteivät ne vain
 rasittuisi liikaa oltuaan niin huonossa kunnossa. Halu vetää oli kuitenkin
-valtava ja koirat oli pakko ottaa mukaan edes osalle matkaa. Nyt molemmat
-olivat saaneet lihaksia ja lihoneet, Pipsa naisellisesti vähän liikaakin
-(uudet valjaat puristivat), ja ne vetävät innokkaasti muiden kanssa 
+valtava, ja koirat oli pakko ottaa mukaan edes osalle matkaa. Aikaa myöten molemmat saivat lihaksia ja lihoivat, Pipsa naisellisesti vähän liikaakin
+(uudet valjaat puristivat), ja ne vetivät innokkaasti muiden kanssa 
 valjakossa.
-Pipsakaan ei jää yhtään vauhdista, vaikka onkin jo 11 vuotta. Ne ovat 
-iloisia
-ja luottavaisia siperialaisia, ja Rascalin sydämellisyydellä ei ole rajoja
-(tunnen, että Rascalin ja minun välillä on yhteys ja että se ymmärtää 
+Pipsakaan ei jäänyt yhtään vauhdista, vaikka olikin jo 11 vuotta. Kaikesta kokemastaan huolimatta ne olivat iloisia
+ja luottavaisia siperialaisia, ja Rascalin sydämellisyydellä ei ollut rajoja
+(tunnen, että Rascalin ja minun välillä oli katkeamaton yhteys ja että se ymmärsi 
 tilanteesta
-enemmän kuin luulisi). Aina kun katson niitä, kiitän liikuttuneena jotain
+enemmän kuin luulisi). Aina kun katsoin niitä, kiitin liikuttuneena jotain
 ylempää: joskus oikeus ja hyvä kuitenkin voittavat tässä maailmassa. Nuo
-kaksi rakasta sinisilmää ovat tämän vuoden paras joululahjani.
+kaksi rakasta sinisilmää olivat sen vuoden paras joululahjani.
 
 
-Jaana. S
+Jaana S.
