@@ -25,24 +25,24 @@ Siperianhuskyn alkuperä Siperiassa on vaikuttanut valtavasti siihen, millainen 
 Rotu kehittyi vuosisatojen ajan siperialaisten alkuperäiskansojen rekikoirana, ja pääosin sitä 
 pidetään tšuktsi-nimisen kansan luomana rotuna. Tšuktsit elivät Koillis-Siperiassa Beringinsalmen 
 rannalla eli Siperian ja koko Aasian itäisimmällä alueella. Elinolosuhteet olivat maailman 
-rankimpi, ja siperianhuskysta kehittyi kestävä ja sopeutuva rekikoira. Tšuktsit olivat 
+rankimmat, ja siperianhuskysta kehittyi kestävä ja sopeutuva rekikoira. Tšuktsit olivat 
 kansana jakautuneet kahteen eri ryhmään. Kalastavat ja mm. merinisäkkäitä metsästävät
  meritšuktsit eli "anqallyt" ("meri-ihmiset") käyttivät rekikoiria kulkuvälineenä porojen sijaan.
 Siperianhuskyjen esi-isien tehtävänä oli toimia vetokoirina kuljettaen reessä metsästäjien 
 saalista tai vaikkapa kokonaista perhettä ja sen omaisuutta. 1700-luvulla venäläiset 
-valtasivat uusia alueita Siperiasta ja monet kansat jäivät Venäjän keisarin vallan alle. 
+valtasivat uusia alueita Siperiasta, ja monet kansat jäivät Venäjän keisarin vallan alle. 
 Tšuktseilla oli voimakas kulttuuri-identiteetti, ja he olivat ainoita, jotka pystyivät mainittavaan 
 vastarintaan venäläisiä joukkoja vastaan. Rekikoiriensa ansiosta he saattoivat pakata koko 
 omaisuutensa koirarekeen ja kadota lumimyrskyyn venäläisten joukkojen koskaan löytämättä heitä. 
 Siperianhuskyn esi-isillä saattoikin olla suuri vaikutus siihen, miksi tšuktsit olivat ainoa 
 kansa, jolle lopulta myönnettiin keisarin päätöksestä täydellinen itsenäisyys.
-Rekikoirat olivat todella arvokkaita ja ne olivat ihmisten varallisuuden mitta. Varakkaalla perheellä  
+Rekikoirat olivat todella arvokkaita, ja ne olivat ihmisten varallisuuden mitta. Varakkaalla perheellä  
 oli iso valjakko koiria, kun taas varattoman perheen valjakon tuli kulkea 1-2 koiran voimin. 
 Tšuktsinaiset hoitivat koirat ja harjoittivat koiranjalostusta valitsemalla jo pienistä 
 pennuista lupaavimmat nartut, jotka saivat jäädä eloon. Voikin ajatella, että juuri 
 tšuktsinaisten valintojen takia siperianhuskyissa nykyään esiintyy niin kauniin värisiä 
 koiria erikoisilla värikuvioilla. Urosten kohdalla valikoiva jalostus toimi niin, että 
-vain parhaat urokset (johtajakoirat) jäivät kastroimatta, ja ne saivat vapaasti astua narttuja. 
+vain parhaat urokset (johtajakoirat) jäivät kastroimatta, ja ne saivat vapaasti astua narttuja. Kastroituina ne söivät vähemmän eivätkä olleet hanakkaita tappelemaan. 
 Tšuktsikoira oli kestävä ja väsymätön koira työssään, mutta sillä oli myös erinomainen 
 luonne. 
 Tšuktsit elivät jarangoissa ja koiria pidettiin myös sisätiloissa. Toisin kuin esim. 
@@ -79,7 +79,7 @@ nimeltä William Goosak toi ensimmäiset siperialaiset tuontikoirat Alaskaan, n�
 10 koiraa olivat tšuktsikoiria. Jo seuraavana vuonna siperialaiset koirat kilpailivat uudessa, 
 vaativassa koiravaljakkokilpailussa All Alaska Sweepstakesissa. Paikalliset valjakkoajajat 
 pilkkasivat pieniä tšuktsikoiria ja kutsuivat niitä "siperialaisiksi rotiksi". Ne 
-olivatkin pieniä verrattuna paikallisiin todella raskaisiin rekikoiriin, jotka olivat 
+olivatkin pieniä verrattuna paikallisiin todella raskaisiin ja isoihin rekikoiriin, jotka olivat 
 erilaisia työkoiraristeytyksiä, ja niissä saattoi olla bernhardinkoiraa ja newfoundlandinkoiraa. 
 Kaikkien suureksi ihmetykseksi "siperialaiset rotat" sijoittuivatkin kilpailussa kolmannelle 
 sijalle, ja niin alkoi siperiankoirien suosio Alaskassa.
@@ -128,7 +128,7 @@ voi yleensä pitää myös samaa sukupuolta olevia koiria. Nuori siperianhusky o
 puuhastelemassa perheensä kanssa ja nauttii saamastaan huomiosta. Vanhemmiten siperianhusky voi olla 
 jossain määrin pidättyväinen ja omanarvontuntoinen. Tämä tarkoittaa sitä, että se kaipaa myös omaa 
 rauhaa eikä ole aina riehakkaan kiinnostunut jokaisesta vastaantulijasta. Siperianhusky on erittäin 
-älykäs ja nopeasti oppiva koira ja monet sen kohdanneet ovatkin sitä mieltä, ettei se ole koira ollenkaan. 
+älykäs ja nopeasti oppiva koira, ja monet sen kohdanneet ovatkin sitä mieltä, että se on hyvin erikoislaatuinen koira. 
 Se on helposti käsiteltävä ja innokas käyttökoira, ja sen kanssa on siksi miellyttävää työskennellä. 
 Veto-ominaisuudet ovat sillä veressä, ja siksi se onkin omiaan juuri vetokoirana. Työskentelyhaluisena 
 koirana se soveltuu kyllä moniin muihinkin koiraharrastuksiin, onhan Suomessa jo (old line) siperianhusky 
@@ -141,14 +141,14 @@ se ei ole sopiva koira jokaiselle. Siperianhusky on aktiivinen käyttökoira ja 
 liikuntaa ja aktivointia. Älykkäinä koirina ne keksivät kyllä myös itse tekemistä ja voivat 
 tekemisen puutteessa keksiä luvatonta puuhaa. Siperianhusky voi esim. viihdyttää itseään 
 pureskelemalla asunnosta kaiken irtaimiston, repiä tapetit seiniltä ja purra parkettiin 
-reikiä. Siperianhuskyjen urotyöt asuntojen tuhoamisessa ovat usein vertaansa vailla. Toinen 
+reikiä. Siperianhuskyjen urotyöt asuntojen tuhoamisessa ovat usein vertaansa vailla, toki tähän vaikuttaa myös sen omien aktivointilelujen määrä. Toinen 
 usein ongelmiin johtava ja rotuun vahvasti kuuluva luonteenpiirre on siperianhuskyn laumakeskeisyys. 
 Siperianhusky kiintyy voimakkaasti laumaansa ja tarvitsee seuraa. Ellei perheessä ole muita koiria, 
 muodostavat ihmiset siperianhuskyn lauman, ja se haluaa olla mukana kaikissa perheen puuhissa. 
 Laumansa perään huutava siperianhusky voi olla ikävä naapuri, ja siperianhuskyt ovat myös mestareita 
-karkaamaan tarhoista, joten ongelmia voi olla tulossa, jos koiralla ei ole tarpeeksi oman laumansa 
+karkaamaan tarhoista, joten ongelmia voi olla tulossa pentu- ja nuoruusaikana, jos koiralla ei ole tarpeeksi oman laumansa 
 seuraa. Eri linjoista old linet ovat kuitenkin yleensä sopeutuvaisimpia ja tasapainoisimpia 
-hermorakenteeltaan, ne osaavat olla myös rauhallisia, mutta ovat heti valppaita ja lähtövalmiita, 
+hermorakenteeltaan, ne osaavat olla myös rauhallisia kun mitään ei tapahdu, mutta ovat heti valppaita ja lähtövalmiita, 
 kun saavat merkin.
 
 Siperianhusky tarvitsee liikuntaa päivittäin eivätkä kävelylenkit sitä väsytä. Siperianhuskyn 
@@ -173,7 +173,7 @@ puuttua jalostusvalinnoilla. Old line koirien jalostusohjelmassa vanhempien silm
 
 Rotu on viime vuosina ollut suositumpi kuin koskaan, ja se on houkutellut rodun pariin myös pentutehtailijoita. 
 Pennunostajan tulee olla varma, että pentujen vanhemmat ovat terveitä (vähintään silmätarkastettuja terveiksi) 
-ja suosia kasvattajia, jotka todella työskentelevät rodun terveyden eteen. Todellisuus on se, että siperianhuskyja 
+ja suosia kasvattajia, jotka todella työskentelevät rodun terveyden eteen (kannattaa katsoa Koiranetistä, miten tiheään kasvattaja on pentuja tehnyt ja onko hän käyttänyt esim. turhan usein samaa urosta). Todellisuus on se, että siperianhuskyja 
 tutkitaan Suomessa hyvin vähän eikä terveyden todellista tilaa tiedetä. Siperianhusky on hitaasti kehittyvä 
 rotu ja siksi on tärkeää, ettei narttua ole astutettu alle 2-2,5-vuotiaana.
 
@@ -195,7 +195,7 @@ ovat sallittuja, eivätkä ne ole toisiaan alttiimpia silmäsairauksille, kuten 
 
 Nykyään siperianhuskyissa on ulkomuodoltaan ja luonteeltaan paljon toisistaan poikkeavia koiria. 
 Siperianhusky-rodussa on eri jalostuslinjoja kasvattajien erilaisten painotusten mukaan. Kilpalinjan 
-(racing line) koiria jalostetaan nopeuskilpailuita varten, ja siksi niissä ei ole kiinnitetty huomiota alkuperäisen 
+(racing line alunperin, jotkut myöhemmin nimittäneet erheellisesti käyttölinjaksi) koiria jalostetaan nopeuskilpailuita varten, ja siksi niissä ei ole kiinnitetty huomiota alkuperäisen 
 arktisen ulkomuodon säilyttämiseen. Kilpalinjan koirat ovat muita kevyempiluustoisia, korkearaajaisempia 
 ja lyhytturkkisempia, vinttikoiramaisia. Kilpalinjan sisällä on paljon toisistaan poikkeavia koiria, ja 
 monia voi olla vaikeuksia tunnistaa niitä rotunsa edustajiksi. Kilpalinjan koirat ovat usein väriltään mm. 
@@ -207,7 +207,7 @@ koirien ulkomuoto vaihtelee aikansa näyttelyihanteen mukaan. Niiltä haetaan sh
 ja senaikaisen muodin mukaista ulkomuotoa ja ylöspäin nousevia "show liikkeitä", jotka valitettavasti ovat 
 virheelliset siperianhusky-rekikoiralle. Näyttelylinjan koirat ovat maailmalla yleisimpiä, ja niitä tuodaan 
 Suomeen vuosi vuodelta enemmän. Näyttelylinjan koiria on eniten maailmassa ja eri maissa, vaikka niiden geenipooli 
-onkin melkoisen suppea.
+onkin melkoisen suppea ja perustuu yhteen näyttelyvoittajaan, joka on luonut ko. tyypin.
 
 Harvinaisin jalostuslinja on old line (vanhan linjan) -siperianhuskyt. Old line siperianhuskyissa jalostuksen 
 tarkoituksena on säilyttää alkuperäinen siperialainen työkoira, ei jalostaa nopeaa kilpakoiraa tai näyttelymuodin 
@@ -219,4 +219,4 @@ periaatteessa rodussa pitäisikin olla jalostuksen tavoitteena vain yksi, alkupe
 ominaisuuksien "ihannelinja".
 
  
-Alkuperäinen teksti julkaistu Koirafanitus-lehdessä 2011, osittain mukailtu ja muutettu
+Alkuperäinen teksti julkaistu Koirafanitus-lehdessä 2011, osittain mukailtu ja muutettu Kuuhaukun kotisivuille
