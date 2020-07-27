@@ -38,7 +38,7 @@ toisesta suunnasta. Kun Seppala neljännen päivän loppupuolella saapui valjakk
 Shaktolikin kylään, hän tapasi seerumia kuljettavan valjakon. Seppala oli matkannut 
 vain 272 km lähdettyään Nomesta, vaikka hän oli suunnitellut kulkevansa 480 km. Siispä 
 hän melkein ohitti toisen ajajan vain tervehtien tätä, kun ajaja sanoi: "Seerumi - 
-käänny takaisin". Vaikka se merkitsikin, että Seppalan matka oli lyhyempi takaisin, 
+käänny takaisin" (kerrotaan, että nämä old line -koiren esi-isät jatkoivat matkaa vielä kilometrin ennen kuinSeppala sai ne seisahtumaan). Vaikka se merkitsikin, että Seppalan matka oli lyhyempi takaisin, 
 hän oli juuri kulkenut pahimmat 67 km Norton Soundin jään yli Isaac´s Pointista Shaktolikiin ja 
 nyt yön tullessa ja kovan tuulen puhaltaessa kasvoja vasten, Seppalan täytyi matkata koiriensa 
 kanssa uudelleen jään yli. Matkan sillä osuudella oli jatkuva vaara, että jää murtuisi ja 
@@ -77,7 +77,7 @@ hän oli parantanut rekikoirien kohtelua yleisesti.
 Hän kuoli 1967 Seattlessa ollen vanhemmalla iällään yhtä hiljainen, vaatimaton ja 
 huumorintajuinen kuin aina, aina yhtä yllättynyt mutta ujosti mielissään kun joku muisti häntä.
 
-Teksti jaana.s. Mukailtu ote kirjasta Michael Jennings: The new complete Siberianhusky
+Teksti jaana S. Mukailtu ote kirjasta Michael Jennings: The new complete Siberianhusky
 
 Kuvat baltostruestory.net
 
