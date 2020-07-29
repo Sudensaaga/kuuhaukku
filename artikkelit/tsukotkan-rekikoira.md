@@ -36,7 +36,7 @@ koko ajan jotain menossa. Vito on todella avoin ja rakastaa kaikkia. Väriltää
 ja ruskeasilmäinen. Vito sairastui viiden viikon ikäisenä kennelyskään ja oli kuoleman kielissä 
 pari viikkoa syömättä mitään ja edes kunnolla juomatta. Oli ihme, että se selvisi niin pienenä 
 pitkähköstä ja uuvuttavasta taudista, vaikka saikin lääkkeet ja oli muutamia kertoja tiputuksessa. 
-Siksi se saikin nimekseen Vito, elämä ja nimi on kyllä enne.
+Siksi se saikin nimekseen Vito, elämä, ja nimi oli kyllä enne.
 
 <center>
 <img src="images/tsukotkan-rekikoira/tsukotkan-rekikoira-vito.JPG">&nbsp; &nbsp;
@@ -55,11 +55,9 @@ Se on valjakkomme johtaja Naavan kanssa ja alkoi johtaa jo vähän yli vuoden ik
 **Koskaan minulla ei ole ollut parempaa johtajaa**, se ei ikinä merkkaile (edes narttujen ollessa 
 juoksussa) ja pitää valjakon vääjäämättä oikealla vetäen aina eteenpäin. Ensimmäistä kertaa 
 myös huomaan, että valjakon johtaja on myös koko lauman johtaja, vaikka urokset ovatkin omissa 
-tarhoissaan. Sen jotenkin vaistoaa, ja onhan Yiska tietenkin nuori ja vahva ja muut, Vitoa ja 
-myöhemmin tullutta hempeämielistä kanadalaista Tobia lukuun ottamatta, jo vanhoja ja väistyviä 
-laumahierarkiassa. Yiska on todella vahva psyykeltään ja rauhallisen cool, sen ei tarvitse 
+tarhoissaan. Sen jotenkin vaistoaa ja näkee Yiskan esim. puolustaessa oman lauman reviiriä. Yiska on todella vahva psyykeltään ja rauhallisen cool, sen ei tarvitse 
 todistella johtajuuttaan, vaan sen voi lukea sen olemuksesta. Se haluaa olla erityisessä 
-kontaktissa minuun; päivittäin se haluaa yhteisen seurusteluhetkemme katsoen suoraan silmiini. 
+kontaktissa minuun; päivittäin se haluaa yhteisen seurusteluhetkemme katsoen suoraan silmiini. "Keskustelu", selittävää ulvontaa minun vastatessani, voi jatkua vaikka kuinka pitkään.
 Tiedän, että Yiska tulee olemaan yksi mieleenpainuvimmista koiristani.
 
 Pentuna niiden leikit olivat huimia. Näissä koirissa näkyy alkukantaisuus; ne ovat tietyllä 
@@ -78,7 +76,7 @@ synnytys, kun luonani syntyi Elenan pentue, jossa myös Vito oli.
 
 **Näissä koirissa näkyy elinvoima** ja ne ovat olleet terveitä ainakin tähän asti. Myöskään niiden 
 lähisukulaisilla taaksepäin ei ole ollut terveydellisiä ongelmia. Ne syövät hyvin talvella ja kun 
-ei ole kiimoja, mutta kesällä ne panttaavat eikä ruoka maistu. Se on kuulema tyypillistä tšuktsikoirille. 
+ei ole kiimoja, mutta kesällä ne panttaavat eikä ruoka maistu. Se on kuulema tyypillistä tšuktsikoirille, kuten tietty old line -huskeillekin. 
 Ihmisille ne ovat hyvin käsiteltäviä ja alistuvia, mutta nuoret urokset kyllä ovat tappeluille alttiita 
 voimakkaan hormonitoiminnan vuoksi. Tosin siinä asiassa on selvä logiikka: vanhat ja steriloidut urokset 
 eivät ole uhka, ja niiden suhteen nuoret urokseni ovat järkevästi täysin välinpitämättömiä. Tšuktsikoirat, 
@@ -96,19 +94,18 @@ Silva, Polar Star Tšukotkan Hopea vuoden ikäisenä
 <br>
 
 Kesällä 2017 sain pitkän odotuksen jälkeen myös aivan siperianhuskylta näyttävän sinisilmäisen Silva-tytön, 
-Polar Star Tšukotkan Hopea, kenneliini. Silva on mitä suloisin ja kiltein koira, leikkisä, herkkä ja hymyilevä, 
-aina valmiina iloiseen tervehdykseen ja pikkunuolaisuun. Se myös heti omaksui isosiskon roolin Tobi-Macin pennun, 
-Nupun suhteen. Niillä on aamuin illoin leikkituokio ja Silva huutaa onnesta nähdessään Nupun tulevan talosta 
-sisältä ja päästessään sen kanssa pentutilaan leikkimään nyt kun Nuppu on vielä pieni. Myöhemmin niistä 
-tuleekin kennelkavereita.
+Polar Star Tšukotkan Hopea, kenneliini. Silva on mitä suloisin koira, leikkisä, herkkä ja hymyilevä, 
+aina valmiina iloiseen tervehdykseen ja pikkunuolaisuun, silti todella "cool", rauhallinen. Se myös heti omaksui isosiskon roolin Tobi-Macin pennun, 
+Nupun suhteen. Niillä oli aamuin illoin leikkituokio, ja Silva huusi onnesta nähdessään Nupun tulevan talosta 
+sisältä ja päästessään sen kanssa pentutilaan leikkimään, kun Nuppu oli vielä pieni. 
 
 Nämä koirat ovat siitä erikoisia, että näiden kolmen sekä yhden risteytyskoirani Desnan kokemuksen 
 perusteella ne **eivät ole koskaan kyseenalaistaneet ihmisen johtajuutta**, esim. murisseet ihmiselle tai 
-vastustaneet, ei edes murrosiässä. Rekikoirina ne ovat tietenkin todella hyvin motivoituneita ja innokkaita, 
+vastustaneet ihmistä, ei edes murrosiässä. Rekikoirina ne ovat tietenkin todella hyvin motivoituneita ja innokkaita, 
 ainoastaan lämpimillä ilmoilla (kesällä) olen huomannut Viton ravaavan nopeammin lähdön jälkeen (siis 
 lopettavan laukan aiemmin). Uskon, että sillä on helpommin kuuma johtuen turkin rakenteesta (lue myöhempi 
-juttu tšukotkan rekikoirien turkin rakenteesta). Talvella tätä seikkaa ei ole havaittavissa. Ne ovat todella 
-käsiteltäviä ja ystävällisiä koiria ihmiselle ja ne tottelevat hyvin ollessaan vapaana. Vito on myös eittämättä 
+juttu tšukotkan rekikoirien turkin rakenteesta). Talvella pakkasella tätä seikkaa ei ole havaittavissa. Ne ovat todella 
+käsiteltäviä ja ystävällisiä koiria ihmiselle, ja ne tottelevat hyvin ollessaan vapaana. Vito on myös eittämättä 
 kennelin ilopilleri ylipositiivisella elämänasenteellaan.
 
 **Ensimmäiset risteytyspennut**
@@ -124,7 +121,7 @@ näytti toteen ultra, pentujen syntymäaika ja DNA-testit. Eläinlääkäri ei u
 sperma olisi näin elinvoimaista, mutta niin vain on. Olin suunnitellut ko. yhdistelmää, muttei vielä,
 koska Tobi-Macin tuonti Kanadasta toi lisäaikaa rekisteröidä koiria SKL:oon. Pentuja syntyi kuusi kappaletta 
 ja omistajat ovat olleet niihin todella tyytyväisiä. Ne **kaikki täyttävät siperianhuskyn rotumääritelmän ja 
-ovat todella hyviä ja sulavasti rakentuneita** koiria. Uskon jopa, että tasaisin pentueeni 
+ovat todella hyviä ja sulavasti rakentuneita** koiria (kuten myöhäisemmänkin pentueen pennut). Uskon jopa, että tasaisimpia pentueitani 
 kokonaisuutena, vaikka geenipohja onkin eriytynyt jo kauan aikaa sitten.
 
 <center>
