@@ -128,7 +128,7 @@ harjoitellaan, old line huskyt ovat tosi oppivaisia. Koiramme ovat rakkaita perh
 eikä niitä kuin ainoastaan hyvin harvoissa poikkeustapauksissa anneta eteenpäin aikuisina. 
 Vanhimmat Jaanalla olleet koirat ovat eläneet 17-vuotiaiksi.
 
-Lauralla on ollut Kiihtelysvaarassa Kuuhaukun koiria neljä sukupolvea, Lauran upea Sero 
+Lauralla on ollut Kiihtelysvaarassa Kuuhaukun koiria kolme sukupolvea, Lauran upea Sero 
 Kuuhaukun Teräs-Teddy  (isä Kuuhaukun Sudensaagalle, Odessalle, joka taas on emä Veronalle, Kuuhaukun Aurora Nocturnelle) 
 jätti meidät vuoden 2016 lopussa 15 ja puolen vuoden ikäisenä. Laura jätti itselleen myös Nunatakin, koiraneidon
 toisesta pentueestaan. Koirat asuvat pääosin ulkotarhassa, vanhinta Odessa-rouvaa lukuunottamatta ja 
