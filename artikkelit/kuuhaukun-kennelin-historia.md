@@ -339,7 +339,7 @@ kolme pentujen tekijää ja heidän muutamat koiransa.
 
 Huvittavaa on myös, miten tietyt kasvattajat hyppelevät linjasta toiseen. Heillä on ensin voinut 
 olla old lineja, mutta sopimusrikkojen jälkeen he ovat siirtyneet (show- tai) kilpalinjaan. Hetken päästä he ovat taas ottaneet 
-showkoiria, lieneekö syy se, että rotukoiran näköiset pennut menevät paremmin kaupaksi. 
+showkoiria, lieneekö syy se, että rotukoiran näköiset pennut menevät paremmin kaupaksi. Minun mielestäni silloin ei voi olla omaa kasvatuksen ideologiaa ja päämäärää selkeänä mielessä, vaan kasvatuksen kriteerit tuntuvat olevan jotain muuta kuin oman jalostuksensa ihanteen toteuttaminen.
 
 
 **Nettimaailma - jotain hyvää, paljon nurjaa ja kurjaa**
