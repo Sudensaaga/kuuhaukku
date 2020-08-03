@@ -70,6 +70,11 @@ Laurielle ja Shelleylle Tobi-Macista, jolla on kunnioitettu paikka laumassamme!
 Jalostustyöni on siis koko ajan perustunut uusiin tuonteihin ja tuontikoirien 
 kautta geenipohjan laajentamiseen.
 
+Ilahduttavaa on, että monta kertaa on useampi sukupolvi ja sukulaiset ottaneet 
+minulta koiria, silloin tulee tunne, että on suoriutunut kasvatustyöstä kasvatinomistajia 
+tyydyttävällä tavalla. Olen kiitollinen kaikista teistä ihanista kasvatinomistajistani, 
+joita olen saanut suurenmoisten old line-koirieni ansiosta ja joista niin useasta on 
+tullut minulle myös tosihyviä ja jo vuosikymmenien uskollisia ystäviä. Ilman teitä elämä olisi paljon kurjempaa! 
 
 <h2>Unohtumattomia koirapersoonia</h2>
 
@@ -94,7 +99,7 @@ koiria ja säilytti elämänilonsa loppuun asti.
 Rumba (Kuuhaukun Rakas Riivaaja) oli yksi huomattavista Kuuhaukun koirapersoonista. 
 Se toimi lastenvahtina pikkupennuille, jotka liukuivat liukumäkeä sen selässä, ja se 
 asettui aina varovasti maahan pentujen leikitettäväksi. Sen luonne oli 150 %! Tojon 
-(K. Mustaa Sametttia) jatkoi ansiokkaasti sen lastenvahti-uraa.
+(K. Mustaa Samettia) jatkoi ansiokkaasti sen lastenvahti-uraa.
 
 <center>
 <img src="images/historia/rumbajas.jpg"/><br>
@@ -178,7 +183,7 @@ jota nimitän "Nimbukseksi" Harry Potterin luudan mukaan. Eräs muisto siitä on
 ajoin kovalla pakkasella huippuajassa tavallisen lenkkimme, ja reki vain lensi 
 eteenpäin koirien laukatessa koko matkan, kun kerrankin oli old linelle tarpeeksi kylmä sää.
 
-SPY:n talvitapahtumat ovat olleet mukavia tilaisuuksia ajaa yhdessä usealla 
+SPY-86 ry on old line® -rekikoirien oma yhdistys, jonka päämääränä on old line -koirien säilyttäminen. Sen talvitapahtumat ovat olleet mukavia tilaisuuksia ajaa yhdessä usealla 
 valjakolla. Hienointa on se, ettei kilpailla "veren maku suussa", vaan vain nautitaan 
 ja annetaan koirien nauttia. Vahinko, että talvet ovat vuosi vuodelta vähälumisempia. 
 On todella sydäntä elähdyttävää nähdä, miten koirat nauttivat juostessaan lumella 
@@ -211,11 +216,7 @@ laskivat tuolla matkalla, kun kuulin, että he ottavat koiranpentuja ja hylkää
 noin vuoden ikäisenä. Intiaanireservaatissa on kuulemma kymmeniätuhansia hylättyjä 
 koiria, ei niinkään ylevää toimintaa alkuperäiskansalta.
 
-Ilahduttavaa on, että monta kertaa on useampi sukupolvi ja sukulaiset ottaneet 
-minulta koiria, silloin tulee tunne, että on suoriutunut kasvatustyöstä kasvatinomistajia 
-tyydyttävällä tavalla. Olen kiitollinen kaikista teistä ihanista kasvatinomistajistani, 
-joita olen saanut suurenmoisten old line-koirieni ansiosta ja joista niin useasta on 
-tullut minulle myös tosihyviä ja jo vuosikymmenien uskollisia ystäviä. Ilman teitä elämä olisi paljon kurjempaa! 
+
 
 
 <h2>Kuuhaukku julkisuudessa</h2>
@@ -266,7 +267,7 @@ esiintyi "reality-ohjelmassa", joka kuvattiin Kanadassa, mutta esitti Siperian e
 Pitkään siperianhuskien kasvatustyössä vaikuttaneena jossain vaiheessa tulee aika myös luopua. 
 Vaikka se aika ei ole vielä, niin joitakin vuosia sitten pyysin Laura Kinnusta 
 liittymään kennelnimeeni mahdollisena kasvatustyön jatkajana.
-Laura on älykäs ja asioista selvää ottava nuori nainen ja hänellä on/on ollut kolme Kuuhaukun koiraa.
+Laura on älykäs ja asioista selvää ottava nuori nainen, ja hänellä on/on ollut kolme Kuuhaukun koiraa.
 Kuuhaukun kennel ® on nyt siis meidän molempien nimissä, vaikka koirani ovatkin edelleen fyysisesti minun luonani ja minun koiriani. Mainittakoon, että sen lisäksi että old line on rekisteröity tavaramerkki vuodesta 2015 lähtien, myös Kuuhaukun kennel rekisteröitiin tavaramerkiksi alkuvuodesta 2016. Kukaan ei siis saa mainostaa näillä tai niihin viittaavilla nimillä koiriaan.
 
 **Sopimusrikkoja ja muuta mielipahaa**
@@ -295,7 +296,7 @@ muuttaa lauseita, jollei itse keksi mitään omaa).
 
 Old line ® -koirien jalostus on ollut suojattua linjan puhtauden, terveyden ja jatkuvuuden 
 takaamiseksi. Käytännössä tämä tarkoittaa pennuista tehtyjä sopimuksia, jotka velvoittavat ostajaa 
-jalostuksen suhteen. Old line ® linjan säilyttäminen on varmasti myös ainutlaatuista, tuskin 
+jalostuksen suhteen; myös omistajat ovat näin mukana old linen® ylläpitämisessä. Old line ® linjan säilyttäminen on varmasti myös ainutlaatuista, tuskin 
 missään muussa rodussa on pidetty linjaa puhtaana ja ajateltu terveyttä ja rodun alkuperäisyyttä 
 ja käyttöä näin pitkään. Tämä on ollut mahdollista vain tarkoilla jalostusvaatimuksilla, joita nyt 
 nämä pentuja teettelevät henkilöt rikkovat. On huvittavaa, miten kuulee ko. henkilöiden sanovan, 
@@ -309,24 +310,25 @@ tarkoittaa sopimusten rikkomista joko suoraan tai edellisen sukupolven kautta. N
 olisi tietenkään koskaan saaneet aiemmin urosehdotuksia, jos olisi tiedetty heidän rikkovan 
 sopimukset. Yhdelle näistä pentujen teettäjistä annoin luottamuksellisesti paperit 
 sijoitussopimuksen täytyttyä ilman osaomistuksen merkintää SKLoon, vaikka osaomistus- ja 
-jalostusehdot olikin allekirjoitettu, mitä tämä henkilö sitten rikkoi pariinkin kertaan, koska 
+jalostusehdot olikin allekirjoitettu, mitä tämä henkilö sitten rikkoi tehden pentueita pariinkin kertaan, koska 
 kuulema vain "muutti mielensä". En ikinä olisi aavistanut tällaista epärehellistä tilannetta 
 vuosien yhteistyön ja ystävyyden jälkeen. Ihmettelen suuresti, miten pennunottaja voi luottaa 
-kasvattajaan, joka ei itse ole pitänyt omia sopimuksiaan koiran kaupassa. On ollut huomattavissa, 
-että sen jälkeen, kun henkilöt ovat eronneet SPY:stä, he eivät ole enää suorittaneet 
+kasvattajaan, joka ei itse ole pitänyt omia sopimuksiaan koiran kaupassa. Oli myös yllätys, kun kävi ilmi, että SPY:n alla teetettyjen pentujen sopimukset olivat vaillinaisia eikä siissä ollut edelleen ehtoja, joihin kasvattaja oli sitoutunut tehdessään pennut. 
+
+On ollut myös huomattavissa, että sen jälkeen, kun henkilöt ovat eronneet SPY:stä, he eivät ole enää suorittaneet 
 terveystutkimuksia kuten SPY:n alla toimiessaan, mistä voi päätellä, että SPY ry:n asettamat 
 jalostuskriteerit ja osaomistuksen jalostusehdot ovat tarpeen. Eräässä pentuja SPY:n ulkopuolella 
 teettäneessä kennelissä tehtiin vajaan vuoden sisällä kolmet pennut, melko paljon vasta-alkajalle. 
 En myöskään aiemmin ole kuullut, että ensikasvattaja vuokraisi kaksi kertaa peräkkäin ulkopuolisen 
 koiran kohdun heti ensimmäisten pentujen jälkeen, yleensä kohdunvuokrausta käyttävät kokeneet 
-kasvattajat pelastaakseen jonkin sammumassa olevan linjan. Ensiksi mainitussa kennelissä 
+kasvattajat pelastaakseen jonkin sammumassa olevan linjan. Näissä sopimusrikkoja tehneissä kenneleissä 
 terveystutkimuksia on tehty vain osalle jalostuskoirista ja satunnaisesti, mistä voi päätellä 
-omien terveysvaatimusten löystyneen SPY:stä eroamisen jälkeen. Myös ko. toisen kennelin omistaja 
-kirjoitteli netissä suureen ääneen, että hän käyttää vain terveitä koiria ja sivuillaan ja että 
-terveys kaikkein tärkeintä jalostuksessa. Ko. henkilö ei ole kuitenkaan ole näyttänyt juurikaan 
-tutkineen koiriaan, vaikka arvostelee muita - tutkimaton koira on siis hänen mielestään terve. 
-Hän sai kasvattini toiselta kasvatinomistajalta vastoin sopimuksia omakseen (koirista on sopimukset 
-että ne palautetaan kasvattajalle) ja on teettänyt jo kolmannet pennut sillä, vaikka SPYssä koira 
+omien terveysvaatimusten löystyneen SPY:stä eroamisen jälkeen. Erään kennelin omistaja 
+kirjoitteli netissä ja sivuillaan ponnekkaasti, että hän käyttää vain terveitä koiria ja että 
+terveys on kaikkein tärkeintä jalostuksessa. Tämä henkilö ei ole kuitenkaan näyttänyt juurikaan 
+tutkineen koiriaan, ei edes arvosteluunsa kohdistuneessa asiassa - tutkimaton koira on siis hänen mielestään terve. 
+Hän sai kasvattini toiselta kasvatinomistajalta vastoin sopimuksia omakseen (koirista on sopimukset, joiden mukaan  
+ne palautetaan kasvattajalle) ja on teettänyt jo kolmannet pennut sillä, vaikka SPYssä koira 
 on nyttemmin ollut jalostuskiellossa (myös sen jälkeläistä on jo käytetty, vaikka siihen on 
 ilmeisimmin periytynyt ei-toivottuja ominaisuuksia). Jos yhdistelmää ei olisi uusittu, ko. 
 kasvattaja (ja myös omistajat) olisi välttynyt monelta harmilta. Sellainen toiminta, missä 
@@ -335,21 +337,21 @@ tehty, olisi ollut järkevää kysyä, onko ilmennyt mitään hälyttävää. Ol
 ulkopuolella teetetyt koirat eivät saa ja geenipooli on varsin rajoitettu käsittäen vain nuo pari, 
 kolme pentujen tekijää ja heidän muutamat koiransa.
 
-Huvittavaa on myös, miten tietyt kasvattajat hyppelevät linjasta toiseen. heillä on ensin voinut 
-olla old lineja, mutta sitten he ovat siirtyneet kilpalinjaan. Hetken päästä he ovat taas ottaneet 
-showkoiria, lieneekö syy se, että rotukoiran näköiset pennut menevät paremmin kaupaksi.
+Huvittavaa on myös, miten tietyt kasvattajat hyppelevät linjasta toiseen. Heillä on ensin voinut 
+olla old lineja, mutta sopimusrikkojen jälkeen he ovat siirtyneet (show- tai) kilpalinjaan. Hetken päästä he ovat taas ottaneet 
+showkoiria, lieneekö syy se, että rotukoiran näköiset pennut menevät paremmin kaupaksi. 
 
 
 **Nettimaailma - jotain hyvää, paljon nurjaa ja kurjaa**
 
 Ikävä seikka on myös netissä olleet vääristellyt puheet, joihin olen joutunut tekemään oikaisuja 
 (arvostellaan muiden toimintaa vaikka oma ei kestä tarkastelua) sekä yksityiset keskustelut, joissa 
-totuutta on vääristelty; näihinhän ei koskaan pääse puuttumaan. 
-Mm. loukkaavaa on, että edellä mainittu kasvattaja kirjoittelee netissä, miten häneltä 
+totuutta on vääristelty; näihinhän ei koskaan pääse täysin puuttumaan. 
+Mm. loukkaavaa on, että yksi SPY:n ulkopuolella pentuja teetellyt kasvattaja kirjoittelee netissä, miten häneltä 
 "salattiin" old linesta tietoja. Niille henkilöille, joita asia koskee, kaikki tieto on 
 todellakin annettu perusteellisesti, tässä tapauksessa liikaakin henkilön sittemmin erottua SPY:stä 
-(tällöinhän hän ei ko. tietoa tarvitse, koska old linen jalostus tapahtuu SPY:n sisällä, ja silloin 
-jäisivät kaikki tarpeettomat ja aiheettomat pahansuovat puheet pois). Hän myös selittelee 
+-tällöinhän hän ei ko. tietoa tarvitse, koska old linen jalostus tapahtuu SPY:n sisällä, ja silloin 
+jäisivät kaikki tarpeettomat ja aiheettomat pahansuovat puheet pois. Hän myös selittelee 
 "tilastojaan" old linen luonteesta jne. (kummallista, miksei hän lopeta täysin old linen käyttöä, 
 kun kasvatustyön tulos on ollut niin huonoa). Hänen pitäisi tutustua hieman tilastotieteeseen 
 ja validiteettiin, ennen kuin kirjoittaa omien kokemustensa ja jalostusvalintojensa perusteella 
@@ -362,15 +364,15 @@ että tuon henkilön "tilastoluvuissa" ei ole mitään totuutta.
 Tulevaisuutta ajatellen voi sanoa, että jos katsoo koirankasvatusta suurena kokonaisuutena, 
 on myönnettävä, että rodut ovat tulleet tiensä päähän. Joku viisas on joskus sanonut, 
 että rotu kestää 20 sukupolvea ja sitten tulevat ongelmat esiin. Vaikka old line® -koirat 
-ovatkin prosentuaalisesti vielä terveitä, ei olemassa olevia käytettyjä sukulinjoja voi enää 
+ovatkin prosentuaalisesti vielä terveitä, ei olemassa olevia käytettyjä sukulinjoja voi juurikaan enää 
 risteyttää suoraan toisiinsa, vaan tarvitaan selkeätä, tervettä ulkosiitosta elinvoimaa antamaan. 
 Siihen ei riitä olemassa olevat rotukoirat (showlinja), joilla on populaation nähden suppeahko 
-geenipohja ja sairauksia. Tähän vastauksena olen suunnitellut jo miltei 20 vuoden ajan kantarodun 
+geenipohja ja sairauksia sekä väärä tyyppi. Tähän vastauksena olen suunnitellut jo miltei 20 vuoden ajan kantarodun 
 (Tsukotkan rekikoira) risteyttämistä old line® -siperianhuskeihin. Minulla on ollut onni olla 
 yhteistyössä chukotka sleddog-kasvattajaan ja koiratutkijaan, joka on käynyt useasti 
 Siperiassa, ja Kuuhaukun kennelissäni vaikuttaa nyt kolme tällaista koiraa, sekä yksi old linen 
 ja tsukotkanrekikoiran risteytys. Myös Laura Kinnusella, joka siis on nyt myös Kuuhaukun 
-kasvattaja, on yksi ko. kantarotukoira. Olen innoissani tästä uudesta suunnasta elinvoiman, 
+kennelnimessä, on yksi ko. kantarotukoira. Olen innoissani tästä uudesta suunnasta elinvoiman, 
 terveyden ja käyttöominaisuuksien säilyttämiseksi ja parantamiseksi. Ei varmaankaan tarvitse 
 edes mainita, että nämä koirat muistuttavat suuresti käytökseltään ja ominaisuuksiltaan 
 old line® -siperianhuskeja, etenkin alkuperäisiä ensimmäisiä Kuuhaukku-koiriani.
