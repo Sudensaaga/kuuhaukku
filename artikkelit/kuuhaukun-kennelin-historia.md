@@ -347,10 +347,10 @@ showkoiria, lieneekö syy se, että rotukoiran näköiset pennut menevät paremm
 Ikävä seikka on myös netissä olleet vääristellyt puheet, joihin olen joutunut tekemään oikaisuja 
 (arvostellaan muiden toimintaa vaikka oma ei kestä tarkastelua) sekä yksityiset keskustelut, joissa 
 totuutta on vääristelty; näihinhän ei koskaan pääse täysin puuttumaan. 
-Mm. loukkaavaa on, että yksi SPY:n ulkopuolella pentuja teetellyt kasvattaja kirjoittelee netissä, miten häneltä 
+Mm. loukkaavaa on, että yksi SPY:n ulkopuolella pentuja teetellyt kasvattaja on kirjoitellut netissä, miten häneltä 
 "salattiin" old linesta tietoja. Niille henkilöille, joita asia koskee, kaikki tieto on 
-todellakin annettu perusteellisesti, tässä tapauksessa liikaakin henkilön sittemmin erottua SPY:stä 
--tällöinhän hän ei ko. tietoa tarvitse, koska old linen jalostus tapahtuu SPY:n sisällä, ja silloin 
+todellakin annettu perusteellisesti, tässä tapauksessa tälle henkilölle liikaakin henkilön sittemmin erottua SPY:stä 
+-tällöinhän hän ei ko. tietoa tarvitse, koska old linen jalostus tapahtuu SPY:n sisällä. Silloin 
 jäisivät kaikki tarpeettomat ja aiheettomat pahansuovat puheet pois. Hän myös selittelee 
 "tilastojaan" old linen luonteesta jne. (kummallista, miksei hän lopeta täysin old linen käyttöä, 
 kun kasvatustyön tulos on ollut niin huonoa). Hänen pitäisi tutustua hieman tilastotieteeseen 
