@@ -1,10 +1,10 @@
 ---
 layout: kuvagalleria
 menu: kuvat
-permalink: omat-kasvatit-I
+permalink: omat-kasvatit-1
 otsikko: Omat kasvatit I
 linkin-pikkukuva: linkki-omat-kasvatit.jpg
-linkin-teksti: Albumi menneistä ja nykyisistä kasvateista, osa I
+linkin-teksti: Menneitä ja nykyisiä koiria
 
 kuvat:
     - omat1/baanchi.jpg : Kans & Pohj MVA Norrstar's Baanchi
