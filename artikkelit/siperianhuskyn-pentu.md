@@ -4,6 +4,9 @@ menu: muuta
 permalink: siperianhuskyn-pentu
 otsikko: Pentu Kuuhaukun kennelistä
 
+linkin-pikkukuva: linkki-huskynaama.jpg
+linkin-teksti:
+
 sivukuvat:
     - pepin1.jpg : Pepin ja Doughalin pentu 2011
 ---

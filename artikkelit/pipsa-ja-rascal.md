@@ -4,6 +4,9 @@ menu: muuta
 permalink: pipsan-ja-rascalin-tarina
 otsikko: Pipsan ja Rascalin tarina
 
+linkin-pikkukuva: linkki-huskynaama.jpg
+linkin-teksti:
+
 sivukuvat:
     - pipsarascal.jpg
 ---

@@ -3,6 +3,9 @@ layout: artikkeli
 menu: muuta
 permalink: iditarod-musherin-haastattelu
 otsikko: Don Smidtin haastattelu / Iditarod 2007
+
+linkin-pikkukuva: linkki-huskynaama.jpg
+linkin-teksti:
 ---
 Don Smidt, Iditarod 2007:n, viimeisen suuren kilpailun, ensikertalaisajaja, 
 aloitti kisan 16 AKC-rekisteröidyllä siperianhuskylla. Hän ja hänen valjakkonsa 

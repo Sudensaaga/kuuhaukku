@@ -4,6 +4,9 @@ menu: muuta
 permalink: seerumiajo
 otsikko: Seppalan historiallinen seerumiajo
 
+linkin-pikkukuva: linkki-huskynaama.jpg
+linkin-teksti:
+
 sivukuvat:
     - seerumiajo/seppala-ja-togo.jpg : Seppala ja johtajakoira Togo
     - seerumiajo/seppalan-balto.jpg : Kaasenin johtaja siperianhusky Balto, kastroitu Seppalan 
