@@ -1,7 +1,7 @@
 ---
 layout: artikkeli-kuvapalkilla
 menu: muuta
-permalink: oldline-siperianhusky
+permalink: oldline-siperianhuskyn-historia
 otsikko: Lisätietoa ja historiaa old linesta
 
 linkin-pikkukuva: linkki-oldline.jpg
