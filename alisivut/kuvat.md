@@ -4,5 +4,4 @@ permalink: kuvat
 
 menu: kuvat
 menu-otsikko: Kuva-albumit
-
 ---
