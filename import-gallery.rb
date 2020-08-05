@@ -2,12 +2,12 @@
 #
 # Load image files from old gallery html document
 # To use
-# ruby import-gallery.rb ..lauran-kuuhaukku/<filehere>
+# ruby import-gallery.rb ../lauran-kuuhaukku/<filehere>
 #
 require 'yaml'
 require 'fileutils'
 
-IMAGE_URL_FINDER = '<img border=\"1\" src=\"(.*?)\" width='
+IMAGE_URL_FINDER = '<img border=\"1\" src=\"(.*?)\"'
 IMAGE_TEXT_FINDER = '>(.*?)<'
 
 def to_slug(title)
