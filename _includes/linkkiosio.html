@@ -23,13 +23,13 @@
                     <div class="d-flex flex-row">
                         {% if post.linkin-pikkukuva %}
                         <div>
-                            <a href="{{post.url}}" class="kuvalinkki">
+                            <a href="{{post.url | relative_url}}" class="kuvalinkki">
                                 <img src="{{ site.url }}/images/{{post.linkin-pikkukuva}}" alt="">
                             </a>
                         </div>
                         {% endif %}
                         <div class="pl-3">
-                            <h5><a href="{{post.url}}">{{post.otsikko}}</a></h5>
+                            <h5><a href="{{post.url | relative_url}}">{{post.otsikko}}</a></h5>
                             <p>{{post.linkin-teksti}}</p>
 
                         </div>
