@@ -1,10 +1,10 @@
 <nav class="navbar navbar-expand-md navbar-dark bg-transparent mx-lg-5 pl-0 my-3">
     {% if lang == "en" %}
-    <a class="navbar-brand my-auto mr-auto" href="/en">
+    <a class="navbar-brand my-auto mr-auto" href="{{ '/en' | relative_url }}">
         <img src="{{ site.url }}/images/logo.png" alt="{{site.title}}">
     </a>
     {% elsif lang == "fi" %}
-    <a class="navbar-brand my-auto mr-auto" href="/">
+    <a class="navbar-brand my-auto mr-auto" href="{{ '/' | relative_url }}">
         <img src="{{ site.url }}/images/logo.png" alt="{{site.title}}">
     </a>
     {% endif %}
