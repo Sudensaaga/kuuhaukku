@@ -39,7 +39,7 @@ permalink: /:title
 collections:
   posts:
     output: true
-    permalink: /:title/
+    permalink: kuuhaukku/:title/
 
 defaults:
 - scope:
