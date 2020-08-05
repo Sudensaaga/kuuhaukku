@@ -14,10 +14,10 @@ sivukuvat:
     - tuonnit-ja-viennit/siberkirk.jpg : Siberkirk-tuonnit Rosso ja Panda
     - tuonnit-ja-viennit/cola.jpg : Cola, ensimmäinen tuonti Troikasilta
     - tuonnit-ja-viennit/jade.jpg : Jade, Troika's Pow-Wow (3 sertiä)
-    - tuonnit-ja-viennit/pepsi.JPG : Pepsi, lahja Troika kennelistä
+    - tuonnit-ja-viennit/pepsi.jpg : Pepsi, lahja Troika kennelistä
     - tuonnit-ja-viennit/joiku.jpg : Troika's Nordic Sno-Torious
-    - tuonnit-ja-viennit/tuontifreya.JPG : Itävallan tuonti Freya (SERT, VSP)
-    - tuonnit-ja-viennit/tuontiicon.JPG : C.I.B Troika's Nordic Icon SD
+    - tuonnit-ja-viennit/tuontifreya.jpg : Itävallan tuonti Freya (SERT, VSP)
+    - tuonnit-ja-viennit/tuontiicon.jpg : C.I.B Troika's Nordic Icon SD
     - tuonnit-ja-viennit/tobimac1.jpg : Oakridgelane Keetukka Yukon, Tobi-Mac
 ---
 Kuuhaukun kennelissä vaikuttavia tuonteja ovat olleet **C.I.B & POHJ MVA Norrstar´s Baanchi**, 
@@ -35,7 +35,7 @@ kuin **Siberkirk´s Arctic Sunrise** (SERT), puna-valkoinen narttu.
 
 
 <center>
-<img src="images/tuonnit-ja-viennit/tuonnit1.JPG"><br>
+<img src="images/tuonnit-ja-viennit/tuonnit1.jpg"><br>
 Kuvassa Fjiordlund´s Northern Tok (8 x SERT) & V-97-98 Kuuhaukun Ikijään Punapeto (8 x SERT)
 </center>
 <br>
@@ -79,7 +79,7 @@ tulevaisuudessakin.
 <center>
 <img src="images/tuonnit-ja-viennit/rascalnly.jpg">
 &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="images/tuonnit-ja-viennit/zukotka.JPG"/><br>
+<img src="images/tuonnit-ja-viennit/zukotka.jpg"/><br>
 Kuvassa vasemmalla Kuuhaukun Ikuinen Rakkaus ja oikealla Siperiasta tuotettu Zukotka
 </center>
 <br>
@@ -105,9 +105,9 @@ Verratkaapa itse, koirien välillä on aikaa n. 40 vuotta!
 <h4>Chukotka sleddog, tšukotkan rekikoira</h4><br>
 
 <center>
-<img src="images/tuonnit-ja-viennit/tuontiyiska.JPG">
+<img src="images/tuonnit-ja-viennit/tuontiyiska.jpg">
 &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="images/tuonnit-ja-viennit/seisovavito.JPG"/><br>
+<img src="images/tuonnit-ja-viennit/seisovavito.jpg"/><br>
 Tšukotkan rekikoira-urokset Yiska ja Vito
 </center>
 <br>

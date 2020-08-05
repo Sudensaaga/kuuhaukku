@@ -15,9 +15,9 @@ sivukuvat:
 ---
 
 <center>
-<img src="images/lumi-ja-rascal/rascal1.JPG">
+<img src="images/lumi-ja-rascal/rascal1.jpg">
 &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="images/lumi-ja-rascal/lumi.JPG">
+<img src="images/lumi-ja-rascal/lumi.jpg">
 </center>
 <br>
 

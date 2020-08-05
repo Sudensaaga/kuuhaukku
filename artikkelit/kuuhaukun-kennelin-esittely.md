@@ -10,12 +10,12 @@ kolme-esiin-kuva: esittelyicon.jpg
 
 sivukuvat :
     - kennelin-esittely/kuuhaukun-kennelin-nartut.jpg : Merkittävät nartut Lumi, Rusty ja Enkeli
-    - kennelin-esittely/esittely2.JPG : Kuuhaukun ensimmäisiä pentuja
+    - kennelin-esittely/esittely2.jpg : Kuuhaukun ensimmäisiä pentuja
     - kennelin-esittely/esittely3.jpg : V-85-88, PMV-89 Kuuhaukun Reissumies
     - kennelin-esittely/enkelisoik.jpg : Kuuhaukun Erämaan Enkeli
-    - kennelin-esittely/esittely4.JPG : Kuuhaukun Teräs-Teddy ja Suden Saaga
+    - kennelin-esittely/esittely4.jpg : Kuuhaukun Teräs-Teddy ja Suden Saaga
     - kennelin-esittely/valjakkoretkeilya-tunturissa.jpg : Valjakkoretkeilyä tunturissa
-    - kennelin-esittely/esittely7.JPG : Jaana ja Jade (Troika's Pow Wow)
+    - kennelin-esittely/esittely7.jpg : Jaana ja Jade (Troika's Pow Wow)
     - kennelin-esittely/peppiesittely.jpg : Kuuhaukun Dominoa Lumella, Peppi
     - kennelin-esittely/siperianhusky-oentu-verona.jpg : Kuuhaukun Aurora Nocturne, Verona
     - kennelin-esittely/jedipentu.jpg : Hetken paikoillaan, suloinen Jedi-pentu

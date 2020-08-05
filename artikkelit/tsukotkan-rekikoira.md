@@ -23,7 +23,7 @@ tästä juttua jäljempänä, ko. tutkimus myös vahvistaa tosiasiaa tšukotkan 
 jalostamattomasta perimästä.
 
 <center>
-<img src="images/tsukotkan-rekikoira/tsukotkan-rekikoiria-siperiassa.JPG" height="413" width="621" /><br>
+<img src="images/tsukotkan-rekikoira/tsukotkan-rekikoiria-siperiassa.jpg" height="413" width="621" /><br>
 Tšukotkan rekikoiria Siperiassa. Kuva Elena Potseluevan kokoelma
 </center>
 <br>
@@ -39,7 +39,7 @@ pitkähköstä ja uuvuttavasta taudista, vaikka saikin lääkkeet ja oli muutami
 Siksi se saikin nimekseen Vito, elämä, ja nimi oli kyllä enne.
 
 <center>
-<img src="images/tsukotkan-rekikoira/tsukotkan-rekikoira-vito.JPG">&nbsp; &nbsp;
+<img src="images/tsukotkan-rekikoira/tsukotkan-rekikoira-vito.jpg">&nbsp; &nbsp;
 <img src="images/tsukotkan-rekikoira/tsukotkan-rekikoira-yiska.jpg"/><br>
 Vasemmalla Vito, Polar Star Vito n. 2-vuotiaana ja oikealla Yiska, Polar Star Yiska, vajaa 2-vuotiaana
 </center>
