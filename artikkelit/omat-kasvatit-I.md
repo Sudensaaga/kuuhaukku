@@ -30,6 +30,7 @@ kuvat:
     - omat1/whichonebetter.jpg : "Kumpi meistä on kauniimpi ja suloisempi?" (Rumba = Kuuhaukun Rakas Riivaaja sekä Ruuti = Kuuhaukun Räppäävä Ruuti)
     - omat1/rumbatakescare.jpg : Rumba, pennuista huolehtiva husky-setä
     - omat1/harmonyofnature.jpg : Enkelin kaunis pää ilmentää luonnon harmoniaa
-    - omat1/rascal.jpg : 
-    - omat1/rascal2.jpg : 
+    - omat1/rascal.jpg : Kuuhaukun Ikuinen Rakkaus, Rascal, pelastettiin 9-vuotiaana safarikennelistä takaisin kotikenneliin © 2004 Carol Dixon, Troika kennelistä
+    - omat1/rascal2.jpg : Kuuhaukun Ikuinen Rakkaus, Rascal, 3 serttiä (v-85-88, PMV-89 Kuuhaukun Reissumies x EUJV-91 Kuuhaukun Teksasin Ruusu) © 2004 Carol Dixon, Troika kennelistä
+    - omat1/rascal3.jpg : Rascalin sukulinjoissa on Kreevanka, kuuluisa 1930 -luvun Siperian tuonti, vain kymmenen sukupolven päässä © 2004 Carol Dixon, Troika kennelistä
 ---
