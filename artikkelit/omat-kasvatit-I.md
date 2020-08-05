@@ -1,7 +1,7 @@
 ---
 layout: kuvagalleria
 menu: kuvat
-permalink: omat-kasvatit-1
+permalink: omat-kasvatit-I
 otsikko: Omat kasvatit I
 linkin-pikkukuva: linkki-omat-kasvatit.jpg
 linkin-teksti: Albumi menneistä ja nykyisistä kasvateista, osa I

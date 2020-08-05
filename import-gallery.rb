@@ -47,7 +47,7 @@ def read_images_from_file(filename, article_slug)
       if matcher
         if !image_file_name.nil?
           # create empty text gallery entry, because we have new image without having found text!
-          gallery_entry = "#{article_slug}/#{File.basename(image_file_name)} : "
+          gallery_entry = "#{article_slug}/#{File.basename(image_file_name).downcase} : "
           image_array << gallery_entry
           image_file_list << "../lauran-kuuhaukku/#{image_file_name}"
         end
@@ -66,7 +66,7 @@ def read_images_from_file(filename, article_slug)
     end
 
     if !image_text.nil? && !image_file_name.nil?
-      gallery_entry = "#{article_slug}/#{File.basename(image_file_name)} : #{image_text}"
+      gallery_entry = "#{article_slug}/#{File.basename(image_file_name).downcase} : #{image_text}"
       image_array << gallery_entry
       image_file_list << "../lauran-kuuhaukku/#{image_file_name}"
       image_file_name = nil
@@ -108,7 +108,7 @@ def copy_images_to_local_dir(image_file_list, article_slug)
   dir_name = "images/#{article_slug}"
   image_file_list.each do |file_name|
     image_file = File.basename file_name
-    FileUtils.cp file_name, "#{dir_name}/#{image_file}"
+    FileUtils.cp file_name, "#{dir_name}/#{image_file.downcase}"
   end
 end
 
