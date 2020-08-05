@@ -8,5 +8,5 @@ menu-otsikko: Rotuinfo
 kolme-esiin:
         - "oldline-siperianhusky"
         - "oldline-siperianhusky-rotumaaritelma"
-        - "koiravaljakon-vedatys"
+        - "koiravaljakon-vetoharjoittelu"
 ---
