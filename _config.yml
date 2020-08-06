@@ -6,7 +6,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -26,7 +26,6 @@ baseurl: "kuuhaukku"
 url: "https://kulmala.github.io/kuuhaukku/"
 twitter_username: jekyllrb
 github_username:  sudensaaga
-show_downloads: true
 
 # Build settings
 theme: minima
@@ -50,17 +49,17 @@ nav:
   en:
     language: "English"
     menus:
-      - "en/introduction"
-      - "en/breed-info"
-      - "en/photos"
-      - "en/misc"
+    - "en/introduction"
+    - "en/breed-info"
+    - "en/photos"
+    - "en/misc"
   fi:
     language: "Finnish"
     menus:
-      - "esittely"
-      - "rotuinfo"
-      - "kuvat"
-      - "muuta"
+    - "esittely"
+    - "rotuinfo"
+    - "kuvat"
+    - "muuta"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -71,14 +70,16 @@ nav:
 # their entries' file path in the `include:` list.
 #
 exclude:
-   - .sass-cache/
-   - .idea/
-   - .jekyll-cache/
-   - gemfiles/
-   - Gemfile
-   - Gemfile.lock
-   - node_modules/
-   - vendor/bundle/
-   - vendor/cache/
-   - vendor/gems/
-   - vendor/ruby/
+- .sass-cache/
+- .idea/
+- .jekyll-cache/
+- .DS_Store
+- artikkelit/.DS_Store
+- gemfiles/
+- Gemfile
+- Gemfile.lock
+- node_modules/
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
