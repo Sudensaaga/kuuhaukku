@@ -8,10 +8,10 @@ linkin-pikkukuva: jade/jadeicon.jpg
 linkin-teksti: Muistokirjoitus Kuuhaukun aidolle jalokivelle, Jadelle
 
 sivukuvat:
-    - jade/jade3.jpg
     - jade/jade1.jpg
     - jade/jade2.jpg
----
+---- 
+      ![jade forever](jade/jade3.jpg)
 
 Kirjoitin tämän kirjoituksen heti Jaden lähdön jälkeen, mutta se 
 tulee vasta nyt uusille kotisivuille. Asia ei kuitenkaan vanhene...
