@@ -31,7 +31,7 @@ kuvat:
     - omat2/pepsi2.jpg : Pepsi, Troika's Nordic Gift, ihastuttava lahja Carol Dixonilta kun hän vieraili Kuuhaukun kennelissä
     - omat2/jade2.jpg : Troika's Powwow, Jade, 3 serttiä, on yksi parhaista
     - omat2/jade3.jpg : Jade
-    - omat2/cola2.jpg : Cola, Troika's the Lone Star, täysikasvuisena; Cola on erinomainen johtaja, jolla ei ole lainkaan aggressiivista käytöstä muita uroksia kohtaan. Ihanteellinen työskentelijä valjakossa!
+    - omat2/cola2.jpg : Cola, Troika's the Lone Star, täysikasvuisena; Cola oli erinomainen johtaja, jolla ei ollut lainkaan aggressiivista käytöstä muita uroksia kohtaan. Ihanteellinen työskentelijä valjakossa!
     - omat2/mokka.jpg : Mokka, Kuuhaukun Made by Old line (Troika's the Lone Star x v-00-01 Kuuhaukun Luminan Uni), tummanpunainen kaunotar
     - omat2/oldtouring.jpg : Koirani ja minä kiitämme vierailustanne sivuillamme!
 ---
