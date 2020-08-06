@@ -1,5 +1,5 @@
 ---
-layout: artikkeli
+layout: artikkeli-kuvapalkilla
 menu: muuta
 permalink: tsukotkan-rekikoira
 otsikko: Tšukotkan rekikoira - "Tšuktsikoira"
@@ -7,6 +7,10 @@ otsikko: Tšukotkan rekikoira - "Tšuktsikoira"
 kolme-esiin-otsikko: Tsuktsikoirat
 kolme-esiin-kuva: tsuktsiicon.jpg
 kolme-esiin-teksti: Tšukotka rekikoirat Kuuhaukun kennelissä ja rotutietoa kantarodusta, alkuperäisistä siperialaisista työkoirista.
+
+sivukuvat:
+    - tsukotkan-rekikoira/tundra-katsoo.jpg : Kuuhaukun Tundran Tarina
+
 ---
 **Kiinnostukseni näihin koiriin** alkoi jo yli 15 vuotta sitten, kun näin kuvia siperialaisista 
 tämän päivän työkoirista. Havahduin huomaamaan kaksi asiaa: ensiksikin että olin ollut 
