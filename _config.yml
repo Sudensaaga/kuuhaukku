@@ -26,6 +26,7 @@ baseurl: "kuuhaukku"
 url: "https://kulmala.github.io/kuuhaukku/"
 twitter_username: jekyllrb
 github_username:  sudensaaga
+show_downloads: true
 
 # Build settings
 theme: minima
