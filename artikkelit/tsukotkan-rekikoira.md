@@ -1,6 +1,5 @@
 ---
 layout: artikkeli-kuvapalkilla
-menu: muuta
 permalink: tsukotkan-rekikoira
 otsikko: Tsukotkan rekikoira - "Tsuktsikoira"
 
