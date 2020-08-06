@@ -1,6 +1,6 @@
 ---
 layout: artikkeli
-menu: muuta
+
 permalink: oldline-siperianhusky-rotumaaritelma
 otsikko: Rotumääritelmä
 
