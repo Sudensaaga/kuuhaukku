@@ -75,7 +75,7 @@ perhe, joka tarjoaa koiralle toimintaa, -ei kilpa-, safari- tai näyttelykenneli
 yleensä on vain väline.
 
 **Arktinen ulkomuoto tekee siperianhuskyn/old line -rekikoiran**. Ihanteellinen siperianhusky vastaa 
-tyypiltään alkuperäisiä tšuktsikoiria, joita tuotiin Alaskaan 1900-luvun alussa ja joihin 
+tyypiltään alkuperäisiä tsuktsikoiria, joita tuotiin Alaskaan 1900-luvun alussa ja joihin 
 siperianhusky-rotu perustuu. Keskikokoinen siperianhusky on rakenteeltaan "vaatimaton peruskoira", 
 jolla on kohtuulliset kulmaukset ja mittasuhteet. Sen kompakti rakenne on arktisen käytännöllinen; 
 paksu, arktinen kaksikerroksinen turkki, tuuhea ketunhäntä, hieman vinoasentoiset mantelin 

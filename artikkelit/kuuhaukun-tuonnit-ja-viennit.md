@@ -70,9 +70,9 @@ viimeisenä ainoana yksilönä vanhoja
 kanadalaisia old line -käyttökoiralinjoja. Nyttemmin maailmassa ei enää ole muita old line siperianhusky -kenneleitä,
 joista voisi uusia geenejä saada.
 
-Seuraavat tuonnit ovatkin olleet tšukotkan rekikoiria, siperianhuskyn kantarotua, joiden 
+Seuraavat tuonnit ovatkin olleet tsukotkan rekikoiria, siperianhuskyn kantarotua, joiden 
 isovanhemmat ovat
-työskennelleet Siperiassa tšuktsikylissä. Tämä puhtaaseen kantarotuun palautus elinvoiman, työskentelyominaisuuksien
+työskennelleet Siperiassa tsuktsikylissä. Tämä puhtaaseen kantarotuun palautus elinvoiman, työskentelyominaisuuksien
 ja muiden alkuperäisten ominaisuuksien säilyttämiseksi takaavat old line -koirien jalostuksen jatkumisen
 tulevaisuudessakin.
 
@@ -102,23 +102,23 @@ Verratkaapa itse, koirien välillä on aikaa n. 40 vuotta!
 
 [Katso tästä Kreevankan kuva](https://pawvillage.com/pedigree/dynprofile.asp?ID=AWSH174)
 
-<h4>Chukotka sleddog, tšukotkan rekikoira</h4><br>
+<h4>Chukotka sleddog, tsukotkan rekikoira</h4><br>
 
 <center>
 <img src="images/tuonnit-ja-viennit/tuontiyiska.jpg">
 &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="images/tuonnit-ja-viennit/seisovavito.jpg"/><br>
-Tšukotkan rekikoira-urokset Yiska ja Vito
+Tsukotkan rekikoira-urokset Yiska ja Vito
 </center>
 <br>
 
-Kuuhaukun kennelissä on myös siperianhuskyn kantarotua Chukotka Sleddog, tšukotkan rekikoira, 
+Kuuhaukun kennelissä on myös siperianhuskyn kantarotua Chukotka Sleddog, tsukotkan rekikoira, 
 edustavat urokset **Polar Star Yiska** (Yiska) ja **Polar Star Vito** (Vito), joista viimeksi 
 mainittu on syntynyt kuuden pennun pentueeseen Kuuhaukussa kasvattajan pyytäessä synnytysapua 
 hankalassa tilanteessa. Keväällä 2017 saapui myös suloinen **Polar Star Tsukotkan Hopea** (Silva)
-Jaanan luo Kuuhaukkuun. Lauran luona on samalta kasvattajalta tuotettu tšukotkan 
+Jaanan luo Kuuhaukkuun. Lauran luona on samalta kasvattajalta tuotettu tsukotkan 
 rekikoira **Polar Star Snezhinka** (Vega). Nämä koirat on jalostettu pelkästään käytön perusteella ja 
-niiden sukutaulussa on jo parin sukupolven päässä Tšukotkalla syntyneitä työkoiria. 
+niiden sukutaulussa on jo parin sukupolven päässä Tsukotkalla syntyneitä työkoiria. 
 Ne ovatkin oivallinen vertailukohde nykyisille siperianhuskyille ja rodussa tapahtuneille 
 muutoksille, ne ovat myös apuna old linen jatkojalostuksessa pitäen yllä elinvoimaa ja alkuperäisyyttä, 
 kun rekisteröityjä ulkopuolista linjaa olevia old lineja ei enää ole.

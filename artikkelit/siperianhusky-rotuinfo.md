@@ -23,29 +23,29 @@ sopeutuvaisen luonteen, terveyden ja pitkän iän ansiosta sitä pidetään nyky
 
 Siperianhuskyn alkuperä Siperiassa on vaikuttanut valtavasti siihen, millainen rotu on nykyään. 
 Rotu kehittyi vuosisatojen ajan siperialaisten alkuperäiskansojen rekikoirana, ja pääosin sitä 
-pidetään tšuktsi-nimisen kansan luomana rotuna. Tšuktsit elivät Koillis-Siperiassa Beringinsalmen 
+pidetään tsuktsi-nimisen kansan luomana rotuna. Tsuktsit elivät Koillis-Siperiassa Beringinsalmen 
 rannalla eli Siperian ja koko Aasian itäisimmällä alueella. Elinolosuhteet olivat maailman 
-rankimmat, ja siperianhuskysta kehittyi kestävä ja sopeutuva rekikoira. Tšuktsit olivat 
+rankimmat, ja siperianhuskysta kehittyi kestävä ja sopeutuva rekikoira. Tsuktsit olivat 
 kansana jakautuneet kahteen eri ryhmään. Kalastavat ja mm. merinisäkkäitä metsästävät
- meritšuktsit eli "anqallyt" ("meri-ihmiset") käyttivät rekikoiria kulkuvälineenä porojen sijaan.
+ meritsuktsit eli "anqallyt" ("meri-ihmiset") käyttivät rekikoiria kulkuvälineenä porojen sijaan.
 Siperianhuskyjen esi-isien tehtävänä oli toimia vetokoirina kuljettaen reessä metsästäjien 
 saalista tai vaikkapa kokonaista perhettä ja sen omaisuutta. 1700-luvulla venäläiset 
 valtasivat uusia alueita Siperiasta, ja monet kansat jäivät Venäjän keisarin vallan alle. 
 Tšuktseilla oli voimakas kulttuuri-identiteetti, ja he olivat ainoita, jotka pystyivät mainittavaan 
 vastarintaan venäläisiä joukkoja vastaan. Rekikoiriensa ansiosta he saattoivat pakata koko 
 omaisuutensa koirarekeen ja kadota lumimyrskyyn venäläisten joukkojen koskaan löytämättä heitä. 
-Siperianhuskyn esi-isillä saattoikin olla suuri vaikutus siihen, miksi tšuktsit olivat ainoa 
+Siperianhuskyn esi-isillä saattoikin olla suuri vaikutus siihen, miksi tsuktsit olivat ainoa 
 kansa, jolle lopulta myönnettiin keisarin päätöksestä täydellinen itsenäisyys.
 Rekikoirat olivat todella arvokkaita, ja ne olivat ihmisten varallisuuden mitta. Varakkaalla perheellä  
 oli iso valjakko koiria, kun taas varattoman perheen valjakon tuli kulkea 1-2 koiran voimin. 
-Tšuktsinaiset hoitivat koirat ja harjoittivat koiranjalostusta valitsemalla jo pienistä 
+Tsuktsinaiset hoitivat koirat ja harjoittivat koiranjalostusta valitsemalla jo pienistä 
 pennuista lupaavimmat nartut, jotka saivat jäädä eloon. Voikin ajatella, että juuri 
-tšuktsinaisten valintojen takia siperianhuskyissa nykyään esiintyy niin kauniin värisiä 
+tsuktsinaisten valintojen takia siperianhuskyissa nykyään esiintyy niin kauniin värisiä 
 koiria erikoisilla värikuvioilla. Urosten kohdalla valikoiva jalostus toimi niin, että 
 vain parhaat urokset (johtajakoirat) jäivät kastroimatta, ja ne saivat vapaasti astua narttuja. Kastroituina ne söivät vähemmän eivätkä olleet hanakkaita tappelemaan. 
-Tšuktsikoira oli kestävä ja väsymätön koira työssään, mutta sillä oli myös erinomainen 
+Tsuktsikoira oli kestävä ja väsymätön koira työssään, mutta sillä oli myös erinomainen 
 luonne. 
-Tšuktsit elivät jarangoissa ja koiria pidettiin myös sisätiloissa. Toisin kuin esim. 
+Tsuktsit elivät jarangoissa ja koiria pidettiin myös sisätiloissa. Toisin kuin esim. 
 grönlanninkoirat,
  siperianhuskyn esi-isät toimivat lempeän luonteensa takia myös lastenvahteina, ja kylminä öinä ne 
  nukkuivat sisällä ihmisten kanssa, jolloin niiden paksut turkit ja ruumiinlämpö pitivät myös ihmiset lämpimänä.
@@ -55,7 +55,7 @@ grönlanninkoirat,
 Monin paikoin arktisia alueita koirat liittyvät tiiviisti myös uskonnolliseen elämään. 
 Erään uskomuksen mukaan portteja tuonpuoleiseen paratiisiin vartioi kaksi koiraa, 
 jotka päästävät sisään vain ne, jotka ovat elämänsä aikana kohdelleet koiria hyvin. 
-Tšuktsit uskoivat, että myös eläimillä on sielu ja koirien (tai koiran kuvan esim. 
+Tsuktsit uskoivat, että myös eläimillä on sielu ja koirien (tai koiran kuvan esim. 
 talismaaneissa) uskottiin suojelevan pahoilta hengiltä. Aurinko, Kuu ja tähdet olivat 
 tiettyjä olentoja, joista Aurinko esitettiin kirkkaaseen asuun pukeutuneena miehenä, 
 joka ajoi taivaan halki koiravaljakolla. Shamaanit saattoivat käyttää koiria erilaisissa 
@@ -76,16 +76,16 @@ Beringinsalmen kohdalla matkaa Siperiasta Alaskaan on vain 85 km, ja alaskanmala
 ja siperianhusky ovatkin hyvin läheisiä sukulaisrotuja. Tiettävästi ensimmäiset 
 siperialaiset rekikoirat vietiin Alaskaan vasta vuonna 1908. Venäläinen turkiskauppias 
 nimeltä William Goosak toi ensimmäiset siperialaiset tuontikoirat Alaskaan, nämä ensimmäiset 
-10 koiraa olivat tšuktsikoiria. Jo seuraavana vuonna siperialaiset koirat kilpailivat uudessa, 
+10 koiraa olivat tsuktsikoiria. Jo seuraavana vuonna siperialaiset koirat kilpailivat uudessa, 
 vaativassa koiravaljakkokilpailussa All Alaska Sweepstakesissa. Paikalliset valjakkoajajat 
-pilkkasivat pieniä tšuktsikoiria ja kutsuivat niitä "siperialaisiksi rotiksi". Ne 
+pilkkasivat pieniä tsuktsikoiria ja kutsuivat niitä "siperialaisiksi rotiksi". Ne 
 olivatkin pieniä verrattuna paikallisiin todella raskaisiin ja isoihin rekikoiriin, jotka olivat 
 erilaisia työkoiraristeytyksiä, ja niissä saattoi olla bernhardinkoiraa ja newfoundlandinkoiraa. 
 Kaikkien suureksi ihmetykseksi "siperialaiset rotat" sijoittuivatkin kilpailussa kolmannelle 
 sijalle, ja niin alkoi siperiankoirien suosio Alaskassa.
 Kenelläkään ei ollut varaa pitää rekikoiria pelkästään kilpakoirina, ja niin siperianhuskytkin 
 olivat pääosin yhä työkoirina kaivoksilla tai kuljetusvaljakoissa tutkimusmatkoilla tai esim. 
-kuljetettaessa postia. Siperiasta tuotiin pääosin tšuktsikoiria, mutta tuontien joukossa saattoi 
+kuljetettaessa postia. Siperiasta tuotiin pääosin tsuktsikoiria, mutta tuontien joukossa saattoi 
 olla myös naapurikansojen rekikoiria. Vuonna 1914 tuotiin koiria myös Petropavlovskista 
 Kamtšatkalta: nämä erosivat aiemmista tuonneista lähinnä kooltaan ja siinä, että kamtatkalaisilla 
 koirilla oli usein typistetyt hännät. Näitä Kamtšatkan tuonteja ei koskaan käytetty jalostukseen, 

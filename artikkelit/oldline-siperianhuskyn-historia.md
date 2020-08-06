@@ -28,7 +28,7 @@ valjakkokilpailujen vaatimuksiin. Old Line jalostukseen kuuluu myös rodun terve
 vaaliminen SPY:n vaatimilla terveystarkastuksilla ja jalostustoimikunnan hyväksymillä
 yhdistelmillä.
 
-Alkuperäinen siperianhusky oli arktinen työkoira Koillis-Siperiasta Tšukotkan
+Alkuperäinen siperianhusky oli arktinen työkoira Koillis-Siperiasta Tsukotkan
 alueelta. Siperian ilmasto-olosuhteet ovat todella vaativat ja koirat muovautuivat
 sopiviksi juuri siihen ympäristöön. Koirilla oli vahva työkoiran luusto, tiivis
 rakenne, kaksikerroksinen arktinen turkki ja monet muut ulkomuodon yksityiskohdat,
@@ -38,14 +38,14 @@ myös hyvin läheisessä vuorovaikutuksessa ihmisten kanssa leikkien lasten kans
 ja jopa nukkuen sisällä ihmisten vieressä näitä lämmittäen.
 
 Siperia oli (ja on yhä) hyvin eristäytynyttä aluetta ja koirakanta muodostui
-yhtenäiseksi tyypiksi. Tšuktsit myös harjoittivat koiranjalostusta valitsemalla
+yhtenäiseksi tyypiksi. Tsuktsit myös harjoittivat koiranjalostusta valitsemalla
 jalostukseen käytettävät nartut jo pienten pentujen joukosta ja jättämällä vain
 parhaat siitosurokset kastroimatta.
 
 Nykytutkimuksen mukaan koiran alkujuuret löytyvätkin juuri Siperiasta ja koiramme
 edustavat hyvin vanhaa koiratyyppiä. Alueella asui lähekkäin eri kansoja ja 
 koiratyypeissä oli pieniä eroja. Eri kansojen koirat ovat voineet jossain määrin
-sekoittua keskenään, tšuktsien naapureita olivat pohjoisessa ja idässä inuitit, 
+sekoittua keskenään, tsuktsien naapureita olivat pohjoisessa ja idässä inuitit, 
 etelässä korjakit, eveenit ja itelmeenit (Kamtšatkalla) sekä tunguusit lännessä. 
 Kyseessä on siis **vuosituhansia vanha koirarotu**.
 
@@ -62,26 +62,26 @@ rekikoiria, joita käytettiin myös paimenkoirina ja nenetsien samojedinkoiria, 
 ovat sekä reki- että paimenkoiria. Nenetsikoiria muistuttavat Lapin paimenkoirat ovatkin
 jo erikoistuneet porojen paimentamiseen, eikä niitä tunneta rekikoirina. Etelässä
 korjakeilla, eveeneillä ja itelmeeneillä oli rekikoiria, mutta myös metsästyslaikoihin kuuluvia itäsiperianlaikoja. Niitä käytettiin myös jossain määrin vetokoirina, vaikka ne eroavatkin
-hieman tyypiltään tyypillisestä rekikoirasta.). **Siperianhuskyn kohdalla pääpaino on tšuktsikoirissa**, sillä kaikki
-Alaskaan tuotetut koirat, joihin rotu perustuu, tuotiin Tšukotkalta.
+hieman tyypiltään tyypillisestä rekikoirasta.). **Siperianhuskyn kohdalla pääpaino on tsuktsikoirissa**, sillä kaikki
+Alaskaan tuotetut koirat, joihin rotu perustuu, tuotiin Tsukotkalta.
 
 Siperianhuskyn historia USA:ssa alkoi vasta vuonna 1908, kun venäläinen William Goosak
-toi Alaskaan 10 koiran valjakon. Koirat olivat tšuktsikoiria, ja valjakko osallistui
+toi Alaskaan 10 koiran valjakon. Koirat olivat tsuktsikoiria, ja valjakko osallistui
 uuteen valjakkokilpailuun All Alaska Sweepstakesiin vuonna 1909 sijoittuen kolmanneksi.
 Kilpailu oli n. 700 km pituine,n ja se oli suunniteltu testaamaan parhaat työkoirat vaativissa
 olosuhteissa. Ensimmäisissä kilpailuissa voittajavaljakoissa juoksi suuria risteytyskoiria,
 jotka olivat bernhardinkoiran ja malamuutin tyyppisiä koiria. Kiinnostuttuaan 
-tšuktsikoirista myös Fox Maule Ramsay matkusti Siperiaan ja tuotti Tšukotkalta
+tsuktsikoirista myös Fox Maule Ramsay matkusti Siperiaan ja tuotti Tsukotkalta
 40-70 rekikoiraa töihin kaivauksille vetämään puutavaraa ylös vuorille. Ramsayn
 koirat osallistuivat vuoden 19010 Sweepstakesiin sijoittuen 1., 2. ja 4. sijoille.
 
-Voittajavaljakon ajaja John Johnson tuotti vuonna 1911 Itäniemestä 14 tšuktsikoiraa.
-Vuonna 1913 16 tšuktsikoiran valjakko matkusti Itäniemestä Beringinsalmen yli Nomeen ja
+Voittajavaljakon ajaja John Johnson tuotti vuonna 1911 Itäniemestä 14 tsuktsikoiraa.
+Vuonna 1913 16 tsuktsikoiran valjakko matkusti Itäniemestä Beringinsalmen yli Nomeen ja
 kaksi niistä, Dolly ja Happy, olivat merkittäviä kantakoiria. Myös Nellie-niminen narttu
-oli tuotettu ilmeisesti Tšukotkalta Anadyr-joen suulta.
+oli tuotettu ilmeisesti Tsukotkalta Anadyr-joen suulta.
 Seuraavan kerran Siperiasta koiria toi Leonhard Seppala vuonna 1914, koirat tulivat
 Petropavlovskista (Kamtatka) eikä niitä koskaan käytetty jalostukseen. 20-luvulla
-Seppala tuotti vielä 4 tšuktsikoiraa ja uudelleen lisää samasta paikasta vuonna 1930. Nuo
+Seppala tuotti vielä 4 tsuktsikoiraa ja uudelleen lisää samasta paikasta vuonna 1930. Nuo
 vuoden 1930 tuonnit olivat viimeiset ja rotu virallistettiin AKC:ssa samana vuonna.
 Uusia tuonteja ei enää tuotu, koska matkustaminen Siperiaan vaikeutui. Ennen rekisteröintiä
 suurin osa siperiankoirista oli Leonhard Seppalalla Alaskassa ja New Englannissa, ja rotuun sekoittui
