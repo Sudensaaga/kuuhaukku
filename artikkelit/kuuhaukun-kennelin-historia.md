@@ -1,6 +1,5 @@
 ---
 layout: artikkeli
-menu: muuta
 permalink: kuuhaukun-kennelin-historia
 kolme-esiin-otsikko: Historia 40 v
 kolme-esiin-teksti: '40 vuotta Old Line ® siperianhuskyja, Kuuhaukun kennelin 
