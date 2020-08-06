@@ -9,7 +9,6 @@ linkin-teksti: Muistokirjoitus Kuuhaukun aidolle jalokivelle, Jadelle
 
 sivukuvat:
     - jade/jade1.jpg
-    - jade/jade2.jpg
 --- 
 
 ![jade forever](images/jade/jade3.jpg)
@@ -62,6 +61,8 @@ loppuaikoina, jos vain olisi tiennyt. Loppuajan vietin tietenkin tiiviisti sen l
 itse olla reipas, ettei Jade vaistoaisi, että pelkäsin sen jo antaneen periksi. Tietenkin se 
 lopultakin tiesi, että olin tekoreipas, että oikeasti vain itketti koko ajan. Välillä oli pakko 
 olla muuallakin, kun sattui niin paljon nähdä niin hienon ja uljaan ja rakkaan koirani vain makaavan voimattomana.
+
+![jade forever](images/jade/jade2.jpg)
 
 Jade oli kauneimpia koiria, mitä minulla on ollut, oikea jalokivi nimensä mukaan, 
 ja erityinen tietysti kontaktinhalussaan ihmiseen. Erikoinen. Ja kaikkien huomaama ja 
