@@ -12,7 +12,6 @@ iso-kuva-sokeille: Iloisia siperianhuskyja
 
 tekstipalkki: <h1>Kasvattaja</h1><br><br>
 
-    <b>Perustaja ja pääkasvattaja:</b><br>
     Jaana Sudensaaga
     <br>
     <span>Puhelin&#58; </span> +358 44 313 0028<br>
