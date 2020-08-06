@@ -1,6 +1,6 @@
 ---
 layout: artikkeli-kuvapalkilla
-menu: muuta
+menu: esittely
 permalink: kuuhaukun-kennelin-esittely
 otsikko: Kuuhaukun kennel 1979
 
