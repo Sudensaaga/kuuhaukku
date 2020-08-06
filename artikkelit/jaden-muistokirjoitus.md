@@ -10,7 +10,7 @@ linkin-teksti: Muistokirjoitus Kuuhaukun aidolle jalokivelle, Jadelle
 sivukuvat:
     - jade/jade1.jpg
     - jade/jade2.jpg
----- 
+--- 
       ![jade forever](jade/jade3.jpg)
 
 Kirjoitin tämän kirjoituksen heti Jaden lähdön jälkeen, mutta se 
