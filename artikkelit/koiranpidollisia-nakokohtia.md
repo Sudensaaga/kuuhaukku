@@ -6,9 +6,8 @@ permalink: koiranpidollisia-kohtia
 otsikko: Koiranpidollisia näkökohtia
 
 sivukuvat :
-    - vanha-siperianhuskyvaljakko.jpg : Old line valjakointia 70-luvulla
+    - tundra-ja-havu-mustikassa.jpg : Vapaat ja onnelliset Tundra ja Havu metsässä
 ---
-KOIRANPIDOLLISIA NÄKÖKOHTIA
 
 Suurin osa ihmisistä pitää koiria hyvin, se on ilo kasvattajalle. Yksi kategoria on henkilöt, jotka ajattelevat pitävänsä eläimiä hyvin, mutta eivät huomaa tekevänsä asioita tavalla, joka ei ole koiralle parhaaksi. Pahinta on se, että yleensä nämä henkilöt eivät usko kokeneempaa. Minulla ainakin on aina ollut kasvattajia ja henkilöitä, joita kunnioitan ja joiden sanaa kuuntelen, vaikka olenkin jo näin kauan ollut koira-asioissa mukana. Samoin kuuntelen muiden mielipiteitä, josko sieltä tulisi jotain varteenotettavaa tietoa.
 Olen törmännyt harrastajiin, jotka pitävät itseään alan tietäjänä ja harrastavat esim. tottelevaisuutta. Koirat ovat olleet järkyttävän laihoja, koska niitä ilmeisesti on haluttu aktivoida nameilla paremmin siten, etteivät ne saa normaaliruokaa tarpeeksi.  Siinä ihmisen oma kunnianhimo asettuu taas etusijalle koiran hyvinvoinnin sijaan.
