@@ -28,6 +28,6 @@ dia-4-teksti: Kasvatit ovat tunnettuja hyvästä luonteestaan.
     
 kolme-esiin:
     - "kuuhaukun-kennelin-historia"
-    - "enkelin-tarina"
+    - "oldline-siperianhuskyn-historia"
     - "tsukotkan-rekikoira"
 ---

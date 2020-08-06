@@ -5,8 +5,7 @@ permalink: oldline-siperianhusky-rotumaaritelma
 otsikko: Rotumääritelmä
 
 kolme-esiin-otsikko: Rotumääritelmä
-kolme-esiin-teksti: "Nykyinen, voimassa oleva rotumääritelmä. Alleviivauksina erityisen tärkeitä 
-asioita."
+kolme-esiin-teksti: "Siperianhuskyn ja Tsukotkan rekikoiran rotumääritelmät."
 kolme-esiin-kuva: rotumbanneri.jpg
 ---
 
