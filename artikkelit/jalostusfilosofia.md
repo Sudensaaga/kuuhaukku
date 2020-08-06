@@ -1,6 +1,6 @@
 ---
 layout: artikkeli-kuvapalkilla
-menu: muuta
+
 permalink: jalostusfilosofia
 otsikko: Jalostusfilosofia; jalostuksen tavoitteet ja arvot
 
