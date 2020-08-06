@@ -10,7 +10,7 @@ linkin-teksti: Pentutiedustelut ja muut asiat
 iso-kuva: yhteyssivu.jpg
 iso-kuva-sokeille: Iloisia siperianhuskyja
 
-tekstipalkki: <h1>Yhteystiedot</h1><br><br>
+tekstipalkki: <h1>Kasvattaja</h1><br><br>
 
     <b>Perustaja ja pääkasvattaja:</b><br>
     Jaana Sudensaaga
