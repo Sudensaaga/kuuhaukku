@@ -1,6 +1,5 @@
 ---
 layout: artikkeli-kuvapalkilla
-menu: muuta
 permalink: oldline-siperianhuskyn-historia
 otsikko: Tietoa ja historiaa old linesta
 
