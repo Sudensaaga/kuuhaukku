@@ -21,17 +21,17 @@ tekstipalkki: <h1>Kasvattaja</h1><br><br>
     <br><br>
 
 ---
-Pentueitamme ei mainosteta 
+Kuuhaukun pentueita ei mainosteta 
 nettisivuilla ja etusijalla ovat aina pennunottajat, 
-jotka ovat ottaneet meihin hyvissä ajoin yhteyttä ja osoittaneet 
-siten todellista kiinnostusta koiriimme. Jokainen pentu myydään 
+jotka ovat ottaneet hyvissä ajoin yhteyttä ja osoittaneet 
+siten todellista kiinnostusta old line -koiriin. Jokainen pentu myydään 
 ehdoin, joista kerrotaan pennunostajalle ensikontaktissa. 
 									
 Pentuja myydään vain varauksesta pentulistalla oleville. Kasvattajaa
 ja ostajaa sitova varaus on vasta kun varausmaksu on maksettu.
 
-Kerromme mielellämme lisäinfoa old linesta ja Kuuhaukun siperianhuskyista kiinnostuneille!
-Tervetuloa luoksemme tutustumaan koiriimme.
+Saatte mielellään lisäinfoa old linesta ja Kuuhaukun siperianhuskyista.
+Tervetuloa myös tutustumaan koiriin.
 								
 *Kuuhaukun kennel - yli 40 vuoden kasvattajakokemus old line siperianhuskyista.*
 
