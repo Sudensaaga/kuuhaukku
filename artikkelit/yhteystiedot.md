@@ -2,10 +2,10 @@
 layout: artikkeli-tekstipalkilla
 menu: etusivu
 permalink: yhteystiedot
-otsikko: Pentukyselyt ja muu info
+otsikko: Yhteystiedot
 
 linkin-pikkukuva: yhteys.jpg
-linkin-teksti: Pentutiedustelut ja muut asiat
+linkin-teksti: Ota yhteyttä - Pentutiedustelut ja muut asiat
 
 iso-kuva: yhteyssivu.jpg
 iso-kuva-sokeille: Iloisia siperianhuskyja
