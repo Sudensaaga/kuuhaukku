@@ -73,6 +73,6 @@ Esimerkki:
 Toimii vain jos Gemfile-tiedostossa mainittu Ruby ja modulit on asennettu omalle koneelle.
 
 ~~~bash
-jekyll serve --livereload --incremental
+jekyll serve
 ~~~
 

@@ -56,7 +56,7 @@ nav:
   fi:
     language: "Finnish"
     menus:
-    - "etusivu"
+    - "index"
     - "esittely"
     - "rotuinfo"
     - "kuvat"
