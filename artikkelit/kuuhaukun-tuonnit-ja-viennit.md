@@ -1,6 +1,6 @@
 ---
 layout: artikkeli-kuvapalkilla
-
+menu: esittely
 permalink: kuuhaukun-tuonnit-ja-viennit
 otsikko: Kuuhaukun tuonnit ja viennit 
 

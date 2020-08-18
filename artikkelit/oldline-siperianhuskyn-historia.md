@@ -7,6 +7,9 @@ linkin-pikkukuva: linkki-oldline.jpg
 linkin-teksti: Lisätietoa vanhan linjan old line siperianhuskyista. Old linen historiaa ja
                 jalostusperiaatteita.
 
+menu: rotuinfo
+
+
 kolme-esiin-otsikko: Old line ®
 kolme-esiin-teksti: "Tietoa vanhan linjan old line siperianhuskyista. Old linen historiaa ja
  jalostusperiaatteita."
