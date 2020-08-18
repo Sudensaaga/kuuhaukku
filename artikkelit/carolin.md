@@ -8,10 +8,10 @@ linkin-teksti: Carolin kuvia vierailultaan kennelissämme
 
 kuvat:
     - carolin/ptbcdwsvok-1.jpg : Koirien valjastusta
-    - carolin/ptbcdwsvok-2.jpg : Rascal odottelee jo lähtöä!
-    - carolin/ptbcdwsvok-3.jpg : Näkymä reen kyydistä
     - carolin/ptbcdwsvok-4.jpg : 
     - carolin/ptbcdwsvok-5.jpg : 
+    - carolin/ptbcdwsvok-3.jpg : Näkymä reen kyydistä
+    - carolin/ptbcdwsvok-2.jpg : Rascal odottelee jo lähtöä!
     - carolin/ptbcdwsvok-6.jpg : Johtajat Lumi ja Tundra
     - carolin/ptbcdwsvok-7.jpg : 
     - carolin/ptbcdwsvok-8.jpg : 

@@ -5,10 +5,12 @@ permalink: koiranpidollisia-kohtia
 
 otsikko: Koiranpidollisia näkökohtia
 
+linkin-pikkukuva: linkki-hakki.jpg
+linkin-teksti: 
+
 sivukuvat :
     - tundra-ja-havu-mustikassa.jpg : Vapaat ja onnelliset Tundra ja Havu metsässä
 ---
-
 
 Suurin osa ihmisistä pitää koiria hyvin, se on ilo kasvattajalle. Yksi kategoria on henkilöt, jotka ajattelevat pitävänsä eläimiä hyvin, mutta eivät huomaa tekevänsä asioita tavalla, joka ei ole koiralle parhaaksi. Pahinta on se, että yleensä nämä henkilöt eivät usko kokeneempaa. Minulla ainakin on aina ollut kasvattajia ja henkilöitä, joita kunnioitan ja joiden sanaa kuuntelen, vaikka olenkin jo näin kauan ollut koira-asioissa mukana. Samoin kuuntelen muiden mielipiteitä, josko sieltä tulisi jotain varteenotettavaa tietoa.
 
