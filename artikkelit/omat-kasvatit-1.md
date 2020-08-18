@@ -14,7 +14,7 @@ kuvat:
     - omat1/dakota.jpg : Dakotan kaunis pää (Fjiordlund's Northern Tok)
     - omat1/ikijaannorthern.jpg : v-97-98 Kuuhaukun Ikijään Punapeto (puna-valkoinen) (8 sertifikaattia), Fjiordlund's Northern Tok (9 sertifikaattia) (musta-valkoinen)
     - omat1/rusty.jpg : v-97-98 Kuuhaukun Ikijään Punapeto (Rusty)
-    - omat1/rustyrun.jpg : Oikea siperianhuskyn liikunta: Rusty liikkeessä
+    - omat1/rustyrun.jpg : Oikea siperianhuskyn liikunta&#58; Rusty liikkeessä
     - omat1/lumi.jpg : v-01 Kuuhaukun Luminan Uni (3 sertifikaattia, 2 CACIB) (v-91 Kuuhaukun Fakiiri x v-97-98 Kuuhaukun Ikijään Punapeto), tässä pystykorvaryhmän 3
     - omat1/finn-aslak.jpg : Italian MVA, nuorten maailmanvoittaja -86 Kuuhaukun Finn-Aslak
     - omat1/rossoresu.jpg : Rosso & Resu
