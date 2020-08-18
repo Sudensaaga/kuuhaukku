@@ -7,7 +7,7 @@
 require 'yaml'
 require 'fileutils'
 
-IMAGE_URL_FINDER = '<img border=\"1\" src=\"(.*?)\"'
+IMAGE_URL_FINDER = '<img border=\"\d\" src=\"(.*?)\"'
 IMAGE_TEXT_FINDER = '>(.*?)<'
 
 def to_slug(title)
