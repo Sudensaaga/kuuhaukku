@@ -14,11 +14,12 @@ p {
 
 a, a:hover {
   color: #bf0f0a;
+  outline: none;
 }
 
-#menu li a:hover, #menu .active a {
+.navbar-dark .navbar-nav .active > .nav-link {
   text-decoration: none;
-  background: url(../images/menu_bg.png) repeat;
+  background: url($menu-background-image) repeat;
 }
 
 h1.post-title {

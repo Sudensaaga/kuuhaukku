@@ -23,12 +23,17 @@
             {% for menu in site.nav[lang].menus %}
             {% for post in site.pages %}
             {% if post.permalink == menu %}
-
+                {% if page.menu == menu %}
+            <li class="nav-item active">
+                <a class="nav-link" href="{{ post.url | relative_url }}" tabindex="-1">{{post
+                    .menu-otsikko}}</a>
+            </li>
+                {% else %}
             <li class="nav-item">
                 <a class="nav-link" href="{{ post.url | relative_url }}" tabindex="-1">{{post
                     .menu-otsikko}}</a>
             </li>
-
+                {% endif %}
             {% endif %}
             {% endfor %}
             {% endfor %}
