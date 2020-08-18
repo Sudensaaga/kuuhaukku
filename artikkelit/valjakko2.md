@@ -12,7 +12,7 @@ kuvat:
     - valjakko2/closer.jpg : ... lähemmäksi
     - valjakko2/andpassing.jpg : ... ja ohi.
     - valjakko2/firstteambacktostart1.jpg : 1. Valjakko tulossa lähtöpaikalle
-    - valjakko2/firstteambacktostart2.jpg : &nbsp;
+    - valjakko2/firstteambacktostart2.jpg : 
     - valjakko2/andatthedestination.jpg : ... ja perillä.
     - valjakko2/striptease.jpg : Striptease.
 ---
