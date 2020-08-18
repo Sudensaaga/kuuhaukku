@@ -16,6 +16,7 @@
         <div class="mx-lg-5 py-5">
             <div class="row">
                 {% for post in site.pages %}
+                {% if post.url != page.url %}
                 {% assign post-slug = post.permalink | slugify %}
                 {% if kolme-esiin contains post-slug %}
                 {% elsif post.menu == menu %}
@@ -36,8 +37,8 @@
                     </div>
                 </div>
                 {% endif %}
+                {% endif %}
                 {% endfor %}
-
             </div>
         </div>
     </div>
