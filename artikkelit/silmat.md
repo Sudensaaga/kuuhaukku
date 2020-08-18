@@ -14,8 +14,7 @@ kuvat:
     - silmat/heartsbreakingtundra.jpg : SydAEmet valloittava Mila.
     - silmat/lightandshadow.jpg : Valo ja varjo - Tundra.
     - silmat/lookingfaraway.jpg : Katse etäisyyteen - Rosso.
-    - silmat/rossowaitingforthestart.jpg : Loimun valppaat silmät odottavat lähtöä 
-    valjakkoretkelle.
+    - silmat/rossowaitingforthestart.jpg : Loimun valppaat silmät odottavat lähtöä valjakkoretkelle.
     - silmat/childishinnocence.jpg : Pikku - Ruutin lapsellista viattomuutta.
     - silmat/puppysdosingeyes.jpg : Pennun torkkuvat silmät.
     - silmat/tundrasawsomething.jpg : Sen silmät erottivat pienen liikkeen, aivan vähäisen, jossain kaukaisuudessa. (Tundra)
