@@ -4,7 +4,7 @@ menu: muuta
 permalink: lumi-ja-rascal
 otsikko: Muistokirjoitus Lumille ja Rascalille
 
-linkin-pikkukuva: lumi-ja-rascal-linkki.jpg
+linkin-pikkukuva: linkki-lumi-ja-rascal.jpg
 linkin-teksti:
 
 sivukuvat:

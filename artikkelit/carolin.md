@@ -3,13 +3,13 @@ layout: kuvagalleria
 menu: kuvat
 permalink: carolin
 otsikko: Carol Dixonin kuvia
-linkin-pikkukuva: linkki-huskynaama.jpg
+linkin-pikkukuva: linkki-carolin.jpg
 linkin-teksti: Carolin kuvia vierailultaan kennelissämme
 
 kuvat:
     - carolin/ptbcdwsvok-1.jpg : Koirien valjastusta
-    - carolin/ptbcdwsvok-2.jpg : Rascal odottelee jo lAEhtAEAE!
-    - carolin/ptbcdwsvok-3.jpg : NAEkymAE reen kyydistAE
+    - carolin/ptbcdwsvok-2.jpg : Rascal odottelee jo lähtöä!
+    - carolin/ptbcdwsvok-3.jpg : Näkymä reen kyydistä
     - carolin/ptbcdwsvok-4.jpg : 
     - carolin/ptbcdwsvok-5.jpg : 
     - carolin/ptbcdwsvok-6.jpg : Johtajat Lumi ja Tundra
