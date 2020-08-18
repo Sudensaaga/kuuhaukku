@@ -4,7 +4,7 @@ menu: muuta
 permalink: iditarod-musherin-haastattelu
 otsikko: Don Smidtin haastattelu / Iditarod 2007
 
-linkin-pikkukuva: linkki-huskynaama.jpg
+linkin-pikkukuva: don-linkki.jpg
 linkin-teksti:
 ---
 Don Smidt, Iditarod 2007:n, viimeisen suuren kilpailun, ensikertalaisajaja, 

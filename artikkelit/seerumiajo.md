@@ -4,7 +4,7 @@ menu: muuta
 permalink: seerumiajo
 otsikko: Seppalan historiallinen seerumiajo
 
-linkin-pikkukuva: linkki-huskynaama.jpg
+linkin-pikkukuva: seerumi-linkki.jpg
 linkin-teksti:
 
 sivukuvat:
