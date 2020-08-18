@@ -5,7 +5,7 @@ permalink: pipsan-ja-rascalin-tarina
 otsikko: Pipsan ja Rascalin tarina
 
 linkin-pikkukuva: safariicon.jpg
-linkin-teksti:
+linkin-teksti: Safarikennelistä pelastettujen tarina
 
 sivukuvat:
     - pipsarascal.jpg
