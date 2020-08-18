@@ -1,6 +1,9 @@
 # Kuuhaukun kennelin kotisivut
 Artikkeleiden ja kuvien copyright Jaana Sudensaaga.
 
+## Väliaikaisen sivun osoite
+https://sudensaaga.github.io/kuuhaukku
+
 ## Artikkelien muuttaminen 
 
 Suomeksi hakemistossa [artikkelit](https://github.com/kulmala/kuuhaukku/tree/master/artikkelit). 
