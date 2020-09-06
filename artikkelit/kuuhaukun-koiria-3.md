@@ -14,12 +14,12 @@ kuvat:
     - kuuhaukun-koiria/kas5.jpg : Helmin eksoottiset eriparisilmät
     - kuuhaukun-koiria/kas4.jpg : Rolle "kesätöissä"
     - kuuhaukun-koiria/kas7.jpg : Tytär-Saaga ja äiti-Peppi keskittyvät yhdessä makupalaan
-    - kuuhaukun-koiria/tundra-ja-havu.jpg :
-    - kuuhaukun-koiria/aslan1.jpg :
-    - kuuhaukun-koiria/jedi-ja-nekku.jpg : 
+    - kuuhaukun-koiria/tundra-ja-havu.jpg : Havu Tundran hellässä huomassa (tsuktsi-huskeja)
+    - kuuhaukun-koiria/aslan1.jpg : Kuuhaukun Leijonan Sydän, upea Aslan
+    - kuuhaukun-koiria/jedi-ja-nekku.jpg : Jedi ja Nekku, Kuuhaukun Tarumainen Thor ja Karkki tai kuje 
     - kuuhaukun-koiria/k6.jpg :
-    - kuuhaukun-koiria/naava.jpg : 
-    - kuuhaukun-koiria/osku-ja-bob.jpg :
-    - kuuhaukun-koiria/tojon-aina.jpg :
-    - kuuhaukun-koiria/wiima-k-kruunaa-kaiken.jpg :
+    - kuuhaukun-koiria/naava.jpg : Naava, Kuuhaukun Älä hukkaa hauku
+    - kuuhaukun-koiria/osku-ja-bob.jpg : Osku ja Bob, Kuuhaukun Pikkuprinssi ja Menolippu Siperiaan (50% husky, 50% tsuktsi)
+    - kuuhaukun-koiria/tojon-aina.jpg : Ihana Tojon, K. Mustaa samettia, seurustelee Aina-aasin kanssa
+    - kuuhaukun-koiria/wiima-k-kruunaa-kaiken.jpg : Kuuhaukun Kruunaa kaiken, Wiima
 ---
