@@ -3,7 +3,7 @@ layout: kuvagalleria
 menu: kuvat
 permalink: kuuhaukun-koiria-3
 otsikko: Kuuhaukun koiria III
-linkin-pikkukuva: linkki-omat-kuuhaukun-koiria-3.jpg
+linkin-pikkukuva: linkki-kuuhaukun-koiria-3.jpg
 linkin-teksti: Kuvia omista koirista ja Kuuhaukun kasvateista
 
 kuvat:
