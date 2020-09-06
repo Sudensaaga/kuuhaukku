@@ -25,7 +25,7 @@ kuvat:
     - pennut/ppa-16.jpg : Pieni Scilla
     - pennut/ppa-17.jpg : Eri-ikäisiäpentuja, Jade ja Pepsi
     - pennut/ppa-18.jpg : 
-    - pennut/ppa-19.jpg : Pentujamme ei avara maailma pelota
+    - pennut/ppa-19.jpg : Pentuja ei avara maailma pelota
     - pennut/ppa-20.jpg : 
     - pennut/ppa-21.jpg : 
     - pennut/ppa-22.jpg : Enkeli rakastaa pentujaan ja nauttii niiden seurasta

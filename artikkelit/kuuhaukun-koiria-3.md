@@ -16,4 +16,3 @@ kuvat:
     - kuuhaukun-koiria/kas7.jpg : Tytär-Saaga ja äiti-Peppi keskittyvät yhdessä makupalaan
     - kuuhaukun-koiria/kas7.jpg : 
 ---
-Tällä sivulla lisää kuvia kasvateistamme, kiitos kaikille kuvista!
