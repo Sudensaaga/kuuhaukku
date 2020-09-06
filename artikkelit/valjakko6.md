@@ -17,7 +17,7 @@ kuvat:
     - valjakko6/kevathangilla.jpg : Keväthangilla joen törmällä&colon; Odessa, Valo ja Sero
     - valjakko6/paluu-lahtopaikalle.jpg : Paluu lähtöpaikalle, Sero haluaisi palata reitille 
     - valjakko6/kiihtelysvaarassa.jpg :  Talvipäivllä Kiihtelysvaarassa, 22 km:n reitti taittui hienosti
-    - valjakko6/ajoa-marraskuussa-2019.jpg :
+    - valjakko6/ajoa-marraskuussa-2019.jpg : Ajoa marraskuussa 2019
     
 ---
 
