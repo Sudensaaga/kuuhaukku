@@ -8,10 +8,10 @@ kolme-esiin-kuva: tsuktsiicon.jpg
 kolme-esiin-teksti: Tsukotka rekikoirat Kuuhaukun kennelissä ja rotutietoa kantarodusta, alkuperäisistä siperialaisista työkoirista.
 
 sivukuvat:
-    - tsukotkan-rekikoira/tundra-katsoo.jpg : Kuuhaukun Tundran Tarina, 75% tsukotkan rekikoira, 25% siperianhusky
     - tsukotkan-rekikoira/tundra-paa.jpg : Kuuhaukun Tundran Tarina, 75% tsukotkan rekikoira, 25% siperianhusky
-    - tsukotkan-rekikoira/vito-naava-pentu.jpg : Kuuhaukun Husky through the looking glass, 50% tsukotkan rekikoira, 50% siperianhusky
-    - tsukotkan-rekikoira/malla-ja-heta.jpg : Kuuhaukun Beauty and the Husky ja Kuuhaukun Redhood's Little Wolf Friend, 50% tsukotkan rekikoira, 50% siperianhusky
+    - tsukotkan-rekikoira/tundra-katsoo.jpg : Kuuhaukun Tundran Tarina, 75% tsukotkan rekikoira, 25% siperianhusky
+    - tsukotkan-rekikoira/vito-naava-pentu.jpg : Reppuli, Kuuhaukun Husky through the looking glass, 50% tsukotkan rekikoira, 50% siperianhusky
+    - tsukotkan-rekikoira/malla-ja-heta.jpg : Kuuhaukun Beauty and the Husky ja Kuuhaukun Redhood's Little Wolf Friend, 1-vuotiaana, 50% tsukotkan rekikoira, 50% siperianhusky
     - tsukotkan-rekikoira/havu-pentuna.jpg : Kuuhaukun Husky in wonderland pentuna, 50% tsukotkan rekikoira, 50% siperianhusky
     - tsukotkan-rekikoira/havu-paa.jpg : Kuuhaukun Husky in wonderland 1-vuotiaana, 50% tsukotkan rekikoira, 50% siperianhusky
 
@@ -30,11 +30,8 @@ mielenkiintoisia piirteitä. Esim. niiden karvan ja ihon rakenne poikkeaa jalost
 tästä juttua jäljempänä, ko. tutkimus myös vahvistaa tosiasiaa tsukotkan rekikoirien puhtaasta ja 
 jalostamattomasta perimästä.
 
-<center>
-<img src="images/tsukotkan-rekikoira/tsukotkan-rekikoiria-siperiassa.jpg" height="413" width="621" /><br>
-Tsukotkan rekikoiria Siperiassa. Kuva Elena Potseluevan kokoelma
-</center>
-<br>
+![Tsukotkan rekikoiria Siperiassa](images/tsukotkan-rekikoira/tsukotkan-rekikoiria-siperiassa.jpg)
+*Tsukotkan rekikoiria Siperiassa. Kuva Elena Potseluevan kokoelma*
 
 Kaksi tsuktsi-uroskoiraani, Polar Star Yiska ja Vito, ovat jonkin verran erityyppisiä. Vito 
 on kompaktimpi, tiiviimpi ja massiivisempi, sen rakenne muistuttaa paljon Kuuhaukun koiria. 
