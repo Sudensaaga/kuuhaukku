@@ -51,7 +51,7 @@ Siksi se saikin nimekseen Vito, elämä, ja nimi oli kyllä enne.
 *Polar Star Yiska, 6-vuotiaana*
 
 ![tsukotkan rekikoira Yiska](images/tsukotkan-rekikoira/yiska-seisoo.jpg)
-*Polar Star Yiska, vajaa 2-vuotiaana*
+*Polar Star Yiska, 6-vuotiaana*
 
 Yiska on korkearaajaisempi, vähän ilmavampi (tosin massaa tulee koko ajan lisää iän karttuessa) 
 ja muistuttaa tyypiltään myös Enkeli-linjan korkearaajaisempia yksilöitä ja hyvin paljon Hilettä 
@@ -95,7 +95,7 @@ odotukset. Toisaalta on tullut todella positiivista palautetta tsuktsikoirista j
 line-tsuktsikoiraristeytyksistä  kotikoirina. Uskon, että yhdistelmillä saadaan hyviä ja terveitä
  kombinaatioita aikaan.
 
-![tsukotkan rekikoira Silva](images/tsukotkan-rekikoira/silva-seisoo.jpg)
+![tsukotkan rekikoira Silva](images/tsukotkan-rekikoira/silva-seisoo-2.jpg)
 *Silva, Polar Star Tsukotkan Hopea*
 
 Kesällä 2017 sain pitkän odotuksen jälkeen myös aivan siperianhuskylta näyttävän sinisilmäisen Silva-tytön, 
