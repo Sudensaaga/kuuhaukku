@@ -4,7 +4,7 @@ menu: kuvat
 permalink: valjakko4
 otsikko: Valjakkokuvia 4
 linkin-pikkukuva: linkki-valjakkokuvia-4.jpg
-linkin-teksti: Videokuvaamassa koiravaljakoita
+linkin-teksti: Videokuvaamassa koiravaljakkoa
 
 kuvat:
     - valjakko4/cameramanandhomepagemaker.jpg : Videokuvaaja ja kotisivujen tekijä kyydissä
