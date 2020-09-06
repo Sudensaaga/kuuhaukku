@@ -154,8 +154,29 @@ old line® -siperianhuskyt, old linen jalostukseen käytettävät tsukotkanrekik
 risteytykset ovat 
 tasavertaisesti old line® tavaramerkin alla, millä suojataan edelleen harkittu eteenpäin-jalostus.
 
-<h4>Kasvatinomistajieni kokemuksia old line® -siperianhusky ja tsukotkan 
-rekikoira-risteytyksistä</h4>
+#### Kasvatinomistajieni kokemuksia old line® -siperianhusky ja tsukotkan rekikoira-risteytyksistä
+
+##### Old Line husky-Tšukotkan rekikoira yhdistelmä
+
+Meillä on Kuuhaukun kennelin Old Line husky-Tšukotkan rekikoira yhdistelmä. Kohta kolme vuotias uros on luonteeltaan aivan mahtava tapaus.
+
+Leikkaamaton koiramme on luonteeltaan kiltti ja tulee todella hyvin toimeen, niin nuorten kuin vanhojen, pienten ja isojen, uros ja naaras koirien kanssa. Käymme myös useamman kerran viikossa koirapuistossa. 
+
+Meillä on myös 3 kissaa, ja yhteiselo on ollut ongelmatonta, mitä nyt kissat eivät ole innostuneet palloleikeistä :)
+
+Myöskin ihmisiä kohtaan koiramme on ennakkoluuloton, eikä hauku tai murise, vaikka pihaamme tulisi tuntemattomia ihmisiä.
+
+Koira on ollut koko elämänsä ns. terve kuin pukki, eikä eläinläärillä ole tarvinnut käydä, kuin rokotusten takia. Koira on isokokoinen ja vahva.
+
+Harrastamme koiran kanssa vedätystä kickbikella yksinään, sekä valjakkossa reen vetoa. Sekä juoksutekniikka, että työmoraali ovat erinomaisia. 
+
+Teimme juuri lomamatkan Etelä-Suomesta lappiin autolla ja koiramme matkusti mennen tullen farmariauton takakontissa. Välillä piti oikein tarkistaa onko koira vielä mukana, kun hän ääneti vain pötkötteli tai nukkui. Päästessämme kotipihaan ja purettuamme tavarat, avasin vielä takakontin, niin koira iloisesti hyppäsi takaisin autoon ja oli valmis lähtemään uuteen reissuun.
+
+ Olemme olleet Old Line husky-Tšukotkan rekikoiran hankintaan enemmän kuin tyytyväisiä.
+
+`-` Mikko ja Tiina
+
+##### Tundra
 
 Tundra-poika tuli meille kasvattajalta 15 viikon ikäisenä. Asumme Tampereen keskustassa, 
 eikä meillä ole ollut aiemmin koiraa, joten osasimme odottaa vaikeuksia kun normaalia 
@@ -184,6 +205,8 @@ Kirjoitushetkellä Tundra on 6,5 kk ikäinen ja painaa 31,5 kg. Tundraa on muide
 ikäisekseen erittäin rauhalliseksi koiraksi. Ulkonäkö kerää myös paljon positiivisia kommentteja 
 ohikulkijoilta. Odotamme innolla kaikkia uusia seikkailuja Tundran kanssa. Niitä voi seurata 
 Instagramissa @huskytundra.*
+
+##### Lahja
 
 Lahja tuli minulle pienenä pentuna, se on 50 % tsuktsikoira ja 50 % old line® -siperianhusky. 
 Se on luonteeltaan mitä kiltein koira, aina iloinen ja kaikkien kaveri. Se muistuttaa isäänsä 
