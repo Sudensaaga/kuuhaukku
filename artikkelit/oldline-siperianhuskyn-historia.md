@@ -4,14 +4,14 @@ permalink: oldline-siperianhuskyn-historia
 otsikko: Tietoa ja historiaa old linesta
 
 linkin-pikkukuva: linkki-oldline.jpg
-linkin-teksti: Lisätietoa vanhan linjan old line siperianhuskyista. Old linen historiaa ja
+linkin-teksti: Lisätietoa vanhan linjan old line®siperianhuskyista. Old linen historiaa ja
                 jalostusperiaatteita.
 
 menu: rotuinfo
 
 
-kolme-esiin-otsikko: Old line ®
-kolme-esiin-teksti: "Tietoa vanhan linjan old line siperianhuskyista. Old linen historiaa ja
+kolme-esiin-otsikko: Old line®
+kolme-esiin-teksti: "Tietoa vanhan linjan old line®siperianhuskyista. Old linen historiaa ja
  jalostusperiaatteita."
 kolme-esiin-kuva: oldline.jpg
 
@@ -23,10 +23,10 @@ sivukuvat:
     - old-line-siperianhusky/bowlake.jpg : Kuvassa Bow Lake kennelin koiria vuosilta 1949 ja 1953
     
 ---
-Old line tarkoittaa siperianhuskyjen vanhaa sukulinjaa, jonka koirat on jalostettu
+Old line®tarkoittaa siperianhuskyjen vanhaa sukulinjaa, jonka koirat on jalostettu
 **tarkoituksena säilyttää alkuperäinen, arktinen työkoira-siperianhusky**. Old line
 siperianhuskyja ei ole jalostettu näyttelymuodin mukaan tai vinttikoiramaiseksi ei-arktiseksi koiraksi 
-valjakkokilpailujen vaatimuksiin. Old Line jalostukseen kuuluu myös rodun terveyden
+valjakkokilpailujen vaatimuksiin. Old line®jalostukseen kuuluu myös rodun terveyden
 vaaliminen SPY:n vaatimilla terveystarkastuksilla ja jalostustoimikunnan hyväksymillä
 yhdistelmillä.
 
@@ -128,14 +128,14 @@ ja siitä tuli suosittu matador-uros; itse asiassa tähän samaan koiraan perust
 näyttelylinjan geenipooli, ja se on periyttänyt vahvasti rakennettaan luoden show-tyypin. 
 Show-tyypin koirissa on rotumääritelmän vastaisia rakennevirheitä (juuri noita näyttelykoirille tyypillisiä), 
 joita ei haluttu old lineen, ja show linja eriytyikin vanhasta linjasta rakenteeltaan omaksi tyypikseen ja linjakseen. 
-Old line koirissa ei saa olla kuin korkeintaan 6,25% show linjaa eli Sierra Cinnaria ja sen 
-jälkeläisiä. Old line koirien jalostuksessa halutaan säilyttää alkuperäinen käyttökoiran 
+Old line®koirissa ei saa olla kuin korkeintaan 6,25% show linjaa eli Sierra Cinnaria ja sen 
+jälkeläisiä. Old line®koirien jalostuksessa halutaan säilyttää alkuperäinen käyttökoiran 
 luonne ja terve työkoiran rakenne, minkä takia old lineen ei sekoiteta show linjaa, joka 
 on myös hyvin suppea geenipooliltaan näyttelyvoittajien käytön vuoksi.
 
-Koska Old line siperianhuskyista on tullut niin haluttuja, on 2010-luvulla rodun pariin 
-ilmestynyt myös pentutehtailijoita. **Old line on rekisteröity virallisesti tavaramerkiksi** 
-kesällä 2015, mikä takaa sen, että old line siperianhuskyja kasvatetaan vain SPY-86 ry:n 
+Koska old line®siperianhuskyista on tullut niin haluttuja, on 2010-luvulla rodun pariin 
+ilmestynyt myös pentutehtailijoita. **Old line®on rekisteröity virallisesti tavaramerkiksi** 
+kesällä 2015, mikä takaa sen, että old line®siperianhuskyja kasvatetaan vain SPY-86 ry:n 
 alaisissa kenneleissä ja sen jalostusvaatimusten piirissä. Myös itse Kuuhaukun kennel on 
 tavaramerkin alla, koska SPY:n ulkopuolella on yritetty myydä pentuja Kuuhaukun kennelin 
 ja old linen maineella piittaamatta koirien terveydestä, eikä Kuuhaukun kennelillä ole 

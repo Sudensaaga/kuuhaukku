@@ -41,5 +41,5 @@ We are happy to give you further information of the breed and the dogs!
 You are welcome to visit and see the dogs yourself.
 
 								
-**Kuuhaukun Kennel - 40 years of experience on growing old line siberian huskies.**
+**Kuuhaukun Kennel - 40 years of experience on growing old line®siberian huskies.**
 

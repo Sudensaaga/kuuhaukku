@@ -156,7 +156,7 @@ kanssa on hyvä harrastaa vetoharrastusta, vaikka polkupyörällä kesäisin, ku
 ja potkukelkalla talvisin. Yhdenkin siperianhuskyn kanssa voi harrastaa, ja se on innokas hiihtokaveri 
 pidemmillekin retkille. Lihava ja lihakseton koira, joka pääsee viikottain vain kävelylle korttelin 
 ympäri, on sydäntäsärkevä näky. Yhtä surullista on nähdä koiratarhaan unohdettu ulkokoira, jonka 
-ainoana ihmiskontaktina on nopea ruokintahetki. Old line Siperianhusky sopii vain aktiiviseen ja 
+ainoana ihmiskontaktina on nopea ruokintahetki. Old line®Siperianhusky sopii vain aktiiviseen ja 
 liikunnalliseen kotiin, missä se saa huomiota ja huolenpitoa ja missä se saa elää elämänsä loppuun asti.
 
 <h4>Perusterve rotu</h4>
@@ -166,10 +166,10 @@ Siperianhusky on pitkäikäinen ja perusterve rotu. Hyvin hoidettu siperianhusky
 Rotua pidetään perusterveenä rotuna, eikä perinnöllisten sairauksien lista ole pitkä. Yleisimpiä 
 yleisesti rodulla tiedettyjä perinnöllisiä sairauksia lienevät erilaiset silmäsairaudet kuten HC 
 (perinnöllinen harmaakaihi), CCD (kiteinen sarveiskalvon surkastuma), PRA (verkkokalvon asteittainen 
-surkastuma; ei todettu ainakaan vielä yhdelläkään suomalaisella old line -huskylla) ja glaukooma 
+surkastuma; ei todettu ainakaan vielä yhdelläkään suomalaisella old line®-huskylla) ja glaukooma 
 (ei myöskään ainakaan vielä suomalaisilla old lineilla, vaikka tutkittu yli 10 vuoden ajan). Jokainen näistä sairauksista voi aiheuttaa 
 näkökyvyn heikkenemistä tai kokonaan sokeutumista, ja niiden ehkäisemiseen tulisi erityisen tarkasti 
-puuttua jalostusvalinnoilla. Old line koirien jalostusohjelmassa vanhempien silmät tarkastetaan. Muita perinnöllisiä sairauksia ovat HD (lonkkanivelen kasvuhäiriö, old lineilla kuitenkin ainakin toistaiseksi hyvä tilanne) ja myös epilepsiaa esiintyy jonkin verran.
+puuttua jalostusvalinnoilla. Old line®koirien jalostusohjelmassa vanhempien silmät tarkastetaan. Muita perinnöllisiä sairauksia ovat HD (lonkkanivelen kasvuhäiriö, old lineilla kuitenkin ainakin toistaiseksi hyvä tilanne) ja myös epilepsiaa esiintyy jonkin verran.
 
 Rotu on viime vuosina ollut suositumpi kuin koskaan, ja se on houkutellut rodun pariin myös pentutehtailijoita. 
 Pennunostajan tulee olla varma, että pentujen vanhemmat ovat terveitä (vähintään silmätarkastettuja terveiksi) 
@@ -209,11 +209,11 @@ virheelliset siperianhusky-rekikoiralle. Näyttelylinjan koirat ovat maailmalla 
 Suomeen vuosi vuodelta enemmän. Näyttelylinjan koiria on eniten maailmassa ja eri maissa, vaikka niiden geenipooli 
 onkin melkoisen suppea ja perustuu yhteen näyttelyvoittajaan, joka on luonut ko. tyypin.
 
-Harvinaisin jalostuslinja on old line (vanhan linjan) -siperianhuskyt. Old line siperianhuskyissa jalostuksen 
+Harvinaisin jalostuslinja on old line®(vanhan linjan) -siperianhuskyt. Old line®siperianhuskyissa jalostuksen 
 tarkoituksena on säilyttää alkuperäinen siperialainen työkoira, ei jalostaa nopeaa kilpakoiraa tai näyttelymuodin 
-mukaista "pehmolelua". Old line koirat ovat usein muiden linjojen koiria vahvaluustoisempia, paksuturkkisempia ja 
+mukaista "pehmolelua". Old line®koirat ovat usein muiden linjojen koiria vahvaluustoisempia, paksuturkkisempia ja 
 rakenteeltaan liioittelemattomia. Ensimmäiset Suomeen tuodut koirat olivat 70-luvulle asti nimenomaan old linea, 
-ja monet tunnistavatkin juuri old line koirat "perinteisiksi siperianhuskyiksi". Pennunostajan kannattaa tarkoin 
+ja monet tunnistavatkin juuri old line®koirat "perinteisiksi siperianhuskyiksi". Pennunostajan kannattaa tarkoin 
 tutustua eri kasvattajien koiriin ja eri linjoihin, jotta löytää itselleen parhaiten sopivan koiran, vaikka 
 periaatteessa rodussa pitäisikin olla jalostuksen tavoitteena vain yksi, alkuperäisten 
 ominaisuuksien "ihannelinja".

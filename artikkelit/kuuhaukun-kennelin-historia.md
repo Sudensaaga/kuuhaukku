@@ -2,7 +2,7 @@
 layout: artikkeli
 permalink: kuuhaukun-kennelin-historia
 kolme-esiin-otsikko: Historia 40 v
-kolme-esiin-teksti: '40 vuotta Old Line ® siperianhuskyja, Kuuhaukun kennelin 
+kolme-esiin-teksti: '40 vuotta Old line®® siperianhuskyja, Kuuhaukun kennelin 
     historiasta: "Elämäni siperianhuskyjen parissa alkoi vuonna 1978 kun hankin..."'
 kolme-esiin-kuva: oldlinehistoria.jpg
 
@@ -62,7 +62,7 @@ Jalostuksellisesti vaikuttavimpia tuontiuroksia ovat olleet mm. Dakota
 (Fjiorlund's Northern-Tok), Panda (Siberkirk's Ancient Times Hero) ja Jade 
 (Troika's Pow Wow). 
 Uusin tulokas Kuuhaukun kennelissä on kanadalainen Oakridgelane´s Keetukka Yukon, 
-joka on tiettävästi enää ainoa suvultaan puhdas old line muualla kuin Kuuhaukun 
+joka on tiettävästi enää ainoa suvultaan puhdas old line®muualla kuin Kuuhaukun 
 tai Troika´s kennelissä. Olen kiitollinen Oakridge/Keetukka-kennelien omistajille 
 Laurielle ja Shelleylle Tobi-Macista, jolla on kunnioitettu paikka laumassamme!
 
@@ -182,7 +182,7 @@ jota nimitän "Nimbukseksi" Harry Potterin luudan mukaan. Eräs muisto siitä on
 ajoin kovalla pakkasella huippuajassa tavallisen lenkkimme, ja reki vain lensi 
 eteenpäin koirien laukatessa koko matkan, kun kerrankin oli old linelle tarpeeksi kylmä sää.
 
-SPY-86 ry on old line® -rekikoirien oma yhdistys, jonka päämääränä on old line -koirien säilyttäminen. Sen talvitapahtumat ovat olleet mukavia tilaisuuksia ajaa yhdessä usealla 
+SPY-86 ry on old line® -rekikoirien oma yhdistys, jonka päämääränä on old line®-koirien säilyttäminen. Sen talvitapahtumat ovat olleet mukavia tilaisuuksia ajaa yhdessä usealla 
 valjakolla. Hienointa on se, ettei kilpailla "veren maku suussa", vaan vain nautitaan 
 ja annetaan koirien nauttia. Vahinko, että talvet ovat vuosi vuodelta vähälumisempia. 
 On todella sydäntä elähdyttävää nähdä, miten koirat nauttivat juostessaan lumella 
@@ -267,16 +267,16 @@ Pitkään siperianhuskien kasvatustyössä vaikuttaneena jossain vaiheessa tulee
 Vaikka se aika ei ole vielä, niin joitakin vuosia sitten pyysin Laura Kinnusta 
 liittymään kennelnimeeni mahdollisena kasvatustyön jatkajana.
 Laura on älykäs ja asioista selvää ottava nuori nainen, ja hänellä on/on ollut kolme Kuuhaukun koiraa.
-Kuuhaukun kennel ® on nyt siis meidän molempien nimissä, vaikka koirani ovatkin edelleen fyysisesti minun luonani ja minun koiriani. Mainittakoon, että sen lisäksi että old line on rekisteröity tavaramerkki vuodesta 2015 lähtien, myös Kuuhaukun kennel rekisteröitiin tavaramerkiksi alkuvuodesta 2016. Kukaan ei siis saa mainostaa näillä tai niihin viittaavilla nimillä koiriaan.
+Kuuhaukun kennel ® on nyt siis meidän molempien nimissä, vaikka koirani ovatkin edelleen fyysisesti minun luonani ja minun koiriani. Mainittakoon, että sen lisäksi että old line®on rekisteröity tavaramerkki vuodesta 2015 lähtien, myös Kuuhaukun kennel rekisteröitiin tavaramerkiksi alkuvuodesta 2016. Kukaan ei siis saa mainostaa näillä tai niihin viittaavilla nimillä koiriaan.
 
 **Sopimusrikkoja ja muuta mielipahaa**
 
 En tiedä, pitäisikö olla ylpeä siitä, että jotkut haluavat jäljitellä työtäni,
 mutta kasvatustyöni on saanut aikaan myös epämiellyttäviä ilmiöitä yhdistyksen 
-(SPY ry, old line ® -koirien oma yhdistys) ulkopuolella teetettyjen pentueiden
+(SPY ry, old line®® -koirien oma yhdistys) ulkopuolella teetettyjen pentueiden
 muodossa. Pennut ovat tietenkin silloin myös jalostusvaatimusten ulkopuolella 
 niitä tehneiden henkilöiden tietämättä (tai välittämättä) 
-juurikaan mitään koirien taustoista. Old line ®-pennut ovat haluttuja eikä voi 
+juurikaan mitään koirien taustoista. Old line®®-pennut ovat haluttuja eikä voi 
 olla ajattelematta, että juuri se on pääsyy innokkuuteen teetellä pentuja panostamatta 
 itse omaan linjaan tai ideaan jalostuksen päämääristä; jos pennut jäisivät käsiin, 
 innostus tuskin olisi tätä luokkaa. Itse en ole vain hankkinut yhden kennelin koiria 
@@ -293,9 +293,9 @@ lukea eräänkin aloittelevan kennelin kotisivuilta aivan samoja lauseita, kuin 
 kotisivuilla on esim. koirien ajamisesta ja jalostusperiaatteista (voisi kai edes yrittää 
 muuttaa lauseita, jollei itse keksi mitään omaa).
 
-Old line ® -koirien jalostus on ollut suojattua linjan puhtauden, terveyden ja jatkuvuuden 
+Old line®® -koirien jalostus on ollut suojattua linjan puhtauden, terveyden ja jatkuvuuden 
 takaamiseksi. Käytännössä tämä tarkoittaa pennuista tehtyjä sopimuksia, jotka velvoittavat ostajaa 
-jalostuksen suhteen; myös omistajat ovat näin mukana old linen® ylläpitämisessä. Old line ® linjan säilyttäminen on varmasti myös ainutlaatuista, tuskin 
+jalostuksen suhteen; myös omistajat ovat näin mukana old linen® ylläpitämisessä. Old line®® linjan säilyttäminen on varmasti myös ainutlaatuista, tuskin 
 missään muussa rodussa on pidetty linjaa puhtaana ja ajateltu terveyttä ja rodun alkuperäisyyttä 
 ja käyttöä näin pitkään. Tämä on ollut mahdollista vain tarkoilla jalostusvaatimuksilla, joita nyt 
 nämä pentuja teettelevät henkilöt rikkovat. On huvittavaa, miten kuulee ko. henkilöiden sanovan, 

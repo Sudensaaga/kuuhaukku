@@ -27,7 +27,7 @@ koirani, Readyn, hienoa luonnetta ja ominaisuuksia; Hattara oli nimittäin Ready
 pentu ja siten sain yhdistelmässä ensimmäisen koirani lapsenlapsen. Dakotahan 
 oli ensimmäinen tuontini USAsta, aivan ihanaluonteinen ja valoisa herrasmies, 
 joka valloitti sydämellisyydellään ja aurinkoisuudellaan. Ei siis ihme, että 
-tähän yhdistelmään oli edellytyksiä syntyä mitä parhaimpiluonteisia old line 
+tähän yhdistelmään oli edellytyksiä syntyä mitä parhaimpiluonteisia old line®
 koiria, joskin uskon, että Enkelin tuloon maailmaan tarvittiin vielä erityinen, 
 jalostunut sielu.
 

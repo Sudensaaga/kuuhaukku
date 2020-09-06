@@ -15,7 +15,7 @@ kuvat:
     - omat2/resu2.jpg : V-85-88, PMV-89 Kuuhaukun Reissumies, 5 serttiä (Äijänsuon Natsehre X SF & S MVA, PMV-86 Roady Ratiritiralla)
     - omat2/tantintin3.jpg : Tintti (SF MVA Äijänsuon Tantintin) - pieni jääkarhu
     - omat2/speck.jpg : Int CH Troika´s Autumn Haze (Speck) vanhana herrana
-    - omat2/yeti.jpg : Int CH Troika´s Trail Blazer (Yeti), toinen kuuluisan Troika´s old line kennelin omista jalostusuroksista
+    - omat2/yeti.jpg : Int CH Troika´s Trail Blazer (Yeti), toinen kuuluisan Troika´s old line®kennelin omista jalostusuroksista
     - omat2/cola.jpg : Troika´s the Lone Star, Cola, mainio työkoira, joka jo vuoden ikäisenä johti parissa 10 koiran valjakkoa
     - omat2/pepsi.jpg : Troika´s Nordic Gift, Pepsi, 10 kk, ihastuttava lahja Troika´s kennelistä
     - omat2/jade.jpg : Troika´s Pow-Wow, Jade 6 kk; hurmaava nuorimies
@@ -32,6 +32,6 @@ kuvat:
     - omat2/jade2.jpg : Troika's Powwow, Jade, 3 serttiä, on yksi parhaista
     - omat2/jade3.jpg : Jade
     - omat2/cola2.jpg : Cola, Troika's the Lone Star, täysikasvuisena; Cola oli erinomainen johtaja, jolla ei ollut lainkaan aggressiivista käytöstä muita uroksia kohtaan. Ihanteellinen työskentelijä valjakossa!
-    - omat2/mokka.jpg : Mokka, Kuuhaukun Made by Old line (Troika's the Lone Star x v-00-01 Kuuhaukun Luminan Uni), tummanpunainen kaunotar
+    - omat2/mokka.jpg : Mokka, Kuuhaukun Made by Oldline (Troika's the Lone Star x v-00-01 Kuuhaukun Luminan Uni), tummanpunainen kaunotar
     - omat2/oldtouring.jpg : Koirani ja minä kiitämme vierailustanne sivuillamme!
 ---

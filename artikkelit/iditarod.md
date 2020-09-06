@@ -27,7 +27,7 @@ Iditarodissa **Howln´n Wind** kennelin A-valjakossa.<br>
 <br>
 **Troika´s Nordic Blizzard ja Troika´s Nordic Icon ovat myös kansainvälisiä 
 muotovalioita**, kuten moni muukin koira Don Smidtin valjakossa. Valjakko koostui 
-old line ja show line koirista (80 % old linea), ja A-valjakon johtajakoira on 
+old line®ja show line koirista (80 % old linea), ja A-valjakon johtajakoira on 
 Kanadan muotovalio Troika´s Orion. Troika kennel onkin yhteistyössä Howln´n 
 Windin kanssa. <br>
 **84 starttaavasta valjakosta vain kaksi koostuu rekisteröidyistä koirista** (loput 
@@ -59,7 +59,7 @@ reittiosuus, jossa oli jäätäviä lumimyrskyjä, jotka tuuli voimisti vastaama
 myrskytuuli lennätti maa-ainesta vaikeuttaen kulkua, ja moni keskeyttikin jo 
 alkutaipaleella ylivoimaisten olosuhteitten vuoksi. Kaikista lähteneistä 
 valjakoista vain kahdessa oli **kaikki 16 koiraa jäljellä** maaliin tultaessa, ja 
-toinen näistä valjakoista oli Howln`n Windin. Se kertonee jotain old line 
+toinen näistä valjakoista oli Howln`n Windin. Se kertonee jotain old line®
 koirien kestävyydestä. Donin päämääränä oli tuoda kaikki koirat maaliin hyvässä 
 kunnossa ja voittaa toinen rekisteröity valjakko; nämä päämääränsä hän 
 saavuttikin, ja vielä ensikertalais-ajajana (rookie), mikä sekin on 
@@ -86,8 +86,8 @@ tarkoituksenmukainen ajateltaessa siperianhuskyn työtehtävää.<br>
 
 Maaliskuussa Alaskassa ei ole niin kylmä kuin Siperiassa, pakkasta oli 
 Iditarodin aikaan alle -10 astetta, lukuun ottamatta alkutaipaleen lumimyrskyjä. 
-Koska old line koirilla on kunnollinen, arktinen turkki, Don ajoi koiriaan 
-yöllä, sillä koirien oli helpompi juosta kylmemmässä. Old line koirat pystyvät 
+Koska old line®koirilla on kunnollinen, arktinen turkki, Don ajoi koiriaan 
+yöllä, sillä koirien oli helpompi juosta kylmemmässä. Old line®koirat pystyvät 
 parhaimpiin suorituksiinsa, kun pakkasta on yli
 -10 astetta. Usein kilpailuolosuhteet suosivatkin liian ohutta, ei-arktista 
 turkkia. Kerran kilpailussa Donin ajaessa paljaalla jäällä hän tunsi itsensä 
@@ -123,7 +123,7 @@ pidempi kuin All Alaska Sweeptakes. 300-500 km:n kilpailumatkat eivät ole
 verrattavissa Iditarodiin vaatimustasoltaan. Silti Yukon Quest on vieläkin 
 vaativampi, sillä reittejä ei ole valmiiksi aurattu ja ajajat ovat reitillä 
 täysin omillaan. Don Smidt haluaakin osallistua seuraavaksi Yukoniin, sillä 
-hänen arvelee, että juuri näissä kovissa olosuhteissa old line siperianhuskyt 
+hänen arvelee, että juuri näissä kovissa olosuhteissa old line®siperianhuskyt 
 ovat parhaimmillaan. Don on huomannut, että old linet ovat erinomaisia 
 käyttökoiria, ja hänellä on vaimonsa Denisen kanssa toivomuksena saada 
 jalostuskanta kokonaan old lineksi.<br>

@@ -59,7 +59,7 @@ Esimerkki:
 
 ~~~bash
 ![vanha siperianhuskyvaljakko](images/vanha-siperianhuskyvaljakko.jpg)
-*Old line valjakointia 70-luvulla*
+*Old line®valjakointia 70-luvulla*
 ~~~
 
 

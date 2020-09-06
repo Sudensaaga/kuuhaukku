@@ -42,7 +42,7 @@ Kuvassa Fjiordlund´s Northern Tok (8 x SERT) & V-97-98 Kuuhaukun Ikijään Puna
 <br>
 
 Kesällä 2003 Jaana toi Suomeen **Troika´s The Lone Starin** (Cola) ja keväällä 2004 **Troika´s Pow Wowin** 
-(Jade, 3 SERT), jotka ovat 1960-luvulta old line kasvatustyötä USAssa tehneestä kuuluisasta Troika kennelistä. 
+(Jade, 3 SERT), jotka ovat 1960-luvulta old line®kasvatustyötä USAssa tehneestä kuuluisasta Troika kennelistä. 
 Carol Dixon, Troika kennelin kasvattaja, toi ystävällisesti vieraillessaan Kuuhaukulla Jaanalle lahjaksi 
 vielä viehättävän nartun **JV-04 Troika´s Nordic Giftin** (Pepsi).
 
@@ -50,7 +50,7 @@ Yhteistyö valtamerten yli jatkui, kun Kuuhaukun Ikuinen Rakkaus, Rascal, oli ja
 USAssa Troika-kennelissä. Tämän jalostustyön yhtenä tuloksena Jaana toi tammikuussa 2005 
 Suomeen **Troika´s Nordic Northwindin** ja **Troika´s Nordic Sno-Toriouksen** (Joiku), 
 joka jäi Kuuhaukkuun. Tammikuussa 2006 **C.I.B & USA CH Troika´s Bright Coin**, Henna, 
-saapui Kuuhaukkuun vanhemmilla päivillään. Henna osoitti old line -perimänsä mukaisia 
+saapui Kuuhaukkuun vanhemmilla päivillään. Henna osoitti old line®-perimänsä mukaisia 
 vetokoiraominaisuuksiaan vetämällä valjakossa 9-vuotiaana ensi kertaa elämässään kuin vanha tekijä!
 
 Kuuhaukun joukkoon liittyi jouluna 2006 **Troika´s Carbon Copy**, Howard, 
@@ -68,13 +68,13 @@ juosseen Rascalin pojan **C.I.B Troika's Nordic Iconin SD**, joka jäi Kuuhaukun
 kenneliin ja sen veljen **Troika's Nordic Trademarkin**. Vuonna 2015 Kuuhaukkuun 
 muutti Kanadasta valkoinen uros **Oakridgelane Keetukka Yukon**, joka edustaa 
 viimeisenä ainoana yksilönä vanhoja 
-kanadalaisia old line -käyttökoiralinjoja. Nyttemmin maailmassa ei enää ole muita old line siperianhusky -kenneleitä,
+kanadalaisia old line®-käyttökoiralinjoja. Nyttemmin maailmassa ei enää ole muita old line®siperianhusky -kenneleitä,
 joista voisi uusia geenejä saada.
 
 Seuraavat tuonnit ovatkin olleet tsukotkan rekikoiria, siperianhuskyn kantarotua, joiden 
 isovanhemmat ovat
 työskennelleet Siperiassa tsuktsikylissä. Tämä puhtaaseen kantarotuun palautus elinvoiman, työskentelyominaisuuksien
-ja muiden alkuperäisten ominaisuuksien säilyttämiseksi takaavat old line -koirien jalostuksen jatkumisen
+ja muiden alkuperäisten ominaisuuksien säilyttämiseksi takaavat old line®-koirien jalostuksen jatkumisen
 tulevaisuudessakin.
 
 <center>

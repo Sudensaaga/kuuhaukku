@@ -70,7 +70,7 @@ Jos vaatteistasi roikkuu jokin pieni nauha tms., siitä kiinnostutaan heti ja he
 on napattu suuhun (kuten sudet, joiden kanssa olen ollut tarhassa useita kertoja). Kun nartuilla 
 on kiimat, on koko elämä pois raiteiltaan. Silloin ei syödä yhtään mitään pitkään aikaan ja 
 **sukupuolivietti on niin vahva**, että myös meteli narttujen perään on korviahuumaava. On jotenkin 
-käsittämätöntä, miten niiden äänikin on kovempi (tiedän, voiko olla old line huskyn ääntä kovempaa, 
+käsittämätöntä, miten niiden äänikin on kovempi (tiedän, voiko olla old line®huskyn ääntä kovempaa, 
 mutta kyllä voi olla), niin kuin kaikki olisi kymmenkertaista näillä työkäytön mukaan jalostetuilla 
 koirilla. Niillä saattaa olla luonteessa harkitsevuutta ja varovaisuutta uusissa tilanteissa, mutta 
 totuttuaan ja huomattuaan, ettei ole mitään hätää, ne yleensä sopeutuvat tilanteeseen. Ja ne kyllä 
@@ -79,7 +79,7 @@ synnytys, kun luonani syntyi Elenan pentue, jossa myös Vito oli.
 
 **Näissä koirissa näkyy elinvoima** ja ne ovat olleet terveitä ainakin tähän asti. Myöskään niiden 
 lähisukulaisilla taaksepäin ei ole ollut terveydellisiä ongelmia. Ne syövät hyvin talvella ja kun 
-ei ole kiimoja, mutta kesällä ne panttaavat eikä ruoka maistu. Se on kuulema tyypillistä tsuktsikoirille, kuten tietty old line -huskeillekin. 
+ei ole kiimoja, mutta kesällä ne panttaavat eikä ruoka maistu. Se on kuulema tyypillistä tsuktsikoirille, kuten tietty old line®-huskeillekin. 
 Ihmisille ne ovat hyvin käsiteltäviä ja alistuvia, mutta nuoret urokset kyllä ovat tappeluille alttiita 
 voimakkaan hormonitoiminnan vuoksi. Tosin siinä asiassa on selvä logiikka: vanhat ja steriloidut urokset 
 eivät ole uhka, ja niiden suhteen nuoret urokseni ovat järkevästi täysin välinpitämättömiä. Tsuktsikoirat, 
@@ -129,7 +129,7 @@ kokonaisuutena, vaikka geenipohja onkin eriytynyt jo kauan aikaa sitten.
 
 <center>
 <img src="images/tsukotkan-rekikoira/tsuktsihusky-desna.jpg"><br>
-Tsukotkan rekikoira-old line siperianhusky risteytys Desna, Kuuhaukun Siberia Express, vuoden 
+Tsukotkan rekikoira-old line®siperianhusky risteytys Desna, Kuuhaukun Siberia Express, vuoden 
 ikäisenä</center>
 <br>
 
@@ -141,10 +141,10 @@ säilynyt muuttumattomana ja alkuperäisenä ilman nykykoiriin risteyttämisiä.
 Tämä työ on vasta alussa, mutta se on todella mielenkiintoista. **Päämääränä on tietenkin säilyttää old linen 
 arktinen ulkomuoto, luonne ja työskentelyominaisuudet**, mitkä eivät säilyisi show- tai kilpalinja-risteytyksissä. 
 Yksi tärkeimpiä asioita on terveys, mikä usein heikkenee pitkälle samaa rotua (linjaa) jalostettaessa. Kaikki 
-old line siperianhuskyt, old linen jalostukseen käytettävät tsukotkanrekikoirat sekä niiden risteytykset ovat 
-tasavertaisesti old line tavaramerkin alla, millä suojataan edelleen harkittu eteenpäin-jalostus.
+old line®siperianhuskyt, old linen jalostukseen käytettävät tsukotkanrekikoirat sekä niiden risteytykset ovat 
+tasavertaisesti old line®tavaramerkin alla, millä suojataan edelleen harkittu eteenpäin-jalostus.
 
-<h4>Kasvatinomistajieni kokemuksia old line siperianhusky ja tsukotkan 
+<h4>Kasvatinomistajieni kokemuksia old line®siperianhusky ja tsukotkan 
 rekikoira-risteytyksistä</h4>
 
 **Tundra**-poika tuli meille kasvattajalta 15 viikon ikäisenä. Asumme Tampereen keskustassa, 
@@ -175,7 +175,7 @@ ikäisekseen erittäin rauhalliseksi koiraksi. Ulkonäkö kerää myös paljon p
 ohikulkijoilta. Odotamme innolla kaikkia uusia seikkailuja Tundran kanssa. Niitä voi seurata 
 Instagramissa @huskytundra.*
 
-**Lahja** tuli minulle pienenä pentuna, se on 50 % tsuktsikoira ja 50 % old line siperianhusky. 
+**Lahja** tuli minulle pienenä pentuna, se on 50 % tsuktsikoira ja 50 % old line®siperianhusky. 
 Se on luonteeltaan mitä kiltein koira, aina iloinen ja kaikkien kaveri. Se muistuttaa isäänsä 
 Vitoa sydämellisellä ja iloisella asenteellaan. Jännä asia on, ettei se ole koskaan edes 
 murrosiässä murissut ihmiselle. Se on helppo käsitellä ja antaa tehdä kaikki hoitotoimenpiteet 
@@ -210,7 +210,7 @@ kerrotaan nähdyksi myöhemmällä ajalla.
 
 Siksi myös koirakanta pysyi täysin erillään muista kannoista jopa pitkälle 1950-luvulle asti. Tämä selittää 
 edellä mainituissa perimätesteissäkin saadut tulokset tsukotkan rekikoiran perimästä. Mielenkiintoista olisi 
-saada vastaavat tutkimukset old line siperianhuskeista, myös koskien seuraavassa jutussa olevaa 
+saada vastaavat tutkimukset old line®siperianhuskeista, myös koskien seuraavassa jutussa olevaa 
 turkin rakennetta.
 
 <h4>Tsuktsikoiran turkin rakenteesta ja alkuperästä</h4>
