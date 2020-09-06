@@ -4,8 +4,7 @@ menu: kuvat
 permalink: valjakko3
 otsikko: Valjakkokuvia 3
 linkin-pikkukuva: linkki-valjakkokuvia-3.jpg
-linkin-teksti: Kuuhaukun valjakoita
-               retkeilemässä
+linkin-teksti: Kuuhaukun valjakko retkeilemässä Mikkelissä
 
 kuvat:
     - valjakko3/intheforest.jpg : Valjakkoretkellä Mikkelin erämaisemissa
