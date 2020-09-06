@@ -6,7 +6,7 @@ kolme-esiin-teksti: '40 vuotta Old line®® siperianhuskyja, Kuuhaukun kennelin
     historiasta: "Elämäni siperianhuskyjen parissa alkoi vuonna 1978 kun hankin..."'
 kolme-esiin-kuva: oldlinehistoria.jpg
 
-otsikko: 40 vuotta Old Line® siperianhuskyja -
+otsikko: 40 vuotta old line® -siperianhuskyja -
     Kuuhaukun® kennelin historiaa
 iso-kuva: historia/historiaotsikko2.jpg
 iso-kuva-sokeille: Jaana ja valjakko
@@ -62,7 +62,7 @@ Jalostuksellisesti vaikuttavimpia tuontiuroksia ovat olleet mm. Dakota
 (Fjiorlund's Northern-Tok), Panda (Siberkirk's Ancient Times Hero) ja Jade 
 (Troika's Pow Wow). 
 Uusin tulokas Kuuhaukun kennelissä on kanadalainen Oakridgelane´s Keetukka Yukon, 
-joka on tiettävästi enää ainoa suvultaan puhdas old line®muualla kuin Kuuhaukun 
+joka on tiettävästi enää ainoa suvultaan puhdas old line® muualla kuin Kuuhaukun 
 tai Troika´s kennelissä. Olen kiitollinen Oakridge/Keetukka-kennelien omistajille 
 Laurielle ja Shelleylle Tobi-Macista, jolla on kunnioitettu paikka laumassamme!
 

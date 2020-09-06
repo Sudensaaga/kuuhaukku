@@ -42,7 +42,7 @@ Kuvassa Fjiordlund´s Northern Tok (8 x SERT) & V-97-98 Kuuhaukun Ikijään Puna
 <br>
 
 Kesällä 2003 Jaana toi Suomeen **Troika´s The Lone Starin** (Cola) ja keväällä 2004 **Troika´s Pow Wowin** 
-(Jade, 3 SERT), jotka ovat 1960-luvulta old line®kasvatustyötä USAssa tehneestä kuuluisasta Troika kennelistä. 
+(Jade, 3 SERT), jotka ovat 1960-luvulta old line® -kasvatustyötä USAssa tehneestä kuuluisasta Troika kennelistä. 
 Carol Dixon, Troika kennelin kasvattaja, toi ystävällisesti vieraillessaan Kuuhaukulla Jaanalle lahjaksi 
 vielä viehättävän nartun **JV-04 Troika´s Nordic Giftin** (Pepsi).
 
@@ -68,7 +68,7 @@ juosseen Rascalin pojan **C.I.B Troika's Nordic Iconin SD**, joka jäi Kuuhaukun
 kenneliin ja sen veljen **Troika's Nordic Trademarkin**. Vuonna 2015 Kuuhaukkuun 
 muutti Kanadasta valkoinen uros **Oakridgelane Keetukka Yukon**, joka edustaa 
 viimeisenä ainoana yksilönä vanhoja 
-kanadalaisia old line®-käyttökoiralinjoja. Nyttemmin maailmassa ei enää ole muita old line®siperianhusky -kenneleitä,
+kanadalaisia old line®-käyttökoiralinjoja. Nyttemmin maailmassa ei enää ole muita old line® -siperianhusky -kenneleitä,
 joista voisi uusia geenejä saada.
 
 Seuraavat tuonnit ovatkin olleet tsukotkan rekikoiria, siperianhuskyn kantarotua, joiden 

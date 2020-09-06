@@ -17,7 +17,7 @@ kolme-esiin-teksti: "Kuuhaukun kennelin vetoharjoittelu-info kasvatinomistajille
 kolme-esiin-kuva: vetobanneri.jpg
 
 sivukuvat :
-    - vanha-siperianhuskyvaljakko.jpg : Old line®valjakointia 70-luvulla
+    - vanha-siperianhuskyvaljakko.jpg : Old line® valjakko-ajoa 70-luvulla
 ---
 <center>
 <img src="images/koiravaljakko-tunturi.jpg"/>

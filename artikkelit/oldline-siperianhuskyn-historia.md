@@ -4,14 +4,14 @@ permalink: oldline-siperianhuskyn-historia
 otsikko: Tietoa ja historiaa old linesta
 
 linkin-pikkukuva: linkki-oldline.jpg
-linkin-teksti: Lisätietoa vanhan linjan old line®siperianhuskyista. Old linen historiaa ja
+linkin-teksti: Lisätietoa vanhan linjan old line® -siperianhuskyista. Old linen historiaa ja
                 jalostusperiaatteita.
 
 menu: rotuinfo
 
 
 kolme-esiin-otsikko: Old line®
-kolme-esiin-teksti: "Tietoa vanhan linjan old line®siperianhuskyista. Old linen historiaa ja
+kolme-esiin-teksti: "Tietoa vanhan linjan old line® -siperianhuskyista. Old linen historiaa ja
  jalostusperiaatteita."
 kolme-esiin-kuva: oldline.jpg
 
@@ -133,9 +133,9 @@ jälkeläisiä. Old line®koirien jalostuksessa halutaan säilyttää alkuper�
 luonne ja terve työkoiran rakenne, minkä takia old lineen ei sekoiteta show linjaa, joka 
 on myös hyvin suppea geenipooliltaan näyttelyvoittajien käytön vuoksi.
 
-Koska old line®siperianhuskyista on tullut niin haluttuja, on 2010-luvulla rodun pariin 
+Koska old line® -siperianhuskyista on tullut niin haluttuja, on 2010-luvulla rodun pariin 
 ilmestynyt myös pentutehtailijoita. **Old line®on rekisteröity virallisesti tavaramerkiksi** 
-kesällä 2015, mikä takaa sen, että old line®siperianhuskyja kasvatetaan vain SPY-86 ry:n 
+kesällä 2015, mikä takaa sen, että old line® -siperianhuskyja kasvatetaan vain SPY-86 ry:n 
 alaisissa kenneleissä ja sen jalostusvaatimusten piirissä. Myös itse Kuuhaukun kennel on 
 tavaramerkin alla, koska SPY:n ulkopuolella on yritetty myydä pentuja Kuuhaukun kennelin 
 ja old linen maineella piittaamatta koirien terveydestä, eikä Kuuhaukun kennelillä ole 

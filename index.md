@@ -10,7 +10,7 @@ dia-1-teksti: Kuuhaukun kennel® on säilyttänyt old line® -linjan puhtaana 40
               eikä siinä ole kilpa-tai showlinjaa, mikä on varmaan ainutlaatuista minkään rodun  historiassa.
 
 dia-2-kuva: siperianhusky-koiravaljakko.jpg
-dia-2-otsikko: Old Line® siperialaiset
+dia-2-otsikko: old line® -siperialaiset
 dia-2-teksti: Kuuhaukun kennel on Euroopan vanhin ja nykyisin ainoa Old line®
     siperianhuskyja kasvattava kennel ja sen päämääränä on säilyttää 
     alkuperäinen vanhan linjan siperianhusky.

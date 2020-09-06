@@ -26,7 +26,7 @@ luonteesta**. Kennelin linjat perustuvat amerikkalaisiin vanhan linjan koiriin (
 ja se on jo 40 vuoden ajan toiminut yhtäjaksoisesti ollen vanhin ja pitkään ainoa old line®
 kennel Pohjoismaissa. **Kuuhaukun kennel on ollut hyvin tiukka jalostustyössään** eikä ole 
 sekoittanut kevyen linjan kilpakoiria eikä "modern show line" - eli näyttelylinjoja 
-kantaansa. Näin old line®koirien alkuperäinen ja tyypillinen ulkomuoto ja ominaisuudet 
+kantaansa. Näin old line® -koirien alkuperäinen ja tyypillinen ulkomuoto ja ominaisuudet 
 ovat säilyneet. **Tarkoituksena onkin "vanhan säilyttäminen"** eikä tyypin muuttaminen eri 
 ihanteiden ja päämäärien mukaan. Old line®-koirissa sukupolvenvaihdos on ollut hidasta. Jalostukseen on käytetty vain silmätarkastettuja, nyttemmin myös lonkkakuvattuja 
 ja kliinisesti terveitä koiria. Kennelin koirat 

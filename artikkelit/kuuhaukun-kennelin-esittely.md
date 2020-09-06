@@ -24,7 +24,7 @@ sivukuvat :
 Kuuhaukun kennel on perustettu vuonna 1979. Kennelin kantanarttu on **SE & FIN MVA 
 V-86 Roady Ratiritiralla**, johon perustuu 9 sukupolvea Kuuhaukun kasvatustyötä. Sen isä **FIN MVA Äijänsuon Tantintin** 
 polveutuu suoraan amerikkalaisista 
-old line®siperianhuskyista. Isoisä emän puolelta on **CH Monadnock´s Papik of Mekusak** 
+old line® -siperianhuskyista. Isoisä emän puolelta on **CH Monadnock´s Papik of Mekusak** 
 (*CH Monadnock´s Akela x Monadnock´s Natasha; Monadnock kennel oli yksi merkittävimpiä old line®-kenneleitä*), 
 1969 perustetun suomalaisen Mekusak kennelin tuonti USAsta. 
 FIN MVA Äijänsuon Tantintinin isoisä äidin puolelta oli tuonti **C.I.B & POHJ MVA Norrstar´s Baanchi**, joka 
@@ -100,7 +100,7 @@ Nordic Iconin SD** (Kuuhaukun Ikuisen Rakkauden jälkeläinen).
 <br>
 
 Näyttelymenestys tai -menestymättömyys ei kuitenkaan ole koskaan vaikuttanut Kuuhaukun kennelin jalostusvalintoihin.
-***Päämääränä on aina ollut oikeantyyppinen, samanlaisena, alkuperäisenä vaalittu old line®-siperianhusky-rekikoira, ei näyttelymuodin
+***Päämääränä on aina ollut oikeantyyppinen, samanlaisena, alkuperäisenä vaalittu old line® -koir -siperianhusky-rekikoira, ei näyttelymuodin
 mukainen ihanne.*** Tämän vuoksi old lineja ei enää ole näyttelyissä nähty paljoakaan show linjan rantauduttua Suomeen 2000-luvun
 alkupuolella, vaikka välillä menestystäkin on tullut. Mm. kesällä 2016 valioitui **FIN MVA EE MVA Kuuhaukun Velhon Loitsu**, joka
 on myös johtajakoira.
@@ -108,7 +108,7 @@ on myös johtajakoira.
 
 <h4>KAKSI KASVATTAJAA</h4>
 
-Jaana on kasvattanut old line®siperianhuskyja Kuuhaukun kennelissä yli 39 vuoden ajan. 
+Jaana on kasvattanut old line® -siperianhuskyja Kuuhaukun kennelissä yli 39 vuoden ajan. 
 Ensimmäinen siperianhusky Ready syntyi vuonna 1978 ja Kuuhaukun ensimmäinen pentue vuonna 1980. 
 Lauralla on ollut Kuuhaukun siperianhuskyja vuodesta 2001, ja hän on toiminut aktiivisesti 
 old linen parissa siitä asti kasvatustyön painottuessa kuitenkin toistaiseksi Jaanan kenneliin. 

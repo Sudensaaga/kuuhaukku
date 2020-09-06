@@ -21,7 +21,7 @@ sivukuvat:
 </center>
 <br>
 
-Lumi, viimeinen Kuuhaukun suomalaista omaa linjaa oleva old line®koira, lähti luotani 1.7.2010. 
+Lumi, viimeinen Kuuhaukun suomalaista omaa linjaa oleva old line® -koira, lähti luotani 1.7.2010. 
 Sillä todettiin paria viikkoa ennen pahanlaatuiset nisäkasvaimet, jotka estivät takajalkojen verenkiertoa, 
 ja se jouduttiin nukuttamaan, kun kipulääkkeet eivät enää tuntuneet antavan helpotusta. Lumi olisi täyttänyt 
 15 vuotta lokakuussa ja se, kuten rakas Enkelinikin, veti vielä viimeistä kertaa kuukautta ennen poislähtöään 
