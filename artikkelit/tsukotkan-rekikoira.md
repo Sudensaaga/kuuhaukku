@@ -49,6 +49,9 @@ Siksi se saikin nimekseen Vito, elämä, ja nimi oli kyllä enne.
 ![tsukotkan rekikoira Vito](images/tsukotkan-rekikoira/tsukotkan-rekikoira-vito.jpg)
 *Vito, Polar Star Vito n. 2-vuotiaana*
 
+![tsukotkan rekikoira Vito](images/tsukotkan-rekikoira/vito-paa.jpg)
+*Polar Star Vito 6-vuotiaana*
+
 ![tsukotkan rekikoira Yiska](images/tsukotkan-rekikoira/yiska.jpg)
 *Polar Star Yiska, 6-vuotiaana*
 
