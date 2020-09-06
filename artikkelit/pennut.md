@@ -33,4 +33,6 @@ kuvat:
     - pennut/ppa-24.jpg : 
     - pennut/ppa-25.jpg : Pikku Jade, Troika's Pow-Wow
     - pennut/ppa-26.jpg : Torkkuja ottamassa
+    - pennut/flora-pennut.jpg :
+    - pennut/reppuli-ja-havu.jpg
 ---
