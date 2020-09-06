@@ -113,7 +113,7 @@ juttu tsukotkan rekikoirien turkin rakenteesta). Talvella pakkasella tätä seik
 käsiteltäviä ja ystävällisiä koiria ihmiselle, ja ne tottelevat hyvin ollessaan vapaana. Vito on myös eittämättä 
 kennelin ilopilleri ylipositiivisella elämänasenteellaan.
 
-Ensimmäiset risteytyspennut
+## Ensimmäiset risteytyspennut
 
 Ajatukseni ja haaveeni siis oli nähtyäni old linen näköisiä koiria Siperiassa otetuissa kuvissa, että 
 saisin joskus näitä koiria old linen geenipooliin. Tiesin, että old linet tulisivat loppumaan ja että en 
