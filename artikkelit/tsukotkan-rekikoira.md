@@ -9,6 +9,10 @@ kolme-esiin-teksti: Tsukotka rekikoirat Kuuhaukun kennelissä ja rotutietoa kant
 
 sivukuvat:
     - tsukotkan-rekikoira/tundra-katsoo.jpg : Kuuhaukun Tundran Tarina, 75% tsukotkan rekikoira, 25% siperianhusky
+    - tsukotkan-rekikoira/tundra-paa.jpg : Kuuhaukun Tundran Tarina, 75% tsukotkan rekikoira, 25% siperianhusky
+    - tsukotkan-rekikoira/vito-naava-pentu.jpg : Kuuhaukun Husky through the looking glass, 50% tsukotkan rekikoira, 50% siperianhusky
+    - tsukotkan-rekikoira/havu-pentuna.jpg : Kuuhaukun Husky in wonderland, 50% tsukotkan rekikoira, 50% siperianhusky
+    - tsukotkan-rekikoira/havu-paa.jpg : Kuuhaukun Husky in wonderland, 50% tsukotkan rekikoira, 50% siperianhusky
 
 ---
 Kiinnostukseni näihin koiriin alkoi jo yli 15 vuotta sitten, kun näin kuvia siperialaisista 
@@ -250,4 +254,6 @@ koirien karvan samankaltaisuus paljastivat näiden koirien historiallisen yhteyd
 rekikoiran tunnistaminen omaksi 
 puhtaaksi itsenäiseksi rodukseen on luultavimmin perusteltua, vaikka vielä onkin tulevaisuudessa tehtävä geneettisiä 
 testejä hypoteesin tueksi. 
+
 ![Kuuhaukun Zero below eli Utu, 3/4 Tsukotkan rekikoira, 1/4 SH](images/tsukotkan-rekikoira/utu pää.jpg)
+*Utu tarkkaavaisena*
