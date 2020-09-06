@@ -40,13 +40,11 @@ ja ruskeasilmäinen. Vito sairastui viiden viikon ikäisenä kennelyskään ja o
 pari viikkoa syömättä mitään ja edes kunnolla juomatta. Oli ihme, että se selvisi niin pienenä 
 pitkähköstä ja uuvuttavasta taudista, vaikka saikin lääkkeet ja oli muutamia kertoja tiputuksessa. 
 Siksi se saikin nimekseen Vito, elämä, ja nimi oli kyllä enne.
+![tsukotkan rekikoira Vito](images/tsukotkan-rekikoira/tsukotkan-rekikoira-vito.jpg)
+*Vito, Polar Star Vito n. 2-vuotiaana*
 
-<center>
-<img src="images/tsukotkan-rekikoira/tsukotkan-rekikoira-vito.jpg">&nbsp; &nbsp;
-<img src="images/tsukotkan-rekikoira/tsukotkan-rekikoira-yiska.jpg"/><br>
-Vasemmalla Vito, Polar Star Vito n. 2-vuotiaana ja oikealla Yiska, Polar Star Yiska, vajaa 2-vuotiaana
-</center>
-<br>
+![tsukotkan rekikoira Yiska](images/tsukotkan-rekikoira/tsukotkan-rekikoira-yiska.jpg)
+*Polar Star Yiska, vajaa 2-vuotiaana*
 
 Yiska on korkearaajaisempi, vähän ilmavampi (tosin massaa tulee koko ajan lisää iän karttuessa) 
 ja muistuttaa tyypiltään myös Enkeli-linjan korkearaajaisempia yksilöitä ja hyvin paljon Hilettä 
