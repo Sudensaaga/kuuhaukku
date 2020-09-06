@@ -134,7 +134,8 @@ kokonaisuutena, vaikka geenipohja onkin eriytynyt jo kauan aikaa sitten.
 
 <center>
 <img src="images/tsukotkan-rekikoira/tsuktsihusky-desna.jpg"><br>
-Tsukotkan rekikoira-old line® -siperianhusky risteytys Desna, Kuuhaukun Siberia Express, vuoden 
+Utun emä, Tsukotkan rekikoira-old line® -siperianhusky risteytys Desna, Kuuhaukun Siberia Express, 
+vuoden 
 ikäisenä</center>
 <br>
 
