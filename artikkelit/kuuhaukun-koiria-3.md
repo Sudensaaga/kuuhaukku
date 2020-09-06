@@ -1,10 +1,10 @@
 ---
 layout: kuvagalleria
 menu: kuvat
-permalink: kasvatit
-otsikko: Omat kasvatit III
+permalink: kuuhaukun-koiria-3
+otsikko: Kuuhaukun koiria III
 linkin-pikkukuva: linkki-omat-kasvatit-3.jpg
-linkin-teksti: Uusia kuvia omista koirista ja Kuuhaukun kasvateista
+linkin-teksti: Kuvia omista koirista ja Kuuhaukun kasvateista
 
 kuvat:
     - kasvatit/kas1.jpg : Upealla sudenharmaalla Remulla on kaksi pentuetta Kuuhaukulla
