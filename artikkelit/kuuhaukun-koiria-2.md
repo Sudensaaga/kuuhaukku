@@ -33,6 +33,6 @@ kuvat:
     - kuuhaukun-koiria/jade3.jpg : Jade
     - kuuhaukun-koiria/cola2.jpg : Cola, Troika's the Lone Star, täysikasvuisena; Cola oli erinomainen johtaja, jolla ei ollut lainkaan aggressiivista käytöstä muita uroksia kohtaan. Ihanteellinen työskentelijä valjakossa!
     - kuuhaukun-koiria/mokka.jpg : Mokka, Kuuhaukun Made by Oldline (Troika's the Lone Star x v-00-01 Kuuhaukun Luminan Uni), tummanpunainen kaunotar
-    - kuuhaukun-koiria/oldtouring.jpg : Koirani ja minä kiitämme vierailustanne sivuillamme!
     - kuuhaukun-koiria/mokka-liikkeessa.jpg : 
+    - kuuhaukun-koiria/oldtouring.jpg : Koirani ja minä kiitämme vierailustanne sivuillamme!
 ---
