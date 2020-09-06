@@ -4,7 +4,7 @@ menu: kuvat
 permalink: valjakko6
 otsikko: Valjakkokuvia 6
 linkin-pikkukuva: linkki-valjakkokuvia-6.jpg
-linkin-teksti: Kuuhaukun valjakoita 2010-luvulla.
+linkin-teksti: Kuuhaukun valjakko-ajoa 2010-luvulla
 
 kuvat:
     - valjakko6/koiria-kesavedossa.jpg : Koiria kesävedossa&colon; Peppi, Joiku, Freya, Odessa ja Sero 
