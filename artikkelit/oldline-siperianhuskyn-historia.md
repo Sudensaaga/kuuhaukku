@@ -44,7 +44,7 @@ yhtenäiseksi tyypiksi. Tsuktsit myös harjoittivat koiranjalostusta valitsemall
 jalostukseen käytettävät nartut jo pienten pentujen joukosta ja jättämällä vain
 parhaat siitosurokset kastroimatta.
 
-Nykytutkimuksen mukaan koiran alkujuuret löytyvätkin juuri Siperiasta ja koiramme
+Nykytutkimuksen mukaan koiran alkujuuret löytyvätkin juuri Siperiasta ja Kuuhaukun old line® koirat
 edustavat hyvin vanhaa koiratyyppiä. Alueella asui lähekkäin eri kansoja ja 
 koiratyypeissä oli pieniä eroja. Eri kansojen koirat ovat voineet jossain määrin
 sekoittua keskenään, tsuktsien naapureita olivat pohjoisessa ja idässä inuitit, 

@@ -5,7 +5,8 @@ permalink: kuuhaukun-tuonnit-ja-viennit
 otsikko: Kuuhaukun tuonnit ja viennit 
 
 kolme-esiin-otsikko: Tuonnit ja viennit
-kolme-esiin-teksti: "Laajan geenipoolin ylläpitäminen vaatii ulkomaantuonteja. Koiramme ovat kysyttyjä myös ulkomailla, tutustu tuonti- ja vientikoiriimme."
+kolme-esiin-teksti: "Laajan geenipoolin ylläpitäminen vaatii ulkomaantuonteja. Kuuhaukun koirat 
+ovat kysyttyjä myös ulkomailla, tutustu tuonti- ja vientikoiriimme."
 kolme-esiin-kuva: tuonniticon.jpg
 
 sivukuvat:

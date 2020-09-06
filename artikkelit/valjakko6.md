@@ -20,5 +20,6 @@ kuvat:
     
 ---
 
-Tällä sivulla uudempia valjakkokuvia 2010-luvulta! Koiramme vetävät viikottain valjakossa, ympäri vuoden.
+Tällä sivulla uudempia valjakkokuvia 2010-luvulta! Koirat vetävät viikottain valjakossa, ympäri 
+vuoden.
 Kuvissa myös valjakon vierailevina tähtinä Kuuhaukun kasvatteja!

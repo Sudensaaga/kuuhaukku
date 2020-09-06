@@ -24,7 +24,7 @@ dia-4-kuva: img3.jpg
 dia-4-otsikko: Luonne ja terveys <small>ystävällinen ja lempeä</small>
 dia-4-teksti: Kasvatit ovat tunnettuja hyvästä luonteestaan. 
     Oikeaan luonteeseen ja terveyteen kiinnitetään paljon huomiota. 
-    Jalostuskoiramme on mm. silmätarkastettu 90-luvulta lähtien.
+    Jalostuskoirat on mm. silmätarkastettu 90-luvulta lähtien.
     
 kolme-esiin:
     - "kuuhaukun-kennelin-historia"
