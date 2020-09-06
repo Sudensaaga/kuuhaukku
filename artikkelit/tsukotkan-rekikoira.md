@@ -95,12 +95,8 @@ odotukset. Toisaalta on tullut todella positiivista palautetta tsuktsikoirista j
 line-tsuktsikoiraristeytyksistä  kotikoirina. Uskon, että yhdistelmillä saadaan hyviä ja terveitä
  kombinaatioita aikaan.
 
-
-<center>
-<img src="images/tsukotkan-rekikoira/tsukotkan-rekikoira-silva.jpg"><br>
-Silva, Polar Star Tsukotkan Hopea vuoden ikäisenä
-</center>
-<br>
+![tsukotkan rekikoira Silva](images/tsukotkan-rekikoira/silva-seisoo.jpg)
+*Silva, Polar Star Tsukotkan Hopea*
 
 Kesällä 2017 sain pitkän odotuksen jälkeen myös aivan siperianhuskylta näyttävän sinisilmäisen Silva-tytön, 
 Polar Star Tsukotkan Hopea, kenneliini. Silva on mitä suloisin koira, leikkisä, herkkä ja hymyilevä, 
