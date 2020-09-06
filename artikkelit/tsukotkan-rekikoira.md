@@ -130,14 +130,12 @@ ovat todella hyviä ja sulavasti rakentuneita koiria (kuten myöhäisemmänkin p
 kokonaisuutena, vaikka geenipohja onkin eriytynyt jo kauan aikaa sitten.
 
 ![tsukotkan rekikoira Utu](images/tsukotkan-rekikoira/utu-seisoo.jpg)
-*Utu, Kuuhaukun Zero Below, 1,5-vuotiaana. Utussa näkyy Kuuhaukun upea narttulinja*
+*Utu, Kuuhaukun Zero Below, 1,5-vuotiaana. 75% tsukotkan rekikoira, 25% siperianhusky. Utussa 
+näkyy Kuuhaukun upea narttulinja*
 
-<center>
-<img src="images/tsukotkan-rekikoira/tsuktsihusky-desna.jpg"><br>
-Utun emä, Tsukotkan rekikoira-old line® -siperianhusky risteytys Desna, Kuuhaukun Siberia Express, 
-vuoden 
-ikäisenä</center>
-<br>
+
+![tsukotkan rekikoira Desna](images/tsukotkan-rekikoira/tsuktsihusky-desna.jpg)
+*Utun emä, Tsukotkan rekikoira-old line® -siperianhusky risteytys Desna, Kuuhaukun Siberia Express, vuoden ikäisenä*
 
 Mainittakoon mielenkiintoisena seikkana, että Polar Star kennelin kantakoiran ja joidenkin alkuperäisten 
 Tsukotkalla olevien rekikoirien perimää on tutkinut ruotsalainen tutkija (tohtori, geeniteknologia ja evoluutiobiologia) 
