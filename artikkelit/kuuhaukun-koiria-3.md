@@ -14,5 +14,5 @@ kuvat:
     - kuuhaukun-koiria/kas5.jpg : Helmin eksoottiset eriparisilmät
     - kuuhaukun-koiria/kas4.jpg : Rolle "kesätöissä"
     - kuuhaukun-koiria/kas7.jpg : Tytär-Saaga ja äiti-Peppi keskittyvät yhdessä makupalaan
-    - kuuhaukun-koiria/kas7.jpg : 
+    - kuuhaukun-koiria/tundra-ja-havu.jpg : 
 ---

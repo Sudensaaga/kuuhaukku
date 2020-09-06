@@ -4,7 +4,7 @@ menu: kuvat
 permalink: valjakko5
 otsikko: Valjakkokuvia 5 
 linkin-pikkukuva: linkki-valjakkokuvia-5.jpg
-linkin-teksti: Näin kennelin koiria treenataan viikottain
+linkin-teksti: Valjakko-ajoa arktisessa maisemassa Pusulassa
 
 kuvat:
     - valjakko5/comeonletsgo.jpg : Lähdetään jo, pian, pian...
