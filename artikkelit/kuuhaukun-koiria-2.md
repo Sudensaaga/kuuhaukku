@@ -4,7 +4,7 @@ menu: kuvat
 permalink: kuuhaukun-koiria-2
 otsikko: Kuuhaukun koiria II
 linkin-pikkukuva: linkki-omat-2.jpg
-linkin-teksti: Kuvia omista koirista ja Kuuhaukun kasvateista
+linkin-teksti: Kuvia Kuuhaukun koirista ja Troika's jalostuskoirista
 
 kuvat:
     - omat2/fakiiri.jpg : V-90 Kuuhaukun Fakiiri (Kuuhaukun Florestan x SF & S MVA, PMV-86 Roady Ratiritiralla)
