@@ -33,6 +33,6 @@ kuvat:
     - pennut/ppa-24.jpg : 
     - pennut/ppa-25.jpg : Pikku Jade, Troika's Pow-Wow
     - pennut/ppa-26.jpg : Torkkuja ottamassa
-    - pennut/flora-pennut.jpg :
-    - pennut/reppuli-ja-havu.jpg
+    - pennut/flora-pennut.jpg : Suloiset pullapossuprinsessat (SF MVA K. Velhon Loitsu x K. Aina Sinun Aurora), K. Tui tui tunturivuokka, Lutunen lumikello ja Soma siperianlilja
+    - pennut/reppuli-ja-havu.jpg: Vauhtia riittää Havulla ja Reppulilla (Naava x Vito, 50% TS, 50 % Husky)
 ---
