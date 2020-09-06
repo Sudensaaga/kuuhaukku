@@ -129,6 +129,9 @@ ja omistajat ovat olleet niihin todella tyytyväisiä. Ne kaikki täyttävät si
 ovat todella hyviä ja sulavasti rakentuneita koiria (kuten myöhäisemmänkin pentueen pennut). Uskon jopa, että tasaisimpia pentueitani 
 kokonaisuutena, vaikka geenipohja onkin eriytynyt jo kauan aikaa sitten.
 
+![tsukotkan rekikoira Utu](images/tsukotkan-rekikoira/utu-seisoo.jpg)
+*Utu, Kuuhaukun Zero Below, 1,5-vuotiaana. Utussa näkyy Kuuhaukun upea narttulinja*
+
 <center>
 <img src="images/tsukotkan-rekikoira/tsuktsihusky-desna.jpg"><br>
 Tsukotkan rekikoira-old line® -siperianhusky risteytys Desna, Kuuhaukun Siberia Express, vuoden 
