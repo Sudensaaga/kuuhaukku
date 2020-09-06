@@ -11,13 +11,13 @@ sivukuvat:
     - tsukotkan-rekikoira/tundra-katsoo.jpg : Kuuhaukun Tundran Tarina, 75% tsukotkan rekikoira, 25% siperianhusky
 
 ---
-**Kiinnostukseni näihin koiriin** alkoi jo yli 15 vuotta sitten, kun näin kuvia siperialaisista 
+Kiinnostukseni näihin koiriin alkoi jo yli 15 vuotta sitten, kun näin kuvia siperialaisista 
 tämän päivän työkoirista. Havahduin huomaamaan kaksi asiaa: ensiksikin että olin ollut 
 oikeassa ylläpitäessäni tällaista old line-tyyppiä, koska näkemäni koirien kuvat muistuttivat 
 old lineja, ja toiseksi että tulevaisuudessa en edelleenkään halunnut sekoittaa old linea kilpa- 
 tai showkoiriin vaan old linen tulevaisuus geenipoolin laajentamiseksi oli tsukotkan rekikoirissa.
 
-Rotu on peräisin Venäjältä ja se on **siperianhuskyn kantarotu**.Chukotka Sleddogille tehty 
+Rotu on peräisin Venäjältä ja se on siperianhuskyn kantarotu. Chukotka Sleddogille tehty 
 toistaiseksi epävirallinen rotumääritelmä muistuttaa paljolti siperianhuskyn rotustandardia. 
 Rotuna se on tietenkin vielä vakiintumaton eli ulkonäössä on eroavaisuuksia, vaikka rodussa 
 löytyy paljon aivan siperianhuskyn rotumääritelmän täyttäviä yksilöitä. Niiden ominaisuuksissa on 
@@ -32,7 +32,7 @@ Tsukotkan rekikoiria Siperiassa. Kuva Elena Potseluevan kokoelma
 <br>
 
 Kaksi tsuktsi-uroskoiraani, Polar Star Yiska ja Vito, ovat jonkin verran erityyppisiä. Vito 
-on kompaktimpi, tiiviimpi ja massiivisempi, sen rakenne **muistuttaa paljon Kuuhaukun koiria**. 
+on kompaktimpi, tiiviimpi ja massiivisempi, sen rakenne muistuttaa paljon Kuuhaukun koiria. 
 Tosin sen pää on pienehkö, muistuttaen erehdyttävästi Maurin tuoman Alaskan´s of Anadyr-koiran, 
 Victorin, päätä. Sen luonne on 100 % vanhaa old linea; todella vilkas ja aktiivinen, huumorintajuinen, 
 koko ajan jotain menossa. Vito on todella avoin ja rakastaa kaikkia. Väriltään se on mustavalkoinen 
@@ -53,7 +53,7 @@ kauniit siniset silmät. Yiska on totisempi luonteeltaan, mutta onhan sillä vas
 nyt vanhempana senkin huumori on puhjennut kukkaan ja pelaamme sen kanssa mm. katto-palloa 
 (piste jos saan Yiskan suusta pallon maahan kun se hyppää katolle, sille piste jos en onnistu). 
 Se on valjakkomme johtaja Naavan kanssa ja alkoi johtaa jo vähän yli vuoden ikäisenä isoa valjakkoa. 
-**Koskaan minulla ei ole ollut parempaa johtajaa**, se ei ikinä merkkaile (edes narttujen ollessa 
+Koskaan minulla ei ole ollut parempaa johtajaa, se ei ikinä merkkaile (edes narttujen ollessa 
 juoksussa) ja pitää valjakon vääjäämättä oikealla vetäen aina eteenpäin. Ensimmäistä kertaa 
 myös huomaan, että valjakon johtaja on myös koko lauman johtaja, vaikka urokset ovatkin omissa 
 tarhoissaan. Sen jotenkin vaistoaa ja näkee Yiskan esim. puolustaessa oman lauman reviiriä. Yiska on todella vahva psyykeltään ja rauhallisen cool, sen ei tarvitse 
@@ -67,7 +67,7 @@ kovaa kiinni kaverista, ainakin nämä urokseni, ja toisen osapuolen pitää osa
 Jos vaatteistasi roikkuu jokin pieni nauha tms., siitä kiinnostutaan heti ja hetkessä nauha 
 on napattu suuhun (kuten sudet, joiden kanssa olen ollut tarhassa useita kertoja). Kun nartuilla 
 on kiimat, on koko elämä pois raiteiltaan. Silloin ei syödä yhtään mitään pitkään aikaan ja 
-**sukupuolivietti on niin vahva**, että myös meteli narttujen perään on korviahuumaava. On jotenkin 
+sukupuolivietti on niin vahva, että myös meteli narttujen perään on korviahuumaava. On jotenkin 
 käsittämätöntä, miten niiden äänikin on kovempi (tiedän, voiko olla old line® huskyn ääntä 
 kovempaa, 
 mutta kyllä voi olla), niin kuin kaikki olisi kymmenkertaista näillä työkäytön mukaan jalostetuilla 
@@ -76,7 +76,7 @@ totuttuaan ja huomattuaan, ettei ole mitään hätää, ne yleensä sopeutuvat t
 tietävät miten astutaan, sitä ei varmasti tarvitse miettiä. Samoin todella mallikkaasti sujui 
 synnytys, kun luonani syntyi Elenan pentue, jossa myös Vito oli.
 
-**Näissä koirissa näkyy elinvoima** ja ne ovat olleet terveitä ainakin tähän asti. Myöskään niiden 
+Näissä koirissa näkyy elinvoima ja ne ovat olleet terveitä ainakin tähän asti. Myöskään niiden 
 lähisukulaisilla taaksepäin ei ole ollut terveydellisiä ongelmia. Ne syövät hyvin talvella ja kun 
 ei ole kiimoja, mutta kesällä ne panttaavat eikä ruoka maistu. Se on kuulema tyypillistä tsuktsikoirille, kuten tietty old line®-huskeillekin. 
 Ihmisille ne ovat hyvin käsiteltäviä ja alistuvia, mutta nuoret urokset kyllä ovat tappeluille alttiita 
@@ -102,7 +102,7 @@ Nupun suhteen. Niillä oli aamuin illoin leikkituokio, ja Silva huusi onnesta n�
 sisältä ja päästessään sen kanssa pentutilaan leikkimään, kun Nuppu oli vielä pieni. 
 
 Nämä koirat ovat siitä erikoisia, että näiden kolmen sekä yhden risteytyskoirani Desnan kokemuksen 
-perusteella ne **eivät ole koskaan kyseenalaistaneet ihmisen johtajuutta**, esim. murisseet ihmiselle tai 
+perusteella ne eivät ole koskaan kyseenalaistaneet ihmisen johtajuutta, esim. murisseet ihmiselle tai 
 vastustaneet ihmistä, ei edes murrosiässä. Rekikoirina ne ovat tietenkin todella hyvin motivoituneita ja innokkaita, 
 ainoastaan lämpimillä ilmoilla (kesällä) olen huomannut Viton ravaavan nopeammin lähdön jälkeen (siis 
 lopettavan laukan aiemmin). Uskon, että sillä on helpommin kuuma johtuen turkin rakenteesta (lue myöhempi 
@@ -110,11 +110,11 @@ juttu tsukotkan rekikoirien turkin rakenteesta). Talvella pakkasella tätä seik
 käsiteltäviä ja ystävällisiä koiria ihmiselle, ja ne tottelevat hyvin ollessaan vapaana. Vito on myös eittämättä 
 kennelin ilopilleri ylipositiivisella elämänasenteellaan.
 
-**Ensimmäiset risteytyspennut**
+Ensimmäiset risteytyspennut
 
 Ajatukseni ja haaveeni siis oli nähtyäni old linen näköisiä koiria Siperiassa otetuissa kuvissa, että 
 saisin joskus näitä koiria old linen geenipooliin. Tiesin, että old linet tulisivat loppumaan ja että en 
-koskaan sekoittaisi kilpa- tai showlinjaan koiriani, joten **risteytys alkuperäisiin kantarodun työkoiriin** 
+koskaan sekoittaisi kilpa- tai showlinjaan koiriani, joten risteytys alkuperäisiin kantarodun työkoiriin 
 oli ainoa vaihtoehto.
 
 Ajattelin, että ensimmäinen risteytys tapahtuisi parin vuoden kuluttua, mutta luonto toimi toisin. Vito 
@@ -122,8 +122,8 @@ nimittäin astui nartun viikkoa ennen juoksun alkamista, ja siittiöt elivät si
 näytti toteen ultra, pentujen syntymäaika ja DNA-testit. Eläinlääkäri ei uskonut, että minkään koiran 
 sperma olisi näin elinvoimaista, mutta niin vain on. Olin suunnitellut ko. yhdistelmää, muttei vielä,
 koska Tobi-Macin tuonti Kanadasta toi lisäaikaa rekisteröidä koiria SKL:oon. Pentuja syntyi kuusi kappaletta 
-ja omistajat ovat olleet niihin todella tyytyväisiä. Ne **kaikki täyttävät siperianhuskyn rotumääritelmän ja 
-ovat todella hyviä ja sulavasti rakentuneita** koiria (kuten myöhäisemmänkin pentueen pennut). Uskon jopa, että tasaisimpia pentueitani 
+ja omistajat ovat olleet niihin todella tyytyväisiä. Ne kaikki täyttävät siperianhuskyn rotumääritelmän ja 
+ovat todella hyviä ja sulavasti rakentuneita koiria (kuten myöhäisemmänkin pentueen pennut). Uskon jopa, että tasaisimpia pentueitani 
 kokonaisuutena, vaikka geenipohja onkin eriytynyt jo kauan aikaa sitten.
 
 <center>
@@ -134,11 +134,11 @@ ikäisenä</center>
 
 Mainittakoon mielenkiintoisena seikkana, että Polar Star kennelin kantakoiran ja joidenkin alkuperäisten 
 Tsukotkalla olevien rekikoirien perimää on tutkinut ruotsalainen tutkija (tohtori, geeniteknologia ja evoluutiobiologia) 
-pitkälle taaksepäin ja todennut, että se on **puhdas ja täysin erillään** muista roduista - siis 
+pitkälle taaksepäin ja todennut, että se on puhdas ja täysin erillään muista roduista - siis 
 säilynyt muuttumattomana ja alkuperäisenä ilman nykykoiriin risteyttämisiä.
 
-Tämä työ on vasta alussa, mutta se on todella mielenkiintoista. **Päämääränä on tietenkin säilyttää old linen 
-arktinen ulkomuoto, luonne ja työskentelyominaisuudet**, mitkä eivät säilyisi show- tai kilpalinja-risteytyksissä. 
+Tämä työ on vasta alussa, mutta se on todella mielenkiintoista. Päämääränä on tietenkin säilyttää old linen 
+arktinen ulkomuoto, luonne ja työskentelyominaisuudet, mitkä eivät säilyisi show- tai kilpalinja-risteytyksissä. 
 Yksi tärkeimpiä asioita on terveys, mikä usein heikkenee pitkälle samaa rotua (linjaa) jalostettaessa. Kaikki 
 old line® -siperianhuskyt, old linen jalostukseen käytettävät tsukotkanrekikoirat sekä niiden 
 risteytykset ovat 
@@ -147,7 +147,7 @@ tasavertaisesti old line® tavaramerkin alla, millä suojataan edelleen harkittu
 <h4>Kasvatinomistajieni kokemuksia old line® -siperianhusky ja tsukotkan 
 rekikoira-risteytyksistä</h4>
 
-**Tundra**-poika tuli meille kasvattajalta 15 viikon ikäisenä. Asumme Tampereen keskustassa, 
+Tundra-poika tuli meille kasvattajalta 15 viikon ikäisenä. Asumme Tampereen keskustassa, 
 eikä meillä ole ollut aiemmin koiraa, joten osasimme odottaa vaikeuksia kun normaalia 
 luovutusikää vanhempi pentu muuttaa maaseutukennelistä kahden koiraummikon luo kerrostaloon. 
 Kasvattajan mukaan Tundra olisi pehmeähkö ja helposti käsiteltävä, joten päätimme yrittää kun 
@@ -175,7 +175,7 @@ ikäisekseen erittäin rauhalliseksi koiraksi. Ulkonäkö kerää myös paljon p
 ohikulkijoilta. Odotamme innolla kaikkia uusia seikkailuja Tundran kanssa. Niitä voi seurata 
 Instagramissa @huskytundra.*
 
-**Lahja** tuli minulle pienenä pentuna, se on 50 % tsuktsikoira ja 50 % old line® -siperianhusky. 
+Lahja tuli minulle pienenä pentuna, se on 50 % tsuktsikoira ja 50 % old line® -siperianhusky. 
 Se on luonteeltaan mitä kiltein koira, aina iloinen ja kaikkien kaveri. Se muistuttaa isäänsä 
 Vitoa sydämellisellä ja iloisella asenteellaan. Jännä asia on, ettei se ole koskaan edes 
 murrosiässä murissut ihmiselle. Se on helppo käsitellä ja antaa tehdä kaikki hoitotoimenpiteet 
@@ -199,10 +199,10 @@ Tsukotka ei ole koskaan ollut vain metsästäjien asuttama, vaan se on ollut my�
 Ihmiset kulkivat edestakaisin, mutta taitavimmat jäivät arktisen ja Tyynen valtameren rannoille, koska he 
 löysivät sieltä rajattomat ruokavarat merinisäkkäisen metsästyksen ansiosta. Tämän takia huono ilmasto ei 
 pakottanut ihmisiä jättämään rikasta aluetta, vaan heidän täytyi parantaa kotejaan ja metsästysvälineitään 
-ja löytää **ainoa mahdollinen keino kuljettaa tavaroita ja ihmisiä**, nimittäin rekikoirat.
+ja löytää ainoa mahdollinen keino kuljettaa tavaroita ja ihmisiä, nimittäin rekikoirat.
 
 Tsukotkan rekikoirat olivat pienimpiä rannikon alkuperäisistä rekikoirista johtuen ankarista ilmasto-olosuhteista. 
-**Talvi kestää 9 kk ja loput 3 kk ei oikeastaan ole kesää** eli lisääntyminen on vaikeaa niissä olosuhteissa. 
+Talvi kestää 9 kk ja loput 3 kk ei oikeastaan ole kesää eli lisääntyminen on vaikeaa niissä olosuhteissa. 
 Suurin osa koirista kastroitiin eikä massakasvatusta ollut. Sisätiloissa matkustajat kertovat 
 nähneensä pentuja viihdyttämässä lapsia ja ne opetettiin tavoille ja sisäsiistiksi. Lisäksi kova 
 ilmasto suojeli geenipoolia, se vain karsi satunnaiset myöhemmät rotupoikkeamat, joista muutamia 
@@ -218,7 +218,7 @@ turkin rakennetta.
 Tutkimus O. F. Chernova, D. D. Vasyukov, and A. B. Savinetsky;
 lyhyesti mukaillen kääntänyt Jaana S.
 
-**Tsukotkan rekikoirilla on omalaatuisensa turkki ja iho**, jotka ovat kehittyneet suojaamaan koiraa kovalta 
+Tsukotkan rekikoirilla on omalaatuisensa turkki ja iho, jotka ovat kehittyneet suojaamaan koiraa kovalta 
 ilmastolta, iho esim. on tiheämpi rakenteeltaan. Eskimopystykorvat, joihin tsukotkan 
 rekikoirat luetaan, ovat lähimpänä muinaisia koiria. Jotkut tutkijat uskovat, että tsukotkan 
 rekikoira erottuu tästä ryhmästä erilaisten ominaisuuksiensa vuoksi, vaikka sillä ei ole 
@@ -228,7 +228,7 @@ Tsukotkan rekikoirien ja fossiilisten koirien päällyskarvat olivat mustat, suo
 erosivat toisistaan 
 muiden monirotuisten tutkittujen rekikoirien osalta suhteessa maksimaaliseen paksuuteen (150 ja 158 µm) 
 ja pituudeltaan. Tutkittaessa Tsukotkan niemimaan monirotuisia rekikoiria niillä ei ollut päällyskarvassa 
-**keihäänkärjen muotoa**, kun sellainen oli havaittavissa T.R:issa ja eräissä fossiilisissa koirissa. 
+keihäänkärjen muotoa, kun sellainen oli havaittavissa T.R:issa ja eräissä fossiilisissa koirissa. 
 Keihäänmuoto näkyi mosaiikkimaisesti joissakin osissa karvan varressa kolmasosaan asti karvan juuren 
 yläpuolelta sekä aluskarvassa. Tsukotkan rekikoirien karvan suuri pyöristynyt verkkokerros 
 muistutti suden karvaa, johtuen 
@@ -236,7 +236,7 @@ ilmeisesti samankaltaisista ympäristöolosuhteista. Päällyskarvan rakenne kau
 viittaa todennäköisesti siihen, että koiria käytettiin rekikoirina, koska pannasta ja valjaista kohdistuva 
 mekaaninen paine oli muuttanut karvan rakennetta.
 
-**Tutkimus Tsukotkan nykyisistä ja fossiilisista rekikoirista paljasti seuraavaa**: karvan rakenne kertoi, että 
+Tutkimus Tsukotkan nykyisistä ja fossiilisista rekikoirista paljasti seuraavaa: karvan rakenne kertoi, että 
 näitä koiria käytettiin rekikoirina sekä että ne molemmat olivat/ovat sopeutuneet vaikeisiin 
 ympäristöolosuhteisiin. Tsukotkan rekikoirien ja fossiilisten koirien turkki muistutti eniten 
 luonnonvaraisten koiraeläinten turkkia erotuksena 
