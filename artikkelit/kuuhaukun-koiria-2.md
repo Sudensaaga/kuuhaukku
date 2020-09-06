@@ -1,10 +1,10 @@
 ---
 layout: kuvagalleria
 menu: kuvat
-permalink: omat-kasvatit-2
-otsikko: Omat kasvatit II
+permalink: kuuhaukun-koiria-2
+otsikko: Kuuhaukun koiria II
 linkin-pikkukuva: linkki-omat-2.jpg
-linkin-teksti: Menneitä ja nykyisiä koiria
+linkin-teksti: Kuvia omista koirista ja Kuuhaukun kasvateista
 
 kuvat:
     - omat2/fakiiri.jpg : V-90 Kuuhaukun Fakiiri (Kuuhaukun Florestan x SF & S MVA, PMV-86 Roady Ratiritiralla)

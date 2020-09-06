@@ -1,10 +1,10 @@
 ---
 layout: kuvagalleria
 menu: kuvat
-permalink: omat-kasvatit-1
-otsikko: Omat kasvatit I
+permalink: kuuhaukun-koiria-1
+otsikko: Kuuhaukun koiria I
 linkin-pikkukuva: linkki-omat-kasvatit.jpg
-linkin-teksti: Menneitä ja nykyisiä koiria
+linkin-teksti: Kuvia omista koirista ja Kuuhaukun kasvateista
 
 kuvat:
     - omat1/baanchi.jpg : Kans & Pohj MVA Norrstar's Baanchi
