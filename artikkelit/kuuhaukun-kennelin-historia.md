@@ -358,7 +358,7 @@ ja validiteettiin, ennen kuin kirjoittaa omien kokemustensa ja jalostusvalintoje
 että tuon henkilön "tilastoluvuissa" ei ole mitään totuutta.
 
 
-**Old linen uudet tuulet**
+**Old linen uudet tuulet**
 
 Tulevaisuutta ajatellen voi sanoa, että jos katsoo koirankasvatusta suurena kokonaisuutena, 
 on myönnettävä, että rodut ovat tulleet tiensä päähän. Joku viisas on joskus sanonut, 
