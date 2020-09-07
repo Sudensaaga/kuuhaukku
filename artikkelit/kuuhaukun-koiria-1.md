@@ -24,14 +24,14 @@ kuvat:
     - kuuhaukun-koiria/jaanadogs.jpg : Retkeilemään menossa koirien kanssa
     - kuuhaukun-koiria/sudensynonyymi.jpg : Kuuhaukun Suden Synonyymi pentuna (Siberkirk's Ancient Times Hero x Kuuhaukun Ruusunmieli)
     - kuuhaukun-koiria/vilkenvits.jpg : Kuuhaukun Vilken Vits  (Siberkirk's Ancient Times Hero x Kuuhaukun Texasin Ruusu)
-    - kuuhaukun-koiria/siberianhuskyloveschildren.jpg : Puhdasrotuinen vanhan linjan ("old line") 
+    - kuuhaukun-koiria/siberianhuskyloveschildren.jpg : Old line -koirat rakastavat lapsia  
     - kuuhaukun-koiria/motherandsonpicnic.jpg : Äiti ja lapsi - Enkeli ja Tojon retkellä
     - kuuhaukun-koiria/summerdriving.jpg : Kesän ajoriemua - Tundra johdossa
     - kuuhaukun-koiria/whichonebetter.jpg : Kumpi meistä on kauniimpi ja suloisempi? Rumba (Kuuhaukun Rakas Riivaaja) sekä Ruuti (Kuuhaukun Räppäävä Ruuti)
     - kuuhaukun-koiria/rumbatakescare.jpg : Rumba, pennuista huolehtiva husky-setä
     - kuuhaukun-koiria/harmonyofnature.jpg : Enkelin kaunis pää ilmentää luonnon harmoniaa
-    - kuuhaukun-koiria/rascal.jpg : Kuuhaukun Ikuinen Rakkaus, Rascal, pelastettiin 9-vuotiaana safarikennelistä takaisin kotikenneliin © 2004 Carol Dixon, Troika kennelistä
-    - kuuhaukun-koiria/rascal2.jpg : Kuuhaukun Ikuinen Rakkaus, Rascal, 3 serttiä (v-85-88, PMV-89 Kuuhaukun Reissumies x EUJV-91 Kuuhaukun Teksasin Ruusu) © 2004 Carol Dixon, Troika kennelistä
+    - kuuhaukun-koiria/rascal.jpg : Kuuhaukun Ikuinen Rakkaus, Rascal, pelastettiin 9-vuotiaana safarikennelistä takaisin kotikenneliin kuva:© 2004 Carol Dixon, Troika kennel
+    - kuuhaukun-koiria/rascal2.jpg : Kuuhaukun Ikuinen Rakkaus, Rascal, 3 serttiä (v-85-88, PMV-89 Kuuhaukun Reissumies x EUJV-91 Kuuhaukun Teksasin Ruusu), Rascal oli jalostuslainassa USAssa kuva:© 2004 Carol Dixon, Troika kennel
     - kuuhaukun-koiria/rascal3.jpg : Rascalin sukulinjoissa on Kreevanka, kuuluisa 1930 -luvun Siperian tuonti, vain kymmenen sukupolven päässä © 2004 Carol Dixon, Troika kennelistä
 ---
 ---
