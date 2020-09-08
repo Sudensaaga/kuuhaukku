@@ -17,7 +17,7 @@ kuvat:
     - kuuhaukun-koiria/tundra-ja-havu.jpg : Havu Tundran hellässä huomassa (tsuktsi-huskeja)
     - kuuhaukun-koiria/aslan1.jpg : Kuuhaukun Leijonan Sydän, upea Aslan
     - kuuhaukun-koiria/jedi-ja-nekku.jpg : Jedi ja Nekku, Kuuhaukun Tarumainen Thor ja Karkki tai kuje 
-    - kuuhaukun-koiria/k6.jpg :Saaga, Kuuhaukun Sudensatu
+    - kuuhaukun-koiria/k6.jpg : Saaga, Kuuhaukun Sudensatu
     - kuuhaukun-koiria/naava.jpg : Naava, Kuuhaukun Älä hukkaa hauku
     - kuuhaukun-koiria/osku-ja-bob.jpg : Osku ja Bob, Kuuhaukun Pikkuprinssi ja Menolippu Siperiaan (50% husky, 50% tsuktsi)
     - kuuhaukun-koiria/tojon-aina.jpg : Ihana Tojon, K. Mustaa samettia, seurustelee Aina-aasin kanssa
