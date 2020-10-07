@@ -312,7 +312,7 @@ sijoitussopimuksen täytyttyä ilman osaomistuksen merkintää SKLoon, vaikka os
 jalostusehdot olikin allekirjoitettu, mitä tämä henkilö sitten rikkoi tehden pentueita pariinkin kertaan, koska 
 kuulema vain "muutti mielensä". En ikinä olisi aavistanut tällaista epärehellistä tilannetta 
 vuosien yhteistyön ja ystävyyden jälkeen. Ihmettelen suuresti, miten pennunottaja voi luottaa 
-kasvattajaan, joka ei itse ole pitänyt omia sopimuksiaan koiran kaupassa. Oli myös yllätys, kun kävi ilmi, että SPY:n alla teetettyjen pentujen sopimukset olivat vaillinaisia eikä siissä ollut edelleen ehtoja, joihin kasvattaja oli sitoutunut tehdessään pennut. 
+kasvattajaan, joka ei itse ole pitänyt omia sopimuksiaan koiran kaupassa. Oli myös yllätys, kun kävi ilmi, että SPY:n alla teetettyjen pentujen sopimukset olivat vaillinaisia eikä niissä ollut edelleen ehtoja, joihin kasvattaja oli sitoutunut tehdessään pennut. 
 
 On ollut myös huomattavissa, että sen jälkeen, kun henkilöt ovat eronneet SPY:stä, he eivät ole enää suorittaneet 
 terveystutkimuksia kuten SPY:n alla toimiessaan, mistä voi päätellä, että SPY ry:n asettamat 
