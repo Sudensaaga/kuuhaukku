@@ -1,9 +1,9 @@
 ---
 layout: artikkeli-kuvapalkilla
 permalink: siperianhusky-rotuinfo
-otsikko: Rotuinfoa siperianhuskysta
+otsikko: Lisää tietoa siperianhuskysta
 
-menu: rotuinfo
+menu: muuta
 linkin-pikkukuva: linkki-huskynaama.jpg
 linkin-teksti: Siperianhusky on Siperian arktisista oloista kotoisin oleva rekikoira
 
