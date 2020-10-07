@@ -2,7 +2,7 @@
 layout: artikkeli
 permalink: kuuhaukun-kennelin-historia
 kolme-esiin-otsikko: Historia 40 v
-kolme-esiin-teksti: '40 vuotta Old line®® siperianhuskyja, Kuuhaukun kennelin 
+kolme-esiin-teksti: '40 vuotta Old line® siperianhuskyja, Kuuhaukun kennelin 
     historiasta: "Elämäni siperianhuskyjen parissa alkoi vuonna 1978 kun hankin..."'
 kolme-esiin-kuva: oldlinehistoria.jpg
 
