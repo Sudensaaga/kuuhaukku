@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   alkuperäisen tyypin ja linjojen säilyttämiseksi.
 baseurl: ""
 url: "https://kuuhaukunkennel.fi"
-twitter_username: jekyllrb
 github_username:  sudensaaga
+author: Jaana Sudensaaga
 
 # Build settings
 theme: minima
