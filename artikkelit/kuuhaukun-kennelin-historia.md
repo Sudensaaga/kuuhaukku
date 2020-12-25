@@ -8,7 +8,7 @@ kolme-esiin-kuva: oldlinehistoria.jpg
 
 title: 40 vuotta old line® -siperianhuskyja -
     Kuuhaukun® kennelin historiaa
-iso-kuva: historia/historiatitle2.jpg
+iso-kuva: historia/historia2.jpg
 iso-kuva-sokeille: Jaana ja valjakko
 ---
 				
