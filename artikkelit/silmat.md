@@ -2,7 +2,7 @@
 layout: kuvagalleria
 menu: kuvat
 permalink: silmat
-otsikko: Siperianhuskyn kiehtovat silmät
+title: Siperianhuskyn kiehtovat silmät
 linkin-pikkukuva: linkki-silmat.jpg
 linkin-teksti:
 

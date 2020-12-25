@@ -1,9 +1,9 @@
 ---
 layout: artikkeli-kuvapalkilla
 permalink: tsukotkan-rekikoira
-otsikko: Tsukotkan rekikoira - "Tsuktsikoira"
+title: Tsukotkan rekikoira - "Tsuktsikoira"
 
-kolme-esiin-otsikko: Tsuktsikoirat
+kolme-esiin-title: Tsuktsikoirat
 kolme-esiin-kuva: tsuktsiicon.jpg
 kolme-esiin-teksti: Tsukotka rekikoirat Kuuhaukun kennelissä ja rotutietoa kantarodusta, alkuperäisistä siperialaisista työkoirista.
 

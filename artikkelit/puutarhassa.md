@@ -2,7 +2,7 @@
 layout: kuvagalleria
 menu: kuvat
 permalink: puutarhassa
-otsikko: Vapaana puutarhassa
+title: Vapaana puutarhassa
 linkin-pikkukuva: linkki-puutarhassa.jpg
 linkin-teksti: Koirat juoksemassa vapaana puutarhassa
 

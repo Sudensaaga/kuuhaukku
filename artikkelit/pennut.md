@@ -2,7 +2,7 @@
 layout: kuvagalleria
 menu: kuvat
 permalink: pennut
-otsikko: Pentu-albumi
+title: Pentu-albumi
 linkin-pikkukuva: linkki-pentukuvia.jpg
 linkin-teksti: Omien ja kasvattien pentukuvia
 

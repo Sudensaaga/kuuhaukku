@@ -2,7 +2,7 @@
 layout: artikkeli-kuvapalkilla
 menu: etusivu
 permalink: siperianhuskyn-pentu
-otsikko: Pentu Kuuhaukun kennelistä
+title: Pentu Kuuhaukun kennelistä
 
 linkin-pikkukuva: linkki-huskynaama.jpg
 linkin-teksti:

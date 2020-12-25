@@ -86,7 +86,7 @@ def write_gallery_file(filename, article_slug, images)
     f << "layout: kuvagalleria\n"
     f << "menu: kuvat\n"
     f << "permalink: #{article_slug}\n"
-    f << "otsikko: #{article_slug}\n"
+    f << "title: #{article_slug}\n"
     f << "linkin-pikkukuva: linkki-huskynaama.jpg\n"
     f << "linkin-teksti:\n"
     f << "\n"

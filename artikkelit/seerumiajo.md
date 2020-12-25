@@ -2,7 +2,7 @@
 layout: artikkeli-kuvapalkilla
 menu: muuta
 permalink: seerumiajo
-otsikko: Seppalan historiallinen seerumiajo
+title: Seppalan historiallinen seerumiajo
 
 linkin-pikkukuva: seerumi-linkki.jpg
 linkin-teksti:

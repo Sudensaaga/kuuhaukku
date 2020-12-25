@@ -2,7 +2,7 @@
 layout: kuvagalleria
 menu: kuvat
 permalink: valjakko2
-otsikko: Valjakkokuvia 2
+title: Valjakkokuvia 2
 linkin-pikkukuva: linkki-valjakkokuvia-2.jpg
 linkin-teksti: Kuuhaukun valjakoita 2000-luvun alussa
 

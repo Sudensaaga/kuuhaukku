@@ -4,7 +4,7 @@ lang: en
 permalink: en/photos
 
 menu: photos
-menu-otsikko: Photo Album
+menu-title: Photo Album
 
 kolme-esiin:
     - "missing"

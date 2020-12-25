@@ -26,12 +26,12 @@
                 {% if page.menu == menu %}
             <li class="nav-item active">
                 <a class="nav-link" href="{{ post.url | relative_url }}" tabindex="-1">{{post
-                    .menu-otsikko}}</a>
+                    .menu-title}}</a>
             </li>
                 {% else %}
             <li class="nav-item">
                 <a class="nav-link" href="{{ post.url | relative_url }}" tabindex="-1">{{post
-                    .menu-otsikko}}</a>
+                    .menu-title}}</a>
             </li>
                 {% endif %}
             {% endif %}

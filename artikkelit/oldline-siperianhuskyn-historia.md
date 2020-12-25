@@ -1,7 +1,7 @@
 ---
 layout: artikkeli-kuvapalkilla
 permalink: oldline-siperianhuskyn-historia
-otsikko: Tietoa ja historiaa old linesta
+title: Tietoa ja historiaa old linesta
 
 linkin-pikkukuva: linkki-oldline.jpg
 linkin-teksti: Lisätietoa vanhan linjan old line® -siperianhuskyista. Old linen historiaa ja
@@ -10,7 +10,7 @@ linkin-teksti: Lisätietoa vanhan linjan old line® -siperianhuskyista. Old line
 menu: rotuinfo
 
 
-kolme-esiin-otsikko: Old line®
+kolme-esiin-title: Old line®
 kolme-esiin-teksti: "Tietoa vanhan linjan old line® -siperianhuskyista. Old linen historiaa ja
  jalostusperiaatteita."
 kolme-esiin-kuva: oldline.jpg

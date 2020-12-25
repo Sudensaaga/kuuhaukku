@@ -2,12 +2,12 @@
 layout: artikkeli-kuvapalkilla
 menu: esittely
 permalink: jalostusfilosofia
-otsikko: Jalostusfilosofia; jalostuksen tavoitteet ja arvot
+title: Jalostusfilosofia; jalostuksen tavoitteet ja arvot
 
 linkin-pikkukuva: linkki-huskynaama.jpg
 linkin-teksti: Jalostuksen tavoitteet ja arvot koirankasvatuksessa
 
-kolme-esiin-otsikko: Jalostusfilosofia
+kolme-esiin-title: Jalostusfilosofia
 kolme-esiin-teksti: "Jalostuksen tavoitteet ja arvot koirankasvatuksessa. Tasapainossa luonne, terveys, käyttöominaisuudet ja oikea arktinen ulkomuoto."
 kolme-esiin-kuva: jalostusicon.jpg
 

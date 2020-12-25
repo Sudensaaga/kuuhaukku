@@ -3,7 +3,7 @@ layout: menusivu
 permalink: rotuinfo
 
 menu: rotuinfo
-menu-otsikko: Rotuinfo
+menu-title: Rotuinfo
 
 kolme-esiin:
         - "oldline-siperianhuskyn-historia"

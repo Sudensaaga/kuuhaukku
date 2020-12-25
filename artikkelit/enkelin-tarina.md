@@ -2,9 +2,9 @@
 layout: artikkeli-kuvapalkilla
 menu: muuta
 permalink: enkelin-tarina
-otsikko: Enkeli - legenda jo eläessään
+title: Enkeli - legenda jo eläessään
 
-kolme-esiin-otsikko: Enkelin tarina
+kolme-esiin-title: Enkelin tarina
 kolme-esiin-teksti: "Jo aivan nuoresta koirasta lähtien se katsoi minua aina 
     merkitsevästi tarhasta, ikään kuin sanoen, että meillä on tietty yhteys."
 kolme-esiin-kuva: enkelibanneri.jpg

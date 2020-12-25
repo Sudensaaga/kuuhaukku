@@ -2,7 +2,7 @@
 layout: artikkeli-kuvapalkilla
 menu: muuta
 permalink: lumi-ja-rascal
-otsikko: Muistokirjoitus Lumille ja Rascalille
+title: Muistokirjoitus Lumille ja Rascalille
 
 linkin-pikkukuva: linkki-lumi-ja-rascal.jpg
 linkin-teksti:

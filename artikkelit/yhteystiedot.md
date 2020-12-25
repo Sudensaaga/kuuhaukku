@@ -2,7 +2,7 @@
 layout: artikkeli-tekstipalkilla
 menu: etusivu
 permalink: yhteystiedot
-otsikko: Yhteystiedot
+title: Yhteystiedot
 
 linkin-pikkukuva: yhteys.jpg
 linkin-teksti: Ota yhteyttä - Pentutiedustelut ja muut asiat

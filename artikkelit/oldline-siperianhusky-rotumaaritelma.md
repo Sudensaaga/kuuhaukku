@@ -2,10 +2,10 @@
 layout: artikkeli
 
 permalink: oldline-siperianhusky-rotumaaritelma
-otsikko: Rotumääritelmä
+title: Rotumääritelmä
 
 menu: rotuinfo
-kolme-esiin-otsikko: Rotumääritelmä
+kolme-esiin-title: Rotumääritelmä
 kolme-esiin-teksti: "Siperianhuskyn ja Tsukotkan rekikoiran rotumääritelmät."
 kolme-esiin-kuva: rotumbanneri.jpg
 ---

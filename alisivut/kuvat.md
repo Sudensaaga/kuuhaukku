@@ -3,7 +3,7 @@ layout: menusivu-vain-linkit
 permalink: kuvat
 
 menu: kuvat
-menu-otsikko: Kuva-albumit
+menu-title: Kuva-albumit
 
 order: 
     - kuuhaukun-koiria-1

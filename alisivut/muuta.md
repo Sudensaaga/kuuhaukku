@@ -3,7 +3,7 @@ layout: menusivu
 permalink: muuta
 
 menu: muuta
-menu-otsikko: Muuta
+menu-title: Muuta
 
 kolme-esiin:
         - "enkelin-tarina"

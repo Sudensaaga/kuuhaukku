@@ -3,7 +3,7 @@ layout: menusivu
 permalink: esittely
 
 menu: esittely
-menu-otsikko: Esittely
+menu-title: Esittely
 
 kolme-esiin:
         - "kuuhaukun-kennelin-esittely"

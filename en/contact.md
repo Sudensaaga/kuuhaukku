@@ -4,9 +4,9 @@ permalink: en/contact
 lang: en
 menu: misc
 
-otsikko: Puppies and contact information
+title: Puppies and contact information
 
-kolme-esiin-otsikko: Puppies & Contact
+kolme-esiin-title: Puppies & Contact
 kolme-esiin-teksti: ""
 kolme-esiin-kuva: page1_img2.jpg
 

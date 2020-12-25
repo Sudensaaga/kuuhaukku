@@ -2,7 +2,7 @@
 layout: kuvagalleria
 menu: kuvat
 permalink: uimassa
-otsikko: Jaanan siperianhuskyja uintiretkellä 2009
+title: Jaanan siperianhuskyja uintiretkellä 2009
 linkin-pikkukuva: linkki-uinti.jpg
 linkin-teksti: Kaikki olivat mukana paitsi 16-vuotias Rascal
 

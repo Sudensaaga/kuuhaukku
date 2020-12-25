@@ -2,7 +2,7 @@
 layout: kuvagalleria
 menu: kuvat
 permalink: valjakko4
-otsikko: Valjakkokuvia 4
+title: Valjakkokuvia 4
 linkin-pikkukuva: linkki-valjakkokuvia-4.jpg
 linkin-teksti: Videokuvaamassa koiravaljakkoa
 

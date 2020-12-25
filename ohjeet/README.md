@@ -16,7 +16,7 @@ Voit tehdä alihakemistoja tarpeen mukaan.
 
 Muuta tiedostosta [_config.yml](https://github.com/kulmala/kuuhaukku/blob/master/_config.yml)
 
-Menujen otsikko ja tunniste asetetaan 
+Menujen title ja tunniste asetetaan 
 hakemiston [alisivut](https://github.com/kulmala/kuuhaukku/tree/master/alisivut) tiedostoissa.
 
 Englanninkieliset menut asetetaan hakemiston

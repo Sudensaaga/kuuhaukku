@@ -2,7 +2,7 @@
 layout: artikkeli-kuvapalkilla
 menu: muuta
 permalink: pipsan-ja-rascalin-tarina
-otsikko: Pipsan ja Rascalin tarina
+title: Pipsan ja Rascalin tarina
 
 linkin-pikkukuva: safariicon.jpg
 linkin-teksti: Safarikennelistä pelastettujen tarina

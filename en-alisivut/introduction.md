@@ -3,7 +3,7 @@ layout: menusivu
 lang: en
 
 menu: intro
-menu-otsikko: Introduction
+menu-title: Introduction
 
 permalink: en/introduction
 

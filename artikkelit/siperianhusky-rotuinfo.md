@@ -1,7 +1,7 @@
 ---
 layout: artikkeli-kuvapalkilla
 permalink: siperianhusky-rotuinfo
-otsikko: Lisää tietoa siperianhuskysta
+title: Lisää tietoa siperianhuskysta
 
 menu: muuta
 linkin-pikkukuva: linkki-huskynaama.jpg

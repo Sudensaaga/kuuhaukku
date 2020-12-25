@@ -4,7 +4,7 @@ lang: en
 permalink: en/misc
 
 menu: misc
-menu-otsikko: Miscellaneous
+menu-title: Miscellaneous
 
         
 ---

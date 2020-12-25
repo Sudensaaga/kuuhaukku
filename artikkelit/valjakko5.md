@@ -2,7 +2,7 @@
 layout: kuvagalleria
 menu: kuvat
 permalink: valjakko5
-otsikko: Valjakkokuvia 5 
+title: Valjakkokuvia 5 
 linkin-pikkukuva: linkki-valjakkokuvia-5.jpg
 linkin-teksti: Valjakko-ajoa arktisessa maisemassa Pusulassa
 

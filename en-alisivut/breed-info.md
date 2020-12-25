@@ -4,7 +4,7 @@ lang: en
 permalink: en/breed-info
 
 menu: breed
-menu-otsikko: Breed Info
+menu-title: Breed Info
 
 kolme-esiin:
         - ""

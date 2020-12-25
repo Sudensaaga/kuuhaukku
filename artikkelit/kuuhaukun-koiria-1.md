@@ -2,7 +2,7 @@
 layout: kuvagalleria
 menu: kuvat
 permalink: kuuhaukun-koiria-1
-otsikko: Kuuhaukun koiria I
+title: Kuuhaukun koiria I
 linkin-pikkukuva: linkki-kuuhaukun-koiria.jpg
 linkin-teksti: Kuvia omista koirista ja Kuuhaukun kasvateista
 

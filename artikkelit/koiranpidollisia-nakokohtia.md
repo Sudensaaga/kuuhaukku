@@ -3,7 +3,7 @@ layout: artikkeli-kuvapalkilla
 menu: muuta
 permalink: koiranpidollisia-kohtia
 
-otsikko: Koiranpidollisia näkökohtia
+title: Koiranpidollisia näkökohtia
 
 linkin-pikkukuva: linkki-hakki.jpg
 linkin-teksti: 

@@ -2,7 +2,7 @@
 layout: kuvagalleria
 menu: kuvat
 permalink: valjakko1
-otsikko: Valjakkokuvia 1
+title: Valjakkokuvia 1
 linkin-pikkukuva: linkki-valjakkokuvia-1.jpg
 linkin-teksti: Viikottaista valjakkoajoa 2000-luvun alussa
 

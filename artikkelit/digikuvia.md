@@ -2,7 +2,7 @@
 layout: kuvagalleria
 menu: kuvat
 permalink: digikuvia
-otsikko: Jaanan digikuvia
+title: Jaanan digikuvia
 linkin-pikkukuva: linkki-jaanan-digikuvia.jpg
 linkin-teksti: Jaanan digipokkarilla ottamia kuvia kennelin arjesta
 

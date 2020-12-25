@@ -2,7 +2,7 @@
 layout: kuvagalleria
 menu: kuvat
 permalink: valjakko6
-otsikko: Valjakkokuvia 6
+title: Valjakkokuvia 6
 linkin-pikkukuva: linkki-valjakkokuvia-6.jpg
 linkin-teksti: Kuuhaukun valjakko-ajoa 2010-luvulla
 
