@@ -4,6 +4,7 @@ permalink: kuvat
 
 menu: kuvat
 menu-title: Kuva-albumit
+title: Kuvia
 
 order: 
     - kuuhaukun-koiria-1
