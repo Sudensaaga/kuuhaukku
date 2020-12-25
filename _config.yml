@@ -30,6 +30,7 @@ github_username:  sudensaaga
 theme: minima
 plugins:
 - jekyll-sitemap
+- jekyll-seo-tag
 
 permalink: /:title
 
