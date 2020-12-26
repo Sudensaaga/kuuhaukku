@@ -86,8 +86,8 @@ tarkoituksenmukainen ajateltaessa siperianhuskyn työtehtävää.<br>
 
 Maaliskuussa Alaskassa ei ole niin kylmä kuin Siperiassa, pakkasta oli 
 Iditarodin aikaan alle -10 astetta, lukuun ottamatta alkutaipaleen lumimyrskyjä. 
-Koska old line® -kasvilla on kunnollinen, arktinen turkki, Don ajoi koiriaan 
-yöllä, sillä koirien oli helpompi juosta kylmemmässä. Old line®koirat pystyvät 
+Koska old line® koirilla on kunnollinen, arktinen turkki, Don ajoi koiriaan 
+yöllä, sillä koirien oli helpompi juosta kylmemmässä. Old line® koirat pystyvät 
 parhaimpiin suorituksiinsa, kun pakkasta on yli
 -10 astetta. Usein kilpailuolosuhteet suosivatkin liian ohutta, ei-arktista 
 turkkia. Kerran kilpailussa Donin ajaessa paljaalla jäällä hän tunsi itsensä 
@@ -123,7 +123,7 @@ pidempi kuin All Alaska Sweeptakes. 300-500 km:n kilpailumatkat eivät ole
 verrattavissa Iditarodiin vaatimustasoltaan. Silti Yukon Quest on vieläkin 
 vaativampi, sillä reittejä ei ole valmiiksi aurattu ja ajajat ovat reitillä 
 täysin omillaan. Don Smidt haluaakin osallistua seuraavaksi Yukoniin, sillä 
-hänen arvelee, että juuri näissä kovissa olosuhteissa old line® -siperianhuskyt 
+hänen arvelee, että juuri näissä kovissa olosuhteissa old line® siperianhuskyt 
 ovat parhaimmillaan. Don on huomannut, että old linet ovat erinomaisia 
 käyttökoiria, ja hänellä on vaimonsa Denisen kanssa toivomuksena saada 
 jalostuskanta kokonaan old lineksi.<br>

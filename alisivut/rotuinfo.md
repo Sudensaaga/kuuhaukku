@@ -6,7 +6,7 @@ menu: rotuinfo
 menu-title: Rotuinfo
 
 kolme-esiin:
-        - "oldline-siperianhuskyn-historia"
-        - "oldline-siperianhusky-rotumaaritelma"
-        - "koiravaljakon-vetoharjoittelu"
+        - "siperianhusky/historia"
+        - "siperianhusky/rotumaaritelma"
+        - "siperianhusky/vetoharjoittelu"
 ---

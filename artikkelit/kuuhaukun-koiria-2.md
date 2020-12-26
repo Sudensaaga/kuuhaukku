@@ -15,7 +15,7 @@ kuvat:
     - kuuhaukun-koiria/resu2.jpg : V-85-88, PMV-89 Kuuhaukun Reissumies, 5 serttiä (Äijänsuon Natsehre X SF & S MVA, PMV-86 Roady Ratiritiralla)
     - kuuhaukun-koiria/tantintin3.jpg : Tintti (SF MVA Äijänsuon Tantintin) - pieni jääkarhu
     - kuuhaukun-koiria/speck.jpg : Int CH Troika´s Autumn Haze (Speck) vanhana herrana
-    - kuuhaukun-koiria/yeti.jpg : Int CH Troika´s Trail Blazer (Yeti), toinen kuuluisan Troika´s old line®kennelin omista jalostusuroksista
+    - kuuhaukun-koiria/yeti.jpg : Int CH Troika´s Trail Blazer (Yeti), toinen kuuluisan Troika´s old line® kennelin omista jalostusuroksista
     - kuuhaukun-koiria/cola.jpg : Troika´s the Lone Star, Cola, mainio työkoira, joka jo vuoden ikäisenä johti parissa 10 koiran valjakkoa
     - kuuhaukun-koiria/pepsi.jpg : Troika´s Nordic Gift, Pepsi, 10 kk, ihastuttava lahja Troika´s kennelistä
     - kuuhaukun-koiria/jade.jpg : Troika´s Pow-Wow, Jade 6 kk; hurmaava nuorimies

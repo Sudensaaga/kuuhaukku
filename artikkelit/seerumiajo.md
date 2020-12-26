@@ -41,7 +41,8 @@ toisesta suunnasta. Kun Seppala neljännen päivän loppupuolella saapui valjakk
 Shaktolikin kylään, hän tapasi seerumia kuljettavan valjakon. Seppala oli matkannut 
 vain 272 km lähdettyään Nomesta, vaikka hän oli suunnitellut kulkevansa 480 km. Siispä 
 hän melkein ohitti toisen ajajan vain tervehtien tätä, kun ajaja sanoi: "Seerumi - 
-käänny takaisin" (kerrotaan, että nämä old line®-koiren esi-isät jatkoivat matkaa vielä kilometrin ennen kuin Seppala sai ne seisahtumaan). Vaikka se merkitsikin, että Seppalan matka oli lyhyempi takaisin, 
+käänny takaisin" (kerrotaan, että nämä old line® koirien esi-isät jatkoivat matkaa vielä 
+kilometrin ennen kuin Seppala sai ne seisahtumaan). Vaikka se merkitsikin, että Seppalan matka oli lyhyempi takaisin, 
 hän oli juuri kulkenut pahimmat 67 km Norton Soundin jään yli Isaac´s Pointista Shaktolikiin ja 
 nyt yön tullessa ja kovan tuulen puhaltaessa kasvoja vasten, Seppalan täytyi matkata koiriensa 
 kanssa uudelleen jään yli. Matkan sillä osuudella oli jatkuva vaara, että jää murtuisi ja 

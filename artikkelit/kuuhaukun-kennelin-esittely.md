@@ -2,7 +2,7 @@
 layout: artikkeli-kuvapalkilla
 menu: esittely
 
-permalink: kuuhaukun-kennelin-esittely
+permalink: kennel-esittely
 title: Kuuhaukun kennel 1979
 
 kolme-esiin-title: Yleistä
@@ -24,8 +24,8 @@ sivukuvat :
 Kuuhaukun kennel on perustettu vuonna 1979. Kennelin kantanarttu on **SE & FIN MVA 
 V-86 Roady Ratiritiralla**, johon perustuu 9 sukupolvea Kuuhaukun kasvatustyötä. Sen isä **FIN MVA Äijänsuon Tantintin** 
 polveutuu suoraan amerikkalaisista 
-old line® -siperianhuskyista. Isoisä emän puolelta on **CH Monadnock´s Papik of Mekusak** 
-(*CH Monadnock´s Akela x Monadnock´s Natasha; Monadnock kennel oli yksi merkittävimpiä old line®-kenneleitä*), 
+old line® siperianhuskyista. Isoisä emän puolelta on **CH Monadnock´s Papik of Mekusak** 
+(*CH Monadnock´s Akela x Monadnock´s Natasha; Monadnock kennel oli yksi merkittävimpiä old line® kenneleitä*), 
 1969 perustetun suomalaisen Mekusak kennelin tuonti USAsta. 
 FIN MVA Äijänsuon Tantintinin isoisä äidin puolelta oli tuonti **C.I.B & POHJ MVA Norrstar´s Baanchi**, joka 
 esiintyy monta kertaa Kuuhaukun kennelin sukutauluissa. Baanchi työskenteli vielä kymmenvuotiaana valjakossa, 
@@ -40,8 +40,7 @@ sukutauluja. Se oli johtajakoira kuten monet sen jälkeläiset.
 &nbsp;&nbsp;&nbsp;<img src="images/kennelin-esittely/siperianhuskyn-pentu-vilkenvits.jpg"><br>
 Kantanarttu SE & FIN MVA V-86 Roady Ratiritiralla ja tyypillinen Kuuhaukun pentu</center><br>
 
-Katso Kuuhaukun kantanartun [SE & FIN MVA V-86 Roady Ratiritirallan sukutaulu](https://pawvillage
-.com/pedigree/pedigree.asp?ID=74N2KEGN11)
+Katso Kuuhaukun kantanartun [SE & FIN MVA V-86 Roady Ratiritirallan sukutaulu](http://ingrus.net/husky/en/details/35722)
 , jossa on edustettuna ihanteellisia vanhoja linjoja. Tämä on Kuuhaukun kennelin perusta.
 					
 Kuuhaukun kennelin koirat työskentelevät valjakossa joka viikko (ei kilpailuitarkoituksessa), ja 
@@ -100,7 +99,7 @@ Nordic Iconin SD** (Kuuhaukun Ikuisen Rakkauden jälkeläinen).
 <br>
 
 Näyttelymenestys tai -menestymättömyys ei kuitenkaan ole koskaan vaikuttanut Kuuhaukun kennelin jalostusvalintoihin.
-***Päämääränä on aina ollut oikeantyyppinen, samanlaisena, alkuperäisenä vaalittu old line® -koir -siperianhusky-rekikoira, ei näyttelymuodin
+***Päämääränä on aina ollut oikeantyyppinen, samanlaisena, alkuperäisenä vaalittu old line® siperianhusky - rekikoira, ei näyttelymuodin
 mukainen ihanne.*** Tämän vuoksi old lineja ei enää ole näyttelyissä nähty paljoakaan show linjan rantauduttua Suomeen 2000-luvun
 alkupuolella, vaikka välillä menestystäkin on tullut. Mm. kesällä 2016 valioitui **FIN MVA EE MVA Kuuhaukun Velhon Loitsu**, joka
 on myös johtajakoira.
@@ -108,7 +107,7 @@ on myös johtajakoira.
 
 <h4>KAKSI KASVATTAJAA</h4>
 
-Jaana on kasvattanut old line® -siperianhuskyja Kuuhaukun kennelissä yli 39 vuoden ajan. 
+Jaana on kasvattanut old line® siperianhuskyja Kuuhaukun kennelissä yli 39 vuoden ajan. 
 Ensimmäinen siperianhusky Ready syntyi vuonna 1978 ja Kuuhaukun ensimmäinen pentue vuonna 1980. 
 Lauralla on ollut Kuuhaukun siperianhuskyja vuodesta 2001, ja hän on toiminut aktiivisesti 
 old linen parissa siitä asti kasvatustyön painottuessa kuitenkin toistaiseksi Jaanan kenneliin. 
@@ -125,7 +124,7 @@ lämmitetty pentula, missä pennut syntyvät ja kasvavat. Pentutiloissa on sisä
 joiden avulla pentujen ja emän vointia voidaan seurata myös etänä. Tarhojen ulkopuolella 
 koirat saavat liikuntaa isossa juoksutarhassa metsän siimeksessä. Koirat vetävät valjakossa 
 viikoittain, kesäkuumalla käydään myös uintiretkellä koko lauman kanssa. Tottelevaisuuttakin 
-harjoitellaan, old line®huskyt ovat tosi oppivaisia. Koiramme ovat rakkaita perheenjäseniä, 
+harjoitellaan, old line® huskyt ovat tosi oppivaisia. Koiramme ovat rakkaita perheenjäseniä, 
 eikä niitä kuin ainoastaan hyvin harvoissa poikkeustapauksissa anneta eteenpäin aikuisina. 
 Vanhimmat Jaanalla olleet koirat ovat eläneet 17-vuotiaiksi.
 

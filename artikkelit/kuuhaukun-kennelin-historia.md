@@ -1,12 +1,12 @@
 ---
 layout: artikkeli
-permalink: kuuhaukun-kennelin-historia
+permalink: historia
 kolme-esiin-title: Historia 40 v
 kolme-esiin-teksti: '40 vuotta Old line® siperianhuskyja, Kuuhaukun kennelin 
     historiasta: "Elämäni siperianhuskyjen parissa alkoi vuonna 1978 kun hankin..."'
 kolme-esiin-kuva: oldlinehistoria.jpg
 
-title: 40 vuotta old line® -siperianhuskyja -
+title: 40 vuotta old line® siperianhuskyja -
     Kuuhaukun® kennelin historiaa
 iso-kuva: historia/historia2.jpg
 iso-kuva-sokeille: Jaana ja valjakko
@@ -134,7 +134,7 @@ Icon 12-vuotiaana
 <br>
 
 Rakkaasta Enkelistäni onkin oma tarinansa näillä sivuilla eikä se muutoin esittelyä 
-kaipaa. Enkeli jää elämään old line® -koirien kaikkein hohdokkaimpana ja muistettavimpana yksilönä.
+kaipaa. Enkeli jää elämään old line® koirien kaikkein hohdokkaimpana ja muistettavimpana yksilönä.
 
 
 <h2>Rekeilymuistoja</h2>
@@ -182,7 +182,8 @@ jota nimitän "Nimbukseksi" Harry Potterin luudan mukaan. Eräs muisto siitä on
 ajoin kovalla pakkasella huippuajassa tavallisen lenkkimme, ja reki vain lensi 
 eteenpäin koirien laukatessa koko matkan, kun kerrankin oli old linelle tarpeeksi kylmä sää.
 
-SPY-86 ry on old line® -rekikoirien oma yhdistys, jonka päämääränä on old line®-koirien säilyttäminen. Sen talvitapahtumat ovat olleet mukavia tilaisuuksia ajaa yhdessä usealla 
+SPY-86 ry on old line® rekikoirien oma yhdistys, jonka päämääränä on old line® koirien 
+säilyttäminen. Sen talvitapahtumat ovat olleet mukavia tilaisuuksia ajaa yhdessä usealla 
 valjakolla. Hienointa on se, ettei kilpailla "veren maku suussa", vaan vain nautitaan 
 ja annetaan koirien nauttia. Vahinko, että talvet ovat vuosi vuodelta vähälumisempia. 
 On todella sydäntä elähdyttävää nähdä, miten koirat nauttivat juostessaan lumella 
@@ -362,16 +363,16 @@ että tuon henkilön "tilastoluvuissa" ei ole mitään totuutta.
 
 Tulevaisuutta ajatellen voi sanoa, että jos katsoo koirankasvatusta suurena kokonaisuutena, 
 on myönnettävä, että rodut ovat tulleet tiensä päähän. Joku viisas on joskus sanonut, 
-että rotu kestää 20 sukupolvea ja sitten tulevat ongelmat esiin. Vaikka old line® -koirat 
+että rotu kestää 20 sukupolvea ja sitten tulevat ongelmat esiin. Vaikka old line® koirat 
 ovatkin prosentuaalisesti vielä terveitä, ei olemassa olevia käytettyjä sukulinjoja voi juurikaan enää 
 risteyttää suoraan toisiinsa, vaan tarvitaan selkeätä, tervettä ulkosiitosta elinvoimaa antamaan. 
 Siihen ei riitä olemassa olevat rotukoirat (showlinja), joilla on populaation nähden suppeahko 
 geenipohja ja sairauksia sekä väärä tyyppi. Tähän vastauksena olen suunnitellut jo miltei 20 vuoden ajan kantarodun 
-(Tsukotkan rekikoira) risteyttämistä old line® -siperianhuskeihin. Minulla on ollut onni olla 
+(Tsukotkan rekikoira) risteyttämistä old line® siperianhuskeihin. Minulla on ollut onni olla 
 yhteistyössä chukotka sleddog-kasvattajaan ja koiratutkijaan, joka on käynyt useasti 
 Siperiassa, ja Kuuhaukun kennelissäni vaikuttaa nyt kolme tällaista koiraa, sekä yksi old linen 
 ja tsukotkanrekikoiran risteytys. Myös Laura Kinnusella, joka siis on nyt myös Kuuhaukun 
 kennelnimessä, on yksi ko. kantarotukoira. Olen innoissani tästä uudesta suunnasta elinvoiman, 
 terveyden ja käyttöominaisuuksien säilyttämiseksi ja parantamiseksi. Ei varmaankaan tarvitse 
 edes mainita, että nämä koirat muistuttavat suuresti käytökseltään ja ominaisuuksiltaan 
-old line® -siperianhuskeja, etenkin alkuperäisiä ensimmäisiä Kuuhaukku-koiriani.
+old line® siperianhuskeja, etenkin alkuperäisiä ensimmäisiä Kuuhaukku-koiriani.

@@ -14,19 +14,14 @@ iso-kuva: yhteyssivu.jpg
 iso-kuva-sokeille: Happy huskies
 
 tekstipalkki: <h1>Contact</h1><br><br>
-    <b>Kennel founder, main breeder:</b><br>
+    <b>Kennel founder:</b><br>
     Jaana Sudensaaga
     <br>
     <span>Puhelin&#58; </span> +358 44 313 0028<br>
-    <span>E-mail&#58; </span><a href="mailto#58;">jaanas@kolumbus.fi</a><br>
+    <span>E-mail&#58; </span>jaanas@kolumbus.fi<br>
     <span>Osoite&#58; </span> Häntälä, Somero
     <br><br>
-    <b>Sidekick breeder:</b><br>
-    Laura Kinnunen<br>
-    <span>Puhelin&#58; </span> +358 50 4326549<br>
-    <span>E-mail&#58; </span><a href="mailto#58;">laurakinnunen@hotmail.fi</a><br>
-    <span>Osoite&#58; </span> Kiihtelysvaara, Joensuu
-    <br><br>
+
 
 ---
 
@@ -41,5 +36,5 @@ We are happy to give you further information of the breed and the dogs!
 You are welcome to visit and see the dogs yourself.
 
 								
-**Kuuhaukun Kennel - 40 years of experience on growing old line®siberian huskies.**
+**Kuuhaukun Kennel - 40 years of experience on growing Old Line® Siberian Huskies.**
 

@@ -1,7 +1,7 @@
 ---
 layout: artikkeli-kuvapalkilla
 
-permalink: koiravaljakon-vetoharjoittelu
+permalink: siperianhusky/vetoharjoittelu
 title: Rekiajelun 7 kultaista sääntöä
 
 linkin-pikkukuva: rekiajelun-saannot-linkki.jpg
@@ -20,7 +20,7 @@ sivukuvat :
     - vanha-siperianhuskyvaljakko.jpg : Old line® valjakko-ajoa 70-luvulla
 ---
 <center>
-<img src="images/koiravaljakko-tunturi.jpg"/>
+<img src="/images/koiravaljakko-tunturi.jpg"/>
 </center><br>
 
 **1. Ei liikaa liian nopeasti**  

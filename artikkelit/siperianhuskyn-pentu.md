@@ -1,7 +1,7 @@
 ---
 layout: artikkeli-kuvapalkilla
 menu: etusivu
-permalink: siperianhuskyn-pentu
+permalink: siperianhusky-pennut
 title: Pentu Kuuhaukun kennelistä
 
 linkin-pikkukuva: linkki-huskynaama.jpg

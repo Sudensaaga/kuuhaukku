@@ -90,7 +90,8 @@ synnytys, kun luonani syntyi Elenan pentue, jossa myös Vito oli.
 
 Näissä koirissa näkyy elinvoima ja ne ovat olleet terveitä ainakin tähän asti. Myöskään niiden 
 lähisukulaisilla taaksepäin ei ole ollut terveydellisiä ongelmia. Ne syövät hyvin talvella ja kun 
-ei ole kiimoja, mutta kesällä ne panttaavat eikä ruoka maistu. Se on kuulema tyypillistä tsuktsikoirille, kuten tietty old line®-huskeillekin. 
+ei ole kiimoja, mutta kesällä ne panttaavat eikä ruoka maistu. Se on kuulema tyypillistä 
+tsuktsikoirille, kuten tietty old line® huskeillekin. 
 Ihmisille ne ovat hyvin käsiteltäviä ja alistuvia, mutta nuoret urokset kyllä ovat tappeluille alttiita 
 voimakkaan hormonitoiminnan vuoksi. Tosin siinä asiassa on selvä logiikka: vanhat ja steriloidut urokset 
 eivät ole uhka, ja niiden suhteen nuoret urokseni ovat järkevästi täysin välinpitämättömiä. Tsuktsikoirat, 
@@ -140,7 +141,8 @@ näkyy Kuuhaukun upea narttulinja*
 
 
 ![tsukotkan rekikoira Desna](images/tsukotkan-rekikoira/tsuktsihusky-desna.jpg)
-*Utun emä, Tsukotkan rekikoira-old line® -siperianhusky risteytys Desna, Kuuhaukun Siberia Express, vuoden ikäisenä*
+*Utun emä, Tsukotkan rekikoira ja old line® siperianhusky risteytys Desna, Kuuhaukun Siberia 
+Express, vuoden ikäisenä*
 
 Mainittakoon mielenkiintoisena seikkana, että Polar Star kennelin kantakoiran ja joidenkin alkuperäisten 
 Tsukotkalla olevien rekikoirien perimää on tutkinut ruotsalainen tutkija (tohtori, geeniteknologia ja evoluutiobiologia) 
@@ -150,11 +152,11 @@ säilynyt muuttumattomana ja alkuperäisenä ilman nykykoiriin risteyttämisiä.
 Tämä työ on vasta alussa, mutta se on todella mielenkiintoista. Päämääränä on tietenkin säilyttää old linen 
 arktinen ulkomuoto, luonne ja työskentelyominaisuudet, mitkä eivät säilyisi show- tai kilpalinja-risteytyksissä. 
 Yksi tärkeimpiä asioita on terveys, mikä usein heikkenee pitkälle samaa rotua (linjaa) jalostettaessa. Kaikki 
-old line® -siperianhuskyt, old linen jalostukseen käytettävät tsukotkanrekikoirat sekä niiden 
+old line® siperianhuskyt, old linen jalostukseen käytettävät tsukotkanrekikoirat sekä niiden 
 risteytykset ovat 
 tasavertaisesti old line® tavaramerkin alla, millä suojataan edelleen harkittu eteenpäin-jalostus.
 
-#### Kasvatinomistajieni kokemuksia old line® -siperianhusky ja tsukotkan rekikoira-risteytyksistä
+#### Kasvatinomistajieni kokemuksia old line® siperianhusky ja tsukotkan rekikoira-risteytyksistä
 
 ##### Old Line husky-Tšukotkan rekikoira yhdistelmä
 
@@ -208,7 +210,7 @@ Instagramissa @huskytundra.*
 
 ##### Lahja
 
-Lahja tuli minulle pienenä pentuna, se on 50 % tsuktsikoira ja 50 % old line® -siperianhusky. 
+Lahja tuli minulle pienenä pentuna, se on 50 % tsuktsikoira ja 50 % old line® siperianhusky. 
 Se on luonteeltaan mitä kiltein koira, aina iloinen ja kaikkien kaveri. Se muistuttaa isäänsä 
 Vitoa sydämellisellä ja iloisella asenteellaan. Jännä asia on, ettei se ole koskaan edes 
 murrosiässä murissut ihmiselle. Se on helppo käsitellä ja antaa tehdä kaikki hoitotoimenpiteet 
@@ -243,7 +245,7 @@ kerrotaan nähdyksi myöhemmällä ajalla.
 
 Siksi myös koirakanta pysyi täysin erillään muista kannoista jopa pitkälle 1950-luvulle asti. Tämä selittää 
 edellä mainituissa perimätesteissäkin saadut tulokset tsukotkan rekikoiran perimästä. Mielenkiintoista olisi 
-saada vastaavat tutkimukset old line® -siperianhuskeista, myös koskien seuraavassa jutussa olevaa 
+saada vastaavat tutkimukset old line® siperianhuskeista, myös koskien seuraavassa jutussa olevaa 
 turkin rakennetta.
 
 <h4>Tsuktsikoiran turkin rakenteesta ja alkuperästä</h4>

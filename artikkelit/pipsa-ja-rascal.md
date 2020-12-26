@@ -24,7 +24,7 @@ kanssa samassa tarhassa, ei tapellut, mutta hierarkiassa alempana, eikä
 tuntunut oikein viihtyvän).
 
 Ensimmäinen merkki siitä, että asiat eivät olleet niin kuin piti, oli kun
-sain tammikuussa Saksasta eräältä old line® -kasvattajalta tietää, että 
+sain tammikuussa Saksasta eräältä old line® kasvattajalta tietää, että 
 kasvattini, ensimmäinen henkilön minulta ottama uroshusky oli Ranskassa (sen oli vienyt 
 toinen kasvatinomistajani kotiinsa Ranskaan kertomatta minulle; safariyrittäjä oli sanonut ettei 
 minulle saa sanoa, Luoja tietää miksi, ja sopimukset koiran uudelleen sijoittamisesta 
@@ -45,7 +45,7 @@ Toinen oli jo myyty etelään (hoikkana ja jalkahaavaisena), mutta toinen oli vi
 ymmärsi hyvin tilanteeni ja hätäni kasvattini puolesta ja lupasi, että saan tehdä 
 sopimuksen, vaikka kauppahinta tietenkin meni hänelle. Hän oli myös 
 halunnut, että koira pääsee "kaltaistensa" joukkoon, soittoja oli nimittäin tullut 
-valtavasti (niin haluttuja ovat old line® -koirat!) ja hän oli luvannut koiran 
+valtavasti (niin haluttuja ovat old line® koirat!) ja hän oli luvannut koiran 
 paikkaan, jossa oli toinenkin kasvattini. Sain vielä yhteystiedot toisesta koirasta, 
 Aslakista, ja soitin sen uuteen kotiin varmistaakseni, että paikka tuntui asialliselta.
 

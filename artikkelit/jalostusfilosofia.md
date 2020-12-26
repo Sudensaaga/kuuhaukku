@@ -26,9 +26,9 @@ luonteesta**. Kennelin linjat perustuvat amerikkalaisiin vanhan linjan koiriin (
 ja se on jo 40 vuoden ajan toiminut yhtäjaksoisesti ollen vanhin ja pitkään ainoa old line®
 kennel Pohjoismaissa. **Kuuhaukun kennel on ollut hyvin tiukka jalostustyössään** eikä ole 
 sekoittanut kevyen linjan kilpakoiria eikä "modern show line" - eli näyttelylinjoja 
-kantaansa. Näin old line® -koirien alkuperäinen ja tyypillinen ulkomuoto ja ominaisuudet 
+kantaansa. Näin old line® koirien alkuperäinen ja tyypillinen ulkomuoto ja ominaisuudet 
 ovat säilyneet. **Tarkoituksena onkin "vanhan säilyttäminen"** eikä tyypin muuttaminen eri 
-ihanteiden ja päämäärien mukaan. Old line®-koirissa sukupolvenvaihdos on ollut hidasta. Jalostukseen on käytetty vain silmätarkastettuja, nyttemmin myös lonkkakuvattuja 
+ihanteiden ja päämäärien mukaan. Old line® koirissa sukupolvenvaihdos on ollut hidasta. Jalostukseen on käytetty vain silmätarkastettuja, nyttemmin myös lonkkakuvattuja 
 ja kliinisesti terveitä koiria. Kennelin koirat 
 työskentelevät valjakossa joka viikko, ja niiden työskentelyominaisuudet huomioidaan 
 jalostustyössä.
@@ -74,7 +74,7 @@ Kuuhaukun kasvatit ovat myös mainioita kotikoiria. Ideaalisin paikka old linell
 perhe, joka tarjoaa koiralle toimintaa, -ei kilpa-, safari- tai näyttelykennelit, joissa koira 
 yleensä on vain väline.
 
-**Arktinen ulkomuoto tekee siperianhuskyn/old line®-rekikoiran**. Ihanteellinen siperianhusky vastaa 
+**Arktinen ulkomuoto tekee siperianhuskyn/old line® rekikoiran**. Ihanteellinen siperianhusky vastaa 
 tyypiltään alkuperäisiä tsuktsikoiria, joita tuotiin Alaskaan 1900-luvun alussa ja joihin 
 siperianhusky-rotu perustuu. Keskikokoinen siperianhusky on rakenteeltaan "vaatimaton peruskoira", 
 jolla on kohtuulliset kulmaukset ja mittasuhteet. Sen kompakti rakenne on arktisen käytännöllinen; 
@@ -85,7 +85,8 @@ yksilöt ovat aina rotumääritelmän sisällä ja tunnistettavissa nimenomaan a
 ne poikkeavat tyypiltään merkittävästi esim. kilpalinjan koirista ja alaskanhuskysta.
 
 **Näiden seikkojen lisäksi hyvä koiranpito** on sijoitettaessa kasvatteja uusiin koteihin 
-erityisen tärkeää. Old line®-koirat eivät ole kasvattajalle harrastusvälineitä vaan rakkaita perheenjäseniä. 
+erityisen tärkeää. Old line® koirat eivät ole kasvattajalle harrastusvälineitä vaan rakkaita 
+perheenjäseniä. 
 Pentujen tulevat kodit valitaan tarkasti eikä pentuja myydä kaikille; koiran tulee saada 
 elää rakastettuna omassa perheessään. Koiramäärästä riippumatta jokaisen kasvatin on saatava 
 yksilökohtaista hoitoa ja huomiota. Koiria ei tavallisesti anneta vanhempana eteenpäin, 
