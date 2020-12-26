@@ -50,10 +50,10 @@ nav:
   en:
     language: "English"
     menus:
-    - "en/introduction"
-    - "en/breed-info"
-    - "en/photos"
-    - "en/misc"
+#    - "en/introduction"
+#    - "en/breed-info"
+#    - "en/photos"
+#    - "en/misc"
   fi:
     language: "Finnish"
     menus:
