@@ -74,6 +74,7 @@ footer h3, footer a {
   margin-left: 15%;
 
 }
+
 .carousel-indicators li {
   width: 10px;
   height: 10px;
@@ -136,11 +137,11 @@ footer h3, footer a {
 }
 
 .kuvagalleria img {
-    width: 100%;
-    border: 1px solid #dee2e6;
-    border-radius: 0.25rem;
-    padding: 0.25rem;
-    background-color: #fff;
+  width: 100%;
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+  padding: 0.25rem;
+  background-color: #fff;
 }
 
 .artikkelin-iso-kuva {
@@ -169,6 +170,13 @@ footer h3, footer a {
 
 .vasen-kuvapalkki img {
   width: 100%;
+}
+
+.centered-image {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 div.post-content > p > img {
