@@ -1,7 +1,7 @@
 ---
 layout: artikkeli-kuvapalkilla
 permalink: siperianhuskytietoa
-title: Tietoa ja historiaa old linesta
+title: Tietoa ja historiaa Old line® siperianhuskysta
 
 linkin-pikkukuva: linkki-oldline.jpg
 linkin-teksti: Lisätietoa vanhan linjan old line® siperianhuskyista. Old linen historiaa ja
@@ -10,7 +10,7 @@ linkin-teksti: Lisätietoa vanhan linjan old line® siperianhuskyista. Old linen
 menu: rotuinfo
 
 
-kolme-esiin-title: Old line®
+kolme-esiin-title: Old line® siperianhusky
 kolme-esiin-teksti: "Tietoa vanhan linjan old line® siperianhuskyista. Old linen historiaa ja
  jalostusperiaatteita."
 kolme-esiin-kuva: oldline.jpg
@@ -144,6 +144,10 @@ on käytetty ja yritetty astuttaa SPY:n jalostustoimikunnan hylkäämiä koiria,
 tietoa koirien terveystuloksista, ei ole noudatettu SPY:n terveystutkimusvaatimuksia eikä 
 ole kerrottu yhdistelmien riskeistä pennunostajille.
 
+<br>
+<img class="centered-image" src="{{ site.url }}/images/oldline_logo.png"
+                     alt="Old Line Logo"
+                     width="200">
 
 
 

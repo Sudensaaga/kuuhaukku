@@ -4,7 +4,7 @@ permalink: kuvat
 
 menu: kuvat
 menu-title: Kuva-albumit
-title: Kuvia
+title: Kuvia siperianhuskyista
 
 order: 
     - kuuhaukun-koiria-1

@@ -4,6 +4,7 @@ permalink: muuta
 
 menu: muuta
 menu-title: Muuta
+title: Tarinoita ja muistokirjoituksia siperianhuskyista
 
 kolme-esiin:
         - "enkelin-tarina"
