@@ -1,7 +1,7 @@
 ---
 layout: artikkeli-kuvapalkilla
 
-permalink: siperianhusky/vetoharjoittelu
+permalink: vetoharjoittelu
 title: Rekiajelun 7 kultaista sääntöä
 
 linkin-pikkukuva: rekiajelun-saannot-linkki.jpg

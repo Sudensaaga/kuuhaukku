@@ -28,7 +28,7 @@ dia-4-teksti: Kasvatit ovat tunnettuja hyvästä luonteestaan.
     
 kolme-esiin:
     - "historia"
-    - "siperianhusky/historia"
+    - "siperianhuskytietoa"
     - "tsukotkan-rekikoira"
 ---
 

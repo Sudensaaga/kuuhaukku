@@ -1,7 +1,7 @@
 ---
 layout: artikkeli-kuvapalkilla
 menu: esittely
-permalink: siperianhusky/tuonnit-ja-viennit
+permalink: tuonnit-ja-viennit
 title: Kuuhaukun tuonnit ja viennit 
 
 kolme-esiin-title: Tuonnit ja viennit

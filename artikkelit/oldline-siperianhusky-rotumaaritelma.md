@@ -1,7 +1,7 @@
 ---
 layout: artikkeli
 
-permalink: siperianhusky/rotumaaritelma
+permalink: rotumaaritelma
 title: Rotumääritelmä
 
 menu: rotuinfo

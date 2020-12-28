@@ -8,5 +8,5 @@ menu-title: Esittely
 kolme-esiin:
         - "kennel-esittely"
         - "jalostusfilosofia"
-        - "siperianhusky/tuonnit-ja-viennit"
+        - "tuonnit-ja-viennit"
 ---

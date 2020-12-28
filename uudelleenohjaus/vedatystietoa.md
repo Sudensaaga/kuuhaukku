@@ -2,5 +2,5 @@
 layout: uudelleenohjaus
 sitemap: false
 permalink: Suomi/vedatystietoa.htm
-redirect_to:  /siperianhusky/vetoharjoittelu
+redirect_to:  /vetoharjoittelu
 ---
