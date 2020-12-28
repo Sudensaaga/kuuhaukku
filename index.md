@@ -30,5 +30,12 @@ kolme-esiin:
     - "historia"
     - "siperianhuskytietoa"
     - "tsukotkan-rekikoira"
+    
+title: Siperianhusky pentuja 2021 
 ---
 
+
+![Siperianhusky pennut 2020 pentueesta](images/siperianhusky-pennut-2020.png)
+*Kuvassa lokakuun 2020 pentuja*
+
+Kevään 2021 pentueista on nyt mahdollista varata pentuja.  

@@ -1,6 +1,6 @@
 ---
 layout: artikkeli-kuvapalkilla
-menu: etusivu
+menu: esittely
 permalink: siperianhusky-pennut
 title: Pentu Kuuhaukun kennelistä
 
