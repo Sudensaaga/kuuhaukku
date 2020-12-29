@@ -109,8 +109,12 @@ footer h3, footer a {
     color: white;
   }
 
-  @include media-breakpoint-down(lg) {
+  @include media-breakpoint-only(lg) {
     font-size: 2.3rem;
+  }
+
+  @include media-breakpoint-down(md) {
+    font-size: 2rem;
   }
 }
 
@@ -124,6 +128,7 @@ footer h3, footer a {
   @include media-breakpoint-down(md) {
     color: white;
   }
+
 }
 
 .slide-p {
@@ -132,6 +137,14 @@ footer h3, footer a {
 
   @include media-breakpoint-down(md) {
     color: white;
+  }
+
+  @include media-breakpoint-only(lg) {
+    font-size: 0.8rem;
+  }
+
+  @include media-breakpoint-down(md) {
+    font-size: 0.65rem;
   }
 }
 
