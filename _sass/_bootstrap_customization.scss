@@ -1,10 +1,9 @@
 // This is the place to place Bootstrap-related CSS customizations.
-// As example you can start by importing the _bootswatch.scss file from one of the
-// theme provided by https://bootswatch.com .
-//@import url('https://fonts.googleapis.com/css?family=Muli:300,400,600,700');
-// These are serif text fonts
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700');
 @import url('https://fonts.googleapis.com/css?family=Lora:400,700');
+@import "bootstrap/functions";
+@import "bootstrap/variables";
+@import "bootstrap/breakpoints";
 
 p {
   font-family: 'Lora', serif;
@@ -56,14 +55,28 @@ footer h3, footer a {
 }
 
 .dia-img {
-  width: 620px;
-  height: 379px;
+  height: 384px;
+
+  @include media-breakpoint-down(lg) {
+    height: 256px;
+  }
+
+
 }
 
 .nav-item {
   font-size: 1.2rem;
   margin-left: 1em;
   margin-right: 1em;
+
+  @include media-breakpoint-down(lg) {
+    font-size: 1rem;
+  }
+
+  @include media-breakpoint-only(md) {
+    margin-left: 0.4em;
+    margin-right: 0.4em;
+  }
 }
 
 .carousel {
@@ -73,6 +86,9 @@ footer h3, footer a {
 .carousel-indicators {
   margin-left: 15%;
 
+  @include media-breakpoint-only(lg) {
+    margin-left: 20%;
+  }
 }
 
 .carousel-indicators li {
@@ -88,6 +104,14 @@ footer h3, footer a {
   text-transform: uppercase;
   transition: .5s ease-in-out;
   letter-spacing: -0.02em;
+
+  @include media-breakpoint-down(md) {
+    color: white;
+  }
+
+  @include media-breakpoint-down(lg) {
+    font-size: 2.3rem;
+  }
 }
 
 .slide-h2 small {
@@ -96,11 +120,31 @@ footer h3, footer a {
   text-transform: uppercase;
   transition: .5s ease-in-out;
   letter-spacing: -0.02em;
+
+  @include media-breakpoint-down(md) {
+    color: white;
+  }
 }
 
 .slide-p {
   line-height: 1.8em;
   font-size: 0.85rem;
+
+  @include media-breakpoint-down(md) {
+    color: white;
+  }
+}
+
+@include media-breakpoint-down(md) {
+  .carousel-item:after {
+    content:"";
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    background:rgba(0,0,0,0.5);
+  }
 }
 
 .debug {
