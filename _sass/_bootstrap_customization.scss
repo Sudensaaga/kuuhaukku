@@ -116,6 +116,10 @@ footer h3, footer a {
   @include media-breakpoint-down(md) {
     font-size: 2rem;
   }
+
+  @include media-breakpoint-only(xs) {
+    font-size: 1.5rem;
+  }
 }
 
 .slide-h2 small {
@@ -127,6 +131,10 @@ footer h3, footer a {
 
   @include media-breakpoint-down(md) {
     color: white;
+  }
+
+  @include media-breakpoint-only(xs) {
+    font-size: 1rem;
   }
 
 }
@@ -145,6 +153,10 @@ footer h3, footer a {
 
   @include media-breakpoint-down(md) {
     font-size: 0.65rem;
+  }
+
+  @include media-breakpoint-only(xs) {
+    font-size: 0.4rem;
   }
 }
 
