@@ -81,6 +81,10 @@ footer h3, footer a {
 
 .carousel {
   background-color: white;
+  
+  @include media-breakpoint-down(lg) {
+    padding: 1px;
+  }
 }
 
 .carousel-indicators {
@@ -156,7 +160,7 @@ footer h3, footer a {
   }
 
   @include media-breakpoint-only(xs) {
-    font-size: 0.65rem;
+    font-size: 0.7rem;
   }
 }
 
