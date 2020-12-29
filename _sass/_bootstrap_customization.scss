@@ -114,11 +114,11 @@ footer h3, footer a {
   }
 
   @include media-breakpoint-down(md) {
-    font-size: 2rem;
+    font-size: 2.3rem;
   }
 
   @include media-breakpoint-only(xs) {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
   }
 }
 
@@ -134,7 +134,7 @@ footer h3, footer a {
   }
 
   @include media-breakpoint-only(xs) {
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
 
 }
@@ -148,15 +148,15 @@ footer h3, footer a {
   }
 
   @include media-breakpoint-only(lg) {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
   }
 
   @include media-breakpoint-down(md) {
-    font-size: 0.65rem;
+    font-size: 0.8rem;
   }
 
   @include media-breakpoint-only(xs) {
-    font-size: 0.5rem;
+    font-size: 0.65rem;
   }
 }
 
