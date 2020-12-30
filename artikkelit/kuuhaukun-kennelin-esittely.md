@@ -40,7 +40,7 @@ sukutauluja. Se oli johtajakoira kuten monet sen jälkeläiset.
 &nbsp;&nbsp;&nbsp;<img src="images/kennelin-esittely/siperianhuskyn-pentu-vilkenvits.jpg"><br>
 Kantanarttu SE & FIN MVA V-86 Roady Ratiritiralla ja tyypillinen Kuuhaukun pentu</center><br>
 
-Katso Kuuhaukun kantanartun [SE & FIN MVA V-86 Roady Ratiritirallan sukutaulu](http://ingrus.net/husky/en/details/35722)
+Katso Kuuhaukun kantanartun [SE & FIN MVA V-86 Roady Ratiritirallan sukutaulu](https://jalostus.kennelliitto.fi/frmKoira.aspx?RekNo=SF222344/78&R=270)
 , jossa on edustettuna ihanteellisia vanhoja linjoja. Tämä on Kuuhaukun kennelin perusta.
 					
 Kuuhaukun kennelin koirat työskentelevät valjakossa joka viikko (ei kilpailuitarkoituksessa), ja 
@@ -105,20 +105,15 @@ alkupuolella, vaikka välillä menestystäkin on tullut. Mm. kesällä 2016 vali
 on myös johtajakoira.
 
 
-<h4>KAKSI KASVATTAJAA</h4>
+<h4>PITKÄN LINJAN KASVATUSTYÖTÄ</h4>
 
-Jaana on kasvattanut old line® siperianhuskyja Kuuhaukun kennelissä yli 39 vuoden ajan. 
+Jaana on kasvattanut old line® siperianhuskyja Kuuhaukun kennelissä yli 40 vuoden ajan. 
 Ensimmäinen siperianhusky Ready syntyi vuonna 1978 ja Kuuhaukun ensimmäinen pentue vuonna 1980. 
-Lauralla on ollut Kuuhaukun siperianhuskyja vuodesta 2001, ja hän on toiminut aktiivisesti 
-old linen parissa siitä asti kasvatustyön painottuessa kuitenkin toistaiseksi Jaanan kenneliin. 
-Lauralla on ollut kaksi pentuetta, hän ei ole pitänyt 
-kiirettä pentujen teettämisen kanssa vaan on rauhassa halunnut oppia asioita mikä onkin järkevämpää 
-ja kunnioitettavampaa kuin monien aloittelijoiden kova tarve tuottaa useita pentueita lyhyen ajan sisällä. Vuodesta 2013 
-lähtien Kuuhaukun kennelillä on nimellisesti kaksi haltijaa, Jaana Sudensaaga ja Laura Kinnunen.
+
 
 <h4>KOIRAT KOTIOLOISSA</h4>
 
-Somerolla asuvan Jaanan, Kuuhaukun kennelin perustajan ja omistajan, koirat elävät ulkotarhoissa, missä niillä on mahdollisuus 
+Koirat elävät ulkotarhoissa, missä niillä on mahdollisuus 
 päästä sisätiloihin kennelrakennukseen aina halutessaan. Kennelrakennuksessa on myös 
 lämmitetty pentula, missä pennut syntyvät ja kasvavat. Pentutiloissa on sisäkamerat, 
 joiden avulla pentujen ja emän vointia voidaan seurata myös etänä. Tarhojen ulkopuolella 
@@ -128,11 +123,4 @@ harjoitellaan, old line® huskyt ovat tosi oppivaisia. Koiramme ovat rakkaita pe
 eikä niitä kuin ainoastaan hyvin harvoissa poikkeustapauksissa anneta eteenpäin aikuisina. 
 Vanhimmat Jaanalla olleet koirat ovat eläneet 17-vuotiaiksi.
 
-Lauralla on ollut Kiihtelysvaarassa Kuuhaukun koiria kolme sukupolvea, Lauran upea Sero 
-Kuuhaukun Teräs-Teddy  (isä Kuuhaukun Sudensaagalle, Odessalle, joka taas on emä Veronalle, Kuuhaukun Aurora Nocturnelle) 
-jätti meidät vuoden 2016 lopussa 15 ja puolen vuoden ikäisenä. Laura jätti itselleen myös Nunatakin, koiraneidon
-toisesta pentueestaan. Koirat asuvat pääosin ulkotarhassa, vanhinta Odessa-rouvaa lukuunottamatta ja 
-pennuille on oma rauhallinen pentuhuone ja ulkoaitaus. Koirat viettävät päivittäin aikaa myös isossa juoksutarhassa. 
-Laura harrastaa aktiivisesti koiriensa kanssa valjakkoajoa, vaellusta jne. Hänen
-[blogistaan](http://sudensaaga.blogspot.fi) voi seurata 
-hänen koiriensa kuulumisia.
+Lue täältä lisätietoa [pennun hankinnasta Kuuhaukun kennelistä](siperianhusky-pennut).

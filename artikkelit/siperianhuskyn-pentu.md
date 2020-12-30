@@ -18,7 +18,7 @@ Kuuhaukun kennelissä noudatetaan Siperianpystykorvayhdistys-86 ry:n jalostusohj
 että pentueet ovat SPY ry:n jalostustoimikunnan hyväksymiä. Jalostukseen ei käytetä
 alle 2,5-vuotiaita koiria ja jalostuskoirat ovat ohjeen mukaan silmätarkastettuja. Nykyään jalostuskoirat
 myös lonkkakuvataan lähes poikkeuksetta. Kuuhaukun koirien terveys on tärkeää, lue lisää 
-[jalostusfilosofiasta](jalostusfilosofia).
+[jalostusfilosofiasta](jalostusfilosofia). Vuodesta 2013 lähtien Kuuhaukun kennelillä on nimellisesti kaksi haltijaa, Jaana Sudensaaga ja Laura Kinnunen.
 
 Kuuhaukulle on ensisijaisen tärkeää, että kasvatit pääsevät rakastaviin perheisiin,
 joissa ne saavat elää koko elämänsä (jopa 16 vuotta). Siperianhusky tarvitsee aktiivisen
@@ -30,3 +30,5 @@ hyvinkin pitkä ja pentua voi joutua odottamaan. Jos olet kiinnostunut pennusta,
 otathan yhteyttä hyvissä ajoin.
 
 [Kuuhaukun kennelin yhteystiedot](yhteystiedot)
+
+
