@@ -81,7 +81,7 @@ footer h3, footer a {
 
 .carousel {
   background-color: white;
-  
+
   @include media-breakpoint-down(lg) {
     padding: 1px;
   }
