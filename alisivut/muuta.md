@@ -1,6 +1,7 @@
 ---
-layout: menusivu
 permalink: muuta
+
+layout: menusivu
 
 menu: muuta
 menu-title: Muuta

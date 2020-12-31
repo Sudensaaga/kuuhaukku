@@ -1,11 +1,13 @@
 ---
-layout: menusivu
 lang: en
+id: esittely
+permalink: en/introduction
+
+layout: menusivu
 
 menu: intro
 menu-title: Introduction
 
-permalink: en/introduction
 
 kolme-esiin:
         - ""

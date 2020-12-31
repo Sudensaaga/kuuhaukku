@@ -1,6 +1,9 @@
 ---
-layout: menusivu-kuvapalkkiartikkelilla
+
 permalink: esittely
+title: Kuuhaukun kennel 1979
+
+layout: menusivu-kuvapalkkiartikkelilla
 
 menu: esittely
 menu-title: Esittely
@@ -9,8 +12,6 @@ kolme-esiin:
         - "kennel-esittely"
         - "jalostusfilosofia"
         - "tuonnit-ja-viennit"
-
-title: Kuuhaukun kennel 1979
 
 sivukuvat :
     - kennelin-esittely/kuuhaukun-kennelin-nartut.jpg : Merkittävät nartut Lumi, Rusty ja Enkeli
@@ -39,8 +40,8 @@ Alaskasta, Äijänsuon kenneliin. Se vietti loppuelämänsä Kuuhaukun kenneliss
 sukutauluja. Se oli johtajakoira kuten monet sen jälkeläiset.
 
 <center>
-<img src="images/kennelin-esittely/kuuhaukun-kennelin-kantanarttu.jpg">&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;<img src="images/kennelin-esittely/siperianhuskyn-pentu-vilkenvits.jpg"><br>
+<img src="/images/kennelin-esittely/kuuhaukun-kennelin-kantanarttu.jpg">&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;<img src="/images/kennelin-esittely/siperianhuskyn-pentu-vilkenvits.jpg"><br>
 Kantanarttu SE & FIN MVA V-86 Roady Ratiritiralla ja tyypillinen Kuuhaukun pentu</center><br>
 
 Katso Kuuhaukun kantanartun [SE & FIN MVA V-86 Roady Ratiritirallan sukutaulu](https://jalostus.kennelliitto.fi/frmKoira.aspx?RekNo=SF222344/78&R=270)
@@ -58,7 +59,7 @@ jälkeläisiä Itävallassa, Ranskassa ja Saksassa. Itävallassa asuva Rascalin 
 isänä Kuuhaukun Dominoa Lumella, Pepin, pentueelle.
 
 <center>
-<img src="images/kennelin-esittely/koiravaljakko.jpg"><br>
+<img src="/images/kennelin-esittely/koiravaljakko.jpg"><br>
 Mauri Sirén ajamassa Äijänsuon kennelin valjakolla 1970-luvulla
 </center>
 <br>
@@ -73,9 +74,9 @@ Myös **V-01 -02 Kuuhaukun Luminan Uni** on seurannut äitinsä Ikijään Punape
 3 sertiä voittanutta kasvattia (2016). 
 
 <center>
-<img src="images/kennelin-esittely/resu.jpg">
+<img src="/images/kennelin-esittely/resu.jpg">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/kennelin-esittely/dakota2.jpg"><br>
+<img src="/images/kennelin-esittely/dakota2.jpg"><br>
 V-85-88, PMV-89 Kuuhaukun Reissumies (5 sertiä) ja tuonti Fjiorlund's Northern-Tok (8 sertiä).
 </center>
 <br>
@@ -94,9 +95,9 @@ viettämään valiot **INT & USA CH Troika's Bright Coinin** sekä Iditarodin ju
 Nordic Iconin SD** (Kuuhaukun Ikuisen Rakkauden jälkeläinen).
 
 <center>
-<img src="images/kennelin-esittely/lumivoittaja.jpg">
+<img src="/images/kennelin-esittely/lumivoittaja.jpg">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="images/kennelin-esittely/rustyvoittaja.jpg"><br>
+<img src="/images/kennelin-esittely/rustyvoittaja.jpg"><br>
 *V-01 -02 Kuuhaukun Luminan Uni ja sen emä V-97-98 Kuuhaukun Ikijään Punapeto*
 </center>
 <br>

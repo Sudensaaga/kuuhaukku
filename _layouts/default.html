@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 {% assign lang=page.lang | default: site.lang | default: 'fi' %}
+
+<link rel="here later" hreflang="{{ article_in_other_languages[0]}}" href="/"/>
+
+
 <html lang="{{ lang }}">
 
 {%- include html-head.html -%}
