@@ -14,7 +14,7 @@ sivukuvat:
     - enkeli/enkelijuoksee.jpg : Valjakon johdossa 14,5 –vuotiaana
     - enkeli/enkelitalvella.jpg
     - enkeli/enkelipennut.jpg
-    - enkeli/enkeliseisova.PNG
+    - enkeli/enkeliseisova.png
     - enkeli/enkelisisalla.jpg
     - enkeli/nuorienkeli.jpg
     - enkeli/enkelipaapent.png
