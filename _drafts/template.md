@@ -1,10 +1,9 @@
 ---
+permalink: article-url-here
+title: Article Title Here
 
 layout: artikkeli
 menu: 
-
-permalink: article-url-here
-title: Article Title Here
 
 kolme-esiin-title: Title for section highlight
 kolme-esiin-teksti: Description for section highlight
