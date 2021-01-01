@@ -34,7 +34,7 @@ social:
     - https://www.instagram.com/kuuhaukun/
 
 # Build settings
-theme: minima
+theme:
 plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
@@ -78,6 +78,7 @@ nav:
 # their entries' file path in the `include:` list.
 #
 exclude:
+- ohje-instructions/
 - .sass-cache/
 - .idea/
 - .jekyll-cache/
