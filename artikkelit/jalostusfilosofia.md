@@ -94,5 +94,5 @@ vaan myös steriloidut ja vanhat koirat saavat elää Kuuhaukussa vanhuuteen ast
 hoidosta huolehditaan samalla tavalla kuin nuorempien jalostuskoirien.
 
 <center>
-<img src="images/jalostusfilosofia/siperianhusky-toko.jpg"/>
+<img src="../images/jalostusfilosofia/siperianhusky-toko.jpg"/>
 </center><br>

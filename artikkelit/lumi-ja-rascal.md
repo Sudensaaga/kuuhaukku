@@ -15,9 +15,9 @@ sivukuvat:
 ---
 
 <center>
-<img src="images/lumi-ja-rascal/rascal1.jpg">
+<img src="../images/lumi-ja-rascal/rascal1.jpg">
 &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="images/lumi-ja-rascal/lumi.jpg">
+<img src="../images/lumi-ja-rascal/lumi.jpg">
 </center>
 <br>
 
@@ -41,9 +41,9 @@ koirana saavutustensa puolesta koko Suomessa, sillä sen nauravat kasvot ja olem
 rakkaasta Rascalista. 
  
 <center>
-<img src="images/lumi-ja-rascal/luminly.jpg"/>
+<img src="../images/lumi-ja-rascal/luminly.jpg"/>
 &nbsp; &nbsp; &nbsp; &nbsp;
-<img alt="" src="images/lumi-ja-rascal/rascal2.jpg"/>
+<img alt="" src="../images/lumi-ja-rascal/rascal2.jpg"/>
 </center>
 <br> 
  

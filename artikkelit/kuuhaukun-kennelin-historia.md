@@ -101,7 +101,7 @@ asettui aina varovasti maahan pentujen leikitettäväksi. Sen luonne oli 150 %! 
 (K. Mustaa Samettia) jatkoi ansiokkaasti sen lastenvahti-uraa.
 
 <center>
-<img src="images/historia/rumbajas.jpg"/><br>
+<img src="../images/historia/rumbajas.jpg"/><br>
 Rumba rakasti niin ihmis- kuin koiralapsiakin
 </center>
 <br>
@@ -118,9 +118,9 @@ haudattu läheiselle eläinten hautausmaalle. Hautakivessä on pieni kertomus Ha
 elämästä. Sen seurana lepää 13-vuotiaana nukutettu rakastettu Scillani (K. Jääprinsessa) 
 sekä ihana Icon.
  
-<center><img src="images/historia/hauva.jpg"/></center>
+<center><img src="../images/historia/hauva.jpg"/></center>
 <br>
-<center><img src="images/historia/hauvahauta.jpg"/>&nbsp;&nbsp;<img src="images/historia/iconhauta.jpg"/>&nbsp;&nbsp;<img src="images/historia/scillahauta.jpg"/></center>
+<center><img src="../images/historia/hauvahauta.jpg"/>&nbsp;&nbsp;<img src="../images/historia/iconhauta.jpg"/>&nbsp;&nbsp;<img src="../images/historia/scillahauta.jpg"/></center>
 <br>
 
 Icon, menestyksekäs niin näyttely- kuin kilpaurilla (siitä oma juttunsa sivuilla), 
@@ -128,7 +128,7 @@ oli kennelin ilopilleri. Se oli aina iloinen ja leikkisä vanhoilla päivillää
 isänsä Rascalin (Kuuhaukun Ikuinen Rakkaus) hienoa luonnetta.
  
 <center>
-<img src="images/historia/icon-2.jpg"/><br>
+<img src="../images/historia/icon-2.jpg"/><br>
 Icon 12-vuotiaana
 </center>
 <br>
@@ -242,7 +242,7 @@ mönkijällä 8 koiran valjakolla. Kuvausryhmä oli tyytyväinen otoksiinsa ja o
 näytettiin syksyllä sekä Venäjällä että Ukrainassa.
 
 <center>
-<img src="images/historia/kuvausryhma.jpg"/><br>
+<img src="../images/historia/kuvausryhma.jpg"/><br>
 Kuvausryhmää sekä kasvatinomistajani (edessä) ja minä kesäkuussa 2014
 </center>
 <br>
@@ -252,7 +252,7 @@ ollut kuvia Kuuhaukun koirista. Yksi kirja, suomessa tehty Siperianhusky, on teh
 Kuuhaukun koirista kuvien puolesta, tuolloinkin kuvaaja vietti päivän Kuuhaukussa koiria kuvaten.
 
 <center>
-<img src="images/historia/kirjoja.jpg"/><br>
+<img src="../images/historia/kirjoja.jpg"/><br>
 </center>
 <br>
 

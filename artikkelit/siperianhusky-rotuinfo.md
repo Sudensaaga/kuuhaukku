@@ -220,5 +220,5 @@ tutustua eri kasvattajien koiriin ja eri linjoihin, jotta löytää itselleen pa
 periaatteessa rodussa pitäisikin olla jalostuksen tavoitteena vain yksi, alkuperäisten 
 ominaisuuksien "ihannelinja".
 
- 
+
 Alkuperäinen teksti julkaistu Koirafanitus-lehdessä 2011, osittain mukailtu ja muutettu Kuuhaukun kotisivuille

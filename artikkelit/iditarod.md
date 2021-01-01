@@ -19,7 +19,7 @@ sivukuvat:
     - iditarod/Idvaljakkoedestapunkoira-16.jpg
 ---
 <center>
-<img src="images/iditarod/anchoragetonome.jpg"/>
+<img src="../images/iditarod/anchoragetonome.jpg"/>
 </center><br>
 
 Kuuhaukun Ikuisen Rakkauden, "Rascal"-poikani, jälkikasvua juoksi vuoden 2007 
@@ -35,8 +35,8 @@ ovat alaskanhusky- eli monirotuis-valjakoita), toisessa valjakossa on kilpa- ja
 show-linjaisia koiria.<br>
 
 <center>
-<img src="images/iditarod/icon.jpg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img 
-src="images/iditarod/blizzard.jpg"/><br><br>
+<img src="../images/iditarod/icon.jpg"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img 
+src="../images/iditarod/blizzard.jpg"/><br><br>
 </center>
 
 Howln´n Windin valjakossa toteutuu **dual purpose**-jalostusperiaate, missä 

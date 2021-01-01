@@ -36,7 +36,7 @@ kuin **Siberkirk´s Arctic Sunrise** (SERT), puna-valkoinen narttu.
 
 
 <center>
-<img src="/images/tuonnit-ja-viennit/tuonnit1.jpg"><br>
+<img src="../images/tuonnit-ja-viennit/tuonnit1.jpg"><br>
 Kuvassa Fjiordlund´s Northern Tok (8 x SERT) & V-97-98 Kuuhaukun Ikijään Punapeto (8 x SERT)
 </center>
 <br>
@@ -80,9 +80,9 @@ jatkumisen
 tulevaisuudessakin.
 
 <center>
-<img src="/images/tuonnit-ja-viennit/rascalnly.jpg">
+<img src="../images/tuonnit-ja-viennit/rascalnly.jpg">
 &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="/images/tuonnit-ja-viennit/zukotka.jpg"/><br>
+<img src="../images/tuonnit-ja-viennit/zukotka.jpg"/><br>
 Kuvassa vasemmalla Kuuhaukun Ikuinen Rakkaus ja oikealla Siperiasta tuotettu Zukotka
 </center>
 <br>
@@ -104,7 +104,7 @@ Kreevankasta, 1930-luvun Siperian tuonnista USAan, joka on yksi rodun perustajak
 Verratkaapa itse, koirien välillä on aikaa n. 40 vuotta!
 
 <center>
-<img alt="kreevanka" src="/images/kreevanka.jpg"><br>
+<img alt="kreevanka" src="../images/kreevanka.jpg"><br>
 Kreevanka
 </center>
 <br>
@@ -112,9 +112,9 @@ Kreevanka
 <h4>Chukotka sleddog, tsukotkan rekikoira</h4><br>
 
 <center>
-<img src="/images/tuonnit-ja-viennit/tuontiyiska.jpg">
+<img src="../images/tuonnit-ja-viennit/tuontiyiska.jpg">
 &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="/images/tuonnit-ja-viennit/seisovavito.jpg"/><br>
+<img src="../images/tuonnit-ja-viennit/seisovavito.jpg"/><br>
 Tsukotkan rekikoira-urokset Yiska ja Vito
 </center>
 <br>
