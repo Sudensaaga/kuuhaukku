@@ -85,7 +85,7 @@ Teksti jaana S. Mukailtu ote kirjasta Michael Jennings: The new complete Siberia
 
 Kuvat baltostruestory.net
 
-<img src="images/seerumiajo/seppalan-koiria.jpg" /><br>
+<img src="../images/seerumiajo/seppalan-koiria.jpg" /><br>
 Kuvassa yllä vasemmalla Togo. Muut ovat Seppalan koiria, mahdollisesti Togon jälkeläisiä.<br>
 Alkukoirat olivat hyvin vankkaluustoisia ja vahvarintaisia, kuvan muut koirat ovat pentuja <br>
 ja silti jo vankkarakenteisia.
