@@ -1,8 +1,10 @@
 ---
-layout: kuvagalleria
-menu: kuvat
 permalink: carolin
 title: Carol Dixonin kuvia
+description: Carolin kuvia vierailultaan kennelissä
+menu: kuvat
+layout: kuvagalleria
+
 linkin-pikkukuva: linkki-carolin.jpg
 linkin-teksti: Carolin kuvia vierailultaan kennelissämme
 

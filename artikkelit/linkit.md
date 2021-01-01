@@ -1,10 +1,10 @@
 ---
-
-layout: artikkeli
-menu: muuta
-
 permalink: linkit
 title: Linkkejä
+description: Siperianhuskylinkkejä
+
+menu: muuta
+layout: artikkeli
 
 linkin-pikkukuva: linkki-linkkisivulle.png
 linkin-teksti: 

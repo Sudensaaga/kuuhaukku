@@ -1,8 +1,10 @@
 ---
-layout: artikkeli-tekstipalkilla
-menu: etusivu
 permalink: yhteystiedot
 title: Yhteystiedot
+description: Ota yhteyttä - Pentutiedustelut ja muut asiat
+
+menu: etusivu
+layout: artikkeli-tekstipalkilla
 
 linkin-pikkukuva: yhteys.jpg
 linkin-teksti: Ota yhteyttä - Pentutiedustelut ja muut asiat

@@ -1,13 +1,14 @@
 ---
-layout: artikkeli
 permalink: historia
+title: 40 vuotta old line® siperianhuskyja - Kuuhaukun® kennelin historiaa
+description: Elämäni siperianhuskyjen parissa alkoi vuonna 1978 kun hankin...
+
+layout: artikkeli
 kolme-esiin-title: Historia 40 v
 kolme-esiin-teksti: '40 vuotta Old line® siperianhuskyja, Kuuhaukun kennelin 
     historiasta: "Elämäni siperianhuskyjen parissa alkoi vuonna 1978 kun hankin..."'
 kolme-esiin-kuva: oldlinehistoria.jpg
 
-title: 40 vuotta old line® siperianhuskyja -
-    Kuuhaukun® kennelin historiaa
 iso-kuva: historia/historia2.jpg
 iso-kuva-sokeille: Jaana ja valjakko
 ---

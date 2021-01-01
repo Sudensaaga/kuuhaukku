@@ -1,16 +1,16 @@
 ---
 
-layout: artikkeli
-menu: 
-
 permalink: URL-tahan-ei-valilyonteja
 title: Otsikko tähän
+description: Hakukoneille kuvaus sivusta, n. 150 merkkiä max. -TÄRKEÄ-
+menu: 
+layout: artikkeli
 
 linkin-pikkukuva: square-125x125-image-name.jpg
 linkin-teksti: näkyy linkin vieressä
 
 kolme-esiin-title: Otsikko joka näkyy jos artikkeli nostetaan näkyviin kolme-esiin osioon. 
-kolme-esiin-teksti: Teksti kolme-esiin osioon. Voit poistaa nämä 3 riviä jos artikkelia ei esitellä.
+kolme-esiin-teksti: "Teksti kolme-esiin osioon. Voit poistaa nämä 3 riviä jos artikkelia ei esitellä."
 kolme-esiin-kuva: kuva-12:5-suhteessa-tai-240x100px.jpg
 
 sivukuvat:

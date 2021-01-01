@@ -1,10 +1,11 @@
 ---
 lang: en
 permalink: en/misc
-
-layout: menusivu
+description: Miscellaneous husky articles
 
 menu: misc
+layout: menusivu
+
 menu-title: Miscellaneous
 
         

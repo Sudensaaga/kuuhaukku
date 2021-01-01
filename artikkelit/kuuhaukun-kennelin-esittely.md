@@ -1,9 +1,10 @@
 ---
-layout: artikkeli-kuvapalkilla
-menu: esittely
-
 permalink: kennel-esittely
 title: Kuuhaukun kennel 1979
+description: Lyhyesti kennelin historiasta ja toiminnasta. Kuuhaukun koirat käytössä, näytössä ja kotioloissa.
+
+menu: esittely
+layout: artikkeli-kuvapalkilla
 
 kolme-esiin-title: Yleistä
 kolme-esiin-teksti: "Lyhyesti 1979 perustetun kennelin historiasta ja perustietoja kennelin toiminnasta. Kuuhaukun koirat käytössä, näytössä ja kotioloissa."

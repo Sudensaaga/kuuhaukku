@@ -1,8 +1,10 @@
 ---
-layout: artikkeli-kuvapalkilla
-menu: muuta
 permalink: jaden-muistokirjoitus
 title: Jade forever
+description: Muistokirjoitus Kuuhaukun aidolle jalokivelle, Jadelle
+
+menu: muuta
+layout: artikkeli-kuvapalkilla
 
 linkin-pikkukuva: jade/jadeicon.jpg
 linkin-teksti: Muistokirjoitus Kuuhaukun aidolle jalokivelle, Jadelle

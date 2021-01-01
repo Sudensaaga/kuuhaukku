@@ -1,8 +1,11 @@
 ---
-layout: etusivu
+
 permalink: index
+title: Siperianhusky pentuja 2021 
+description: "Kuuhaukun kennel on säilyttänyt old line siperianhuskyn linjan puhtaana 40 vuotta eikä siinä ole kilpa-tai showlinjaa"
 
 menu: etusivu
+layout: etusivu
 
 dia-1-kuva: siperianhuskyvaljakko.jpg
 dia-1-title: Kuuhaukun kennel
@@ -29,9 +32,8 @@ dia-4-teksti: Kasvatit ovat tunnettuja hyvästä luonteestaan.
 kolme-esiin:
     - "historia"
     - "siperianhuskytietoa"
-    - "tsukotkan-rekikoira"
-    
-title: Siperianhusky pentuja 2021 
+    - "tsukotkan-rekikoira" 
+
 ---
 
 

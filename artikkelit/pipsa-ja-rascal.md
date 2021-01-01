@@ -1,8 +1,10 @@
 ---
-layout: artikkeli-kuvapalkilla
-menu: muuta
 permalink: pipsan-ja-rascalin-tarina
 title: Pipsan ja Rascalin tarina
+description: Safarikennelistä pelastettujen huskyjen tarina
+
+menu: muuta
+layout: artikkeli-kuvapalkilla
 
 linkin-pikkukuva: safariicon.jpg
 linkin-teksti: Safarikennelistä pelastettujen tarina

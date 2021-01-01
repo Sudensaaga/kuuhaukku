@@ -1,8 +1,11 @@
 ---
-layout: kuvagalleria
-menu: kuvat
 permalink: pennut
 title: Pentu-albumi
+description: Siperianhuskyn pentukuvia. Omien ja kasvattien pentukuvia.
+
+menu: kuvat
+layout: kuvagalleria
+
 linkin-pikkukuva: linkki-pentukuvia.jpg
 linkin-teksti: Omien ja kasvattien pentukuvia
 

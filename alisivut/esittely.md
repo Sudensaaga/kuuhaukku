@@ -2,6 +2,7 @@
 
 permalink: esittely
 title: Kuuhaukun kennel 1979
+description: Kuuhaukun kennel kasvattaa Old Line siperianhuskyja
 
 layout: menusivu-kuvapalkkiartikkelilla
 

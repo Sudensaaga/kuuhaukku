@@ -1,10 +1,12 @@
 ---
-layout: menusivu-vain-linkit
 permalink: kuvat
+title: Kuvia siperianhuskyista
+description: Kuvia Kuuhaukun kennelin kasvateista
+
+layout: menusivu-vain-linkit
 
 menu: kuvat
 menu-title: Kuva-albumit
-title: Kuvia siperianhuskyista
 
 order: 
     - kuuhaukun-koiria-1

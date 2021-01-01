@@ -1,8 +1,10 @@
 ---
-layout: artikkeli-kuvapalkilla
-menu: esittely
 permalink: siperianhusky-pennut
 title: Pentu Kuuhaukun kennelistä
+description: "Tietosivu pennun ostoa harkitsevalle. Kuuhaukulle on ensisijaisen tärkeää, että kasvatit pääsevät rakastaviin perheisiin"
+
+menu: esittely
+layout: artikkeli-kuvapalkilla
 
 linkin-pikkukuva: linkki-huskynaama.jpg
 linkin-teksti:

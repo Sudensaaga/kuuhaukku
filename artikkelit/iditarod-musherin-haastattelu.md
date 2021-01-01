@@ -1,8 +1,10 @@
 ---
-layout: artikkeli
-menu: muuta
 permalink: iditarod-musherin-haastattelu
 title: Don Smidtin haastattelu / Iditarod 2007
+description: Musherin haastattelu Iditarorista
+
+menu: muuta
+layout: artikkeli
 
 linkin-pikkukuva: don-linkki.jpg
 linkin-teksti:

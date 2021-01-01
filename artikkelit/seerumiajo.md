@@ -1,11 +1,13 @@
 ---
-layout: artikkeli-kuvapalkilla
-menu: muuta
 permalink: seerumiajo
 title: Seppalan historiallinen seerumiajo
+description: Malamuuttisekoitus Togo oli seerumiajon todellinen sankari. Se esiintyy yhä koiriemme sukutauluissa.
+
+menu: muuta
+layout: artikkeli-kuvapalkilla
 
 linkin-pikkukuva: seerumi-linkki.jpg
-linkin-teksti:
+linkin-teksti: Seppalan Togo esiintyy yhä koiriemme sukutauluissa
 
 sivukuvat:
     - seerumiajo/seppala-ja-togo.jpg : Seppala ja johtajakoira Togo

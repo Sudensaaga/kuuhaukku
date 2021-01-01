@@ -1,8 +1,10 @@
 ---
-layout: artikkeli-kuvapalkilla
-menu: muuta
 permalink: enkelin-tarina
 title: Enkeli - legenda jo eläessään
+description: Enkelin muistokirjoitus
+
+menu: muuta
+layout: artikkeli-kuvapalkilla
 
 kolme-esiin-title: Enkelin tarina
 kolme-esiin-teksti: "Jo aivan nuoresta koirasta lähtien se katsoi minua aina 

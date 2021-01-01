@@ -1,8 +1,11 @@
 ---
-layout: kuvagalleria
-menu: kuvat
 permalink: vanhat2
 title: Vanhat kuvat, osa II
+description: Lisää vanhoja kuvia 70-luvulta
+
+menu: kuvat
+layout: kuvagalleria
+
 linkin-pikkukuva: linkki-vanhat2.jpg
 linkin-teksti: Vanhoja kuvia 70-luvulta
 

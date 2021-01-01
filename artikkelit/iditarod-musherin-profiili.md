@@ -1,8 +1,10 @@
 ---
-layout: artikkeli
-menu: muuta
 permalink: iditarod-musherin-profiili
 title: Don Smidtin kisaprofiili / Iditarod 2007
+description: Musherin kisaprofiili - Don Smidt
+
+menu: muuta
+layout: artikkeli
 
 linkin-pikkukuva: don-linkki.jpg
 linkin-teksti:

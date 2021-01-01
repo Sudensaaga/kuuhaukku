@@ -1,8 +1,10 @@
 ---
-layout: artikkeli-kuvapalkilla
-menu: esittely
 permalink: tuonnit-ja-viennit
-title: Kuuhaukun tuonnit ja viennit 
+title: Kuuhaukun tuonnit ja viennit
+description: Laajan geenipoolin ylläpitäminen vaatii ulkomaantuonteja. Tutustu tuonti- ja vientikoiriimme.
+ 
+menu: esittely
+layout: artikkeli-kuvapalkilla
 
 kolme-esiin-title: Tuonnit ja viennit
 kolme-esiin-teksti: "Laajan geenipoolin ylläpitäminen vaatii ulkomaantuonteja. Kuuhaukun koirat 

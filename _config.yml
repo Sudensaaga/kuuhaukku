@@ -24,8 +24,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   alkuperäisen tyypin ja linjojen säilyttämiseksi.
 baseurl: ""
 url: "https://kuuhaukunkennel.fi"
+
 github_username:  sudensaaga
 author: Jaana Sudensaaga
+
+social:
+  name: Kuuhaukun Kennel
+  links:
+    - https://www.instagram.com/kuuhaukun/
 
 # Build settings
 theme: minima
@@ -50,10 +56,10 @@ nav:
   en:
     language: "English"
     menus:
-#    - "en/introduction"
-#    - "en/breed-info"
-#    - "en/photos"
-#    - "en/misc"
+  #    - "en/introduction"
+  #    - "en/breed-info"
+  #    - "en/photos"
+  #    - "en/misc"
   fi:
     language: "Finnish"
     menus:

@@ -1,8 +1,10 @@
 ---
-layout: artikkeli-kuvapalkilla
-menu: muuta
 permalink: monadnock
 title: Muistoja Monadnock-kennelistä
+description: "Janis Church Stadlerin (Of the Midnight Sun) mielenkiintoisia muistiinpanoja Monadnock-kennelistä."
+
+menu: muuta
+layout: artikkeli-kuvapalkilla
 
 kolme-esiin-title: Monadnock
 kolme-esiin-teksti: "Janis Church Stadlerin (Of the Midnight Sun) mielenkiintoisia muistiinpanoja Monadnock-kennelistä."

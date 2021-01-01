@@ -1,9 +1,10 @@
 ---
-layout: artikkeli-kuvapalkilla
-menu: muuta
 permalink: koiranpidollisia-kohtia
-
 title: Koiranpidollisia näkökohtia
+description: Näkemyksiäni hyvästä koiranpidosta
+
+menu: muuta
+layout: artikkeli-kuvapalkilla
 
 linkin-pikkukuva: linkki-hakki.jpg
 linkin-teksti: 

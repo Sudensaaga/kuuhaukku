@@ -1,8 +1,11 @@
 ---
-layout: kuvagalleria
-menu: kuvat
 permalink: puutarhassa
 title: Vapaana puutarhassa
+description: Huskyt juoksemassa vapaana puutarhassa
+
+menu: kuvat
+layout: kuvagalleria
+
 linkin-pikkukuva: linkki-puutarhassa.jpg
 linkin-teksti: Koirat juoksemassa vapaana puutarhassa
 

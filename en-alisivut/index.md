@@ -1,9 +1,10 @@
 ---
-layout: etusivu
 lang: en
 permalink: en/index
+description: Kuuhaukun Kennel® has retained the Old Line® breed for 40 years without mixing with competition or show line huskies
 
 menu: frontpage
+layout: etusivu
 
 dia-1-kuva: siperianhuskyvaljakko.jpg
 dia-1-title: Kuuhaukun Kennel

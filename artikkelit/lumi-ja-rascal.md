@@ -1,8 +1,10 @@
 ---
-layout: artikkeli-kuvapalkilla
-menu: muuta
 permalink: lumi-ja-rascal
 title: Muistokirjoitus Lumille ja Rascalille
+description: Lumi, viimeinen Kuuhaukun suomalaista omaa linjaa oleva old line® koira, lähti luotani 1.7.2010.
+
+menu: muuta
+layout: artikkeli-kuvapalkilla
 
 linkin-pikkukuva: linkki-lumi-ja-rascal.jpg
 linkin-teksti:

@@ -1,6 +1,9 @@
 ---
-layout: menusivu-kuvapalkkiartikkelilla
 permalink: rotuinfo
+title: Old line® siperianhusky
+description: Siperianhuskyn rotuinfo ja historiaa
+
+layout: menusivu-kuvapalkkiartikkelilla
 
 menu: rotuinfo
 menu-title: Rotuinfo
@@ -10,7 +13,6 @@ kolme-esiin:
         - "rotumaaritelma"
         - "vetoharjoittelu"
 
-title: Old line® siperianhusky
 
 linkin-pikkukuva: linkki-oldline.jpg
 linkin-teksti: Lisätietoa vanhan linjan siperianhuskyista. Old linen historiaa ja

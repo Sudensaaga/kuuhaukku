@@ -1,15 +1,13 @@
 ---
-layout: artikkeli-kuvapalkilla
-
 permalink: vetoharjoittelu
 title: Rekiajelun 7 kultaista sääntöä
+description: Kennelin ohjeet vetokoiran kouluttamiseen
+
+menu: rotuinfo
+layout: artikkeli-kuvapalkilla
 
 linkin-pikkukuva: rekiajelun-saannot-linkki.jpg
 linkin-teksti: Kennelin ohjeet vetokoiran kouluttamiseen
-
-
-menu: rotuinfo
-
 
 kolme-esiin-title: Vetoharjoittelu-infoa
 kolme-esiin-teksti: "Kuuhaukun kennelin vetoharjoittelu-info kasvatinomistajille. Rekiajelun 7 kultaista 

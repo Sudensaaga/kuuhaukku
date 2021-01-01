@@ -1,8 +1,10 @@
 ---
-layout: artikkeli-kuvapalkilla
-menu: muuta
 permalink: iditarod
 title: Kuuhaukun jälkikasvua Iditarodissa
+description: Kuuhaukun Ikuisen Rakkauden jälkikasvua juoksi Iditarodissa Howln´n Wind kennelin A-valjakossa.
+
+menu: muuta
+layout: artikkeli-kuvapalkilla
 
 kolme-esiin-title: Iditarod 2007
 kolme-esiin-teksti: "Kuuhaukun Ikuisen Rakkauden, Rascal-poikamme, jälkikasvua juoksi Iditarodissa Howln´n Wind kennelin A-valjakossa."

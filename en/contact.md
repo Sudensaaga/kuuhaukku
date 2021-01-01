@@ -1,10 +1,12 @@
 ---
-layout: artikkeli-tekstipalkilla
-permalink: en/contact
 lang: en
-menu: misc
-
+permalink: en/contact
 title: Puppies and contact information
+description: Puppies are sold only by reservation and there is a queue. To obtain a puppy from our litters, you need to contact the kennel well in advance.
+
+menu: misc
+layout: artikkeli-tekstipalkilla
+
 
 kolme-esiin-title: Puppies & Contact
 kolme-esiin-teksti: ""

@@ -1,8 +1,10 @@
 ---
-layout: artikkeli-kuvapalkilla
-menu: esittely
 permalink: jalostusfilosofia
 title: Jalostusfilosofia; jalostuksen tavoitteet ja arvot
+description: Kuuhaukun kennelin jalostuksen tavoitteet ja arvot koirankasvatuksessa 
+
+menu: esittely
+layout: artikkeli-kuvapalkilla
 
 linkin-pikkukuva: linkki-huskynaama.jpg
 linkin-teksti: Jalostuksen tavoitteet ja arvot koirankasvatuksessa

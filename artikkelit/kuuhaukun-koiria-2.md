@@ -1,8 +1,11 @@
 ---
-layout: kuvagalleria
-menu: kuvat
 permalink: kuuhaukun-koiria-2
 title: Kuuhaukun koiria II
+description: Kuvia Kuuhaukun koirista ja Troika's jalostuskoirista
+
+menu: kuvat
+layout: kuvagalleria
+
 linkin-pikkukuva: linkki-kuuhaukun-koiria-2.jpg
 linkin-teksti: Kuvia Kuuhaukun koirista ja Troika's jalostuskoirista
 

@@ -1,12 +1,13 @@
 ---
 permalink: article-url-here
 title: Article Title Here
-
-layout: artikkeli
+description: max. 150 character description for search engines -IMPORTANT-
 menu: 
+layout: artikkeli
 
 kolme-esiin-title: Title for section highlight
-kolme-esiin-teksti: Description for section highlight
+kolme-esiin-teksti: "Description for section highlight. you can remove these 3 rows if no 
+highligh used"
 kolme-esiin-kuva: image-for-link-in-12:5-ratio-or-240x100px.jpg
 
 ---

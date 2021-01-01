@@ -1,8 +1,11 @@
 ---
-layout: kuvagalleria
-menu: kuvat
 permalink: silmat
 title: Siperianhuskyn kiehtovat silmät
+description: Kuvia siperianhuskyjen silmistä. Sininen silmien väri periytyy napasusilta
+
+menu: kuvat
+layout: kuvagalleria
+
 linkin-pikkukuva: linkki-silmat.jpg
 linkin-teksti:
 
