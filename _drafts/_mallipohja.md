@@ -16,11 +16,11 @@ kolme-esiin-kuva: kuva-12:5-suhteessa-tai-240x100px.jpg
 sivukuvat:
     - seerumiajo/seppala-ja-togo.jpg : Seppala ja johtajakoira Togo
     - seerumiajo/seppalan-balto.jpg : Kuvateksti tähän, ei ":"-merkkiä 
-    - kuvannimi.jpg : Nämä sivukuvat-rivit voi ottaa pois ellei layout ole artikkeli-kuvapalkilla  
+    - kuvannimi.jpg : Sivukuvat-rivit voi ottaa pois ellei layout ole artikkeli-kuvapalkilla  
 
 ---
 
-Kirjoita tähän artikkeli
+Kirjoita tähän osioon. Ykköstason otsikko määritellään ylempänä kohdassa "title:".
 
 ## Tämä on 2-tason otsikko
 
@@ -29,4 +29,4 @@ menee heti verkkoon kun teet commit-operaation.
 
 Tarkista aina commitin jälkeen, että sivu näkyy oikein. Voi kestää 2-3 minuuttia että uudet 
 muutokset päivittyvät sivulle.
- 
+

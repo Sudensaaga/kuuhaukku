@@ -1,4 +1,4 @@
-# Instructions
+# Instructions for adding a new article
 
 
 
