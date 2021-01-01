@@ -6,7 +6,7 @@
 
 ## Click and it's online!
 
-Whenever you save (commit and push) a file to this repository, **it goes to the online website immediately**! Only exception is the [_drafts directory](../_drafts). You can work in that directory until your article is ready.
+Whenever you save (that means commit + push) a file to this repository, **it goes to the online website immediately**! Only exception is the [_drafts directory](../_drafts). You can work in that directory until your article is ready.
 
 **Please commit only finished content that is ready for the world to see**. 
 
