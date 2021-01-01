@@ -8,7 +8,7 @@ This repository is public to encourage Siperianpystykorva-86 ry's people and ken
 
 This is a Jekyll-based website with Bootstrap 4 custom theme. We have implemented several things to help non-technical people update the articles. You can use the code here to learn how to implement:
 
-- Dynamic menus that can be defined in YAML frontmatter and `_config.xml`
+- Dynamic menus that can be defined in YAML frontmatter and _config.xml
 - Menu pages that automatically fill in links to the related articles
 - Order for automatically filled link pages
 - Layouts with image sidebar that can be populated in YAML frontmatter
@@ -18,9 +18,6 @@ This is a Jekyll-based website with Bootstrap 4 custom theme. We have implemente
 If you're here to help, that's wonderful! Please [read these general instructions first](_read-this-first.md).
 
 
-
-## Väliaikaisen sivun osoite
-https://sudensaaga.github.io/kuuhaukku
 
 ## Artikkelien muuttaminen 
 
