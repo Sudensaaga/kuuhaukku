@@ -34,3 +34,5 @@ otathan yhteyttä hyvissä ajoin.
 [Kuuhaukun kennelin yhteystiedot](yhteystiedot)
 
 
+
+<a href="http://siperianhusky.net/" target="_blank" style="color:rgba(0,0,0,0);">siperianhusky</a>
