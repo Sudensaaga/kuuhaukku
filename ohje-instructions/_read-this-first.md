@@ -40,4 +40,4 @@ You do need to learn the Git workflow of Fetching, Pulling, Committing and Pushi
 
 ## You're ready to go
 
-If needed, see the instructions for [adding a new article](add-new-article).
+If needed, see the instructions for [adding a new article](add-new-article.md).
