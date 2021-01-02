@@ -1,7 +1,7 @@
 ---
 
 permalink: index
-title: Kuuhaukun kennel
+title: Siperianhuskyn pentuja 2021
 description: "Kuuhaukun kennel on säilyttänyt old line siperianhuskyn linjan puhtaana 40 vuotta eikä siinä ole kilpa-tai showlinjaa"
 
 menu: etusivu
@@ -39,8 +39,6 @@ kolme-esiin:
 ![Siperianhusky pennut 2020 pentueesta](images/siperianhusky-pennut-2020.png)
 
 *Kuvassa lokakuun 2020 pentuja*
-
-## Siperianhuskyn pentuja 2021 
 
 Vuoden ensimmäinen pentue on jo syntynyt! Kuuhaukun kennel on saattanut maailmaan jo yli 100 pentuetta ja viimeisin syntyi 1.1.2021. 
 
