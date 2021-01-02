@@ -20,20 +20,20 @@ There is a control section in the beginning of the file that defines how the art
 
 Here's the reference of what the variables do
 
-| `permalink:`        | testi                                                        |
-| ------------------- | ------------------------------------------------------------ |
-|                     | ![image-20210102170738060](ohje-images/google-results.png)   |
-| `title:`            | The main H1 title for the article. Also visible in google seach results. |
-| `description:`      |                                                              |
-| `menu:`             |                                                              |
-| `image:`            |                                                              |
-| layout:             |                                                              |
-| linkin-pikkukuva:   |                                                              |
-| linkin-teksti:      |                                                              |
-| kolme-esiin-title:  |                                                              |
-| kolme-esiin-teksti: |                                                              |
-| kolme-esiin-kuva:   |                                                              |
-| sivukuvat:          |                                                              |
+| Variable              | Purpose                                                      |
+| --------------------- | ------------------------------------------------------------ |
+| `permalink:`          | The URL of article, omit the domain name. For example, if the final URL is **siperianhusky.com/siperianhuskyn-historia**, the permalink would be **siperianhuskyn-historia**. Do not use white spaces or special characters like ä or ö here. |
+| `title:`              | ![google results](ohje-images/google-results.png)The main title (H1) for the article. Also visible in Google seach results and in the browser tab leaf |
+| `description:`        | Search engine description for the page. Use relevant keywords and limit to 150 characters. This text shows under the headline in Google search results |
+| `menu:`               |                                                              |
+| `image:`              |                                                              |
+| `layout:`             |                                                              |
+| `linkin-pikkukuva:`   |                                                              |
+| `linkin-teksti:`      |                                                              |
+| `kolme-esiin-title:`  |                                                              |
+| `kolme-esiin-teksti:` |                                                              |
+| `kolme-esiin-kuva:`   |                                                              |
+| `sivukuvat:`          |                                                              |
 
 ## Write the article content
 
