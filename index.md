@@ -40,7 +40,7 @@ kolme-esiin:
 ![Siperianhusky pennut 2020 pentueesta](images/siperianhusky-pennut-2020.png)
 *Kuvassa lokakuun 2020 pentuja*
 
-Kevään 2021 pentueista on nyt mahdollista varata pentuja.  
+Kevään 2021 pentueista on nyt mahdollista varata pentuja.  [Ota yhteyttä!](yhteystiedot)
 
 <a href="http://siperianhusky.net/" target="_blank" style="color:rgba(0,0,0,0);">siperianhusky</a>
 
