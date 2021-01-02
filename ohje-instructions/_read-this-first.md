@@ -2,8 +2,6 @@
 
 # Welcome! Here's what you need to know to contribute
 
-
-
 ## Click and it's online!
 
 Whenever you save (that means commit + push) a file to this repository, **it goes to the online website immediately**! Only exception is the [_drafts directory](../_drafts). You can work in that directory until your article is ready.
@@ -40,6 +38,6 @@ However, If you plan to make a lot of changes, you may want to do that in your o
 
 You do need to learn the Git workflow of Fetching, Pulling, Committing and Pushing, but it's pretty much a single button in the Github Desktop software that you'll need to click.
 
-## Thank you for your help!
+## You're ready to go
 
-Kuuhaukun kennel appreciates your effort.
+If needed, see the instructions for [adding a new article](add-new-article).

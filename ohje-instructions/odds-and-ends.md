@@ -1,3 +1,4 @@
+Uses [Jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md) plugin
 
 ## Artikkelien muuttaminen 
 
@@ -8,6 +9,12 @@ Englanniksi hakemistossa [en](https://github.com/kulmala/kuuhaukku/tree/master/e
 Voit tehdä alihakemistoja tarpeen mukaan.
 
 ## Yläpalkin menut, perustiedot
+
+| `title:` and `description:` are visible in google search | ![image-20210102170738060](ohje-images/google-results.png) |      |
+| -------------------------------------------------------- | ---------------------------------------------------------- | ---- |
+|                                                          |                                                            |      |
+
+
 
 Muuta tiedostosta [_config.yml](https://github.com/kulmala/kuuhaukku/blob/master/_config.yml)
 
