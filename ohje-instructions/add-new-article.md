@@ -16,11 +16,24 @@ If you're writing in english, duplicate [_template.md](../_drafts/_template.md).
 
 ## Fill in the frontmatter
 
-There is a control section in the beginning of the file that defines how the article looks. It's called frontmatter and it looks like this:
+There is a control section in the beginning of the file that defines how the article looks. It's called frontmatter. 
 
-![image-20210102174749337](ohje-images/frontmatter.png)
+Here's the reference of what the variables do
 
-Each row has a variable
+| `permalink:`        | testi                                                        |
+| ------------------- | ------------------------------------------------------------ |
+|                     | ![image-20210102170738060](ohje-images/google-results.png)   |
+| `title:`            | The main H1 title for the article. Also visible in google seach results. |
+| `description:`      |                                                              |
+| `menu:`             |                                                              |
+| `image:`            |                                                              |
+| layout:             |                                                              |
+| linkin-pikkukuva:   |                                                              |
+| linkin-teksti:      |                                                              |
+| kolme-esiin-title:  |                                                              |
+| kolme-esiin-teksti: |                                                              |
+| kolme-esiin-kuva:   |                                                              |
+| sivukuvat:          |                                                              |
 
 ## Write the article content
 

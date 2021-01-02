@@ -40,7 +40,7 @@ kolme-esiin:
 
 *Kuvassa lokakuun 2020 pentuja*
 
-Vuoden ensimmäinen pentue on jo syntynyt! Kuuhaukun kennel on saattanut maailmaan jo yli 100 pentuetta ja viimeisin syntyi 1.1.2021. 
+Vuoden ensimmäinen old line® pentue on jo syntynyt! Kuuhaukun kennel on saattanut maailmaan jo yli 100 old line® pentuetta ja viimeisin syntyi 1.1.2021. 
 
 Poikkeuksellisesti osa näistä pennuista on vielä vapaana. 
 
