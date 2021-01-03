@@ -2,5 +2,5 @@
 layout: uudelleenohjaus
 sitemap: false
 permalink: Suomi/siperianhuskytietoa.htm
-redirect_to:  /siperianhuskytietoa
+redirect_to: https://siperianhusky.com/siperianhuskytietoa
 ---
