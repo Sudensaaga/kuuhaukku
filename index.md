@@ -3,6 +3,6 @@
 layout: uudelleenohjaus
 sitemap: false
 permalink: index
-redirect_to: https://siperianhusky.com
+redirect_to: https://www.siperianhusky.com
 
 ---
